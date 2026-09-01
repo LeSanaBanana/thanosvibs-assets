@@ -1,0 +1,92 @@
+[
+    {
+        "level": "arcade_endgame_sanctuary_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 100,
+                        "mob": 991361201,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy15_legendary",
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 100,
+                        "mob": 991361201,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy15_legendary"
+                    },
+                    {
+                        "point": 100,
+                        "mob": 990361201,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_CorvusGimmick03_S01_legendary",
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 100,
+                        "mob": 193361201,
+                        "group": 95,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_chitauri01_legendary",
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 100,
+                        "mob": 194361201,
+                        "group": 96,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_chitauri02_legendary",
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 100,
+                        "mob": 991361201,
+                        "group": 97,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy15_legendary",
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 402,
+                        "mob": 243361201,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_outrider01_S01_legendary",
+                        "appear": "appear",
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 999,
+                        "mob": 805361201,
+                        "group": 1,
+                        "sight": 23,
+                        "firstattack": 1,
+                        "boss_appear": "skill15",
+                        "keymob": 1,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_CorvusGlaivein03_S01_legendary_02",
+                        "scale": 1.1,
+                        "Trigger": 1,
+                        "boss_cam": "0,0.18,-0.1"
+                    }
+                ]
+            }
+        ]
+    }
+]

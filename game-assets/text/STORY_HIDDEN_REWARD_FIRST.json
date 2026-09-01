@@ -1,0 +1,473 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4191339533329577537
+    },
+    "m_Name": "STORY_HIDDEN_REWARD_FIRST",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "values": [
+        {
+            "rewardId": 10101,
+            "chapter": 1,
+            "step": 1,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 10
+        },
+        {
+            "rewardId": 10201,
+            "chapter": 1,
+            "step": 2,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 20
+        },
+        {
+            "rewardId": 10301,
+            "chapter": 1,
+            "step": 3,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 30
+        },
+        {
+            "rewardId": 10401,
+            "chapter": 1,
+            "step": 4,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 40
+        },
+        {
+            "rewardId": 10501,
+            "chapter": 1,
+            "step": 5,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 50
+        },
+        {
+            "rewardId": 10601,
+            "chapter": 1,
+            "step": 6,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 60
+        },
+        {
+            "rewardId": 10602,
+            "chapter": 1,
+            "step": 6,
+            "order": 2,
+            "rewardType": 300,
+            "rewardValue": 13164,
+            "rewardQty": 1
+        },
+        {
+            "rewardId": 20101,
+            "chapter": 2,
+            "step": 1,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 10
+        },
+        {
+            "rewardId": 20201,
+            "chapter": 2,
+            "step": 2,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 20
+        },
+        {
+            "rewardId": 20301,
+            "chapter": 2,
+            "step": 3,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 30
+        },
+        {
+            "rewardId": 20401,
+            "chapter": 2,
+            "step": 4,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 40
+        },
+        {
+            "rewardId": 20501,
+            "chapter": 2,
+            "step": 5,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 50
+        },
+        {
+            "rewardId": 20601,
+            "chapter": 2,
+            "step": 6,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 60
+        },
+        {
+            "rewardId": 20602,
+            "chapter": 2,
+            "step": 6,
+            "order": 2,
+            "rewardType": 300,
+            "rewardValue": 13164,
+            "rewardQty": 1
+        },
+        {
+            "rewardId": 30101,
+            "chapter": 3,
+            "step": 1,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 10
+        },
+        {
+            "rewardId": 30201,
+            "chapter": 3,
+            "step": 2,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 20
+        },
+        {
+            "rewardId": 30301,
+            "chapter": 3,
+            "step": 3,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 30
+        },
+        {
+            "rewardId": 30401,
+            "chapter": 3,
+            "step": 4,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 40
+        },
+        {
+            "rewardId": 30501,
+            "chapter": 3,
+            "step": 5,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 50
+        },
+        {
+            "rewardId": 30601,
+            "chapter": 3,
+            "step": 6,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 60
+        },
+        {
+            "rewardId": 30602,
+            "chapter": 3,
+            "step": 6,
+            "order": 2,
+            "rewardType": 300,
+            "rewardValue": 13164,
+            "rewardQty": 1
+        },
+        {
+            "rewardId": 40101,
+            "chapter": 4,
+            "step": 1,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 10
+        },
+        {
+            "rewardId": 40201,
+            "chapter": 4,
+            "step": 2,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 20
+        },
+        {
+            "rewardId": 40301,
+            "chapter": 4,
+            "step": 3,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 30
+        },
+        {
+            "rewardId": 40401,
+            "chapter": 4,
+            "step": 4,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 40
+        },
+        {
+            "rewardId": 40501,
+            "chapter": 4,
+            "step": 5,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 50
+        },
+        {
+            "rewardId": 40601,
+            "chapter": 4,
+            "step": 6,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 60
+        },
+        {
+            "rewardId": 40602,
+            "chapter": 4,
+            "step": 6,
+            "order": 2,
+            "rewardType": 300,
+            "rewardValue": 13164,
+            "rewardQty": 1
+        },
+        {
+            "rewardId": 50101,
+            "chapter": 5,
+            "step": 1,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 10
+        },
+        {
+            "rewardId": 50201,
+            "chapter": 5,
+            "step": 2,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 20
+        },
+        {
+            "rewardId": 50301,
+            "chapter": 5,
+            "step": 3,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 30
+        },
+        {
+            "rewardId": 50401,
+            "chapter": 5,
+            "step": 4,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 40
+        },
+        {
+            "rewardId": 50501,
+            "chapter": 5,
+            "step": 5,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 50
+        },
+        {
+            "rewardId": 50601,
+            "chapter": 5,
+            "step": 6,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 60
+        },
+        {
+            "rewardId": 50602,
+            "chapter": 5,
+            "step": 6,
+            "order": 2,
+            "rewardType": 300,
+            "rewardValue": 13164,
+            "rewardQty": 1
+        },
+        {
+            "rewardId": 60101,
+            "chapter": 6,
+            "step": 1,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 10
+        },
+        {
+            "rewardId": 60201,
+            "chapter": 6,
+            "step": 2,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 20
+        },
+        {
+            "rewardId": 60301,
+            "chapter": 6,
+            "step": 3,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 30
+        },
+        {
+            "rewardId": 60401,
+            "chapter": 6,
+            "step": 4,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 40
+        },
+        {
+            "rewardId": 60501,
+            "chapter": 6,
+            "step": 5,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 50
+        },
+        {
+            "rewardId": 60601,
+            "chapter": 6,
+            "step": 6,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 60
+        },
+        {
+            "rewardId": 60602,
+            "chapter": 6,
+            "step": 6,
+            "order": 2,
+            "rewardType": 300,
+            "rewardValue": 13164,
+            "rewardQty": 1
+        },
+        {
+            "rewardId": 70101,
+            "chapter": 7,
+            "step": 1,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 10
+        },
+        {
+            "rewardId": 70201,
+            "chapter": 7,
+            "step": 2,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 20
+        },
+        {
+            "rewardId": 70301,
+            "chapter": 7,
+            "step": 3,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 30
+        },
+        {
+            "rewardId": 70401,
+            "chapter": 7,
+            "step": 4,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 40
+        },
+        {
+            "rewardId": 70501,
+            "chapter": 7,
+            "step": 5,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 50
+        },
+        {
+            "rewardId": 70601,
+            "chapter": 7,
+            "step": 6,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 9601,
+            "rewardQty": 60
+        },
+        {
+            "rewardId": 70602,
+            "chapter": 7,
+            "step": 6,
+            "order": 2,
+            "rewardType": 300,
+            "rewardValue": 13164,
+            "rewardQty": 1
+        }
+    ],
+    "counts": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+    ]
+}

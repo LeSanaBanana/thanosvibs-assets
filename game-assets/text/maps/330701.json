@@ -1,0 +1,78 @@
+[
+    {
+        "level": "raid_apocalypse_in_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 961190201,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_dummy08_ultimate"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330701,
+                        "group": 95,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate05"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330701,
+                        "group": 96,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate06"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330701,
+                        "group": 97,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate07"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330701,
+                        "group": 98,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate08"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330701,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate09"
+                    },
+                    {
+                        "appear": "idle",
+                        "point": 90,
+                        "mob": 819330701,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_UltimateQuickSliver",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "die": "die",
+                        "scale": "1.1",
+                        "boss_cam": "0,0.2,0"
+                    }
+                ]
+            }
+        ]
+    }
+]

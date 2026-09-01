@@ -1,0 +1,882 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5740353356966139378
+    },
+    "m_Name": "SQUAD_UNIT",
+    "keys": [
+        101,
+        103,
+        106,
+        107,
+        201,
+        203,
+        206,
+        207,
+        301,
+        303,
+        306,
+        307,
+        401,
+        403,
+        406,
+        407,
+        501,
+        503,
+        506,
+        507,
+        601,
+        603,
+        606,
+        607,
+        701,
+        703,
+        706,
+        707,
+        801,
+        803,
+        806,
+        807
+    ],
+    "values": [
+        {
+            "unitId": 101,
+            "unitType": 1,
+            "unitValue": 231
+        },
+        {
+            "unitId": 101,
+            "unitType": 1,
+            "unitValue": 79
+        },
+        {
+            "unitId": 101,
+            "unitType": 1,
+            "unitValue": 6
+        },
+        {
+            "unitId": 101,
+            "unitType": 1,
+            "unitValue": 35
+        },
+        {
+            "unitId": 103,
+            "unitType": 2,
+            "unitValue": 10300006
+        },
+        {
+            "unitId": 103,
+            "unitType": 2,
+            "unitValue": 10200006
+        },
+        {
+            "unitId": 103,
+            "unitType": 2,
+            "unitValue": 10100231
+        },
+        {
+            "unitId": 103,
+            "unitType": 2,
+            "unitValue": 10300004
+        },
+        {
+            "unitId": 103,
+            "unitType": 2,
+            "unitValue": 10100204
+        },
+        {
+            "unitId": 106,
+            "unitType": 1,
+            "unitValue": 6
+        },
+        {
+            "unitId": 106,
+            "unitType": 1,
+            "unitValue": 4
+        },
+        {
+            "unitId": 106,
+            "unitType": 1,
+            "unitValue": 261
+        },
+        {
+            "unitId": 106,
+            "unitType": 1,
+            "unitValue": 204
+        },
+        {
+            "unitId": 107,
+            "unitType": 2,
+            "unitValue": 10500028
+        },
+        {
+            "unitId": 107,
+            "unitType": 2,
+            "unitValue": 10400028
+        },
+        {
+            "unitId": 107,
+            "unitType": 2,
+            "unitValue": 10300028
+        },
+        {
+            "unitId": 107,
+            "unitType": 2,
+            "unitValue": 10200028
+        },
+        {
+            "unitId": 107,
+            "unitType": 2,
+            "unitValue": 10100079
+        },
+        {
+            "unitId": 107,
+            "unitType": 2,
+            "unitValue": 10300079
+        },
+        {
+            "unitId": 107,
+            "unitType": 2,
+            "unitValue": 10200079
+        },
+        {
+            "unitId": 201,
+            "unitType": 1,
+            "unitValue": 17
+        },
+        {
+            "unitId": 201,
+            "unitType": 1,
+            "unitValue": 18
+        },
+        {
+            "unitId": 201,
+            "unitType": 1,
+            "unitValue": 130
+        },
+        {
+            "unitId": 201,
+            "unitType": 1,
+            "unitValue": 131
+        },
+        {
+            "unitId": 203,
+            "unitType": 2,
+            "unitValue": 10100134
+        },
+        {
+            "unitId": 203,
+            "unitType": 2,
+            "unitValue": 10100135
+        },
+        {
+            "unitId": 203,
+            "unitType": 2,
+            "unitValue": 10100132
+        },
+        {
+            "unitId": 203,
+            "unitType": 2,
+            "unitValue": 10300017
+        },
+        {
+            "unitId": 203,
+            "unitType": 2,
+            "unitValue": 10400017
+        },
+        {
+            "unitId": 206,
+            "unitType": 1,
+            "unitValue": 42
+        },
+        {
+            "unitId": 206,
+            "unitType": 1,
+            "unitValue": 18
+        },
+        {
+            "unitId": 206,
+            "unitType": 1,
+            "unitValue": 197
+        },
+        {
+            "unitId": 206,
+            "unitType": 1,
+            "unitValue": 135
+        },
+        {
+            "unitId": 207,
+            "unitType": 2,
+            "unitValue": 10100018
+        },
+        {
+            "unitId": 207,
+            "unitType": 2,
+            "unitValue": 10200018
+        },
+        {
+            "unitId": 207,
+            "unitType": 2,
+            "unitValue": 10300018
+        },
+        {
+            "unitId": 207,
+            "unitType": 2,
+            "unitValue": 10400018
+        },
+        {
+            "unitId": 207,
+            "unitType": 2,
+            "unitValue": 10200042
+        },
+        {
+            "unitId": 207,
+            "unitType": 2,
+            "unitValue": 10300042
+        },
+        {
+            "unitId": 207,
+            "unitType": 2,
+            "unitValue": 10400042
+        },
+        {
+            "unitId": 301,
+            "unitType": 1,
+            "unitValue": 174
+        },
+        {
+            "unitId": 301,
+            "unitType": 1,
+            "unitValue": 188
+        },
+        {
+            "unitId": 301,
+            "unitType": 1,
+            "unitValue": 193
+        },
+        {
+            "unitId": 301,
+            "unitType": 1,
+            "unitValue": 159
+        },
+        {
+            "unitId": 303,
+            "unitType": 2,
+            "unitValue": 10300125
+        },
+        {
+            "unitId": 303,
+            "unitType": 2,
+            "unitValue": 10400125
+        },
+        {
+            "unitId": 303,
+            "unitType": 2,
+            "unitValue": 10600125
+        },
+        {
+            "unitId": 303,
+            "unitType": 2,
+            "unitValue": 10200151
+        },
+        {
+            "unitId": 303,
+            "unitType": 2,
+            "unitValue": 10100151
+        },
+        {
+            "unitId": 306,
+            "unitType": 1,
+            "unitValue": 164
+        },
+        {
+            "unitId": 306,
+            "unitType": 1,
+            "unitValue": 125
+        },
+        {
+            "unitId": 306,
+            "unitType": 1,
+            "unitValue": 151
+        },
+        {
+            "unitId": 306,
+            "unitType": 1,
+            "unitValue": 165
+        },
+        {
+            "unitId": 307,
+            "unitType": 2,
+            "unitValue": 10100142
+        },
+        {
+            "unitId": 307,
+            "unitType": 2,
+            "unitValue": 10200142
+        },
+        {
+            "unitId": 307,
+            "unitType": 2,
+            "unitValue": 10400142
+        },
+        {
+            "unitId": 307,
+            "unitType": 2,
+            "unitValue": 10500142
+        },
+        {
+            "unitId": 307,
+            "unitType": 2,
+            "unitValue": 10100164
+        },
+        {
+            "unitId": 307,
+            "unitType": 2,
+            "unitValue": 10200164
+        },
+        {
+            "unitId": 307,
+            "unitType": 2,
+            "unitValue": 10400164
+        },
+        {
+            "unitId": 401,
+            "unitType": 1,
+            "unitValue": 36
+        },
+        {
+            "unitId": 401,
+            "unitType": 1,
+            "unitValue": 22
+        },
+        {
+            "unitId": 401,
+            "unitType": 1,
+            "unitValue": 11
+        },
+        {
+            "unitId": 401,
+            "unitType": 1,
+            "unitValue": 5
+        },
+        {
+            "unitId": 403,
+            "unitType": 2,
+            "unitValue": 10500036
+        },
+        {
+            "unitId": 403,
+            "unitType": 2,
+            "unitValue": 10100120
+        },
+        {
+            "unitId": 403,
+            "unitType": 2,
+            "unitValue": 10500011
+        },
+        {
+            "unitId": 403,
+            "unitType": 2,
+            "unitValue": 10600005
+        },
+        {
+            "unitId": 403,
+            "unitType": 2,
+            "unitValue": 10400012
+        },
+        {
+            "unitId": 406,
+            "unitType": 1,
+            "unitValue": 36
+        },
+        {
+            "unitId": 406,
+            "unitType": 1,
+            "unitValue": 120
+        },
+        {
+            "unitId": 406,
+            "unitType": 1,
+            "unitValue": 12
+        },
+        {
+            "unitId": 406,
+            "unitType": 1,
+            "unitValue": 222
+        },
+        {
+            "unitId": 407,
+            "unitType": 2,
+            "unitValue": 10300036
+        },
+        {
+            "unitId": 407,
+            "unitType": 2,
+            "unitValue": 10400036
+        },
+        {
+            "unitId": 407,
+            "unitType": 2,
+            "unitValue": 10300012
+        },
+        {
+            "unitId": 407,
+            "unitType": 2,
+            "unitValue": 10300005
+        },
+        {
+            "unitId": 407,
+            "unitType": 2,
+            "unitValue": 10200022
+        },
+        {
+            "unitId": 407,
+            "unitType": 2,
+            "unitValue": 10100152
+        },
+        {
+            "unitId": 407,
+            "unitType": 2,
+            "unitValue": 10200152
+        },
+        {
+            "unitId": 501,
+            "unitType": 1,
+            "unitValue": 1
+        },
+        {
+            "unitId": 501,
+            "unitType": 1,
+            "unitValue": 3
+        },
+        {
+            "unitId": 501,
+            "unitType": 1,
+            "unitValue": 8
+        },
+        {
+            "unitId": 501,
+            "unitType": 1,
+            "unitValue": 2
+        },
+        {
+            "unitId": 503,
+            "unitType": 2,
+            "unitValue": 10300049
+        },
+        {
+            "unitId": 503,
+            "unitType": 2,
+            "unitValue": 10200051
+        },
+        {
+            "unitId": 503,
+            "unitType": 2,
+            "unitValue": 10900003
+        },
+        {
+            "unitId": 503,
+            "unitType": 2,
+            "unitValue": 10400002
+        },
+        {
+            "unitId": 503,
+            "unitType": 2,
+            "unitValue": 10700008
+        },
+        {
+            "unitId": 506,
+            "unitType": 1,
+            "unitValue": 29
+        },
+        {
+            "unitId": 506,
+            "unitType": 1,
+            "unitValue": 51
+        },
+        {
+            "unitId": 506,
+            "unitType": 1,
+            "unitValue": 23
+        },
+        {
+            "unitId": 506,
+            "unitType": 1,
+            "unitValue": 7
+        },
+        {
+            "unitId": 507,
+            "unitType": 2,
+            "unitValue": 10300026
+        },
+        {
+            "unitId": 507,
+            "unitType": 2,
+            "unitValue": 11200001
+        },
+        {
+            "unitId": 507,
+            "unitType": 2,
+            "unitValue": 10400003
+        },
+        {
+            "unitId": 507,
+            "unitType": 2,
+            "unitValue": 10400008
+        },
+        {
+            "unitId": 507,
+            "unitType": 2,
+            "unitValue": 10500023
+        },
+        {
+            "unitId": 507,
+            "unitType": 2,
+            "unitValue": 10200029
+        },
+        {
+            "unitId": 507,
+            "unitType": 2,
+            "unitValue": 10300051
+        },
+        {
+            "unitId": 601,
+            "unitType": 1,
+            "unitValue": 42
+        },
+        {
+            "unitId": 601,
+            "unitType": 1,
+            "unitValue": 121
+        },
+        {
+            "unitId": 601,
+            "unitType": 1,
+            "unitValue": 72
+        },
+        {
+            "unitId": 601,
+            "unitType": 1,
+            "unitValue": 234
+        },
+        {
+            "unitId": 603,
+            "unitType": 2,
+            "unitValue": 10200020
+        },
+        {
+            "unitId": 603,
+            "unitType": 2,
+            "unitValue": 10200065
+        },
+        {
+            "unitId": 603,
+            "unitType": 2,
+            "unitValue": 10200199
+        },
+        {
+            "unitId": 603,
+            "unitType": 2,
+            "unitValue": 10400018
+        },
+        {
+            "unitId": 603,
+            "unitType": 2,
+            "unitValue": 11100010
+        },
+        {
+            "unitId": 606,
+            "unitType": 1,
+            "unitValue": 10
+        },
+        {
+            "unitId": 606,
+            "unitType": 1,
+            "unitValue": 65
+        },
+        {
+            "unitId": 606,
+            "unitType": 1,
+            "unitValue": 18
+        },
+        {
+            "unitId": 606,
+            "unitType": 1,
+            "unitValue": 199
+        },
+        {
+            "unitId": 607,
+            "unitType": 2,
+            "unitValue": 10400042
+        },
+        {
+            "unitId": 607,
+            "unitType": 2,
+            "unitValue": 10300042
+        },
+        {
+            "unitId": 607,
+            "unitType": 2,
+            "unitValue": 10200121
+        },
+        {
+            "unitId": 607,
+            "unitType": 2,
+            "unitValue": 10300121
+        },
+        {
+            "unitId": 607,
+            "unitType": 2,
+            "unitValue": 10200072
+        },
+        {
+            "unitId": 607,
+            "unitType": 2,
+            "unitValue": 10100072
+        },
+        {
+            "unitId": 607,
+            "unitType": 2,
+            "unitValue": 10100234
+        },
+        {
+            "unitId": 701,
+            "unitType": 1,
+            "unitValue": 16
+        },
+        {
+            "unitId": 701,
+            "unitType": 1,
+            "unitValue": 35
+        },
+        {
+            "unitId": 701,
+            "unitType": 1,
+            "unitValue": 64
+        },
+        {
+            "unitId": 701,
+            "unitType": 1,
+            "unitValue": 34
+        },
+        {
+            "unitId": 703,
+            "unitType": 2,
+            "unitValue": 10400028
+        },
+        {
+            "unitId": 703,
+            "unitType": 2,
+            "unitValue": 10600002
+        },
+        {
+            "unitId": 703,
+            "unitType": 2,
+            "unitValue": 10100144
+        },
+        {
+            "unitId": 703,
+            "unitType": 2,
+            "unitValue": 10200198
+        },
+        {
+            "unitId": 703,
+            "unitType": 2,
+            "unitValue": 10100199
+        },
+        {
+            "unitId": 706,
+            "unitType": 1,
+            "unitValue": 35
+        },
+        {
+            "unitId": 706,
+            "unitType": 1,
+            "unitValue": 199
+        },
+        {
+            "unitId": 706,
+            "unitType": 1,
+            "unitValue": 28
+        },
+        {
+            "unitId": 706,
+            "unitType": 1,
+            "unitValue": 198
+        },
+        {
+            "unitId": 707,
+            "unitType": 2,
+            "unitValue": 10500028
+        },
+        {
+            "unitId": 707,
+            "unitType": 2,
+            "unitValue": 10600028
+        },
+        {
+            "unitId": 707,
+            "unitType": 2,
+            "unitValue": 10700002
+        },
+        {
+            "unitId": 707,
+            "unitType": 2,
+            "unitValue": 10800002
+        },
+        {
+            "unitId": 707,
+            "unitType": 2,
+            "unitValue": 10200199
+        },
+        {
+            "unitId": 707,
+            "unitType": 2,
+            "unitValue": 10300034
+        },
+        {
+            "unitId": 707,
+            "unitType": 2,
+            "unitValue": 10400035
+        },
+        {
+            "unitId": 801,
+            "unitType": 1,
+            "unitValue": 180
+        },
+        {
+            "unitId": 801,
+            "unitType": 1,
+            "unitValue": 181
+        },
+        {
+            "unitId": 801,
+            "unitType": 1,
+            "unitValue": 109
+        },
+        {
+            "unitId": 801,
+            "unitType": 1,
+            "unitValue": 114
+        },
+        {
+            "unitId": 803,
+            "unitType": 2,
+            "unitValue": 10300179
+        },
+        {
+            "unitId": 803,
+            "unitType": 2,
+            "unitValue": 10300180
+        },
+        {
+            "unitId": 803,
+            "unitType": 2,
+            "unitValue": 10300181
+        },
+        {
+            "unitId": 803,
+            "unitType": 2,
+            "unitValue": 10300182
+        },
+        {
+            "unitId": 803,
+            "unitType": 2,
+            "unitValue": 10400037
+        },
+        {
+            "unitId": 806,
+            "unitType": 1,
+            "unitValue": 179
+        },
+        {
+            "unitId": 806,
+            "unitType": 1,
+            "unitValue": 180
+        },
+        {
+            "unitId": 806,
+            "unitType": 1,
+            "unitValue": 181
+        },
+        {
+            "unitId": 806,
+            "unitType": 1,
+            "unitValue": 182
+        },
+        {
+            "unitId": 807,
+            "unitType": 2,
+            "unitValue": 10300055
+        },
+        {
+            "unitId": 807,
+            "unitType": 2,
+            "unitValue": 11000010
+        },
+        {
+            "unitId": 807,
+            "unitType": 2,
+            "unitValue": 10500049
+        },
+        {
+            "unitId": 807,
+            "unitType": 2,
+            "unitValue": 10100110
+        },
+        {
+            "unitId": 807,
+            "unitType": 2,
+            "unitValue": 10100192
+        },
+        {
+            "unitId": 807,
+            "unitType": 2,
+            "unitValue": 10200109
+        },
+        {
+            "unitId": 807,
+            "unitType": 2,
+            "unitValue": 10300034
+        }
+    ],
+    "counts": [
+        4,
+        5,
+        4,
+        7,
+        4,
+        5,
+        4,
+        7,
+        4,
+        5,
+        4,
+        7,
+        4,
+        5,
+        4,
+        7,
+        4,
+        5,
+        4,
+        7,
+        4,
+        5,
+        4,
+        7,
+        4,
+        5,
+        4,
+        7,
+        4,
+        5,
+        4,
+        7
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -846838278541983263
+    },
+    "m_Name": "WARZONE_BUFF_LEVEL",
+    "keys": [
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "Level": 2,
+            "PriceType": 100,
+            "PriceValue": 222,
+            "PriceQty": 100
+        },
+        {
+            "Level": 3,
+            "PriceType": 100,
+            "PriceValue": 222,
+            "PriceQty": 200
+        },
+        {
+            "Level": 4,
+            "PriceType": 100,
+            "PriceValue": 222,
+            "PriceQty": 300
+        },
+        {
+            "Level": 5,
+            "PriceType": 100,
+            "PriceValue": 222,
+            "PriceQty": 400
+        },
+        {
+            "Level": 6,
+            "PriceType": 100,
+            "PriceValue": 222,
+            "PriceQty": 500
+        }
+    ]
+}

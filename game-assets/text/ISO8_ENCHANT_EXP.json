@@ -1,0 +1,462 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -481756223419878128
+    },
+    "m_Name": "ISO8_ENCHANT_EXP",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "grade": 1,
+            "materialGrade": 1,
+            "getExp": 3750,
+            "getBoostExp": 4688
+        },
+        {
+            "grade": 1,
+            "materialGrade": 2,
+            "getExp": 7500,
+            "getBoostExp": 9375
+        },
+        {
+            "grade": 1,
+            "materialGrade": 3,
+            "getExp": 15000,
+            "getBoostExp": 18750
+        },
+        {
+            "grade": 1,
+            "materialGrade": 4,
+            "getExp": 30000,
+            "getBoostExp": 37500
+        },
+        {
+            "grade": 1,
+            "materialGrade": 5,
+            "getExp": 60000,
+            "getBoostExp": 75000
+        },
+        {
+            "grade": 1,
+            "materialGrade": 6,
+            "getExp": 120000,
+            "getBoostExp": 150000
+        },
+        {
+            "grade": 1,
+            "materialGrade": 7,
+            "getExp": 180000,
+            "getBoostExp": 225000
+        },
+        {
+            "grade": 1,
+            "materialGrade": 8,
+            "getExp": 240000,
+            "getBoostExp": 300000
+        },
+        {
+            "grade": 1,
+            "materialGrade": 9,
+            "getExp": 300000,
+            "getBoostExp": 375000
+        },
+        {
+            "grade": 1,
+            "materialGrade": 10,
+            "getExp": 360000,
+            "getBoostExp": 450000
+        },
+        {
+            "grade": 1,
+            "materialGrade": 11,
+            "getExp": 420000,
+            "getBoostExp": 525000
+        },
+        {
+            "grade": 1,
+            "materialGrade": 12,
+            "getExp": 480000,
+            "getBoostExp": 600000
+        },
+        {
+            "grade": 2,
+            "materialGrade": 1,
+            "getExp": 1875,
+            "getBoostExp": 2344
+        },
+        {
+            "grade": 2,
+            "materialGrade": 2,
+            "getExp": 3750,
+            "getBoostExp": 4688
+        },
+        {
+            "grade": 2,
+            "materialGrade": 3,
+            "getExp": 7500,
+            "getBoostExp": 9375
+        },
+        {
+            "grade": 2,
+            "materialGrade": 4,
+            "getExp": 15000,
+            "getBoostExp": 18750
+        },
+        {
+            "grade": 2,
+            "materialGrade": 5,
+            "getExp": 30000,
+            "getBoostExp": 37500
+        },
+        {
+            "grade": 2,
+            "materialGrade": 6,
+            "getExp": 60000,
+            "getBoostExp": 75000
+        },
+        {
+            "grade": 2,
+            "materialGrade": 7,
+            "getExp": 90000,
+            "getBoostExp": 112500
+        },
+        {
+            "grade": 2,
+            "materialGrade": 8,
+            "getExp": 120000,
+            "getBoostExp": 150000
+        },
+        {
+            "grade": 2,
+            "materialGrade": 9,
+            "getExp": 150000,
+            "getBoostExp": 187500
+        },
+        {
+            "grade": 2,
+            "materialGrade": 10,
+            "getExp": 180000,
+            "getBoostExp": 225000
+        },
+        {
+            "grade": 2,
+            "materialGrade": 11,
+            "getExp": 210000,
+            "getBoostExp": 262500
+        },
+        {
+            "grade": 2,
+            "materialGrade": 12,
+            "getExp": 240000,
+            "getBoostExp": 300000
+        },
+        {
+            "grade": 3,
+            "materialGrade": 1,
+            "getExp": 938,
+            "getBoostExp": 1172
+        },
+        {
+            "grade": 3,
+            "materialGrade": 2,
+            "getExp": 1875,
+            "getBoostExp": 2344
+        },
+        {
+            "grade": 3,
+            "materialGrade": 3,
+            "getExp": 3750,
+            "getBoostExp": 4688
+        },
+        {
+            "grade": 3,
+            "materialGrade": 4,
+            "getExp": 7500,
+            "getBoostExp": 9375
+        },
+        {
+            "grade": 3,
+            "materialGrade": 5,
+            "getExp": 15000,
+            "getBoostExp": 18750
+        },
+        {
+            "grade": 3,
+            "materialGrade": 6,
+            "getExp": 30000,
+            "getBoostExp": 37500
+        },
+        {
+            "grade": 3,
+            "materialGrade": 7,
+            "getExp": 45000,
+            "getBoostExp": 56250
+        },
+        {
+            "grade": 3,
+            "materialGrade": 8,
+            "getExp": 60000,
+            "getBoostExp": 75000
+        },
+        {
+            "grade": 3,
+            "materialGrade": 9,
+            "getExp": 75000,
+            "getBoostExp": 93750
+        },
+        {
+            "grade": 3,
+            "materialGrade": 10,
+            "getExp": 90000,
+            "getBoostExp": 112500
+        },
+        {
+            "grade": 3,
+            "materialGrade": 11,
+            "getExp": 105000,
+            "getBoostExp": 131250
+        },
+        {
+            "grade": 3,
+            "materialGrade": 12,
+            "getExp": 120000,
+            "getBoostExp": 150000
+        },
+        {
+            "grade": 4,
+            "materialGrade": 1,
+            "getExp": 469,
+            "getBoostExp": 586
+        },
+        {
+            "grade": 4,
+            "materialGrade": 2,
+            "getExp": 938,
+            "getBoostExp": 1172
+        },
+        {
+            "grade": 4,
+            "materialGrade": 3,
+            "getExp": 1875,
+            "getBoostExp": 2344
+        },
+        {
+            "grade": 4,
+            "materialGrade": 4,
+            "getExp": 3750,
+            "getBoostExp": 4688
+        },
+        {
+            "grade": 4,
+            "materialGrade": 5,
+            "getExp": 7500,
+            "getBoostExp": 9375
+        },
+        {
+            "grade": 4,
+            "materialGrade": 6,
+            "getExp": 15000,
+            "getBoostExp": 18750
+        },
+        {
+            "grade": 4,
+            "materialGrade": 7,
+            "getExp": 22500,
+            "getBoostExp": 28125
+        },
+        {
+            "grade": 4,
+            "materialGrade": 8,
+            "getExp": 30000,
+            "getBoostExp": 37500
+        },
+        {
+            "grade": 4,
+            "materialGrade": 9,
+            "getExp": 37500,
+            "getBoostExp": 46875
+        },
+        {
+            "grade": 4,
+            "materialGrade": 10,
+            "getExp": 45000,
+            "getBoostExp": 56250
+        },
+        {
+            "grade": 4,
+            "materialGrade": 11,
+            "getExp": 52500,
+            "getBoostExp": 65625
+        },
+        {
+            "grade": 4,
+            "materialGrade": 12,
+            "getExp": 60000,
+            "getBoostExp": 75000
+        },
+        {
+            "grade": 5,
+            "materialGrade": 1,
+            "getExp": 235,
+            "getBoostExp": 293
+        },
+        {
+            "grade": 5,
+            "materialGrade": 2,
+            "getExp": 469,
+            "getBoostExp": 586
+        },
+        {
+            "grade": 5,
+            "materialGrade": 3,
+            "getExp": 938,
+            "getBoostExp": 1172
+        },
+        {
+            "grade": 5,
+            "materialGrade": 4,
+            "getExp": 1875,
+            "getBoostExp": 2344
+        },
+        {
+            "grade": 5,
+            "materialGrade": 5,
+            "getExp": 3750,
+            "getBoostExp": 4688
+        },
+        {
+            "grade": 5,
+            "materialGrade": 6,
+            "getExp": 7500,
+            "getBoostExp": 9375
+        },
+        {
+            "grade": 5,
+            "materialGrade": 7,
+            "getExp": 11250,
+            "getBoostExp": 14063
+        },
+        {
+            "grade": 5,
+            "materialGrade": 8,
+            "getExp": 15000,
+            "getBoostExp": 18750
+        },
+        {
+            "grade": 5,
+            "materialGrade": 9,
+            "getExp": 18750,
+            "getBoostExp": 23438
+        },
+        {
+            "grade": 5,
+            "materialGrade": 10,
+            "getExp": 22500,
+            "getBoostExp": 28125
+        },
+        {
+            "grade": 5,
+            "materialGrade": 11,
+            "getExp": 26250,
+            "getBoostExp": 32813
+        },
+        {
+            "grade": 5,
+            "materialGrade": 12,
+            "getExp": 30000,
+            "getBoostExp": 37500
+        },
+        {
+            "grade": 6,
+            "materialGrade": 1,
+            "getExp": 118,
+            "getBoostExp": 147
+        },
+        {
+            "grade": 6,
+            "materialGrade": 2,
+            "getExp": 235,
+            "getBoostExp": 293
+        },
+        {
+            "grade": 6,
+            "materialGrade": 3,
+            "getExp": 469,
+            "getBoostExp": 586
+        },
+        {
+            "grade": 6,
+            "materialGrade": 4,
+            "getExp": 938,
+            "getBoostExp": 1172
+        },
+        {
+            "grade": 6,
+            "materialGrade": 5,
+            "getExp": 1875,
+            "getBoostExp": 2344
+        },
+        {
+            "grade": 6,
+            "materialGrade": 6,
+            "getExp": 3750,
+            "getBoostExp": 4688
+        },
+        {
+            "grade": 6,
+            "materialGrade": 7,
+            "getExp": 5625,
+            "getBoostExp": 7032
+        },
+        {
+            "grade": 6,
+            "materialGrade": 8,
+            "getExp": 7500,
+            "getBoostExp": 9375
+        },
+        {
+            "grade": 6,
+            "materialGrade": 9,
+            "getExp": 9375,
+            "getBoostExp": 11719
+        },
+        {
+            "grade": 6,
+            "materialGrade": 10,
+            "getExp": 11250,
+            "getBoostExp": 14063
+        },
+        {
+            "grade": 6,
+            "materialGrade": 11,
+            "getExp": 13125,
+            "getBoostExp": 16407
+        },
+        {
+            "grade": 6,
+            "materialGrade": 12,
+            "getExp": 15000,
+            "getBoostExp": 18750
+        }
+    ],
+    "counts": [
+        12,
+        12,
+        12,
+        12,
+        12,
+        12
+    ]
+}

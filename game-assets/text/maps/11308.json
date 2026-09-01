@@ -1,0 +1,35 @@
+[
+    {
+        "level": "base_triskelion_0001_h01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 93911308,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidThanos_Summon"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 72711308,
+                        "group": 1,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "aiprefab": "ai_raidthanos02_ultimates",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill03-02"
+                    }
+                ]
+            }
+        ]
+    }
+]

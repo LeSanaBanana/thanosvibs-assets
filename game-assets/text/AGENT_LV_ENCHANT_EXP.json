@@ -1,0 +1,8014 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5434937306417928565
+    },
+    "m_Name": "AGENT_LV_ENCHANT_EXP",
+    "list": [
+        {
+            "enchantLv": 0,
+            "maxExp": "500"
+        },
+        {
+            "enchantLv": 1,
+            "maxExp": "1050"
+        },
+        {
+            "enchantLv": 2,
+            "maxExp": "1655"
+        },
+        {
+            "enchantLv": 3,
+            "maxExp": "2320"
+        },
+        {
+            "enchantLv": 4,
+            "maxExp": "3051"
+        },
+        {
+            "enchantLv": 5,
+            "maxExp": "3855"
+        },
+        {
+            "enchantLv": 6,
+            "maxExp": "4739"
+        },
+        {
+            "enchantLv": 7,
+            "maxExp": "5711"
+        },
+        {
+            "enchantLv": 8,
+            "maxExp": "6780"
+        },
+        {
+            "enchantLv": 9,
+            "maxExp": "7955"
+        },
+        {
+            "enchantLv": 10,
+            "maxExp": "9247"
+        },
+        {
+            "enchantLv": 11,
+            "maxExp": "10668"
+        },
+        {
+            "enchantLv": 12,
+            "maxExp": "12231"
+        },
+        {
+            "enchantLv": 13,
+            "maxExp": "13950"
+        },
+        {
+            "enchantLv": 14,
+            "maxExp": "15840"
+        },
+        {
+            "enchantLv": 15,
+            "maxExp": "17919"
+        },
+        {
+            "enchantLv": 16,
+            "maxExp": "20205"
+        },
+        {
+            "enchantLv": 17,
+            "maxExp": "22719"
+        },
+        {
+            "enchantLv": 18,
+            "maxExp": "25484"
+        },
+        {
+            "enchantLv": 19,
+            "maxExp": "28525"
+        },
+        {
+            "enchantLv": 20,
+            "maxExp": "31870"
+        },
+        {
+            "enchantLv": 21,
+            "maxExp": "35549"
+        },
+        {
+            "enchantLv": 22,
+            "maxExp": "39595"
+        },
+        {
+            "enchantLv": 23,
+            "maxExp": "44045"
+        },
+        {
+            "enchantLv": 24,
+            "maxExp": "48940"
+        },
+        {
+            "enchantLv": 25,
+            "maxExp": "54324"
+        },
+        {
+            "enchantLv": 26,
+            "maxExp": "60246"
+        },
+        {
+            "enchantLv": 27,
+            "maxExp": "66760"
+        },
+        {
+            "enchantLv": 28,
+            "maxExp": "73925"
+        },
+        {
+            "enchantLv": 29,
+            "maxExp": "81806"
+        },
+        {
+            "enchantLv": 30,
+            "maxExp": "90475"
+        },
+        {
+            "enchantLv": 31,
+            "maxExp": "100010"
+        },
+        {
+            "enchantLv": 32,
+            "maxExp": "110498"
+        },
+        {
+            "enchantLv": 33,
+            "maxExp": "122034"
+        },
+        {
+            "enchantLv": 34,
+            "maxExp": "134723"
+        },
+        {
+            "enchantLv": 35,
+            "maxExp": "148680"
+        },
+        {
+            "enchantLv": 36,
+            "maxExp": "164032"
+        },
+        {
+            "enchantLv": 37,
+            "maxExp": "180919"
+        },
+        {
+            "enchantLv": 38,
+            "maxExp": "199494"
+        },
+        {
+            "enchantLv": 39,
+            "maxExp": "219926"
+        },
+        {
+            "enchantLv": 40,
+            "maxExp": "242401"
+        },
+        {
+            "enchantLv": 41,
+            "maxExp": "267123"
+        },
+        {
+            "enchantLv": 42,
+            "maxExp": "294317"
+        },
+        {
+            "enchantLv": 43,
+            "maxExp": "324230"
+        },
+        {
+            "enchantLv": 44,
+            "maxExp": "357134"
+        },
+        {
+            "enchantLv": 45,
+            "maxExp": "393328"
+        },
+        {
+            "enchantLv": 46,
+            "maxExp": "433141"
+        },
+        {
+            "enchantLv": 47,
+            "maxExp": "476935"
+        },
+        {
+            "enchantLv": 48,
+            "maxExp": "525108"
+        },
+        {
+            "enchantLv": 49,
+            "maxExp": "578098"
+        },
+        {
+            "enchantLv": 50,
+            "maxExp": "636387"
+        },
+        {
+            "enchantLv": 51,
+            "maxExp": "694676"
+        },
+        {
+            "enchantLv": 52,
+            "maxExp": "752965"
+        },
+        {
+            "enchantLv": 53,
+            "maxExp": "811254"
+        },
+        {
+            "enchantLv": 54,
+            "maxExp": "869543"
+        },
+        {
+            "enchantLv": 55,
+            "maxExp": "927832"
+        },
+        {
+            "enchantLv": 56,
+            "maxExp": "986121"
+        },
+        {
+            "enchantLv": 57,
+            "maxExp": "1044410"
+        },
+        {
+            "enchantLv": 58,
+            "maxExp": "1102699"
+        },
+        {
+            "enchantLv": 59,
+            "maxExp": "1160988"
+        },
+        {
+            "enchantLv": 60,
+            "maxExp": "1219277"
+        },
+        {
+            "enchantLv": 61,
+            "maxExp": "1277566"
+        },
+        {
+            "enchantLv": 62,
+            "maxExp": "1335855"
+        },
+        {
+            "enchantLv": 63,
+            "maxExp": "1394144"
+        },
+        {
+            "enchantLv": 64,
+            "maxExp": "1452433"
+        },
+        {
+            "enchantLv": 65,
+            "maxExp": "1510722"
+        },
+        {
+            "enchantLv": 66,
+            "maxExp": "1569011"
+        },
+        {
+            "enchantLv": 67,
+            "maxExp": "1627300"
+        },
+        {
+            "enchantLv": 68,
+            "maxExp": "1685589"
+        },
+        {
+            "enchantLv": 69,
+            "maxExp": "1743878"
+        },
+        {
+            "enchantLv": 70,
+            "maxExp": "1802167"
+        },
+        {
+            "enchantLv": 71,
+            "maxExp": "1860456"
+        },
+        {
+            "enchantLv": 72,
+            "maxExp": "1918745"
+        },
+        {
+            "enchantLv": 73,
+            "maxExp": "1977034"
+        },
+        {
+            "enchantLv": 74,
+            "maxExp": "2035323"
+        },
+        {
+            "enchantLv": 75,
+            "maxExp": "2093612"
+        },
+        {
+            "enchantLv": 76,
+            "maxExp": "2151901"
+        },
+        {
+            "enchantLv": 77,
+            "maxExp": "2210190"
+        },
+        {
+            "enchantLv": 78,
+            "maxExp": "2268479"
+        },
+        {
+            "enchantLv": 79,
+            "maxExp": "2326768"
+        },
+        {
+            "enchantLv": 80,
+            "maxExp": "2385057"
+        },
+        {
+            "enchantLv": 81,
+            "maxExp": "2443346"
+        },
+        {
+            "enchantLv": 82,
+            "maxExp": "2501635"
+        },
+        {
+            "enchantLv": 83,
+            "maxExp": "2559924"
+        },
+        {
+            "enchantLv": 84,
+            "maxExp": "2618213"
+        },
+        {
+            "enchantLv": 85,
+            "maxExp": "2676502"
+        },
+        {
+            "enchantLv": 86,
+            "maxExp": "2734791"
+        },
+        {
+            "enchantLv": 87,
+            "maxExp": "2793080"
+        },
+        {
+            "enchantLv": 88,
+            "maxExp": "2851369"
+        },
+        {
+            "enchantLv": 89,
+            "maxExp": "2909658"
+        },
+        {
+            "enchantLv": 90,
+            "maxExp": "2967947"
+        },
+        {
+            "enchantLv": 91,
+            "maxExp": "3026236"
+        },
+        {
+            "enchantLv": 92,
+            "maxExp": "3084525"
+        },
+        {
+            "enchantLv": 93,
+            "maxExp": "3142814"
+        },
+        {
+            "enchantLv": 94,
+            "maxExp": "3201103"
+        },
+        {
+            "enchantLv": 95,
+            "maxExp": "3259392"
+        },
+        {
+            "enchantLv": 96,
+            "maxExp": "3317681"
+        },
+        {
+            "enchantLv": 97,
+            "maxExp": "3375970"
+        },
+        {
+            "enchantLv": 98,
+            "maxExp": "3434259"
+        },
+        {
+            "enchantLv": 99,
+            "maxExp": "3492548"
+        },
+        {
+            "enchantLv": 100,
+            "maxExp": "3550837"
+        },
+        {
+            "enchantLv": 101,
+            "maxExp": "3609126"
+        },
+        {
+            "enchantLv": 102,
+            "maxExp": "3667415"
+        },
+        {
+            "enchantLv": 103,
+            "maxExp": "3725704"
+        },
+        {
+            "enchantLv": 104,
+            "maxExp": "3783993"
+        },
+        {
+            "enchantLv": 105,
+            "maxExp": "3842282"
+        },
+        {
+            "enchantLv": 106,
+            "maxExp": "3900571"
+        },
+        {
+            "enchantLv": 107,
+            "maxExp": "3958860"
+        },
+        {
+            "enchantLv": 108,
+            "maxExp": "4017149"
+        },
+        {
+            "enchantLv": 109,
+            "maxExp": "4075438"
+        },
+        {
+            "enchantLv": 110,
+            "maxExp": "4133727"
+        },
+        {
+            "enchantLv": 111,
+            "maxExp": "4192016"
+        },
+        {
+            "enchantLv": 112,
+            "maxExp": "4250305"
+        },
+        {
+            "enchantLv": 113,
+            "maxExp": "4308594"
+        },
+        {
+            "enchantLv": 114,
+            "maxExp": "4366883"
+        },
+        {
+            "enchantLv": 115,
+            "maxExp": "4425172"
+        },
+        {
+            "enchantLv": 116,
+            "maxExp": "4483461"
+        },
+        {
+            "enchantLv": 117,
+            "maxExp": "4541750"
+        },
+        {
+            "enchantLv": 118,
+            "maxExp": "4600039"
+        },
+        {
+            "enchantLv": 119,
+            "maxExp": "4658328"
+        },
+        {
+            "enchantLv": 120,
+            "maxExp": "4716617"
+        },
+        {
+            "enchantLv": 121,
+            "maxExp": "4774906"
+        },
+        {
+            "enchantLv": 122,
+            "maxExp": "4833195"
+        },
+        {
+            "enchantLv": 123,
+            "maxExp": "4891484"
+        },
+        {
+            "enchantLv": 124,
+            "maxExp": "4949773"
+        },
+        {
+            "enchantLv": 125,
+            "maxExp": "5008062"
+        },
+        {
+            "enchantLv": 126,
+            "maxExp": "5066351"
+        },
+        {
+            "enchantLv": 127,
+            "maxExp": "5124640"
+        },
+        {
+            "enchantLv": 128,
+            "maxExp": "5182929"
+        },
+        {
+            "enchantLv": 129,
+            "maxExp": "5241218"
+        },
+        {
+            "enchantLv": 130,
+            "maxExp": "5299507"
+        },
+        {
+            "enchantLv": 131,
+            "maxExp": "5357796"
+        },
+        {
+            "enchantLv": 132,
+            "maxExp": "5416085"
+        },
+        {
+            "enchantLv": 133,
+            "maxExp": "5474374"
+        },
+        {
+            "enchantLv": 134,
+            "maxExp": "5532663"
+        },
+        {
+            "enchantLv": 135,
+            "maxExp": "5590952"
+        },
+        {
+            "enchantLv": 136,
+            "maxExp": "5649241"
+        },
+        {
+            "enchantLv": 137,
+            "maxExp": "5707530"
+        },
+        {
+            "enchantLv": 138,
+            "maxExp": "5765819"
+        },
+        {
+            "enchantLv": 139,
+            "maxExp": "5824108"
+        },
+        {
+            "enchantLv": 140,
+            "maxExp": "5882397"
+        },
+        {
+            "enchantLv": 141,
+            "maxExp": "5940686"
+        },
+        {
+            "enchantLv": 142,
+            "maxExp": "5998975"
+        },
+        {
+            "enchantLv": 143,
+            "maxExp": "6057264"
+        },
+        {
+            "enchantLv": 144,
+            "maxExp": "6115553"
+        },
+        {
+            "enchantLv": 145,
+            "maxExp": "6173842"
+        },
+        {
+            "enchantLv": 146,
+            "maxExp": "6232131"
+        },
+        {
+            "enchantLv": 147,
+            "maxExp": "6290420"
+        },
+        {
+            "enchantLv": 148,
+            "maxExp": "6348709"
+        },
+        {
+            "enchantLv": 149,
+            "maxExp": "6406998"
+        },
+        {
+            "enchantLv": 150,
+            "maxExp": "6465287"
+        },
+        {
+            "enchantLv": 151,
+            "maxExp": "6523576"
+        },
+        {
+            "enchantLv": 152,
+            "maxExp": "6581865"
+        },
+        {
+            "enchantLv": 153,
+            "maxExp": "6640154"
+        },
+        {
+            "enchantLv": 154,
+            "maxExp": "6698443"
+        },
+        {
+            "enchantLv": 155,
+            "maxExp": "6756732"
+        },
+        {
+            "enchantLv": 156,
+            "maxExp": "6815021"
+        },
+        {
+            "enchantLv": 157,
+            "maxExp": "6873310"
+        },
+        {
+            "enchantLv": 158,
+            "maxExp": "6931599"
+        },
+        {
+            "enchantLv": 159,
+            "maxExp": "6989888"
+        },
+        {
+            "enchantLv": 160,
+            "maxExp": "7048177"
+        },
+        {
+            "enchantLv": 161,
+            "maxExp": "7106466"
+        },
+        {
+            "enchantLv": 162,
+            "maxExp": "7164755"
+        },
+        {
+            "enchantLv": 163,
+            "maxExp": "7223044"
+        },
+        {
+            "enchantLv": 164,
+            "maxExp": "7281333"
+        },
+        {
+            "enchantLv": 165,
+            "maxExp": "7339622"
+        },
+        {
+            "enchantLv": 166,
+            "maxExp": "7397911"
+        },
+        {
+            "enchantLv": 167,
+            "maxExp": "7456200"
+        },
+        {
+            "enchantLv": 168,
+            "maxExp": "7514489"
+        },
+        {
+            "enchantLv": 169,
+            "maxExp": "7572778"
+        },
+        {
+            "enchantLv": 170,
+            "maxExp": "7631067"
+        },
+        {
+            "enchantLv": 171,
+            "maxExp": "7689356"
+        },
+        {
+            "enchantLv": 172,
+            "maxExp": "7747645"
+        },
+        {
+            "enchantLv": 173,
+            "maxExp": "7805934"
+        },
+        {
+            "enchantLv": 174,
+            "maxExp": "7864223"
+        },
+        {
+            "enchantLv": 175,
+            "maxExp": "7922512"
+        },
+        {
+            "enchantLv": 176,
+            "maxExp": "7980801"
+        },
+        {
+            "enchantLv": 177,
+            "maxExp": "8039090"
+        },
+        {
+            "enchantLv": 178,
+            "maxExp": "8097379"
+        },
+        {
+            "enchantLv": 179,
+            "maxExp": "8155668"
+        },
+        {
+            "enchantLv": 180,
+            "maxExp": "8213957"
+        },
+        {
+            "enchantLv": 181,
+            "maxExp": "8272246"
+        },
+        {
+            "enchantLv": 182,
+            "maxExp": "8330535"
+        },
+        {
+            "enchantLv": 183,
+            "maxExp": "8388824"
+        },
+        {
+            "enchantLv": 184,
+            "maxExp": "8447113"
+        },
+        {
+            "enchantLv": 185,
+            "maxExp": "8505402"
+        },
+        {
+            "enchantLv": 186,
+            "maxExp": "8563691"
+        },
+        {
+            "enchantLv": 187,
+            "maxExp": "8621980"
+        },
+        {
+            "enchantLv": 188,
+            "maxExp": "8680269"
+        },
+        {
+            "enchantLv": 189,
+            "maxExp": "8738558"
+        },
+        {
+            "enchantLv": 190,
+            "maxExp": "8796847"
+        },
+        {
+            "enchantLv": 191,
+            "maxExp": "8855136"
+        },
+        {
+            "enchantLv": 192,
+            "maxExp": "8913425"
+        },
+        {
+            "enchantLv": 193,
+            "maxExp": "8971714"
+        },
+        {
+            "enchantLv": 194,
+            "maxExp": "9030003"
+        },
+        {
+            "enchantLv": 195,
+            "maxExp": "9088292"
+        },
+        {
+            "enchantLv": 196,
+            "maxExp": "9146581"
+        },
+        {
+            "enchantLv": 197,
+            "maxExp": "9204870"
+        },
+        {
+            "enchantLv": 198,
+            "maxExp": "9263159"
+        },
+        {
+            "enchantLv": 199,
+            "maxExp": "9321448"
+        },
+        {
+            "enchantLv": 200,
+            "maxExp": "9379737"
+        },
+        {
+            "enchantLv": 201,
+            "maxExp": "9438026"
+        },
+        {
+            "enchantLv": 202,
+            "maxExp": "9496315"
+        },
+        {
+            "enchantLv": 203,
+            "maxExp": "9554604"
+        },
+        {
+            "enchantLv": 204,
+            "maxExp": "9612893"
+        },
+        {
+            "enchantLv": 205,
+            "maxExp": "9671182"
+        },
+        {
+            "enchantLv": 206,
+            "maxExp": "9729471"
+        },
+        {
+            "enchantLv": 207,
+            "maxExp": "9787760"
+        },
+        {
+            "enchantLv": 208,
+            "maxExp": "9846049"
+        },
+        {
+            "enchantLv": 209,
+            "maxExp": "9904338"
+        },
+        {
+            "enchantLv": 210,
+            "maxExp": "9962627"
+        },
+        {
+            "enchantLv": 211,
+            "maxExp": "10020916"
+        },
+        {
+            "enchantLv": 212,
+            "maxExp": "10079205"
+        },
+        {
+            "enchantLv": 213,
+            "maxExp": "10137494"
+        },
+        {
+            "enchantLv": 214,
+            "maxExp": "10195783"
+        },
+        {
+            "enchantLv": 215,
+            "maxExp": "10254072"
+        },
+        {
+            "enchantLv": 216,
+            "maxExp": "10312361"
+        },
+        {
+            "enchantLv": 217,
+            "maxExp": "10370650"
+        },
+        {
+            "enchantLv": 218,
+            "maxExp": "10428939"
+        },
+        {
+            "enchantLv": 219,
+            "maxExp": "10487228"
+        },
+        {
+            "enchantLv": 220,
+            "maxExp": "10545517"
+        },
+        {
+            "enchantLv": 221,
+            "maxExp": "10603806"
+        },
+        {
+            "enchantLv": 222,
+            "maxExp": "10662095"
+        },
+        {
+            "enchantLv": 223,
+            "maxExp": "10720384"
+        },
+        {
+            "enchantLv": 224,
+            "maxExp": "10778673"
+        },
+        {
+            "enchantLv": 225,
+            "maxExp": "10836962"
+        },
+        {
+            "enchantLv": 226,
+            "maxExp": "10895251"
+        },
+        {
+            "enchantLv": 227,
+            "maxExp": "10953540"
+        },
+        {
+            "enchantLv": 228,
+            "maxExp": "11011829"
+        },
+        {
+            "enchantLv": 229,
+            "maxExp": "11070118"
+        },
+        {
+            "enchantLv": 230,
+            "maxExp": "11128407"
+        },
+        {
+            "enchantLv": 231,
+            "maxExp": "11186696"
+        },
+        {
+            "enchantLv": 232,
+            "maxExp": "11244985"
+        },
+        {
+            "enchantLv": 233,
+            "maxExp": "11303274"
+        },
+        {
+            "enchantLv": 234,
+            "maxExp": "11361563"
+        },
+        {
+            "enchantLv": 235,
+            "maxExp": "11419852"
+        },
+        {
+            "enchantLv": 236,
+            "maxExp": "11478141"
+        },
+        {
+            "enchantLv": 237,
+            "maxExp": "11536430"
+        },
+        {
+            "enchantLv": 238,
+            "maxExp": "11594719"
+        },
+        {
+            "enchantLv": 239,
+            "maxExp": "11653008"
+        },
+        {
+            "enchantLv": 240,
+            "maxExp": "11711297"
+        },
+        {
+            "enchantLv": 241,
+            "maxExp": "11769586"
+        },
+        {
+            "enchantLv": 242,
+            "maxExp": "11827875"
+        },
+        {
+            "enchantLv": 243,
+            "maxExp": "11886164"
+        },
+        {
+            "enchantLv": 244,
+            "maxExp": "11944453"
+        },
+        {
+            "enchantLv": 245,
+            "maxExp": "12002742"
+        },
+        {
+            "enchantLv": 246,
+            "maxExp": "12061031"
+        },
+        {
+            "enchantLv": 247,
+            "maxExp": "12119320"
+        },
+        {
+            "enchantLv": 248,
+            "maxExp": "12177609"
+        },
+        {
+            "enchantLv": 249,
+            "maxExp": "12235898"
+        },
+        {
+            "enchantLv": 250,
+            "maxExp": "12294187"
+        },
+        {
+            "enchantLv": 251,
+            "maxExp": "12352476"
+        },
+        {
+            "enchantLv": 252,
+            "maxExp": "12410765"
+        },
+        {
+            "enchantLv": 253,
+            "maxExp": "12469054"
+        },
+        {
+            "enchantLv": 254,
+            "maxExp": "12527343"
+        },
+        {
+            "enchantLv": 255,
+            "maxExp": "12585632"
+        },
+        {
+            "enchantLv": 256,
+            "maxExp": "12643921"
+        },
+        {
+            "enchantLv": 257,
+            "maxExp": "12702210"
+        },
+        {
+            "enchantLv": 258,
+            "maxExp": "12760499"
+        },
+        {
+            "enchantLv": 259,
+            "maxExp": "12818788"
+        },
+        {
+            "enchantLv": 260,
+            "maxExp": "12877077"
+        },
+        {
+            "enchantLv": 261,
+            "maxExp": "12935366"
+        },
+        {
+            "enchantLv": 262,
+            "maxExp": "12993655"
+        },
+        {
+            "enchantLv": 263,
+            "maxExp": "13051944"
+        },
+        {
+            "enchantLv": 264,
+            "maxExp": "13110233"
+        },
+        {
+            "enchantLv": 265,
+            "maxExp": "13168522"
+        },
+        {
+            "enchantLv": 266,
+            "maxExp": "13226811"
+        },
+        {
+            "enchantLv": 267,
+            "maxExp": "13285100"
+        },
+        {
+            "enchantLv": 268,
+            "maxExp": "13343389"
+        },
+        {
+            "enchantLv": 269,
+            "maxExp": "13401678"
+        },
+        {
+            "enchantLv": 270,
+            "maxExp": "13459967"
+        },
+        {
+            "enchantLv": 271,
+            "maxExp": "13518256"
+        },
+        {
+            "enchantLv": 272,
+            "maxExp": "13576545"
+        },
+        {
+            "enchantLv": 273,
+            "maxExp": "13634834"
+        },
+        {
+            "enchantLv": 274,
+            "maxExp": "13693123"
+        },
+        {
+            "enchantLv": 275,
+            "maxExp": "13751412"
+        },
+        {
+            "enchantLv": 276,
+            "maxExp": "13809701"
+        },
+        {
+            "enchantLv": 277,
+            "maxExp": "13867990"
+        },
+        {
+            "enchantLv": 278,
+            "maxExp": "13926279"
+        },
+        {
+            "enchantLv": 279,
+            "maxExp": "13984568"
+        },
+        {
+            "enchantLv": 280,
+            "maxExp": "14042857"
+        },
+        {
+            "enchantLv": 281,
+            "maxExp": "14101146"
+        },
+        {
+            "enchantLv": 282,
+            "maxExp": "14159435"
+        },
+        {
+            "enchantLv": 283,
+            "maxExp": "14217724"
+        },
+        {
+            "enchantLv": 284,
+            "maxExp": "14276013"
+        },
+        {
+            "enchantLv": 285,
+            "maxExp": "14334302"
+        },
+        {
+            "enchantLv": 286,
+            "maxExp": "14392591"
+        },
+        {
+            "enchantLv": 287,
+            "maxExp": "14450880"
+        },
+        {
+            "enchantLv": 288,
+            "maxExp": "14509169"
+        },
+        {
+            "enchantLv": 289,
+            "maxExp": "14567458"
+        },
+        {
+            "enchantLv": 290,
+            "maxExp": "14625747"
+        },
+        {
+            "enchantLv": 291,
+            "maxExp": "14684036"
+        },
+        {
+            "enchantLv": 292,
+            "maxExp": "14742325"
+        },
+        {
+            "enchantLv": 293,
+            "maxExp": "14800614"
+        },
+        {
+            "enchantLv": 294,
+            "maxExp": "14858903"
+        },
+        {
+            "enchantLv": 295,
+            "maxExp": "14917192"
+        },
+        {
+            "enchantLv": 296,
+            "maxExp": "14975481"
+        },
+        {
+            "enchantLv": 297,
+            "maxExp": "15033770"
+        },
+        {
+            "enchantLv": 298,
+            "maxExp": "15092059"
+        },
+        {
+            "enchantLv": 299,
+            "maxExp": "15150348"
+        },
+        {
+            "enchantLv": 300,
+            "maxExp": "15208637"
+        },
+        {
+            "enchantLv": 301,
+            "maxExp": "15266926"
+        },
+        {
+            "enchantLv": 302,
+            "maxExp": "15325215"
+        },
+        {
+            "enchantLv": 303,
+            "maxExp": "15383504"
+        },
+        {
+            "enchantLv": 304,
+            "maxExp": "15441793"
+        },
+        {
+            "enchantLv": 305,
+            "maxExp": "15500082"
+        },
+        {
+            "enchantLv": 306,
+            "maxExp": "15558371"
+        },
+        {
+            "enchantLv": 307,
+            "maxExp": "15616660"
+        },
+        {
+            "enchantLv": 308,
+            "maxExp": "15674949"
+        },
+        {
+            "enchantLv": 309,
+            "maxExp": "15733238"
+        },
+        {
+            "enchantLv": 310,
+            "maxExp": "15791527"
+        },
+        {
+            "enchantLv": 311,
+            "maxExp": "15849816"
+        },
+        {
+            "enchantLv": 312,
+            "maxExp": "15908105"
+        },
+        {
+            "enchantLv": 313,
+            "maxExp": "15966394"
+        },
+        {
+            "enchantLv": 314,
+            "maxExp": "16024683"
+        },
+        {
+            "enchantLv": 315,
+            "maxExp": "16082972"
+        },
+        {
+            "enchantLv": 316,
+            "maxExp": "16141261"
+        },
+        {
+            "enchantLv": 317,
+            "maxExp": "16199550"
+        },
+        {
+            "enchantLv": 318,
+            "maxExp": "16257839"
+        },
+        {
+            "enchantLv": 319,
+            "maxExp": "16316128"
+        },
+        {
+            "enchantLv": 320,
+            "maxExp": "16374417"
+        },
+        {
+            "enchantLv": 321,
+            "maxExp": "16432706"
+        },
+        {
+            "enchantLv": 322,
+            "maxExp": "16490995"
+        },
+        {
+            "enchantLv": 323,
+            "maxExp": "16549284"
+        },
+        {
+            "enchantLv": 324,
+            "maxExp": "16607573"
+        },
+        {
+            "enchantLv": 325,
+            "maxExp": "16665862"
+        },
+        {
+            "enchantLv": 326,
+            "maxExp": "16724151"
+        },
+        {
+            "enchantLv": 327,
+            "maxExp": "16782440"
+        },
+        {
+            "enchantLv": 328,
+            "maxExp": "16840729"
+        },
+        {
+            "enchantLv": 329,
+            "maxExp": "16899018"
+        },
+        {
+            "enchantLv": 330,
+            "maxExp": "16957307"
+        },
+        {
+            "enchantLv": 331,
+            "maxExp": "17015596"
+        },
+        {
+            "enchantLv": 332,
+            "maxExp": "17073885"
+        },
+        {
+            "enchantLv": 333,
+            "maxExp": "17132174"
+        },
+        {
+            "enchantLv": 334,
+            "maxExp": "17190463"
+        },
+        {
+            "enchantLv": 335,
+            "maxExp": "17248752"
+        },
+        {
+            "enchantLv": 336,
+            "maxExp": "17307041"
+        },
+        {
+            "enchantLv": 337,
+            "maxExp": "17365330"
+        },
+        {
+            "enchantLv": 338,
+            "maxExp": "17423619"
+        },
+        {
+            "enchantLv": 339,
+            "maxExp": "17481908"
+        },
+        {
+            "enchantLv": 340,
+            "maxExp": "17540197"
+        },
+        {
+            "enchantLv": 341,
+            "maxExp": "17598486"
+        },
+        {
+            "enchantLv": 342,
+            "maxExp": "17656775"
+        },
+        {
+            "enchantLv": 343,
+            "maxExp": "17715064"
+        },
+        {
+            "enchantLv": 344,
+            "maxExp": "17773353"
+        },
+        {
+            "enchantLv": 345,
+            "maxExp": "17831642"
+        },
+        {
+            "enchantLv": 346,
+            "maxExp": "17889931"
+        },
+        {
+            "enchantLv": 347,
+            "maxExp": "17948220"
+        },
+        {
+            "enchantLv": 348,
+            "maxExp": "18006509"
+        },
+        {
+            "enchantLv": 349,
+            "maxExp": "18064798"
+        },
+        {
+            "enchantLv": 350,
+            "maxExp": "18123087"
+        },
+        {
+            "enchantLv": 351,
+            "maxExp": "18181376"
+        },
+        {
+            "enchantLv": 352,
+            "maxExp": "18239665"
+        },
+        {
+            "enchantLv": 353,
+            "maxExp": "18297954"
+        },
+        {
+            "enchantLv": 354,
+            "maxExp": "18356243"
+        },
+        {
+            "enchantLv": 355,
+            "maxExp": "18414532"
+        },
+        {
+            "enchantLv": 356,
+            "maxExp": "18472821"
+        },
+        {
+            "enchantLv": 357,
+            "maxExp": "18531110"
+        },
+        {
+            "enchantLv": 358,
+            "maxExp": "18589399"
+        },
+        {
+            "enchantLv": 359,
+            "maxExp": "18647688"
+        },
+        {
+            "enchantLv": 360,
+            "maxExp": "18705977"
+        },
+        {
+            "enchantLv": 361,
+            "maxExp": "18764266"
+        },
+        {
+            "enchantLv": 362,
+            "maxExp": "18822555"
+        },
+        {
+            "enchantLv": 363,
+            "maxExp": "18880844"
+        },
+        {
+            "enchantLv": 364,
+            "maxExp": "18939133"
+        },
+        {
+            "enchantLv": 365,
+            "maxExp": "18997422"
+        },
+        {
+            "enchantLv": 366,
+            "maxExp": "19055711"
+        },
+        {
+            "enchantLv": 367,
+            "maxExp": "19114000"
+        },
+        {
+            "enchantLv": 368,
+            "maxExp": "19172289"
+        },
+        {
+            "enchantLv": 369,
+            "maxExp": "19230578"
+        },
+        {
+            "enchantLv": 370,
+            "maxExp": "19288867"
+        },
+        {
+            "enchantLv": 371,
+            "maxExp": "19347156"
+        },
+        {
+            "enchantLv": 372,
+            "maxExp": "19405445"
+        },
+        {
+            "enchantLv": 373,
+            "maxExp": "19463734"
+        },
+        {
+            "enchantLv": 374,
+            "maxExp": "19522023"
+        },
+        {
+            "enchantLv": 375,
+            "maxExp": "19580312"
+        },
+        {
+            "enchantLv": 376,
+            "maxExp": "19638601"
+        },
+        {
+            "enchantLv": 377,
+            "maxExp": "19696890"
+        },
+        {
+            "enchantLv": 378,
+            "maxExp": "19755179"
+        },
+        {
+            "enchantLv": 379,
+            "maxExp": "19813468"
+        },
+        {
+            "enchantLv": 380,
+            "maxExp": "19871757"
+        },
+        {
+            "enchantLv": 381,
+            "maxExp": "19930046"
+        },
+        {
+            "enchantLv": 382,
+            "maxExp": "19988335"
+        },
+        {
+            "enchantLv": 383,
+            "maxExp": "20046624"
+        },
+        {
+            "enchantLv": 384,
+            "maxExp": "20104913"
+        },
+        {
+            "enchantLv": 385,
+            "maxExp": "20163202"
+        },
+        {
+            "enchantLv": 386,
+            "maxExp": "20221491"
+        },
+        {
+            "enchantLv": 387,
+            "maxExp": "20279780"
+        },
+        {
+            "enchantLv": 388,
+            "maxExp": "20338069"
+        },
+        {
+            "enchantLv": 389,
+            "maxExp": "20396358"
+        },
+        {
+            "enchantLv": 390,
+            "maxExp": "20454647"
+        },
+        {
+            "enchantLv": 391,
+            "maxExp": "20512936"
+        },
+        {
+            "enchantLv": 392,
+            "maxExp": "20571225"
+        },
+        {
+            "enchantLv": 393,
+            "maxExp": "20629514"
+        },
+        {
+            "enchantLv": 394,
+            "maxExp": "20687803"
+        },
+        {
+            "enchantLv": 395,
+            "maxExp": "20746092"
+        },
+        {
+            "enchantLv": 396,
+            "maxExp": "20804381"
+        },
+        {
+            "enchantLv": 397,
+            "maxExp": "20862670"
+        },
+        {
+            "enchantLv": 398,
+            "maxExp": "20920959"
+        },
+        {
+            "enchantLv": 399,
+            "maxExp": "20979248"
+        },
+        {
+            "enchantLv": 400,
+            "maxExp": "21037537"
+        },
+        {
+            "enchantLv": 401,
+            "maxExp": "21095826"
+        },
+        {
+            "enchantLv": 402,
+            "maxExp": "21154115"
+        },
+        {
+            "enchantLv": 403,
+            "maxExp": "21212404"
+        },
+        {
+            "enchantLv": 404,
+            "maxExp": "21270693"
+        },
+        {
+            "enchantLv": 405,
+            "maxExp": "21328982"
+        },
+        {
+            "enchantLv": 406,
+            "maxExp": "21387271"
+        },
+        {
+            "enchantLv": 407,
+            "maxExp": "21445560"
+        },
+        {
+            "enchantLv": 408,
+            "maxExp": "21503849"
+        },
+        {
+            "enchantLv": 409,
+            "maxExp": "21562138"
+        },
+        {
+            "enchantLv": 410,
+            "maxExp": "21620427"
+        },
+        {
+            "enchantLv": 411,
+            "maxExp": "21678716"
+        },
+        {
+            "enchantLv": 412,
+            "maxExp": "21737005"
+        },
+        {
+            "enchantLv": 413,
+            "maxExp": "21795294"
+        },
+        {
+            "enchantLv": 414,
+            "maxExp": "21853583"
+        },
+        {
+            "enchantLv": 415,
+            "maxExp": "21911872"
+        },
+        {
+            "enchantLv": 416,
+            "maxExp": "21970161"
+        },
+        {
+            "enchantLv": 417,
+            "maxExp": "22028450"
+        },
+        {
+            "enchantLv": 418,
+            "maxExp": "22086739"
+        },
+        {
+            "enchantLv": 419,
+            "maxExp": "22145028"
+        },
+        {
+            "enchantLv": 420,
+            "maxExp": "22203317"
+        },
+        {
+            "enchantLv": 421,
+            "maxExp": "22261606"
+        },
+        {
+            "enchantLv": 422,
+            "maxExp": "22319895"
+        },
+        {
+            "enchantLv": 423,
+            "maxExp": "22378184"
+        },
+        {
+            "enchantLv": 424,
+            "maxExp": "22436473"
+        },
+        {
+            "enchantLv": 425,
+            "maxExp": "22494762"
+        },
+        {
+            "enchantLv": 426,
+            "maxExp": "22553051"
+        },
+        {
+            "enchantLv": 427,
+            "maxExp": "22611340"
+        },
+        {
+            "enchantLv": 428,
+            "maxExp": "22669629"
+        },
+        {
+            "enchantLv": 429,
+            "maxExp": "22727918"
+        },
+        {
+            "enchantLv": 430,
+            "maxExp": "22786207"
+        },
+        {
+            "enchantLv": 431,
+            "maxExp": "22844496"
+        },
+        {
+            "enchantLv": 432,
+            "maxExp": "22902785"
+        },
+        {
+            "enchantLv": 433,
+            "maxExp": "22961074"
+        },
+        {
+            "enchantLv": 434,
+            "maxExp": "23019363"
+        },
+        {
+            "enchantLv": 435,
+            "maxExp": "23077652"
+        },
+        {
+            "enchantLv": 436,
+            "maxExp": "23135941"
+        },
+        {
+            "enchantLv": 437,
+            "maxExp": "23194230"
+        },
+        {
+            "enchantLv": 438,
+            "maxExp": "23252519"
+        },
+        {
+            "enchantLv": 439,
+            "maxExp": "23310808"
+        },
+        {
+            "enchantLv": 440,
+            "maxExp": "23369097"
+        },
+        {
+            "enchantLv": 441,
+            "maxExp": "23427386"
+        },
+        {
+            "enchantLv": 442,
+            "maxExp": "23485675"
+        },
+        {
+            "enchantLv": 443,
+            "maxExp": "23543964"
+        },
+        {
+            "enchantLv": 444,
+            "maxExp": "23602253"
+        },
+        {
+            "enchantLv": 445,
+            "maxExp": "23660542"
+        },
+        {
+            "enchantLv": 446,
+            "maxExp": "23718831"
+        },
+        {
+            "enchantLv": 447,
+            "maxExp": "23777120"
+        },
+        {
+            "enchantLv": 448,
+            "maxExp": "23835409"
+        },
+        {
+            "enchantLv": 449,
+            "maxExp": "23893698"
+        },
+        {
+            "enchantLv": 450,
+            "maxExp": "23951987"
+        },
+        {
+            "enchantLv": 451,
+            "maxExp": "24010276"
+        },
+        {
+            "enchantLv": 452,
+            "maxExp": "24068565"
+        },
+        {
+            "enchantLv": 453,
+            "maxExp": "24126854"
+        },
+        {
+            "enchantLv": 454,
+            "maxExp": "24185143"
+        },
+        {
+            "enchantLv": 455,
+            "maxExp": "24243432"
+        },
+        {
+            "enchantLv": 456,
+            "maxExp": "24301721"
+        },
+        {
+            "enchantLv": 457,
+            "maxExp": "24360010"
+        },
+        {
+            "enchantLv": 458,
+            "maxExp": "24418299"
+        },
+        {
+            "enchantLv": 459,
+            "maxExp": "24476588"
+        },
+        {
+            "enchantLv": 460,
+            "maxExp": "24534877"
+        },
+        {
+            "enchantLv": 461,
+            "maxExp": "24593166"
+        },
+        {
+            "enchantLv": 462,
+            "maxExp": "24651455"
+        },
+        {
+            "enchantLv": 463,
+            "maxExp": "24709744"
+        },
+        {
+            "enchantLv": 464,
+            "maxExp": "24768033"
+        },
+        {
+            "enchantLv": 465,
+            "maxExp": "24826322"
+        },
+        {
+            "enchantLv": 466,
+            "maxExp": "24884611"
+        },
+        {
+            "enchantLv": 467,
+            "maxExp": "24942900"
+        },
+        {
+            "enchantLv": 468,
+            "maxExp": "25001189"
+        },
+        {
+            "enchantLv": 469,
+            "maxExp": "25059478"
+        },
+        {
+            "enchantLv": 470,
+            "maxExp": "25117767"
+        },
+        {
+            "enchantLv": 471,
+            "maxExp": "25176056"
+        },
+        {
+            "enchantLv": 472,
+            "maxExp": "25234345"
+        },
+        {
+            "enchantLv": 473,
+            "maxExp": "25292634"
+        },
+        {
+            "enchantLv": 474,
+            "maxExp": "25350923"
+        },
+        {
+            "enchantLv": 475,
+            "maxExp": "25409212"
+        },
+        {
+            "enchantLv": 476,
+            "maxExp": "25467501"
+        },
+        {
+            "enchantLv": 477,
+            "maxExp": "25525790"
+        },
+        {
+            "enchantLv": 478,
+            "maxExp": "25584079"
+        },
+        {
+            "enchantLv": 479,
+            "maxExp": "25642368"
+        },
+        {
+            "enchantLv": 480,
+            "maxExp": "25700657"
+        },
+        {
+            "enchantLv": 481,
+            "maxExp": "25758946"
+        },
+        {
+            "enchantLv": 482,
+            "maxExp": "25817235"
+        },
+        {
+            "enchantLv": 483,
+            "maxExp": "25875524"
+        },
+        {
+            "enchantLv": 484,
+            "maxExp": "25933813"
+        },
+        {
+            "enchantLv": 485,
+            "maxExp": "25992102"
+        },
+        {
+            "enchantLv": 486,
+            "maxExp": "26050391"
+        },
+        {
+            "enchantLv": 487,
+            "maxExp": "26108680"
+        },
+        {
+            "enchantLv": 488,
+            "maxExp": "26166969"
+        },
+        {
+            "enchantLv": 489,
+            "maxExp": "26225258"
+        },
+        {
+            "enchantLv": 490,
+            "maxExp": "26283547"
+        },
+        {
+            "enchantLv": 491,
+            "maxExp": "26341836"
+        },
+        {
+            "enchantLv": 492,
+            "maxExp": "26400125"
+        },
+        {
+            "enchantLv": 493,
+            "maxExp": "26458414"
+        },
+        {
+            "enchantLv": 494,
+            "maxExp": "26516703"
+        },
+        {
+            "enchantLv": 495,
+            "maxExp": "26574992"
+        },
+        {
+            "enchantLv": 496,
+            "maxExp": "26633281"
+        },
+        {
+            "enchantLv": 497,
+            "maxExp": "26691570"
+        },
+        {
+            "enchantLv": 498,
+            "maxExp": "26749859"
+        },
+        {
+            "enchantLv": 499,
+            "maxExp": "26808148"
+        },
+        {
+            "enchantLv": 500,
+            "maxExp": "26866437"
+        },
+        {
+            "enchantLv": 501,
+            "maxExp": "26924726"
+        },
+        {
+            "enchantLv": 502,
+            "maxExp": "26983015"
+        },
+        {
+            "enchantLv": 503,
+            "maxExp": "27041304"
+        },
+        {
+            "enchantLv": 504,
+            "maxExp": "27099593"
+        },
+        {
+            "enchantLv": 505,
+            "maxExp": "27157882"
+        },
+        {
+            "enchantLv": 506,
+            "maxExp": "27216171"
+        },
+        {
+            "enchantLv": 507,
+            "maxExp": "27274460"
+        },
+        {
+            "enchantLv": 508,
+            "maxExp": "27332749"
+        },
+        {
+            "enchantLv": 509,
+            "maxExp": "27391038"
+        },
+        {
+            "enchantLv": 510,
+            "maxExp": "27449327"
+        },
+        {
+            "enchantLv": 511,
+            "maxExp": "27507616"
+        },
+        {
+            "enchantLv": 512,
+            "maxExp": "27565905"
+        },
+        {
+            "enchantLv": 513,
+            "maxExp": "27624194"
+        },
+        {
+            "enchantLv": 514,
+            "maxExp": "27682483"
+        },
+        {
+            "enchantLv": 515,
+            "maxExp": "27740772"
+        },
+        {
+            "enchantLv": 516,
+            "maxExp": "27799061"
+        },
+        {
+            "enchantLv": 517,
+            "maxExp": "27857350"
+        },
+        {
+            "enchantLv": 518,
+            "maxExp": "27915639"
+        },
+        {
+            "enchantLv": 519,
+            "maxExp": "27973928"
+        },
+        {
+            "enchantLv": 520,
+            "maxExp": "28032217"
+        },
+        {
+            "enchantLv": 521,
+            "maxExp": "28090506"
+        },
+        {
+            "enchantLv": 522,
+            "maxExp": "28148795"
+        },
+        {
+            "enchantLv": 523,
+            "maxExp": "28207084"
+        },
+        {
+            "enchantLv": 524,
+            "maxExp": "28265373"
+        },
+        {
+            "enchantLv": 525,
+            "maxExp": "28323662"
+        },
+        {
+            "enchantLv": 526,
+            "maxExp": "28381951"
+        },
+        {
+            "enchantLv": 527,
+            "maxExp": "28440240"
+        },
+        {
+            "enchantLv": 528,
+            "maxExp": "28498529"
+        },
+        {
+            "enchantLv": 529,
+            "maxExp": "28556818"
+        },
+        {
+            "enchantLv": 530,
+            "maxExp": "28615107"
+        },
+        {
+            "enchantLv": 531,
+            "maxExp": "28673396"
+        },
+        {
+            "enchantLv": 532,
+            "maxExp": "28731685"
+        },
+        {
+            "enchantLv": 533,
+            "maxExp": "28789974"
+        },
+        {
+            "enchantLv": 534,
+            "maxExp": "28848263"
+        },
+        {
+            "enchantLv": 535,
+            "maxExp": "28906552"
+        },
+        {
+            "enchantLv": 536,
+            "maxExp": "28964841"
+        },
+        {
+            "enchantLv": 537,
+            "maxExp": "29023130"
+        },
+        {
+            "enchantLv": 538,
+            "maxExp": "29081419"
+        },
+        {
+            "enchantLv": 539,
+            "maxExp": "29139708"
+        },
+        {
+            "enchantLv": 540,
+            "maxExp": "29197997"
+        },
+        {
+            "enchantLv": 541,
+            "maxExp": "29256286"
+        },
+        {
+            "enchantLv": 542,
+            "maxExp": "29314575"
+        },
+        {
+            "enchantLv": 543,
+            "maxExp": "29372864"
+        },
+        {
+            "enchantLv": 544,
+            "maxExp": "29431153"
+        },
+        {
+            "enchantLv": 545,
+            "maxExp": "29489442"
+        },
+        {
+            "enchantLv": 546,
+            "maxExp": "29547731"
+        },
+        {
+            "enchantLv": 547,
+            "maxExp": "29606020"
+        },
+        {
+            "enchantLv": 548,
+            "maxExp": "29664309"
+        },
+        {
+            "enchantLv": 549,
+            "maxExp": "29722598"
+        },
+        {
+            "enchantLv": 550,
+            "maxExp": "29780887"
+        },
+        {
+            "enchantLv": 551,
+            "maxExp": "29839176"
+        },
+        {
+            "enchantLv": 552,
+            "maxExp": "29897465"
+        },
+        {
+            "enchantLv": 553,
+            "maxExp": "29955754"
+        },
+        {
+            "enchantLv": 554,
+            "maxExp": "30014043"
+        },
+        {
+            "enchantLv": 555,
+            "maxExp": "30072332"
+        },
+        {
+            "enchantLv": 556,
+            "maxExp": "30130621"
+        },
+        {
+            "enchantLv": 557,
+            "maxExp": "30188910"
+        },
+        {
+            "enchantLv": 558,
+            "maxExp": "30247199"
+        },
+        {
+            "enchantLv": 559,
+            "maxExp": "30305488"
+        },
+        {
+            "enchantLv": 560,
+            "maxExp": "30363777"
+        },
+        {
+            "enchantLv": 561,
+            "maxExp": "30422066"
+        },
+        {
+            "enchantLv": 562,
+            "maxExp": "30480355"
+        },
+        {
+            "enchantLv": 563,
+            "maxExp": "30538644"
+        },
+        {
+            "enchantLv": 564,
+            "maxExp": "30596933"
+        },
+        {
+            "enchantLv": 565,
+            "maxExp": "30655222"
+        },
+        {
+            "enchantLv": 566,
+            "maxExp": "30713511"
+        },
+        {
+            "enchantLv": 567,
+            "maxExp": "30771800"
+        },
+        {
+            "enchantLv": 568,
+            "maxExp": "30830089"
+        },
+        {
+            "enchantLv": 569,
+            "maxExp": "30888378"
+        },
+        {
+            "enchantLv": 570,
+            "maxExp": "30946667"
+        },
+        {
+            "enchantLv": 571,
+            "maxExp": "31004956"
+        },
+        {
+            "enchantLv": 572,
+            "maxExp": "31063245"
+        },
+        {
+            "enchantLv": 573,
+            "maxExp": "31121534"
+        },
+        {
+            "enchantLv": 574,
+            "maxExp": "31179823"
+        },
+        {
+            "enchantLv": 575,
+            "maxExp": "31238112"
+        },
+        {
+            "enchantLv": 576,
+            "maxExp": "31296401"
+        },
+        {
+            "enchantLv": 577,
+            "maxExp": "31354690"
+        },
+        {
+            "enchantLv": 578,
+            "maxExp": "31412979"
+        },
+        {
+            "enchantLv": 579,
+            "maxExp": "31471268"
+        },
+        {
+            "enchantLv": 580,
+            "maxExp": "31529557"
+        },
+        {
+            "enchantLv": 581,
+            "maxExp": "31587846"
+        },
+        {
+            "enchantLv": 582,
+            "maxExp": "31646135"
+        },
+        {
+            "enchantLv": 583,
+            "maxExp": "31704424"
+        },
+        {
+            "enchantLv": 584,
+            "maxExp": "31762713"
+        },
+        {
+            "enchantLv": 585,
+            "maxExp": "31821002"
+        },
+        {
+            "enchantLv": 586,
+            "maxExp": "31879291"
+        },
+        {
+            "enchantLv": 587,
+            "maxExp": "31937580"
+        },
+        {
+            "enchantLv": 588,
+            "maxExp": "31995869"
+        },
+        {
+            "enchantLv": 589,
+            "maxExp": "32054158"
+        },
+        {
+            "enchantLv": 590,
+            "maxExp": "32112447"
+        },
+        {
+            "enchantLv": 591,
+            "maxExp": "32170736"
+        },
+        {
+            "enchantLv": 592,
+            "maxExp": "32229025"
+        },
+        {
+            "enchantLv": 593,
+            "maxExp": "32287314"
+        },
+        {
+            "enchantLv": 594,
+            "maxExp": "32345603"
+        },
+        {
+            "enchantLv": 595,
+            "maxExp": "32403892"
+        },
+        {
+            "enchantLv": 596,
+            "maxExp": "32462181"
+        },
+        {
+            "enchantLv": 597,
+            "maxExp": "32520470"
+        },
+        {
+            "enchantLv": 598,
+            "maxExp": "32578759"
+        },
+        {
+            "enchantLv": 599,
+            "maxExp": "32637048"
+        },
+        {
+            "enchantLv": 600,
+            "maxExp": "32695337"
+        },
+        {
+            "enchantLv": 601,
+            "maxExp": "32753626"
+        },
+        {
+            "enchantLv": 602,
+            "maxExp": "32811915"
+        },
+        {
+            "enchantLv": 603,
+            "maxExp": "32870204"
+        },
+        {
+            "enchantLv": 604,
+            "maxExp": "32928493"
+        },
+        {
+            "enchantLv": 605,
+            "maxExp": "32986782"
+        },
+        {
+            "enchantLv": 606,
+            "maxExp": "33045071"
+        },
+        {
+            "enchantLv": 607,
+            "maxExp": "33103360"
+        },
+        {
+            "enchantLv": 608,
+            "maxExp": "33161649"
+        },
+        {
+            "enchantLv": 609,
+            "maxExp": "33219938"
+        },
+        {
+            "enchantLv": 610,
+            "maxExp": "33278227"
+        },
+        {
+            "enchantLv": 611,
+            "maxExp": "33336516"
+        },
+        {
+            "enchantLv": 612,
+            "maxExp": "33394805"
+        },
+        {
+            "enchantLv": 613,
+            "maxExp": "33453094"
+        },
+        {
+            "enchantLv": 614,
+            "maxExp": "33511383"
+        },
+        {
+            "enchantLv": 615,
+            "maxExp": "33569672"
+        },
+        {
+            "enchantLv": 616,
+            "maxExp": "33627961"
+        },
+        {
+            "enchantLv": 617,
+            "maxExp": "33686250"
+        },
+        {
+            "enchantLv": 618,
+            "maxExp": "33744539"
+        },
+        {
+            "enchantLv": 619,
+            "maxExp": "33802828"
+        },
+        {
+            "enchantLv": 620,
+            "maxExp": "33861117"
+        },
+        {
+            "enchantLv": 621,
+            "maxExp": "33919406"
+        },
+        {
+            "enchantLv": 622,
+            "maxExp": "33977695"
+        },
+        {
+            "enchantLv": 623,
+            "maxExp": "34035984"
+        },
+        {
+            "enchantLv": 624,
+            "maxExp": "34094273"
+        },
+        {
+            "enchantLv": 625,
+            "maxExp": "34152562"
+        },
+        {
+            "enchantLv": 626,
+            "maxExp": "34210851"
+        },
+        {
+            "enchantLv": 627,
+            "maxExp": "34269140"
+        },
+        {
+            "enchantLv": 628,
+            "maxExp": "34327429"
+        },
+        {
+            "enchantLv": 629,
+            "maxExp": "34385718"
+        },
+        {
+            "enchantLv": 630,
+            "maxExp": "34444007"
+        },
+        {
+            "enchantLv": 631,
+            "maxExp": "34502296"
+        },
+        {
+            "enchantLv": 632,
+            "maxExp": "34560585"
+        },
+        {
+            "enchantLv": 633,
+            "maxExp": "34618874"
+        },
+        {
+            "enchantLv": 634,
+            "maxExp": "34677163"
+        },
+        {
+            "enchantLv": 635,
+            "maxExp": "34735452"
+        },
+        {
+            "enchantLv": 636,
+            "maxExp": "34793741"
+        },
+        {
+            "enchantLv": 637,
+            "maxExp": "34852030"
+        },
+        {
+            "enchantLv": 638,
+            "maxExp": "34910319"
+        },
+        {
+            "enchantLv": 639,
+            "maxExp": "34968608"
+        },
+        {
+            "enchantLv": 640,
+            "maxExp": "35026897"
+        },
+        {
+            "enchantLv": 641,
+            "maxExp": "35085186"
+        },
+        {
+            "enchantLv": 642,
+            "maxExp": "35143475"
+        },
+        {
+            "enchantLv": 643,
+            "maxExp": "35201764"
+        },
+        {
+            "enchantLv": 644,
+            "maxExp": "35260053"
+        },
+        {
+            "enchantLv": 645,
+            "maxExp": "35318342"
+        },
+        {
+            "enchantLv": 646,
+            "maxExp": "35376631"
+        },
+        {
+            "enchantLv": 647,
+            "maxExp": "35434920"
+        },
+        {
+            "enchantLv": 648,
+            "maxExp": "35493209"
+        },
+        {
+            "enchantLv": 649,
+            "maxExp": "35551498"
+        },
+        {
+            "enchantLv": 650,
+            "maxExp": "35609787"
+        },
+        {
+            "enchantLv": 651,
+            "maxExp": "35668076"
+        },
+        {
+            "enchantLv": 652,
+            "maxExp": "35726365"
+        },
+        {
+            "enchantLv": 653,
+            "maxExp": "35784654"
+        },
+        {
+            "enchantLv": 654,
+            "maxExp": "35842943"
+        },
+        {
+            "enchantLv": 655,
+            "maxExp": "35901232"
+        },
+        {
+            "enchantLv": 656,
+            "maxExp": "35959521"
+        },
+        {
+            "enchantLv": 657,
+            "maxExp": "36017810"
+        },
+        {
+            "enchantLv": 658,
+            "maxExp": "36076099"
+        },
+        {
+            "enchantLv": 659,
+            "maxExp": "36134388"
+        },
+        {
+            "enchantLv": 660,
+            "maxExp": "36192677"
+        },
+        {
+            "enchantLv": 661,
+            "maxExp": "36250966"
+        },
+        {
+            "enchantLv": 662,
+            "maxExp": "36309255"
+        },
+        {
+            "enchantLv": 663,
+            "maxExp": "36367544"
+        },
+        {
+            "enchantLv": 664,
+            "maxExp": "36425833"
+        },
+        {
+            "enchantLv": 665,
+            "maxExp": "36484122"
+        },
+        {
+            "enchantLv": 666,
+            "maxExp": "36542411"
+        },
+        {
+            "enchantLv": 667,
+            "maxExp": "36600700"
+        },
+        {
+            "enchantLv": 668,
+            "maxExp": "36658989"
+        },
+        {
+            "enchantLv": 669,
+            "maxExp": "36717278"
+        },
+        {
+            "enchantLv": 670,
+            "maxExp": "36775567"
+        },
+        {
+            "enchantLv": 671,
+            "maxExp": "36833856"
+        },
+        {
+            "enchantLv": 672,
+            "maxExp": "36892145"
+        },
+        {
+            "enchantLv": 673,
+            "maxExp": "36950434"
+        },
+        {
+            "enchantLv": 674,
+            "maxExp": "37008723"
+        },
+        {
+            "enchantLv": 675,
+            "maxExp": "37067012"
+        },
+        {
+            "enchantLv": 676,
+            "maxExp": "37125301"
+        },
+        {
+            "enchantLv": 677,
+            "maxExp": "37183590"
+        },
+        {
+            "enchantLv": 678,
+            "maxExp": "37241879"
+        },
+        {
+            "enchantLv": 679,
+            "maxExp": "37300168"
+        },
+        {
+            "enchantLv": 680,
+            "maxExp": "37358457"
+        },
+        {
+            "enchantLv": 681,
+            "maxExp": "37416746"
+        },
+        {
+            "enchantLv": 682,
+            "maxExp": "37475035"
+        },
+        {
+            "enchantLv": 683,
+            "maxExp": "37533324"
+        },
+        {
+            "enchantLv": 684,
+            "maxExp": "37591613"
+        },
+        {
+            "enchantLv": 685,
+            "maxExp": "37649902"
+        },
+        {
+            "enchantLv": 686,
+            "maxExp": "37708191"
+        },
+        {
+            "enchantLv": 687,
+            "maxExp": "37766480"
+        },
+        {
+            "enchantLv": 688,
+            "maxExp": "37824769"
+        },
+        {
+            "enchantLv": 689,
+            "maxExp": "37883058"
+        },
+        {
+            "enchantLv": 690,
+            "maxExp": "37941347"
+        },
+        {
+            "enchantLv": 691,
+            "maxExp": "37999636"
+        },
+        {
+            "enchantLv": 692,
+            "maxExp": "38057925"
+        },
+        {
+            "enchantLv": 693,
+            "maxExp": "38116214"
+        },
+        {
+            "enchantLv": 694,
+            "maxExp": "38174503"
+        },
+        {
+            "enchantLv": 695,
+            "maxExp": "38232792"
+        },
+        {
+            "enchantLv": 696,
+            "maxExp": "38291081"
+        },
+        {
+            "enchantLv": 697,
+            "maxExp": "38349370"
+        },
+        {
+            "enchantLv": 698,
+            "maxExp": "38407659"
+        },
+        {
+            "enchantLv": 699,
+            "maxExp": "38465948"
+        },
+        {
+            "enchantLv": 700,
+            "maxExp": "38524237"
+        },
+        {
+            "enchantLv": 701,
+            "maxExp": "38582526"
+        },
+        {
+            "enchantLv": 702,
+            "maxExp": "38640815"
+        },
+        {
+            "enchantLv": 703,
+            "maxExp": "38699104"
+        },
+        {
+            "enchantLv": 704,
+            "maxExp": "38757393"
+        },
+        {
+            "enchantLv": 705,
+            "maxExp": "38815682"
+        },
+        {
+            "enchantLv": 706,
+            "maxExp": "38873971"
+        },
+        {
+            "enchantLv": 707,
+            "maxExp": "38932260"
+        },
+        {
+            "enchantLv": 708,
+            "maxExp": "38990549"
+        },
+        {
+            "enchantLv": 709,
+            "maxExp": "39048838"
+        },
+        {
+            "enchantLv": 710,
+            "maxExp": "39107127"
+        },
+        {
+            "enchantLv": 711,
+            "maxExp": "39165416"
+        },
+        {
+            "enchantLv": 712,
+            "maxExp": "39223705"
+        },
+        {
+            "enchantLv": 713,
+            "maxExp": "39281994"
+        },
+        {
+            "enchantLv": 714,
+            "maxExp": "39340283"
+        },
+        {
+            "enchantLv": 715,
+            "maxExp": "39398572"
+        },
+        {
+            "enchantLv": 716,
+            "maxExp": "39456861"
+        },
+        {
+            "enchantLv": 717,
+            "maxExp": "39515150"
+        },
+        {
+            "enchantLv": 718,
+            "maxExp": "39573439"
+        },
+        {
+            "enchantLv": 719,
+            "maxExp": "39631728"
+        },
+        {
+            "enchantLv": 720,
+            "maxExp": "39690017"
+        },
+        {
+            "enchantLv": 721,
+            "maxExp": "39748306"
+        },
+        {
+            "enchantLv": 722,
+            "maxExp": "39806595"
+        },
+        {
+            "enchantLv": 723,
+            "maxExp": "39864884"
+        },
+        {
+            "enchantLv": 724,
+            "maxExp": "39923173"
+        },
+        {
+            "enchantLv": 725,
+            "maxExp": "39981462"
+        },
+        {
+            "enchantLv": 726,
+            "maxExp": "40039751"
+        },
+        {
+            "enchantLv": 727,
+            "maxExp": "40098040"
+        },
+        {
+            "enchantLv": 728,
+            "maxExp": "40156329"
+        },
+        {
+            "enchantLv": 729,
+            "maxExp": "40214618"
+        },
+        {
+            "enchantLv": 730,
+            "maxExp": "40272907"
+        },
+        {
+            "enchantLv": 731,
+            "maxExp": "40331196"
+        },
+        {
+            "enchantLv": 732,
+            "maxExp": "40389485"
+        },
+        {
+            "enchantLv": 733,
+            "maxExp": "40447774"
+        },
+        {
+            "enchantLv": 734,
+            "maxExp": "40506063"
+        },
+        {
+            "enchantLv": 735,
+            "maxExp": "40564352"
+        },
+        {
+            "enchantLv": 736,
+            "maxExp": "40622641"
+        },
+        {
+            "enchantLv": 737,
+            "maxExp": "40680930"
+        },
+        {
+            "enchantLv": 738,
+            "maxExp": "40739219"
+        },
+        {
+            "enchantLv": 739,
+            "maxExp": "40797508"
+        },
+        {
+            "enchantLv": 740,
+            "maxExp": "40855797"
+        },
+        {
+            "enchantLv": 741,
+            "maxExp": "40914086"
+        },
+        {
+            "enchantLv": 742,
+            "maxExp": "40972375"
+        },
+        {
+            "enchantLv": 743,
+            "maxExp": "41030664"
+        },
+        {
+            "enchantLv": 744,
+            "maxExp": "41088953"
+        },
+        {
+            "enchantLv": 745,
+            "maxExp": "41147242"
+        },
+        {
+            "enchantLv": 746,
+            "maxExp": "41205531"
+        },
+        {
+            "enchantLv": 747,
+            "maxExp": "41263820"
+        },
+        {
+            "enchantLv": 748,
+            "maxExp": "41322109"
+        },
+        {
+            "enchantLv": 749,
+            "maxExp": "41380398"
+        },
+        {
+            "enchantLv": 750,
+            "maxExp": "41438687"
+        },
+        {
+            "enchantLv": 751,
+            "maxExp": "41496976"
+        },
+        {
+            "enchantLv": 752,
+            "maxExp": "41555265"
+        },
+        {
+            "enchantLv": 753,
+            "maxExp": "41613554"
+        },
+        {
+            "enchantLv": 754,
+            "maxExp": "41671843"
+        },
+        {
+            "enchantLv": 755,
+            "maxExp": "41730132"
+        },
+        {
+            "enchantLv": 756,
+            "maxExp": "41788421"
+        },
+        {
+            "enchantLv": 757,
+            "maxExp": "41846710"
+        },
+        {
+            "enchantLv": 758,
+            "maxExp": "41904999"
+        },
+        {
+            "enchantLv": 759,
+            "maxExp": "41963288"
+        },
+        {
+            "enchantLv": 760,
+            "maxExp": "42021577"
+        },
+        {
+            "enchantLv": 761,
+            "maxExp": "42079866"
+        },
+        {
+            "enchantLv": 762,
+            "maxExp": "42138155"
+        },
+        {
+            "enchantLv": 763,
+            "maxExp": "42196444"
+        },
+        {
+            "enchantLv": 764,
+            "maxExp": "42254733"
+        },
+        {
+            "enchantLv": 765,
+            "maxExp": "42313022"
+        },
+        {
+            "enchantLv": 766,
+            "maxExp": "42371311"
+        },
+        {
+            "enchantLv": 767,
+            "maxExp": "42429600"
+        },
+        {
+            "enchantLv": 768,
+            "maxExp": "42487889"
+        },
+        {
+            "enchantLv": 769,
+            "maxExp": "42546178"
+        },
+        {
+            "enchantLv": 770,
+            "maxExp": "42604467"
+        },
+        {
+            "enchantLv": 771,
+            "maxExp": "42662756"
+        },
+        {
+            "enchantLv": 772,
+            "maxExp": "42721045"
+        },
+        {
+            "enchantLv": 773,
+            "maxExp": "42779334"
+        },
+        {
+            "enchantLv": 774,
+            "maxExp": "42837623"
+        },
+        {
+            "enchantLv": 775,
+            "maxExp": "42895912"
+        },
+        {
+            "enchantLv": 776,
+            "maxExp": "42954201"
+        },
+        {
+            "enchantLv": 777,
+            "maxExp": "43012490"
+        },
+        {
+            "enchantLv": 778,
+            "maxExp": "43070779"
+        },
+        {
+            "enchantLv": 779,
+            "maxExp": "43129068"
+        },
+        {
+            "enchantLv": 780,
+            "maxExp": "43187357"
+        },
+        {
+            "enchantLv": 781,
+            "maxExp": "43245646"
+        },
+        {
+            "enchantLv": 782,
+            "maxExp": "43303935"
+        },
+        {
+            "enchantLv": 783,
+            "maxExp": "43362224"
+        },
+        {
+            "enchantLv": 784,
+            "maxExp": "43420513"
+        },
+        {
+            "enchantLv": 785,
+            "maxExp": "43478802"
+        },
+        {
+            "enchantLv": 786,
+            "maxExp": "43537091"
+        },
+        {
+            "enchantLv": 787,
+            "maxExp": "43595380"
+        },
+        {
+            "enchantLv": 788,
+            "maxExp": "43653669"
+        },
+        {
+            "enchantLv": 789,
+            "maxExp": "43711958"
+        },
+        {
+            "enchantLv": 790,
+            "maxExp": "43770247"
+        },
+        {
+            "enchantLv": 791,
+            "maxExp": "43828536"
+        },
+        {
+            "enchantLv": 792,
+            "maxExp": "43886825"
+        },
+        {
+            "enchantLv": 793,
+            "maxExp": "43945114"
+        },
+        {
+            "enchantLv": 794,
+            "maxExp": "44003403"
+        },
+        {
+            "enchantLv": 795,
+            "maxExp": "44061692"
+        },
+        {
+            "enchantLv": 796,
+            "maxExp": "44119981"
+        },
+        {
+            "enchantLv": 797,
+            "maxExp": "44178270"
+        },
+        {
+            "enchantLv": 798,
+            "maxExp": "44236559"
+        },
+        {
+            "enchantLv": 799,
+            "maxExp": "44294848"
+        },
+        {
+            "enchantLv": 800,
+            "maxExp": "44353137"
+        },
+        {
+            "enchantLv": 801,
+            "maxExp": "44411426"
+        },
+        {
+            "enchantLv": 802,
+            "maxExp": "44469715"
+        },
+        {
+            "enchantLv": 803,
+            "maxExp": "44528004"
+        },
+        {
+            "enchantLv": 804,
+            "maxExp": "44586293"
+        },
+        {
+            "enchantLv": 805,
+            "maxExp": "44644582"
+        },
+        {
+            "enchantLv": 806,
+            "maxExp": "44702871"
+        },
+        {
+            "enchantLv": 807,
+            "maxExp": "44761160"
+        },
+        {
+            "enchantLv": 808,
+            "maxExp": "44819449"
+        },
+        {
+            "enchantLv": 809,
+            "maxExp": "44877738"
+        },
+        {
+            "enchantLv": 810,
+            "maxExp": "44936027"
+        },
+        {
+            "enchantLv": 811,
+            "maxExp": "44994316"
+        },
+        {
+            "enchantLv": 812,
+            "maxExp": "45052605"
+        },
+        {
+            "enchantLv": 813,
+            "maxExp": "45110894"
+        },
+        {
+            "enchantLv": 814,
+            "maxExp": "45169183"
+        },
+        {
+            "enchantLv": 815,
+            "maxExp": "45227472"
+        },
+        {
+            "enchantLv": 816,
+            "maxExp": "45285761"
+        },
+        {
+            "enchantLv": 817,
+            "maxExp": "45344050"
+        },
+        {
+            "enchantLv": 818,
+            "maxExp": "45402339"
+        },
+        {
+            "enchantLv": 819,
+            "maxExp": "45460628"
+        },
+        {
+            "enchantLv": 820,
+            "maxExp": "45518917"
+        },
+        {
+            "enchantLv": 821,
+            "maxExp": "45577206"
+        },
+        {
+            "enchantLv": 822,
+            "maxExp": "45635495"
+        },
+        {
+            "enchantLv": 823,
+            "maxExp": "45693784"
+        },
+        {
+            "enchantLv": 824,
+            "maxExp": "45752073"
+        },
+        {
+            "enchantLv": 825,
+            "maxExp": "45810362"
+        },
+        {
+            "enchantLv": 826,
+            "maxExp": "45868651"
+        },
+        {
+            "enchantLv": 827,
+            "maxExp": "45926940"
+        },
+        {
+            "enchantLv": 828,
+            "maxExp": "45985229"
+        },
+        {
+            "enchantLv": 829,
+            "maxExp": "46043518"
+        },
+        {
+            "enchantLv": 830,
+            "maxExp": "46101807"
+        },
+        {
+            "enchantLv": 831,
+            "maxExp": "46160096"
+        },
+        {
+            "enchantLv": 832,
+            "maxExp": "46218385"
+        },
+        {
+            "enchantLv": 833,
+            "maxExp": "46276674"
+        },
+        {
+            "enchantLv": 834,
+            "maxExp": "46334963"
+        },
+        {
+            "enchantLv": 835,
+            "maxExp": "46393252"
+        },
+        {
+            "enchantLv": 836,
+            "maxExp": "46451541"
+        },
+        {
+            "enchantLv": 837,
+            "maxExp": "46509830"
+        },
+        {
+            "enchantLv": 838,
+            "maxExp": "46568119"
+        },
+        {
+            "enchantLv": 839,
+            "maxExp": "46626408"
+        },
+        {
+            "enchantLv": 840,
+            "maxExp": "46684697"
+        },
+        {
+            "enchantLv": 841,
+            "maxExp": "46742986"
+        },
+        {
+            "enchantLv": 842,
+            "maxExp": "46801275"
+        },
+        {
+            "enchantLv": 843,
+            "maxExp": "46859564"
+        },
+        {
+            "enchantLv": 844,
+            "maxExp": "46917853"
+        },
+        {
+            "enchantLv": 845,
+            "maxExp": "46976142"
+        },
+        {
+            "enchantLv": 846,
+            "maxExp": "47034431"
+        },
+        {
+            "enchantLv": 847,
+            "maxExp": "47092720"
+        },
+        {
+            "enchantLv": 848,
+            "maxExp": "47151009"
+        },
+        {
+            "enchantLv": 849,
+            "maxExp": "47209298"
+        },
+        {
+            "enchantLv": 850,
+            "maxExp": "47267587"
+        },
+        {
+            "enchantLv": 851,
+            "maxExp": "47325876"
+        },
+        {
+            "enchantLv": 852,
+            "maxExp": "47384165"
+        },
+        {
+            "enchantLv": 853,
+            "maxExp": "47442454"
+        },
+        {
+            "enchantLv": 854,
+            "maxExp": "47500743"
+        },
+        {
+            "enchantLv": 855,
+            "maxExp": "47559032"
+        },
+        {
+            "enchantLv": 856,
+            "maxExp": "47617321"
+        },
+        {
+            "enchantLv": 857,
+            "maxExp": "47675610"
+        },
+        {
+            "enchantLv": 858,
+            "maxExp": "47733899"
+        },
+        {
+            "enchantLv": 859,
+            "maxExp": "47792188"
+        },
+        {
+            "enchantLv": 860,
+            "maxExp": "47850477"
+        },
+        {
+            "enchantLv": 861,
+            "maxExp": "47908766"
+        },
+        {
+            "enchantLv": 862,
+            "maxExp": "47967055"
+        },
+        {
+            "enchantLv": 863,
+            "maxExp": "48025344"
+        },
+        {
+            "enchantLv": 864,
+            "maxExp": "48083633"
+        },
+        {
+            "enchantLv": 865,
+            "maxExp": "48141922"
+        },
+        {
+            "enchantLv": 866,
+            "maxExp": "48200211"
+        },
+        {
+            "enchantLv": 867,
+            "maxExp": "48258500"
+        },
+        {
+            "enchantLv": 868,
+            "maxExp": "48316789"
+        },
+        {
+            "enchantLv": 869,
+            "maxExp": "48375078"
+        },
+        {
+            "enchantLv": 870,
+            "maxExp": "48433367"
+        },
+        {
+            "enchantLv": 871,
+            "maxExp": "48491656"
+        },
+        {
+            "enchantLv": 872,
+            "maxExp": "48549945"
+        },
+        {
+            "enchantLv": 873,
+            "maxExp": "48608234"
+        },
+        {
+            "enchantLv": 874,
+            "maxExp": "48666523"
+        },
+        {
+            "enchantLv": 875,
+            "maxExp": "48724812"
+        },
+        {
+            "enchantLv": 876,
+            "maxExp": "48783101"
+        },
+        {
+            "enchantLv": 877,
+            "maxExp": "48841390"
+        },
+        {
+            "enchantLv": 878,
+            "maxExp": "48899679"
+        },
+        {
+            "enchantLv": 879,
+            "maxExp": "48957968"
+        },
+        {
+            "enchantLv": 880,
+            "maxExp": "49016257"
+        },
+        {
+            "enchantLv": 881,
+            "maxExp": "49074546"
+        },
+        {
+            "enchantLv": 882,
+            "maxExp": "49132835"
+        },
+        {
+            "enchantLv": 883,
+            "maxExp": "49191124"
+        },
+        {
+            "enchantLv": 884,
+            "maxExp": "49249413"
+        },
+        {
+            "enchantLv": 885,
+            "maxExp": "49307702"
+        },
+        {
+            "enchantLv": 886,
+            "maxExp": "49365991"
+        },
+        {
+            "enchantLv": 887,
+            "maxExp": "49424280"
+        },
+        {
+            "enchantLv": 888,
+            "maxExp": "49482569"
+        },
+        {
+            "enchantLv": 889,
+            "maxExp": "49540858"
+        },
+        {
+            "enchantLv": 890,
+            "maxExp": "49599147"
+        },
+        {
+            "enchantLv": 891,
+            "maxExp": "49657436"
+        },
+        {
+            "enchantLv": 892,
+            "maxExp": "49715725"
+        },
+        {
+            "enchantLv": 893,
+            "maxExp": "49774014"
+        },
+        {
+            "enchantLv": 894,
+            "maxExp": "49832303"
+        },
+        {
+            "enchantLv": 895,
+            "maxExp": "49890592"
+        },
+        {
+            "enchantLv": 896,
+            "maxExp": "49948881"
+        },
+        {
+            "enchantLv": 897,
+            "maxExp": "50007170"
+        },
+        {
+            "enchantLv": 898,
+            "maxExp": "50065459"
+        },
+        {
+            "enchantLv": 899,
+            "maxExp": "50123748"
+        },
+        {
+            "enchantLv": 900,
+            "maxExp": "50182037"
+        },
+        {
+            "enchantLv": 901,
+            "maxExp": "50240326"
+        },
+        {
+            "enchantLv": 902,
+            "maxExp": "50298615"
+        },
+        {
+            "enchantLv": 903,
+            "maxExp": "50356904"
+        },
+        {
+            "enchantLv": 904,
+            "maxExp": "50415193"
+        },
+        {
+            "enchantLv": 905,
+            "maxExp": "50473482"
+        },
+        {
+            "enchantLv": 906,
+            "maxExp": "50531771"
+        },
+        {
+            "enchantLv": 907,
+            "maxExp": "50590060"
+        },
+        {
+            "enchantLv": 908,
+            "maxExp": "50648349"
+        },
+        {
+            "enchantLv": 909,
+            "maxExp": "50706638"
+        },
+        {
+            "enchantLv": 910,
+            "maxExp": "50764927"
+        },
+        {
+            "enchantLv": 911,
+            "maxExp": "50823216"
+        },
+        {
+            "enchantLv": 912,
+            "maxExp": "50881505"
+        },
+        {
+            "enchantLv": 913,
+            "maxExp": "50939794"
+        },
+        {
+            "enchantLv": 914,
+            "maxExp": "50998083"
+        },
+        {
+            "enchantLv": 915,
+            "maxExp": "51056372"
+        },
+        {
+            "enchantLv": 916,
+            "maxExp": "51114661"
+        },
+        {
+            "enchantLv": 917,
+            "maxExp": "51172950"
+        },
+        {
+            "enchantLv": 918,
+            "maxExp": "51231239"
+        },
+        {
+            "enchantLv": 919,
+            "maxExp": "51289528"
+        },
+        {
+            "enchantLv": 920,
+            "maxExp": "51347817"
+        },
+        {
+            "enchantLv": 921,
+            "maxExp": "51406106"
+        },
+        {
+            "enchantLv": 922,
+            "maxExp": "51464395"
+        },
+        {
+            "enchantLv": 923,
+            "maxExp": "51522684"
+        },
+        {
+            "enchantLv": 924,
+            "maxExp": "51580973"
+        },
+        {
+            "enchantLv": 925,
+            "maxExp": "51639262"
+        },
+        {
+            "enchantLv": 926,
+            "maxExp": "51697551"
+        },
+        {
+            "enchantLv": 927,
+            "maxExp": "51755840"
+        },
+        {
+            "enchantLv": 928,
+            "maxExp": "51814129"
+        },
+        {
+            "enchantLv": 929,
+            "maxExp": "51872418"
+        },
+        {
+            "enchantLv": 930,
+            "maxExp": "51930707"
+        },
+        {
+            "enchantLv": 931,
+            "maxExp": "51988996"
+        },
+        {
+            "enchantLv": 932,
+            "maxExp": "52047285"
+        },
+        {
+            "enchantLv": 933,
+            "maxExp": "52105574"
+        },
+        {
+            "enchantLv": 934,
+            "maxExp": "52163863"
+        },
+        {
+            "enchantLv": 935,
+            "maxExp": "52222152"
+        },
+        {
+            "enchantLv": 936,
+            "maxExp": "52280441"
+        },
+        {
+            "enchantLv": 937,
+            "maxExp": "52338730"
+        },
+        {
+            "enchantLv": 938,
+            "maxExp": "52397019"
+        },
+        {
+            "enchantLv": 939,
+            "maxExp": "52455308"
+        },
+        {
+            "enchantLv": 940,
+            "maxExp": "52513597"
+        },
+        {
+            "enchantLv": 941,
+            "maxExp": "52571886"
+        },
+        {
+            "enchantLv": 942,
+            "maxExp": "52630175"
+        },
+        {
+            "enchantLv": 943,
+            "maxExp": "52688464"
+        },
+        {
+            "enchantLv": 944,
+            "maxExp": "52746753"
+        },
+        {
+            "enchantLv": 945,
+            "maxExp": "52805042"
+        },
+        {
+            "enchantLv": 946,
+            "maxExp": "52863331"
+        },
+        {
+            "enchantLv": 947,
+            "maxExp": "52921620"
+        },
+        {
+            "enchantLv": 948,
+            "maxExp": "52979909"
+        },
+        {
+            "enchantLv": 949,
+            "maxExp": "53038198"
+        },
+        {
+            "enchantLv": 950,
+            "maxExp": "53096487"
+        },
+        {
+            "enchantLv": 951,
+            "maxExp": "53154776"
+        },
+        {
+            "enchantLv": 952,
+            "maxExp": "53213065"
+        },
+        {
+            "enchantLv": 953,
+            "maxExp": "53271354"
+        },
+        {
+            "enchantLv": 954,
+            "maxExp": "53329643"
+        },
+        {
+            "enchantLv": 955,
+            "maxExp": "53387932"
+        },
+        {
+            "enchantLv": 956,
+            "maxExp": "53446221"
+        },
+        {
+            "enchantLv": 957,
+            "maxExp": "53504510"
+        },
+        {
+            "enchantLv": 958,
+            "maxExp": "53562799"
+        },
+        {
+            "enchantLv": 959,
+            "maxExp": "53621088"
+        },
+        {
+            "enchantLv": 960,
+            "maxExp": "53679377"
+        },
+        {
+            "enchantLv": 961,
+            "maxExp": "53737666"
+        },
+        {
+            "enchantLv": 962,
+            "maxExp": "53795955"
+        },
+        {
+            "enchantLv": 963,
+            "maxExp": "53854244"
+        },
+        {
+            "enchantLv": 964,
+            "maxExp": "53912533"
+        },
+        {
+            "enchantLv": 965,
+            "maxExp": "53970822"
+        },
+        {
+            "enchantLv": 966,
+            "maxExp": "54029111"
+        },
+        {
+            "enchantLv": 967,
+            "maxExp": "54087400"
+        },
+        {
+            "enchantLv": 968,
+            "maxExp": "54145689"
+        },
+        {
+            "enchantLv": 969,
+            "maxExp": "54203978"
+        },
+        {
+            "enchantLv": 970,
+            "maxExp": "54262267"
+        },
+        {
+            "enchantLv": 971,
+            "maxExp": "54320556"
+        },
+        {
+            "enchantLv": 972,
+            "maxExp": "54378845"
+        },
+        {
+            "enchantLv": 973,
+            "maxExp": "54437134"
+        },
+        {
+            "enchantLv": 974,
+            "maxExp": "54495423"
+        },
+        {
+            "enchantLv": 975,
+            "maxExp": "54553712"
+        },
+        {
+            "enchantLv": 976,
+            "maxExp": "54612001"
+        },
+        {
+            "enchantLv": 977,
+            "maxExp": "54670290"
+        },
+        {
+            "enchantLv": 978,
+            "maxExp": "54728579"
+        },
+        {
+            "enchantLv": 979,
+            "maxExp": "54786868"
+        },
+        {
+            "enchantLv": 980,
+            "maxExp": "54845157"
+        },
+        {
+            "enchantLv": 981,
+            "maxExp": "54903446"
+        },
+        {
+            "enchantLv": 982,
+            "maxExp": "54961735"
+        },
+        {
+            "enchantLv": 983,
+            "maxExp": "55020024"
+        },
+        {
+            "enchantLv": 984,
+            "maxExp": "55078313"
+        },
+        {
+            "enchantLv": 985,
+            "maxExp": "55136602"
+        },
+        {
+            "enchantLv": 986,
+            "maxExp": "55194891"
+        },
+        {
+            "enchantLv": 987,
+            "maxExp": "55253180"
+        },
+        {
+            "enchantLv": 988,
+            "maxExp": "55311469"
+        },
+        {
+            "enchantLv": 989,
+            "maxExp": "55369758"
+        },
+        {
+            "enchantLv": 990,
+            "maxExp": "55428047"
+        },
+        {
+            "enchantLv": 991,
+            "maxExp": "55486336"
+        },
+        {
+            "enchantLv": 992,
+            "maxExp": "55544625"
+        },
+        {
+            "enchantLv": 993,
+            "maxExp": "55602914"
+        },
+        {
+            "enchantLv": 994,
+            "maxExp": "55661203"
+        },
+        {
+            "enchantLv": 995,
+            "maxExp": "55719492"
+        },
+        {
+            "enchantLv": 996,
+            "maxExp": "55777781"
+        },
+        {
+            "enchantLv": 997,
+            "maxExp": "55836070"
+        },
+        {
+            "enchantLv": 998,
+            "maxExp": "55894359"
+        },
+        {
+            "enchantLv": 999,
+            "maxExp": "55952648"
+        },
+        {
+            "enchantLv": 1000,
+            "maxExp": "56019680"
+        },
+        {
+            "enchantLv": 1001,
+            "maxExp": "56086712"
+        },
+        {
+            "enchantLv": 1002,
+            "maxExp": "56153744"
+        },
+        {
+            "enchantLv": 1003,
+            "maxExp": "56220776"
+        },
+        {
+            "enchantLv": 1004,
+            "maxExp": "56287808"
+        },
+        {
+            "enchantLv": 1005,
+            "maxExp": "56354840"
+        },
+        {
+            "enchantLv": 1006,
+            "maxExp": "56421872"
+        },
+        {
+            "enchantLv": 1007,
+            "maxExp": "56488904"
+        },
+        {
+            "enchantLv": 1008,
+            "maxExp": "56555936"
+        },
+        {
+            "enchantLv": 1009,
+            "maxExp": "56622968"
+        },
+        {
+            "enchantLv": 1010,
+            "maxExp": "56690000"
+        },
+        {
+            "enchantLv": 1011,
+            "maxExp": "56757032"
+        },
+        {
+            "enchantLv": 1012,
+            "maxExp": "56824064"
+        },
+        {
+            "enchantLv": 1013,
+            "maxExp": "56891096"
+        },
+        {
+            "enchantLv": 1014,
+            "maxExp": "56958128"
+        },
+        {
+            "enchantLv": 1015,
+            "maxExp": "57025160"
+        },
+        {
+            "enchantLv": 1016,
+            "maxExp": "57092192"
+        },
+        {
+            "enchantLv": 1017,
+            "maxExp": "57159224"
+        },
+        {
+            "enchantLv": 1018,
+            "maxExp": "57226256"
+        },
+        {
+            "enchantLv": 1019,
+            "maxExp": "57293288"
+        },
+        {
+            "enchantLv": 1020,
+            "maxExp": "57360320"
+        },
+        {
+            "enchantLv": 1021,
+            "maxExp": "57427352"
+        },
+        {
+            "enchantLv": 1022,
+            "maxExp": "57494384"
+        },
+        {
+            "enchantLv": 1023,
+            "maxExp": "57561416"
+        },
+        {
+            "enchantLv": 1024,
+            "maxExp": "57628448"
+        },
+        {
+            "enchantLv": 1025,
+            "maxExp": "57695480"
+        },
+        {
+            "enchantLv": 1026,
+            "maxExp": "57762512"
+        },
+        {
+            "enchantLv": 1027,
+            "maxExp": "57829544"
+        },
+        {
+            "enchantLv": 1028,
+            "maxExp": "57896576"
+        },
+        {
+            "enchantLv": 1029,
+            "maxExp": "57963608"
+        },
+        {
+            "enchantLv": 1030,
+            "maxExp": "58030640"
+        },
+        {
+            "enchantLv": 1031,
+            "maxExp": "58097672"
+        },
+        {
+            "enchantLv": 1032,
+            "maxExp": "58164704"
+        },
+        {
+            "enchantLv": 1033,
+            "maxExp": "58231736"
+        },
+        {
+            "enchantLv": 1034,
+            "maxExp": "58298768"
+        },
+        {
+            "enchantLv": 1035,
+            "maxExp": "58365800"
+        },
+        {
+            "enchantLv": 1036,
+            "maxExp": "58432832"
+        },
+        {
+            "enchantLv": 1037,
+            "maxExp": "58499864"
+        },
+        {
+            "enchantLv": 1038,
+            "maxExp": "58566896"
+        },
+        {
+            "enchantLv": 1039,
+            "maxExp": "58633928"
+        },
+        {
+            "enchantLv": 1040,
+            "maxExp": "58700960"
+        },
+        {
+            "enchantLv": 1041,
+            "maxExp": "58767992"
+        },
+        {
+            "enchantLv": 1042,
+            "maxExp": "58835024"
+        },
+        {
+            "enchantLv": 1043,
+            "maxExp": "58902056"
+        },
+        {
+            "enchantLv": 1044,
+            "maxExp": "58969088"
+        },
+        {
+            "enchantLv": 1045,
+            "maxExp": "59036120"
+        },
+        {
+            "enchantLv": 1046,
+            "maxExp": "59103152"
+        },
+        {
+            "enchantLv": 1047,
+            "maxExp": "59170184"
+        },
+        {
+            "enchantLv": 1048,
+            "maxExp": "59237216"
+        },
+        {
+            "enchantLv": 1049,
+            "maxExp": "59304248"
+        },
+        {
+            "enchantLv": 1050,
+            "maxExp": "59371280"
+        },
+        {
+            "enchantLv": 1051,
+            "maxExp": "59438312"
+        },
+        {
+            "enchantLv": 1052,
+            "maxExp": "59505344"
+        },
+        {
+            "enchantLv": 1053,
+            "maxExp": "59572376"
+        },
+        {
+            "enchantLv": 1054,
+            "maxExp": "59639408"
+        },
+        {
+            "enchantLv": 1055,
+            "maxExp": "59706440"
+        },
+        {
+            "enchantLv": 1056,
+            "maxExp": "59773472"
+        },
+        {
+            "enchantLv": 1057,
+            "maxExp": "59840504"
+        },
+        {
+            "enchantLv": 1058,
+            "maxExp": "59907536"
+        },
+        {
+            "enchantLv": 1059,
+            "maxExp": "59974568"
+        },
+        {
+            "enchantLv": 1060,
+            "maxExp": "60041600"
+        },
+        {
+            "enchantLv": 1061,
+            "maxExp": "60108632"
+        },
+        {
+            "enchantLv": 1062,
+            "maxExp": "60175664"
+        },
+        {
+            "enchantLv": 1063,
+            "maxExp": "60242696"
+        },
+        {
+            "enchantLv": 1064,
+            "maxExp": "60309728"
+        },
+        {
+            "enchantLv": 1065,
+            "maxExp": "60376760"
+        },
+        {
+            "enchantLv": 1066,
+            "maxExp": "60443792"
+        },
+        {
+            "enchantLv": 1067,
+            "maxExp": "60510824"
+        },
+        {
+            "enchantLv": 1068,
+            "maxExp": "60577856"
+        },
+        {
+            "enchantLv": 1069,
+            "maxExp": "60644888"
+        },
+        {
+            "enchantLv": 1070,
+            "maxExp": "60711920"
+        },
+        {
+            "enchantLv": 1071,
+            "maxExp": "60778952"
+        },
+        {
+            "enchantLv": 1072,
+            "maxExp": "60845984"
+        },
+        {
+            "enchantLv": 1073,
+            "maxExp": "60913016"
+        },
+        {
+            "enchantLv": 1074,
+            "maxExp": "60980048"
+        },
+        {
+            "enchantLv": 1075,
+            "maxExp": "61047080"
+        },
+        {
+            "enchantLv": 1076,
+            "maxExp": "61114112"
+        },
+        {
+            "enchantLv": 1077,
+            "maxExp": "61181144"
+        },
+        {
+            "enchantLv": 1078,
+            "maxExp": "61248176"
+        },
+        {
+            "enchantLv": 1079,
+            "maxExp": "61315208"
+        },
+        {
+            "enchantLv": 1080,
+            "maxExp": "61382240"
+        },
+        {
+            "enchantLv": 1081,
+            "maxExp": "61449272"
+        },
+        {
+            "enchantLv": 1082,
+            "maxExp": "61516304"
+        },
+        {
+            "enchantLv": 1083,
+            "maxExp": "61583336"
+        },
+        {
+            "enchantLv": 1084,
+            "maxExp": "61650368"
+        },
+        {
+            "enchantLv": 1085,
+            "maxExp": "61717400"
+        },
+        {
+            "enchantLv": 1086,
+            "maxExp": "61784432"
+        },
+        {
+            "enchantLv": 1087,
+            "maxExp": "61851464"
+        },
+        {
+            "enchantLv": 1088,
+            "maxExp": "61918496"
+        },
+        {
+            "enchantLv": 1089,
+            "maxExp": "61985528"
+        },
+        {
+            "enchantLv": 1090,
+            "maxExp": "62052560"
+        },
+        {
+            "enchantLv": 1091,
+            "maxExp": "62119592"
+        },
+        {
+            "enchantLv": 1092,
+            "maxExp": "62186624"
+        },
+        {
+            "enchantLv": 1093,
+            "maxExp": "62253656"
+        },
+        {
+            "enchantLv": 1094,
+            "maxExp": "62320688"
+        },
+        {
+            "enchantLv": 1095,
+            "maxExp": "62387720"
+        },
+        {
+            "enchantLv": 1096,
+            "maxExp": "62454752"
+        },
+        {
+            "enchantLv": 1097,
+            "maxExp": "62521784"
+        },
+        {
+            "enchantLv": 1098,
+            "maxExp": "62588816"
+        },
+        {
+            "enchantLv": 1099,
+            "maxExp": "62655848"
+        },
+        {
+            "enchantLv": 1100,
+            "maxExp": "62722880"
+        },
+        {
+            "enchantLv": 1101,
+            "maxExp": "62789912"
+        },
+        {
+            "enchantLv": 1102,
+            "maxExp": "62856944"
+        },
+        {
+            "enchantLv": 1103,
+            "maxExp": "62923976"
+        },
+        {
+            "enchantLv": 1104,
+            "maxExp": "62991008"
+        },
+        {
+            "enchantLv": 1105,
+            "maxExp": "63058040"
+        },
+        {
+            "enchantLv": 1106,
+            "maxExp": "63125072"
+        },
+        {
+            "enchantLv": 1107,
+            "maxExp": "63192104"
+        },
+        {
+            "enchantLv": 1108,
+            "maxExp": "63259136"
+        },
+        {
+            "enchantLv": 1109,
+            "maxExp": "63326168"
+        },
+        {
+            "enchantLv": 1110,
+            "maxExp": "63393200"
+        },
+        {
+            "enchantLv": 1111,
+            "maxExp": "63460232"
+        },
+        {
+            "enchantLv": 1112,
+            "maxExp": "63527264"
+        },
+        {
+            "enchantLv": 1113,
+            "maxExp": "63594296"
+        },
+        {
+            "enchantLv": 1114,
+            "maxExp": "63661328"
+        },
+        {
+            "enchantLv": 1115,
+            "maxExp": "63728360"
+        },
+        {
+            "enchantLv": 1116,
+            "maxExp": "63795392"
+        },
+        {
+            "enchantLv": 1117,
+            "maxExp": "63862424"
+        },
+        {
+            "enchantLv": 1118,
+            "maxExp": "63929456"
+        },
+        {
+            "enchantLv": 1119,
+            "maxExp": "63996488"
+        },
+        {
+            "enchantLv": 1120,
+            "maxExp": "64063520"
+        },
+        {
+            "enchantLv": 1121,
+            "maxExp": "64130552"
+        },
+        {
+            "enchantLv": 1122,
+            "maxExp": "64197584"
+        },
+        {
+            "enchantLv": 1123,
+            "maxExp": "64264616"
+        },
+        {
+            "enchantLv": 1124,
+            "maxExp": "64331648"
+        },
+        {
+            "enchantLv": 1125,
+            "maxExp": "64398680"
+        },
+        {
+            "enchantLv": 1126,
+            "maxExp": "64465712"
+        },
+        {
+            "enchantLv": 1127,
+            "maxExp": "64532744"
+        },
+        {
+            "enchantLv": 1128,
+            "maxExp": "64599776"
+        },
+        {
+            "enchantLv": 1129,
+            "maxExp": "64666808"
+        },
+        {
+            "enchantLv": 1130,
+            "maxExp": "64733840"
+        },
+        {
+            "enchantLv": 1131,
+            "maxExp": "64800872"
+        },
+        {
+            "enchantLv": 1132,
+            "maxExp": "64867904"
+        },
+        {
+            "enchantLv": 1133,
+            "maxExp": "64934936"
+        },
+        {
+            "enchantLv": 1134,
+            "maxExp": "65001968"
+        },
+        {
+            "enchantLv": 1135,
+            "maxExp": "65069000"
+        },
+        {
+            "enchantLv": 1136,
+            "maxExp": "65136032"
+        },
+        {
+            "enchantLv": 1137,
+            "maxExp": "65203064"
+        },
+        {
+            "enchantLv": 1138,
+            "maxExp": "65270096"
+        },
+        {
+            "enchantLv": 1139,
+            "maxExp": "65337128"
+        },
+        {
+            "enchantLv": 1140,
+            "maxExp": "65404160"
+        },
+        {
+            "enchantLv": 1141,
+            "maxExp": "65471192"
+        },
+        {
+            "enchantLv": 1142,
+            "maxExp": "65538224"
+        },
+        {
+            "enchantLv": 1143,
+            "maxExp": "65605256"
+        },
+        {
+            "enchantLv": 1144,
+            "maxExp": "65672288"
+        },
+        {
+            "enchantLv": 1145,
+            "maxExp": "65739320"
+        },
+        {
+            "enchantLv": 1146,
+            "maxExp": "65806352"
+        },
+        {
+            "enchantLv": 1147,
+            "maxExp": "65873384"
+        },
+        {
+            "enchantLv": 1148,
+            "maxExp": "65940416"
+        },
+        {
+            "enchantLv": 1149,
+            "maxExp": "66007448"
+        },
+        {
+            "enchantLv": 1150,
+            "maxExp": "66074480"
+        },
+        {
+            "enchantLv": 1151,
+            "maxExp": "66141512"
+        },
+        {
+            "enchantLv": 1152,
+            "maxExp": "66208544"
+        },
+        {
+            "enchantLv": 1153,
+            "maxExp": "66275576"
+        },
+        {
+            "enchantLv": 1154,
+            "maxExp": "66342608"
+        },
+        {
+            "enchantLv": 1155,
+            "maxExp": "66409640"
+        },
+        {
+            "enchantLv": 1156,
+            "maxExp": "66476672"
+        },
+        {
+            "enchantLv": 1157,
+            "maxExp": "66543704"
+        },
+        {
+            "enchantLv": 1158,
+            "maxExp": "66610736"
+        },
+        {
+            "enchantLv": 1159,
+            "maxExp": "66677768"
+        },
+        {
+            "enchantLv": 1160,
+            "maxExp": "66744800"
+        },
+        {
+            "enchantLv": 1161,
+            "maxExp": "66811832"
+        },
+        {
+            "enchantLv": 1162,
+            "maxExp": "66878864"
+        },
+        {
+            "enchantLv": 1163,
+            "maxExp": "66945896"
+        },
+        {
+            "enchantLv": 1164,
+            "maxExp": "67012928"
+        },
+        {
+            "enchantLv": 1165,
+            "maxExp": "67079960"
+        },
+        {
+            "enchantLv": 1166,
+            "maxExp": "67146992"
+        },
+        {
+            "enchantLv": 1167,
+            "maxExp": "67214024"
+        },
+        {
+            "enchantLv": 1168,
+            "maxExp": "67281056"
+        },
+        {
+            "enchantLv": 1169,
+            "maxExp": "67348088"
+        },
+        {
+            "enchantLv": 1170,
+            "maxExp": "67415120"
+        },
+        {
+            "enchantLv": 1171,
+            "maxExp": "67482152"
+        },
+        {
+            "enchantLv": 1172,
+            "maxExp": "67549184"
+        },
+        {
+            "enchantLv": 1173,
+            "maxExp": "67616216"
+        },
+        {
+            "enchantLv": 1174,
+            "maxExp": "67683248"
+        },
+        {
+            "enchantLv": 1175,
+            "maxExp": "67750280"
+        },
+        {
+            "enchantLv": 1176,
+            "maxExp": "67817312"
+        },
+        {
+            "enchantLv": 1177,
+            "maxExp": "67884344"
+        },
+        {
+            "enchantLv": 1178,
+            "maxExp": "67951376"
+        },
+        {
+            "enchantLv": 1179,
+            "maxExp": "68018408"
+        },
+        {
+            "enchantLv": 1180,
+            "maxExp": "68085440"
+        },
+        {
+            "enchantLv": 1181,
+            "maxExp": "68152472"
+        },
+        {
+            "enchantLv": 1182,
+            "maxExp": "68219504"
+        },
+        {
+            "enchantLv": 1183,
+            "maxExp": "68286536"
+        },
+        {
+            "enchantLv": 1184,
+            "maxExp": "68353568"
+        },
+        {
+            "enchantLv": 1185,
+            "maxExp": "68420600"
+        },
+        {
+            "enchantLv": 1186,
+            "maxExp": "68487632"
+        },
+        {
+            "enchantLv": 1187,
+            "maxExp": "68554664"
+        },
+        {
+            "enchantLv": 1188,
+            "maxExp": "68621696"
+        },
+        {
+            "enchantLv": 1189,
+            "maxExp": "68688728"
+        },
+        {
+            "enchantLv": 1190,
+            "maxExp": "68755760"
+        },
+        {
+            "enchantLv": 1191,
+            "maxExp": "68822792"
+        },
+        {
+            "enchantLv": 1192,
+            "maxExp": "68889824"
+        },
+        {
+            "enchantLv": 1193,
+            "maxExp": "68956856"
+        },
+        {
+            "enchantLv": 1194,
+            "maxExp": "69023888"
+        },
+        {
+            "enchantLv": 1195,
+            "maxExp": "69090920"
+        },
+        {
+            "enchantLv": 1196,
+            "maxExp": "69157952"
+        },
+        {
+            "enchantLv": 1197,
+            "maxExp": "69224984"
+        },
+        {
+            "enchantLv": 1198,
+            "maxExp": "69292016"
+        },
+        {
+            "enchantLv": 1199,
+            "maxExp": "69359048"
+        },
+        {
+            "enchantLv": 1200,
+            "maxExp": "69426080"
+        },
+        {
+            "enchantLv": 1201,
+            "maxExp": "69493112"
+        },
+        {
+            "enchantLv": 1202,
+            "maxExp": "69560144"
+        },
+        {
+            "enchantLv": 1203,
+            "maxExp": "69627176"
+        },
+        {
+            "enchantLv": 1204,
+            "maxExp": "69694208"
+        },
+        {
+            "enchantLv": 1205,
+            "maxExp": "69761240"
+        },
+        {
+            "enchantLv": 1206,
+            "maxExp": "69828272"
+        },
+        {
+            "enchantLv": 1207,
+            "maxExp": "69895304"
+        },
+        {
+            "enchantLv": 1208,
+            "maxExp": "69962336"
+        },
+        {
+            "enchantLv": 1209,
+            "maxExp": "70029368"
+        },
+        {
+            "enchantLv": 1210,
+            "maxExp": "70096400"
+        },
+        {
+            "enchantLv": 1211,
+            "maxExp": "70163432"
+        },
+        {
+            "enchantLv": 1212,
+            "maxExp": "70230464"
+        },
+        {
+            "enchantLv": 1213,
+            "maxExp": "70297496"
+        },
+        {
+            "enchantLv": 1214,
+            "maxExp": "70364528"
+        },
+        {
+            "enchantLv": 1215,
+            "maxExp": "70431560"
+        },
+        {
+            "enchantLv": 1216,
+            "maxExp": "70498592"
+        },
+        {
+            "enchantLv": 1217,
+            "maxExp": "70565624"
+        },
+        {
+            "enchantLv": 1218,
+            "maxExp": "70632656"
+        },
+        {
+            "enchantLv": 1219,
+            "maxExp": "70699688"
+        },
+        {
+            "enchantLv": 1220,
+            "maxExp": "70766720"
+        },
+        {
+            "enchantLv": 1221,
+            "maxExp": "70833752"
+        },
+        {
+            "enchantLv": 1222,
+            "maxExp": "70900784"
+        },
+        {
+            "enchantLv": 1223,
+            "maxExp": "70967816"
+        },
+        {
+            "enchantLv": 1224,
+            "maxExp": "71034848"
+        },
+        {
+            "enchantLv": 1225,
+            "maxExp": "71101880"
+        },
+        {
+            "enchantLv": 1226,
+            "maxExp": "71168912"
+        },
+        {
+            "enchantLv": 1227,
+            "maxExp": "71235944"
+        },
+        {
+            "enchantLv": 1228,
+            "maxExp": "71302976"
+        },
+        {
+            "enchantLv": 1229,
+            "maxExp": "71370008"
+        },
+        {
+            "enchantLv": 1230,
+            "maxExp": "71437040"
+        },
+        {
+            "enchantLv": 1231,
+            "maxExp": "71504072"
+        },
+        {
+            "enchantLv": 1232,
+            "maxExp": "71571104"
+        },
+        {
+            "enchantLv": 1233,
+            "maxExp": "71638136"
+        },
+        {
+            "enchantLv": 1234,
+            "maxExp": "71705168"
+        },
+        {
+            "enchantLv": 1235,
+            "maxExp": "71772200"
+        },
+        {
+            "enchantLv": 1236,
+            "maxExp": "71839232"
+        },
+        {
+            "enchantLv": 1237,
+            "maxExp": "71906264"
+        },
+        {
+            "enchantLv": 1238,
+            "maxExp": "71973296"
+        },
+        {
+            "enchantLv": 1239,
+            "maxExp": "72040328"
+        },
+        {
+            "enchantLv": 1240,
+            "maxExp": "72107360"
+        },
+        {
+            "enchantLv": 1241,
+            "maxExp": "72174392"
+        },
+        {
+            "enchantLv": 1242,
+            "maxExp": "72241424"
+        },
+        {
+            "enchantLv": 1243,
+            "maxExp": "72308456"
+        },
+        {
+            "enchantLv": 1244,
+            "maxExp": "72375488"
+        },
+        {
+            "enchantLv": 1245,
+            "maxExp": "72442520"
+        },
+        {
+            "enchantLv": 1246,
+            "maxExp": "72509552"
+        },
+        {
+            "enchantLv": 1247,
+            "maxExp": "72576584"
+        },
+        {
+            "enchantLv": 1248,
+            "maxExp": "72643616"
+        },
+        {
+            "enchantLv": 1249,
+            "maxExp": "72710648"
+        },
+        {
+            "enchantLv": 1250,
+            "maxExp": "72777680"
+        },
+        {
+            "enchantLv": 1251,
+            "maxExp": "72844712"
+        },
+        {
+            "enchantLv": 1252,
+            "maxExp": "72911744"
+        },
+        {
+            "enchantLv": 1253,
+            "maxExp": "72978776"
+        },
+        {
+            "enchantLv": 1254,
+            "maxExp": "73045808"
+        },
+        {
+            "enchantLv": 1255,
+            "maxExp": "73112840"
+        },
+        {
+            "enchantLv": 1256,
+            "maxExp": "73179872"
+        },
+        {
+            "enchantLv": 1257,
+            "maxExp": "73246904"
+        },
+        {
+            "enchantLv": 1258,
+            "maxExp": "73313936"
+        },
+        {
+            "enchantLv": 1259,
+            "maxExp": "73380968"
+        },
+        {
+            "enchantLv": 1260,
+            "maxExp": "73448000"
+        },
+        {
+            "enchantLv": 1261,
+            "maxExp": "73515032"
+        },
+        {
+            "enchantLv": 1262,
+            "maxExp": "73582064"
+        },
+        {
+            "enchantLv": 1263,
+            "maxExp": "73649096"
+        },
+        {
+            "enchantLv": 1264,
+            "maxExp": "73716128"
+        },
+        {
+            "enchantLv": 1265,
+            "maxExp": "73783160"
+        },
+        {
+            "enchantLv": 1266,
+            "maxExp": "73850192"
+        },
+        {
+            "enchantLv": 1267,
+            "maxExp": "73917224"
+        },
+        {
+            "enchantLv": 1268,
+            "maxExp": "73984256"
+        },
+        {
+            "enchantLv": 1269,
+            "maxExp": "74051288"
+        },
+        {
+            "enchantLv": 1270,
+            "maxExp": "74118320"
+        },
+        {
+            "enchantLv": 1271,
+            "maxExp": "74185352"
+        },
+        {
+            "enchantLv": 1272,
+            "maxExp": "74252384"
+        },
+        {
+            "enchantLv": 1273,
+            "maxExp": "74319416"
+        },
+        {
+            "enchantLv": 1274,
+            "maxExp": "74386448"
+        },
+        {
+            "enchantLv": 1275,
+            "maxExp": "74453480"
+        },
+        {
+            "enchantLv": 1276,
+            "maxExp": "74520512"
+        },
+        {
+            "enchantLv": 1277,
+            "maxExp": "74587544"
+        },
+        {
+            "enchantLv": 1278,
+            "maxExp": "74654576"
+        },
+        {
+            "enchantLv": 1279,
+            "maxExp": "74721608"
+        },
+        {
+            "enchantLv": 1280,
+            "maxExp": "74788640"
+        },
+        {
+            "enchantLv": 1281,
+            "maxExp": "74855672"
+        },
+        {
+            "enchantLv": 1282,
+            "maxExp": "74922704"
+        },
+        {
+            "enchantLv": 1283,
+            "maxExp": "74989736"
+        },
+        {
+            "enchantLv": 1284,
+            "maxExp": "75056768"
+        },
+        {
+            "enchantLv": 1285,
+            "maxExp": "75123800"
+        },
+        {
+            "enchantLv": 1286,
+            "maxExp": "75190832"
+        },
+        {
+            "enchantLv": 1287,
+            "maxExp": "75257864"
+        },
+        {
+            "enchantLv": 1288,
+            "maxExp": "75324896"
+        },
+        {
+            "enchantLv": 1289,
+            "maxExp": "75391928"
+        },
+        {
+            "enchantLv": 1290,
+            "maxExp": "75458960"
+        },
+        {
+            "enchantLv": 1291,
+            "maxExp": "75525992"
+        },
+        {
+            "enchantLv": 1292,
+            "maxExp": "75593024"
+        },
+        {
+            "enchantLv": 1293,
+            "maxExp": "75660056"
+        },
+        {
+            "enchantLv": 1294,
+            "maxExp": "75727088"
+        },
+        {
+            "enchantLv": 1295,
+            "maxExp": "75794120"
+        },
+        {
+            "enchantLv": 1296,
+            "maxExp": "75861152"
+        },
+        {
+            "enchantLv": 1297,
+            "maxExp": "75928184"
+        },
+        {
+            "enchantLv": 1298,
+            "maxExp": "75995216"
+        },
+        {
+            "enchantLv": 1299,
+            "maxExp": "76062248"
+        },
+        {
+            "enchantLv": 1300,
+            "maxExp": "76129280"
+        },
+        {
+            "enchantLv": 1301,
+            "maxExp": "76196312"
+        },
+        {
+            "enchantLv": 1302,
+            "maxExp": "76263344"
+        },
+        {
+            "enchantLv": 1303,
+            "maxExp": "76330376"
+        },
+        {
+            "enchantLv": 1304,
+            "maxExp": "76397408"
+        },
+        {
+            "enchantLv": 1305,
+            "maxExp": "76464440"
+        },
+        {
+            "enchantLv": 1306,
+            "maxExp": "76531472"
+        },
+        {
+            "enchantLv": 1307,
+            "maxExp": "76598504"
+        },
+        {
+            "enchantLv": 1308,
+            "maxExp": "76665536"
+        },
+        {
+            "enchantLv": 1309,
+            "maxExp": "76732568"
+        },
+        {
+            "enchantLv": 1310,
+            "maxExp": "76799600"
+        },
+        {
+            "enchantLv": 1311,
+            "maxExp": "76866632"
+        },
+        {
+            "enchantLv": 1312,
+            "maxExp": "76933664"
+        },
+        {
+            "enchantLv": 1313,
+            "maxExp": "77000696"
+        },
+        {
+            "enchantLv": 1314,
+            "maxExp": "77067728"
+        },
+        {
+            "enchantLv": 1315,
+            "maxExp": "77134760"
+        },
+        {
+            "enchantLv": 1316,
+            "maxExp": "77201792"
+        },
+        {
+            "enchantLv": 1317,
+            "maxExp": "77268824"
+        },
+        {
+            "enchantLv": 1318,
+            "maxExp": "77335856"
+        },
+        {
+            "enchantLv": 1319,
+            "maxExp": "77402888"
+        },
+        {
+            "enchantLv": 1320,
+            "maxExp": "77469920"
+        },
+        {
+            "enchantLv": 1321,
+            "maxExp": "77536952"
+        },
+        {
+            "enchantLv": 1322,
+            "maxExp": "77603984"
+        },
+        {
+            "enchantLv": 1323,
+            "maxExp": "77671016"
+        },
+        {
+            "enchantLv": 1324,
+            "maxExp": "77738048"
+        },
+        {
+            "enchantLv": 1325,
+            "maxExp": "77805080"
+        },
+        {
+            "enchantLv": 1326,
+            "maxExp": "77872112"
+        },
+        {
+            "enchantLv": 1327,
+            "maxExp": "77939144"
+        },
+        {
+            "enchantLv": 1328,
+            "maxExp": "78006176"
+        },
+        {
+            "enchantLv": 1329,
+            "maxExp": "78073208"
+        },
+        {
+            "enchantLv": 1330,
+            "maxExp": "78140240"
+        },
+        {
+            "enchantLv": 1331,
+            "maxExp": "78207272"
+        },
+        {
+            "enchantLv": 1332,
+            "maxExp": "78274304"
+        },
+        {
+            "enchantLv": 1333,
+            "maxExp": "78341336"
+        },
+        {
+            "enchantLv": 1334,
+            "maxExp": "78408368"
+        },
+        {
+            "enchantLv": 1335,
+            "maxExp": "78475400"
+        },
+        {
+            "enchantLv": 1336,
+            "maxExp": "78542432"
+        },
+        {
+            "enchantLv": 1337,
+            "maxExp": "78609464"
+        },
+        {
+            "enchantLv": 1338,
+            "maxExp": "78676496"
+        },
+        {
+            "enchantLv": 1339,
+            "maxExp": "78743528"
+        },
+        {
+            "enchantLv": 1340,
+            "maxExp": "78810560"
+        },
+        {
+            "enchantLv": 1341,
+            "maxExp": "78877592"
+        },
+        {
+            "enchantLv": 1342,
+            "maxExp": "78944624"
+        },
+        {
+            "enchantLv": 1343,
+            "maxExp": "79011656"
+        },
+        {
+            "enchantLv": 1344,
+            "maxExp": "79078688"
+        },
+        {
+            "enchantLv": 1345,
+            "maxExp": "79145720"
+        },
+        {
+            "enchantLv": 1346,
+            "maxExp": "79212752"
+        },
+        {
+            "enchantLv": 1347,
+            "maxExp": "79279784"
+        },
+        {
+            "enchantLv": 1348,
+            "maxExp": "79346816"
+        },
+        {
+            "enchantLv": 1349,
+            "maxExp": "79413848"
+        },
+        {
+            "enchantLv": 1350,
+            "maxExp": "79480880"
+        },
+        {
+            "enchantLv": 1351,
+            "maxExp": "79547912"
+        },
+        {
+            "enchantLv": 1352,
+            "maxExp": "79614944"
+        },
+        {
+            "enchantLv": 1353,
+            "maxExp": "79681976"
+        },
+        {
+            "enchantLv": 1354,
+            "maxExp": "79749008"
+        },
+        {
+            "enchantLv": 1355,
+            "maxExp": "79816040"
+        },
+        {
+            "enchantLv": 1356,
+            "maxExp": "79883072"
+        },
+        {
+            "enchantLv": 1357,
+            "maxExp": "79950104"
+        },
+        {
+            "enchantLv": 1358,
+            "maxExp": "80017136"
+        },
+        {
+            "enchantLv": 1359,
+            "maxExp": "80084168"
+        },
+        {
+            "enchantLv": 1360,
+            "maxExp": "80151200"
+        },
+        {
+            "enchantLv": 1361,
+            "maxExp": "80218232"
+        },
+        {
+            "enchantLv": 1362,
+            "maxExp": "80285264"
+        },
+        {
+            "enchantLv": 1363,
+            "maxExp": "80352296"
+        },
+        {
+            "enchantLv": 1364,
+            "maxExp": "80419328"
+        },
+        {
+            "enchantLv": 1365,
+            "maxExp": "80486360"
+        },
+        {
+            "enchantLv": 1366,
+            "maxExp": "80553392"
+        },
+        {
+            "enchantLv": 1367,
+            "maxExp": "80620424"
+        },
+        {
+            "enchantLv": 1368,
+            "maxExp": "80687456"
+        },
+        {
+            "enchantLv": 1369,
+            "maxExp": "80754488"
+        },
+        {
+            "enchantLv": 1370,
+            "maxExp": "80821520"
+        },
+        {
+            "enchantLv": 1371,
+            "maxExp": "80888552"
+        },
+        {
+            "enchantLv": 1372,
+            "maxExp": "80955584"
+        },
+        {
+            "enchantLv": 1373,
+            "maxExp": "81022616"
+        },
+        {
+            "enchantLv": 1374,
+            "maxExp": "81089648"
+        },
+        {
+            "enchantLv": 1375,
+            "maxExp": "81156680"
+        },
+        {
+            "enchantLv": 1376,
+            "maxExp": "81223712"
+        },
+        {
+            "enchantLv": 1377,
+            "maxExp": "81290744"
+        },
+        {
+            "enchantLv": 1378,
+            "maxExp": "81357776"
+        },
+        {
+            "enchantLv": 1379,
+            "maxExp": "81424808"
+        },
+        {
+            "enchantLv": 1380,
+            "maxExp": "81491840"
+        },
+        {
+            "enchantLv": 1381,
+            "maxExp": "81558872"
+        },
+        {
+            "enchantLv": 1382,
+            "maxExp": "81625904"
+        },
+        {
+            "enchantLv": 1383,
+            "maxExp": "81692936"
+        },
+        {
+            "enchantLv": 1384,
+            "maxExp": "81759968"
+        },
+        {
+            "enchantLv": 1385,
+            "maxExp": "81827000"
+        },
+        {
+            "enchantLv": 1386,
+            "maxExp": "81894032"
+        },
+        {
+            "enchantLv": 1387,
+            "maxExp": "81961064"
+        },
+        {
+            "enchantLv": 1388,
+            "maxExp": "82028096"
+        },
+        {
+            "enchantLv": 1389,
+            "maxExp": "82095128"
+        },
+        {
+            "enchantLv": 1390,
+            "maxExp": "82162160"
+        },
+        {
+            "enchantLv": 1391,
+            "maxExp": "82229192"
+        },
+        {
+            "enchantLv": 1392,
+            "maxExp": "82296224"
+        },
+        {
+            "enchantLv": 1393,
+            "maxExp": "82363256"
+        },
+        {
+            "enchantLv": 1394,
+            "maxExp": "82430288"
+        },
+        {
+            "enchantLv": 1395,
+            "maxExp": "82497320"
+        },
+        {
+            "enchantLv": 1396,
+            "maxExp": "82564352"
+        },
+        {
+            "enchantLv": 1397,
+            "maxExp": "82631384"
+        },
+        {
+            "enchantLv": 1398,
+            "maxExp": "82698416"
+        },
+        {
+            "enchantLv": 1399,
+            "maxExp": "82765448"
+        },
+        {
+            "enchantLv": 1400,
+            "maxExp": "82832480"
+        },
+        {
+            "enchantLv": 1401,
+            "maxExp": "82899512"
+        },
+        {
+            "enchantLv": 1402,
+            "maxExp": "82966544"
+        },
+        {
+            "enchantLv": 1403,
+            "maxExp": "83033576"
+        },
+        {
+            "enchantLv": 1404,
+            "maxExp": "83100608"
+        },
+        {
+            "enchantLv": 1405,
+            "maxExp": "83167640"
+        },
+        {
+            "enchantLv": 1406,
+            "maxExp": "83234672"
+        },
+        {
+            "enchantLv": 1407,
+            "maxExp": "83301704"
+        },
+        {
+            "enchantLv": 1408,
+            "maxExp": "83368736"
+        },
+        {
+            "enchantLv": 1409,
+            "maxExp": "83435768"
+        },
+        {
+            "enchantLv": 1410,
+            "maxExp": "83502800"
+        },
+        {
+            "enchantLv": 1411,
+            "maxExp": "83569832"
+        },
+        {
+            "enchantLv": 1412,
+            "maxExp": "83636864"
+        },
+        {
+            "enchantLv": 1413,
+            "maxExp": "83703896"
+        },
+        {
+            "enchantLv": 1414,
+            "maxExp": "83770928"
+        },
+        {
+            "enchantLv": 1415,
+            "maxExp": "83837960"
+        },
+        {
+            "enchantLv": 1416,
+            "maxExp": "83904992"
+        },
+        {
+            "enchantLv": 1417,
+            "maxExp": "83972024"
+        },
+        {
+            "enchantLv": 1418,
+            "maxExp": "84039056"
+        },
+        {
+            "enchantLv": 1419,
+            "maxExp": "84106088"
+        },
+        {
+            "enchantLv": 1420,
+            "maxExp": "84173120"
+        },
+        {
+            "enchantLv": 1421,
+            "maxExp": "84240152"
+        },
+        {
+            "enchantLv": 1422,
+            "maxExp": "84307184"
+        },
+        {
+            "enchantLv": 1423,
+            "maxExp": "84374216"
+        },
+        {
+            "enchantLv": 1424,
+            "maxExp": "84441248"
+        },
+        {
+            "enchantLv": 1425,
+            "maxExp": "84508280"
+        },
+        {
+            "enchantLv": 1426,
+            "maxExp": "84575312"
+        },
+        {
+            "enchantLv": 1427,
+            "maxExp": "84642344"
+        },
+        {
+            "enchantLv": 1428,
+            "maxExp": "84709376"
+        },
+        {
+            "enchantLv": 1429,
+            "maxExp": "84776408"
+        },
+        {
+            "enchantLv": 1430,
+            "maxExp": "84843440"
+        },
+        {
+            "enchantLv": 1431,
+            "maxExp": "84910472"
+        },
+        {
+            "enchantLv": 1432,
+            "maxExp": "84977504"
+        },
+        {
+            "enchantLv": 1433,
+            "maxExp": "85044536"
+        },
+        {
+            "enchantLv": 1434,
+            "maxExp": "85111568"
+        },
+        {
+            "enchantLv": 1435,
+            "maxExp": "85178600"
+        },
+        {
+            "enchantLv": 1436,
+            "maxExp": "85245632"
+        },
+        {
+            "enchantLv": 1437,
+            "maxExp": "85312664"
+        },
+        {
+            "enchantLv": 1438,
+            "maxExp": "85379696"
+        },
+        {
+            "enchantLv": 1439,
+            "maxExp": "85446728"
+        },
+        {
+            "enchantLv": 1440,
+            "maxExp": "85513760"
+        },
+        {
+            "enchantLv": 1441,
+            "maxExp": "85580792"
+        },
+        {
+            "enchantLv": 1442,
+            "maxExp": "85647824"
+        },
+        {
+            "enchantLv": 1443,
+            "maxExp": "85714856"
+        },
+        {
+            "enchantLv": 1444,
+            "maxExp": "85781888"
+        },
+        {
+            "enchantLv": 1445,
+            "maxExp": "85848920"
+        },
+        {
+            "enchantLv": 1446,
+            "maxExp": "85915952"
+        },
+        {
+            "enchantLv": 1447,
+            "maxExp": "85982984"
+        },
+        {
+            "enchantLv": 1448,
+            "maxExp": "86050016"
+        },
+        {
+            "enchantLv": 1449,
+            "maxExp": "86117048"
+        },
+        {
+            "enchantLv": 1450,
+            "maxExp": "86184080"
+        },
+        {
+            "enchantLv": 1451,
+            "maxExp": "86251112"
+        },
+        {
+            "enchantLv": 1452,
+            "maxExp": "86318144"
+        },
+        {
+            "enchantLv": 1453,
+            "maxExp": "86385176"
+        },
+        {
+            "enchantLv": 1454,
+            "maxExp": "86452208"
+        },
+        {
+            "enchantLv": 1455,
+            "maxExp": "86519240"
+        },
+        {
+            "enchantLv": 1456,
+            "maxExp": "86586272"
+        },
+        {
+            "enchantLv": 1457,
+            "maxExp": "86653304"
+        },
+        {
+            "enchantLv": 1458,
+            "maxExp": "86720336"
+        },
+        {
+            "enchantLv": 1459,
+            "maxExp": "86787368"
+        },
+        {
+            "enchantLv": 1460,
+            "maxExp": "86854400"
+        },
+        {
+            "enchantLv": 1461,
+            "maxExp": "86921432"
+        },
+        {
+            "enchantLv": 1462,
+            "maxExp": "86988464"
+        },
+        {
+            "enchantLv": 1463,
+            "maxExp": "87055496"
+        },
+        {
+            "enchantLv": 1464,
+            "maxExp": "87122528"
+        },
+        {
+            "enchantLv": 1465,
+            "maxExp": "87189560"
+        },
+        {
+            "enchantLv": 1466,
+            "maxExp": "87256592"
+        },
+        {
+            "enchantLv": 1467,
+            "maxExp": "87323624"
+        },
+        {
+            "enchantLv": 1468,
+            "maxExp": "87390656"
+        },
+        {
+            "enchantLv": 1469,
+            "maxExp": "87457688"
+        },
+        {
+            "enchantLv": 1470,
+            "maxExp": "87524720"
+        },
+        {
+            "enchantLv": 1471,
+            "maxExp": "87591752"
+        },
+        {
+            "enchantLv": 1472,
+            "maxExp": "87658784"
+        },
+        {
+            "enchantLv": 1473,
+            "maxExp": "87725816"
+        },
+        {
+            "enchantLv": 1474,
+            "maxExp": "87792848"
+        },
+        {
+            "enchantLv": 1475,
+            "maxExp": "87859880"
+        },
+        {
+            "enchantLv": 1476,
+            "maxExp": "87926912"
+        },
+        {
+            "enchantLv": 1477,
+            "maxExp": "87993944"
+        },
+        {
+            "enchantLv": 1478,
+            "maxExp": "88060976"
+        },
+        {
+            "enchantLv": 1479,
+            "maxExp": "88128008"
+        },
+        {
+            "enchantLv": 1480,
+            "maxExp": "88195040"
+        },
+        {
+            "enchantLv": 1481,
+            "maxExp": "88262072"
+        },
+        {
+            "enchantLv": 1482,
+            "maxExp": "88329104"
+        },
+        {
+            "enchantLv": 1483,
+            "maxExp": "88396136"
+        },
+        {
+            "enchantLv": 1484,
+            "maxExp": "88463168"
+        },
+        {
+            "enchantLv": 1485,
+            "maxExp": "88530200"
+        },
+        {
+            "enchantLv": 1486,
+            "maxExp": "88597232"
+        },
+        {
+            "enchantLv": 1487,
+            "maxExp": "88664264"
+        },
+        {
+            "enchantLv": 1488,
+            "maxExp": "88731296"
+        },
+        {
+            "enchantLv": 1489,
+            "maxExp": "88798328"
+        },
+        {
+            "enchantLv": 1490,
+            "maxExp": "88865360"
+        },
+        {
+            "enchantLv": 1491,
+            "maxExp": "88932392"
+        },
+        {
+            "enchantLv": 1492,
+            "maxExp": "88999424"
+        },
+        {
+            "enchantLv": 1493,
+            "maxExp": "89066456"
+        },
+        {
+            "enchantLv": 1494,
+            "maxExp": "89133488"
+        },
+        {
+            "enchantLv": 1495,
+            "maxExp": "89200520"
+        },
+        {
+            "enchantLv": 1496,
+            "maxExp": "89267552"
+        },
+        {
+            "enchantLv": 1497,
+            "maxExp": "89334584"
+        },
+        {
+            "enchantLv": 1498,
+            "maxExp": "89401616"
+        },
+        {
+            "enchantLv": 1499,
+            "maxExp": "89468648"
+        },
+        {
+            "enchantLv": 1500,
+            "maxExp": "89535680"
+        },
+        {
+            "enchantLv": 1501,
+            "maxExp": "89602712"
+        },
+        {
+            "enchantLv": 1502,
+            "maxExp": "89669744"
+        },
+        {
+            "enchantLv": 1503,
+            "maxExp": "89736776"
+        },
+        {
+            "enchantLv": 1504,
+            "maxExp": "89803808"
+        },
+        {
+            "enchantLv": 1505,
+            "maxExp": "89870840"
+        },
+        {
+            "enchantLv": 1506,
+            "maxExp": "89937872"
+        },
+        {
+            "enchantLv": 1507,
+            "maxExp": "90004904"
+        },
+        {
+            "enchantLv": 1508,
+            "maxExp": "90071936"
+        },
+        {
+            "enchantLv": 1509,
+            "maxExp": "90138968"
+        },
+        {
+            "enchantLv": 1510,
+            "maxExp": "90206000"
+        },
+        {
+            "enchantLv": 1511,
+            "maxExp": "90273032"
+        },
+        {
+            "enchantLv": 1512,
+            "maxExp": "90340064"
+        },
+        {
+            "enchantLv": 1513,
+            "maxExp": "90407096"
+        },
+        {
+            "enchantLv": 1514,
+            "maxExp": "90474128"
+        },
+        {
+            "enchantLv": 1515,
+            "maxExp": "90541160"
+        },
+        {
+            "enchantLv": 1516,
+            "maxExp": "90608192"
+        },
+        {
+            "enchantLv": 1517,
+            "maxExp": "90675224"
+        },
+        {
+            "enchantLv": 1518,
+            "maxExp": "90742256"
+        },
+        {
+            "enchantLv": 1519,
+            "maxExp": "90809288"
+        },
+        {
+            "enchantLv": 1520,
+            "maxExp": "90876320"
+        },
+        {
+            "enchantLv": 1521,
+            "maxExp": "90943352"
+        },
+        {
+            "enchantLv": 1522,
+            "maxExp": "91010384"
+        },
+        {
+            "enchantLv": 1523,
+            "maxExp": "91077416"
+        },
+        {
+            "enchantLv": 1524,
+            "maxExp": "91144448"
+        },
+        {
+            "enchantLv": 1525,
+            "maxExp": "91211480"
+        },
+        {
+            "enchantLv": 1526,
+            "maxExp": "91278512"
+        },
+        {
+            "enchantLv": 1527,
+            "maxExp": "91345544"
+        },
+        {
+            "enchantLv": 1528,
+            "maxExp": "91412576"
+        },
+        {
+            "enchantLv": 1529,
+            "maxExp": "91479608"
+        },
+        {
+            "enchantLv": 1530,
+            "maxExp": "91546640"
+        },
+        {
+            "enchantLv": 1531,
+            "maxExp": "91613672"
+        },
+        {
+            "enchantLv": 1532,
+            "maxExp": "91680704"
+        },
+        {
+            "enchantLv": 1533,
+            "maxExp": "91747736"
+        },
+        {
+            "enchantLv": 1534,
+            "maxExp": "91814768"
+        },
+        {
+            "enchantLv": 1535,
+            "maxExp": "91881800"
+        },
+        {
+            "enchantLv": 1536,
+            "maxExp": "91948832"
+        },
+        {
+            "enchantLv": 1537,
+            "maxExp": "92015864"
+        },
+        {
+            "enchantLv": 1538,
+            "maxExp": "92082896"
+        },
+        {
+            "enchantLv": 1539,
+            "maxExp": "92149928"
+        },
+        {
+            "enchantLv": 1540,
+            "maxExp": "92216960"
+        },
+        {
+            "enchantLv": 1541,
+            "maxExp": "92283992"
+        },
+        {
+            "enchantLv": 1542,
+            "maxExp": "92351024"
+        },
+        {
+            "enchantLv": 1543,
+            "maxExp": "92418056"
+        },
+        {
+            "enchantLv": 1544,
+            "maxExp": "92485088"
+        },
+        {
+            "enchantLv": 1545,
+            "maxExp": "92552120"
+        },
+        {
+            "enchantLv": 1546,
+            "maxExp": "92619152"
+        },
+        {
+            "enchantLv": 1547,
+            "maxExp": "92686184"
+        },
+        {
+            "enchantLv": 1548,
+            "maxExp": "92753216"
+        },
+        {
+            "enchantLv": 1549,
+            "maxExp": "92820248"
+        },
+        {
+            "enchantLv": 1550,
+            "maxExp": "92887280"
+        },
+        {
+            "enchantLv": 1551,
+            "maxExp": "92954312"
+        },
+        {
+            "enchantLv": 1552,
+            "maxExp": "93021344"
+        },
+        {
+            "enchantLv": 1553,
+            "maxExp": "93088376"
+        },
+        {
+            "enchantLv": 1554,
+            "maxExp": "93155408"
+        },
+        {
+            "enchantLv": 1555,
+            "maxExp": "93222440"
+        },
+        {
+            "enchantLv": 1556,
+            "maxExp": "93289472"
+        },
+        {
+            "enchantLv": 1557,
+            "maxExp": "93356504"
+        },
+        {
+            "enchantLv": 1558,
+            "maxExp": "93423536"
+        },
+        {
+            "enchantLv": 1559,
+            "maxExp": "93490568"
+        },
+        {
+            "enchantLv": 1560,
+            "maxExp": "93557600"
+        },
+        {
+            "enchantLv": 1561,
+            "maxExp": "93624632"
+        },
+        {
+            "enchantLv": 1562,
+            "maxExp": "93691664"
+        },
+        {
+            "enchantLv": 1563,
+            "maxExp": "93758696"
+        },
+        {
+            "enchantLv": 1564,
+            "maxExp": "93825728"
+        },
+        {
+            "enchantLv": 1565,
+            "maxExp": "93892760"
+        },
+        {
+            "enchantLv": 1566,
+            "maxExp": "93959792"
+        },
+        {
+            "enchantLv": 1567,
+            "maxExp": "94026824"
+        },
+        {
+            "enchantLv": 1568,
+            "maxExp": "94093856"
+        },
+        {
+            "enchantLv": 1569,
+            "maxExp": "94160888"
+        },
+        {
+            "enchantLv": 1570,
+            "maxExp": "94227920"
+        },
+        {
+            "enchantLv": 1571,
+            "maxExp": "94294952"
+        },
+        {
+            "enchantLv": 1572,
+            "maxExp": "94361984"
+        },
+        {
+            "enchantLv": 1573,
+            "maxExp": "94429016"
+        },
+        {
+            "enchantLv": 1574,
+            "maxExp": "94496048"
+        },
+        {
+            "enchantLv": 1575,
+            "maxExp": "94563080"
+        },
+        {
+            "enchantLv": 1576,
+            "maxExp": "94630112"
+        },
+        {
+            "enchantLv": 1577,
+            "maxExp": "94697144"
+        },
+        {
+            "enchantLv": 1578,
+            "maxExp": "94764176"
+        },
+        {
+            "enchantLv": 1579,
+            "maxExp": "94831208"
+        },
+        {
+            "enchantLv": 1580,
+            "maxExp": "94898240"
+        },
+        {
+            "enchantLv": 1581,
+            "maxExp": "94965272"
+        },
+        {
+            "enchantLv": 1582,
+            "maxExp": "95032304"
+        },
+        {
+            "enchantLv": 1583,
+            "maxExp": "95099336"
+        },
+        {
+            "enchantLv": 1584,
+            "maxExp": "95166368"
+        },
+        {
+            "enchantLv": 1585,
+            "maxExp": "95233400"
+        },
+        {
+            "enchantLv": 1586,
+            "maxExp": "95300432"
+        },
+        {
+            "enchantLv": 1587,
+            "maxExp": "95367464"
+        },
+        {
+            "enchantLv": 1588,
+            "maxExp": "95434496"
+        },
+        {
+            "enchantLv": 1589,
+            "maxExp": "95501528"
+        },
+        {
+            "enchantLv": 1590,
+            "maxExp": "95568560"
+        },
+        {
+            "enchantLv": 1591,
+            "maxExp": "95635592"
+        },
+        {
+            "enchantLv": 1592,
+            "maxExp": "95702624"
+        },
+        {
+            "enchantLv": 1593,
+            "maxExp": "95769656"
+        },
+        {
+            "enchantLv": 1594,
+            "maxExp": "95836688"
+        },
+        {
+            "enchantLv": 1595,
+            "maxExp": "95903720"
+        },
+        {
+            "enchantLv": 1596,
+            "maxExp": "95970752"
+        },
+        {
+            "enchantLv": 1597,
+            "maxExp": "96037784"
+        },
+        {
+            "enchantLv": 1598,
+            "maxExp": "96104816"
+        },
+        {
+            "enchantLv": 1599,
+            "maxExp": "96171848"
+        },
+        {
+            "enchantLv": 1600,
+            "maxExp": "96238880"
+        },
+        {
+            "enchantLv": 1601,
+            "maxExp": "96305912"
+        },
+        {
+            "enchantLv": 1602,
+            "maxExp": "96372944"
+        },
+        {
+            "enchantLv": 1603,
+            "maxExp": "96439976"
+        },
+        {
+            "enchantLv": 1604,
+            "maxExp": "96507008"
+        },
+        {
+            "enchantLv": 1605,
+            "maxExp": "96574040"
+        },
+        {
+            "enchantLv": 1606,
+            "maxExp": "96641072"
+        },
+        {
+            "enchantLv": 1607,
+            "maxExp": "96708104"
+        },
+        {
+            "enchantLv": 1608,
+            "maxExp": "96775136"
+        },
+        {
+            "enchantLv": 1609,
+            "maxExp": "96842168"
+        },
+        {
+            "enchantLv": 1610,
+            "maxExp": "96909200"
+        },
+        {
+            "enchantLv": 1611,
+            "maxExp": "96976232"
+        },
+        {
+            "enchantLv": 1612,
+            "maxExp": "97043264"
+        },
+        {
+            "enchantLv": 1613,
+            "maxExp": "97110296"
+        },
+        {
+            "enchantLv": 1614,
+            "maxExp": "97177328"
+        },
+        {
+            "enchantLv": 1615,
+            "maxExp": "97244360"
+        },
+        {
+            "enchantLv": 1616,
+            "maxExp": "97311392"
+        },
+        {
+            "enchantLv": 1617,
+            "maxExp": "97378424"
+        },
+        {
+            "enchantLv": 1618,
+            "maxExp": "97445456"
+        },
+        {
+            "enchantLv": 1619,
+            "maxExp": "97512488"
+        },
+        {
+            "enchantLv": 1620,
+            "maxExp": "97579520"
+        },
+        {
+            "enchantLv": 1621,
+            "maxExp": "97646552"
+        },
+        {
+            "enchantLv": 1622,
+            "maxExp": "97713584"
+        },
+        {
+            "enchantLv": 1623,
+            "maxExp": "97780616"
+        },
+        {
+            "enchantLv": 1624,
+            "maxExp": "97847648"
+        },
+        {
+            "enchantLv": 1625,
+            "maxExp": "97914680"
+        },
+        {
+            "enchantLv": 1626,
+            "maxExp": "97981712"
+        },
+        {
+            "enchantLv": 1627,
+            "maxExp": "98048744"
+        },
+        {
+            "enchantLv": 1628,
+            "maxExp": "98115776"
+        },
+        {
+            "enchantLv": 1629,
+            "maxExp": "98182808"
+        },
+        {
+            "enchantLv": 1630,
+            "maxExp": "98249840"
+        },
+        {
+            "enchantLv": 1631,
+            "maxExp": "98316872"
+        },
+        {
+            "enchantLv": 1632,
+            "maxExp": "98383904"
+        },
+        {
+            "enchantLv": 1633,
+            "maxExp": "98450936"
+        },
+        {
+            "enchantLv": 1634,
+            "maxExp": "98517968"
+        },
+        {
+            "enchantLv": 1635,
+            "maxExp": "98585000"
+        },
+        {
+            "enchantLv": 1636,
+            "maxExp": "98652032"
+        },
+        {
+            "enchantLv": 1637,
+            "maxExp": "98719064"
+        },
+        {
+            "enchantLv": 1638,
+            "maxExp": "98786096"
+        },
+        {
+            "enchantLv": 1639,
+            "maxExp": "98853128"
+        },
+        {
+            "enchantLv": 1640,
+            "maxExp": "98920160"
+        },
+        {
+            "enchantLv": 1641,
+            "maxExp": "98987192"
+        },
+        {
+            "enchantLv": 1642,
+            "maxExp": "99054224"
+        },
+        {
+            "enchantLv": 1643,
+            "maxExp": "99121256"
+        },
+        {
+            "enchantLv": 1644,
+            "maxExp": "99188288"
+        },
+        {
+            "enchantLv": 1645,
+            "maxExp": "99255320"
+        },
+        {
+            "enchantLv": 1646,
+            "maxExp": "99322352"
+        },
+        {
+            "enchantLv": 1647,
+            "maxExp": "99389384"
+        },
+        {
+            "enchantLv": 1648,
+            "maxExp": "99456416"
+        },
+        {
+            "enchantLv": 1649,
+            "maxExp": "99523448"
+        },
+        {
+            "enchantLv": 1650,
+            "maxExp": "99590480"
+        },
+        {
+            "enchantLv": 1651,
+            "maxExp": "99657512"
+        },
+        {
+            "enchantLv": 1652,
+            "maxExp": "99724544"
+        },
+        {
+            "enchantLv": 1653,
+            "maxExp": "99791576"
+        },
+        {
+            "enchantLv": 1654,
+            "maxExp": "99858608"
+        },
+        {
+            "enchantLv": 1655,
+            "maxExp": "99925640"
+        },
+        {
+            "enchantLv": 1656,
+            "maxExp": "99992672"
+        },
+        {
+            "enchantLv": 1657,
+            "maxExp": "100059704"
+        },
+        {
+            "enchantLv": 1658,
+            "maxExp": "100126736"
+        },
+        {
+            "enchantLv": 1659,
+            "maxExp": "100193768"
+        },
+        {
+            "enchantLv": 1660,
+            "maxExp": "100260800"
+        },
+        {
+            "enchantLv": 1661,
+            "maxExp": "100327832"
+        },
+        {
+            "enchantLv": 1662,
+            "maxExp": "100394864"
+        },
+        {
+            "enchantLv": 1663,
+            "maxExp": "100461896"
+        },
+        {
+            "enchantLv": 1664,
+            "maxExp": "100528928"
+        },
+        {
+            "enchantLv": 1665,
+            "maxExp": "100595960"
+        },
+        {
+            "enchantLv": 1666,
+            "maxExp": "100662992"
+        },
+        {
+            "enchantLv": 1667,
+            "maxExp": "100730024"
+        },
+        {
+            "enchantLv": 1668,
+            "maxExp": "100797056"
+        },
+        {
+            "enchantLv": 1669,
+            "maxExp": "100864088"
+        },
+        {
+            "enchantLv": 1670,
+            "maxExp": "100931120"
+        },
+        {
+            "enchantLv": 1671,
+            "maxExp": "100998152"
+        },
+        {
+            "enchantLv": 1672,
+            "maxExp": "101065184"
+        },
+        {
+            "enchantLv": 1673,
+            "maxExp": "101132216"
+        },
+        {
+            "enchantLv": 1674,
+            "maxExp": "101199248"
+        },
+        {
+            "enchantLv": 1675,
+            "maxExp": "101266280"
+        },
+        {
+            "enchantLv": 1676,
+            "maxExp": "101333312"
+        },
+        {
+            "enchantLv": 1677,
+            "maxExp": "101400344"
+        },
+        {
+            "enchantLv": 1678,
+            "maxExp": "101467376"
+        },
+        {
+            "enchantLv": 1679,
+            "maxExp": "101534408"
+        },
+        {
+            "enchantLv": 1680,
+            "maxExp": "101601440"
+        },
+        {
+            "enchantLv": 1681,
+            "maxExp": "101668472"
+        },
+        {
+            "enchantLv": 1682,
+            "maxExp": "101735504"
+        },
+        {
+            "enchantLv": 1683,
+            "maxExp": "101802536"
+        },
+        {
+            "enchantLv": 1684,
+            "maxExp": "101869568"
+        },
+        {
+            "enchantLv": 1685,
+            "maxExp": "101936600"
+        },
+        {
+            "enchantLv": 1686,
+            "maxExp": "102003632"
+        },
+        {
+            "enchantLv": 1687,
+            "maxExp": "102070664"
+        },
+        {
+            "enchantLv": 1688,
+            "maxExp": "102137696"
+        },
+        {
+            "enchantLv": 1689,
+            "maxExp": "102204728"
+        },
+        {
+            "enchantLv": 1690,
+            "maxExp": "102271760"
+        },
+        {
+            "enchantLv": 1691,
+            "maxExp": "102338792"
+        },
+        {
+            "enchantLv": 1692,
+            "maxExp": "102405824"
+        },
+        {
+            "enchantLv": 1693,
+            "maxExp": "102472856"
+        },
+        {
+            "enchantLv": 1694,
+            "maxExp": "102539888"
+        },
+        {
+            "enchantLv": 1695,
+            "maxExp": "102606920"
+        },
+        {
+            "enchantLv": 1696,
+            "maxExp": "102673952"
+        },
+        {
+            "enchantLv": 1697,
+            "maxExp": "102740984"
+        },
+        {
+            "enchantLv": 1698,
+            "maxExp": "102808016"
+        },
+        {
+            "enchantLv": 1699,
+            "maxExp": "102875048"
+        },
+        {
+            "enchantLv": 1700,
+            "maxExp": "102942080"
+        },
+        {
+            "enchantLv": 1701,
+            "maxExp": "103009112"
+        },
+        {
+            "enchantLv": 1702,
+            "maxExp": "103076144"
+        },
+        {
+            "enchantLv": 1703,
+            "maxExp": "103143176"
+        },
+        {
+            "enchantLv": 1704,
+            "maxExp": "103210208"
+        },
+        {
+            "enchantLv": 1705,
+            "maxExp": "103277240"
+        },
+        {
+            "enchantLv": 1706,
+            "maxExp": "103344272"
+        },
+        {
+            "enchantLv": 1707,
+            "maxExp": "103411304"
+        },
+        {
+            "enchantLv": 1708,
+            "maxExp": "103478336"
+        },
+        {
+            "enchantLv": 1709,
+            "maxExp": "103545368"
+        },
+        {
+            "enchantLv": 1710,
+            "maxExp": "103612400"
+        },
+        {
+            "enchantLv": 1711,
+            "maxExp": "103679432"
+        },
+        {
+            "enchantLv": 1712,
+            "maxExp": "103746464"
+        },
+        {
+            "enchantLv": 1713,
+            "maxExp": "103813496"
+        },
+        {
+            "enchantLv": 1714,
+            "maxExp": "103880528"
+        },
+        {
+            "enchantLv": 1715,
+            "maxExp": "103947560"
+        },
+        {
+            "enchantLv": 1716,
+            "maxExp": "104014592"
+        },
+        {
+            "enchantLv": 1717,
+            "maxExp": "104081624"
+        },
+        {
+            "enchantLv": 1718,
+            "maxExp": "104148656"
+        },
+        {
+            "enchantLv": 1719,
+            "maxExp": "104215688"
+        },
+        {
+            "enchantLv": 1720,
+            "maxExp": "104282720"
+        },
+        {
+            "enchantLv": 1721,
+            "maxExp": "104349752"
+        },
+        {
+            "enchantLv": 1722,
+            "maxExp": "104416784"
+        },
+        {
+            "enchantLv": 1723,
+            "maxExp": "104483816"
+        },
+        {
+            "enchantLv": 1724,
+            "maxExp": "104550848"
+        },
+        {
+            "enchantLv": 1725,
+            "maxExp": "104617880"
+        },
+        {
+            "enchantLv": 1726,
+            "maxExp": "104684912"
+        },
+        {
+            "enchantLv": 1727,
+            "maxExp": "104751944"
+        },
+        {
+            "enchantLv": 1728,
+            "maxExp": "104818976"
+        },
+        {
+            "enchantLv": 1729,
+            "maxExp": "104886008"
+        },
+        {
+            "enchantLv": 1730,
+            "maxExp": "104953040"
+        },
+        {
+            "enchantLv": 1731,
+            "maxExp": "105020072"
+        },
+        {
+            "enchantLv": 1732,
+            "maxExp": "105087104"
+        },
+        {
+            "enchantLv": 1733,
+            "maxExp": "105154136"
+        },
+        {
+            "enchantLv": 1734,
+            "maxExp": "105221168"
+        },
+        {
+            "enchantLv": 1735,
+            "maxExp": "105288200"
+        },
+        {
+            "enchantLv": 1736,
+            "maxExp": "105355232"
+        },
+        {
+            "enchantLv": 1737,
+            "maxExp": "105422264"
+        },
+        {
+            "enchantLv": 1738,
+            "maxExp": "105489296"
+        },
+        {
+            "enchantLv": 1739,
+            "maxExp": "105556328"
+        },
+        {
+            "enchantLv": 1740,
+            "maxExp": "105623360"
+        },
+        {
+            "enchantLv": 1741,
+            "maxExp": "105690392"
+        },
+        {
+            "enchantLv": 1742,
+            "maxExp": "105757424"
+        },
+        {
+            "enchantLv": 1743,
+            "maxExp": "105824456"
+        },
+        {
+            "enchantLv": 1744,
+            "maxExp": "105891488"
+        },
+        {
+            "enchantLv": 1745,
+            "maxExp": "105958520"
+        },
+        {
+            "enchantLv": 1746,
+            "maxExp": "106025552"
+        },
+        {
+            "enchantLv": 1747,
+            "maxExp": "106092584"
+        },
+        {
+            "enchantLv": 1748,
+            "maxExp": "106159616"
+        },
+        {
+            "enchantLv": 1749,
+            "maxExp": "106226648"
+        },
+        {
+            "enchantLv": 1750,
+            "maxExp": "106293680"
+        },
+        {
+            "enchantLv": 1751,
+            "maxExp": "106360712"
+        },
+        {
+            "enchantLv": 1752,
+            "maxExp": "106427744"
+        },
+        {
+            "enchantLv": 1753,
+            "maxExp": "106494776"
+        },
+        {
+            "enchantLv": 1754,
+            "maxExp": "106561808"
+        },
+        {
+            "enchantLv": 1755,
+            "maxExp": "106628840"
+        },
+        {
+            "enchantLv": 1756,
+            "maxExp": "106695872"
+        },
+        {
+            "enchantLv": 1757,
+            "maxExp": "106762904"
+        },
+        {
+            "enchantLv": 1758,
+            "maxExp": "106829936"
+        },
+        {
+            "enchantLv": 1759,
+            "maxExp": "106896968"
+        },
+        {
+            "enchantLv": 1760,
+            "maxExp": "106964000"
+        },
+        {
+            "enchantLv": 1761,
+            "maxExp": "107031032"
+        },
+        {
+            "enchantLv": 1762,
+            "maxExp": "107098064"
+        },
+        {
+            "enchantLv": 1763,
+            "maxExp": "107165096"
+        },
+        {
+            "enchantLv": 1764,
+            "maxExp": "107232128"
+        },
+        {
+            "enchantLv": 1765,
+            "maxExp": "107299160"
+        },
+        {
+            "enchantLv": 1766,
+            "maxExp": "107366192"
+        },
+        {
+            "enchantLv": 1767,
+            "maxExp": "107433224"
+        },
+        {
+            "enchantLv": 1768,
+            "maxExp": "107500256"
+        },
+        {
+            "enchantLv": 1769,
+            "maxExp": "107567288"
+        },
+        {
+            "enchantLv": 1770,
+            "maxExp": "107634320"
+        },
+        {
+            "enchantLv": 1771,
+            "maxExp": "107701352"
+        },
+        {
+            "enchantLv": 1772,
+            "maxExp": "107768384"
+        },
+        {
+            "enchantLv": 1773,
+            "maxExp": "107835416"
+        },
+        {
+            "enchantLv": 1774,
+            "maxExp": "107902448"
+        },
+        {
+            "enchantLv": 1775,
+            "maxExp": "107969480"
+        },
+        {
+            "enchantLv": 1776,
+            "maxExp": "108036512"
+        },
+        {
+            "enchantLv": 1777,
+            "maxExp": "108103544"
+        },
+        {
+            "enchantLv": 1778,
+            "maxExp": "108170576"
+        },
+        {
+            "enchantLv": 1779,
+            "maxExp": "108237608"
+        },
+        {
+            "enchantLv": 1780,
+            "maxExp": "108304640"
+        },
+        {
+            "enchantLv": 1781,
+            "maxExp": "108371672"
+        },
+        {
+            "enchantLv": 1782,
+            "maxExp": "108438704"
+        },
+        {
+            "enchantLv": 1783,
+            "maxExp": "108505736"
+        },
+        {
+            "enchantLv": 1784,
+            "maxExp": "108572768"
+        },
+        {
+            "enchantLv": 1785,
+            "maxExp": "108639800"
+        },
+        {
+            "enchantLv": 1786,
+            "maxExp": "108706832"
+        },
+        {
+            "enchantLv": 1787,
+            "maxExp": "108773864"
+        },
+        {
+            "enchantLv": 1788,
+            "maxExp": "108840896"
+        },
+        {
+            "enchantLv": 1789,
+            "maxExp": "108907928"
+        },
+        {
+            "enchantLv": 1790,
+            "maxExp": "108974960"
+        },
+        {
+            "enchantLv": 1791,
+            "maxExp": "109041992"
+        },
+        {
+            "enchantLv": 1792,
+            "maxExp": "109109024"
+        },
+        {
+            "enchantLv": 1793,
+            "maxExp": "109176056"
+        },
+        {
+            "enchantLv": 1794,
+            "maxExp": "109243088"
+        },
+        {
+            "enchantLv": 1795,
+            "maxExp": "109310120"
+        },
+        {
+            "enchantLv": 1796,
+            "maxExp": "109377152"
+        },
+        {
+            "enchantLv": 1797,
+            "maxExp": "109444184"
+        },
+        {
+            "enchantLv": 1798,
+            "maxExp": "109511216"
+        },
+        {
+            "enchantLv": 1799,
+            "maxExp": "109578248"
+        },
+        {
+            "enchantLv": 1800,
+            "maxExp": "109645280"
+        },
+        {
+            "enchantLv": 1801,
+            "maxExp": "109712312"
+        },
+        {
+            "enchantLv": 1802,
+            "maxExp": "109779344"
+        },
+        {
+            "enchantLv": 1803,
+            "maxExp": "109846376"
+        },
+        {
+            "enchantLv": 1804,
+            "maxExp": "109913408"
+        },
+        {
+            "enchantLv": 1805,
+            "maxExp": "109980440"
+        },
+        {
+            "enchantLv": 1806,
+            "maxExp": "110047472"
+        },
+        {
+            "enchantLv": 1807,
+            "maxExp": "110114504"
+        },
+        {
+            "enchantLv": 1808,
+            "maxExp": "110181536"
+        },
+        {
+            "enchantLv": 1809,
+            "maxExp": "110248568"
+        },
+        {
+            "enchantLv": 1810,
+            "maxExp": "110315600"
+        },
+        {
+            "enchantLv": 1811,
+            "maxExp": "110382632"
+        },
+        {
+            "enchantLv": 1812,
+            "maxExp": "110449664"
+        },
+        {
+            "enchantLv": 1813,
+            "maxExp": "110516696"
+        },
+        {
+            "enchantLv": 1814,
+            "maxExp": "110583728"
+        },
+        {
+            "enchantLv": 1815,
+            "maxExp": "110650760"
+        },
+        {
+            "enchantLv": 1816,
+            "maxExp": "110717792"
+        },
+        {
+            "enchantLv": 1817,
+            "maxExp": "110784824"
+        },
+        {
+            "enchantLv": 1818,
+            "maxExp": "110851856"
+        },
+        {
+            "enchantLv": 1819,
+            "maxExp": "110918888"
+        },
+        {
+            "enchantLv": 1820,
+            "maxExp": "110985920"
+        },
+        {
+            "enchantLv": 1821,
+            "maxExp": "111052952"
+        },
+        {
+            "enchantLv": 1822,
+            "maxExp": "111119984"
+        },
+        {
+            "enchantLv": 1823,
+            "maxExp": "111187016"
+        },
+        {
+            "enchantLv": 1824,
+            "maxExp": "111254048"
+        },
+        {
+            "enchantLv": 1825,
+            "maxExp": "111321080"
+        },
+        {
+            "enchantLv": 1826,
+            "maxExp": "111388112"
+        },
+        {
+            "enchantLv": 1827,
+            "maxExp": "111455144"
+        },
+        {
+            "enchantLv": 1828,
+            "maxExp": "111522176"
+        },
+        {
+            "enchantLv": 1829,
+            "maxExp": "111589208"
+        },
+        {
+            "enchantLv": 1830,
+            "maxExp": "111656240"
+        },
+        {
+            "enchantLv": 1831,
+            "maxExp": "111723272"
+        },
+        {
+            "enchantLv": 1832,
+            "maxExp": "111790304"
+        },
+        {
+            "enchantLv": 1833,
+            "maxExp": "111857336"
+        },
+        {
+            "enchantLv": 1834,
+            "maxExp": "111924368"
+        },
+        {
+            "enchantLv": 1835,
+            "maxExp": "111991400"
+        },
+        {
+            "enchantLv": 1836,
+            "maxExp": "112058432"
+        },
+        {
+            "enchantLv": 1837,
+            "maxExp": "112125464"
+        },
+        {
+            "enchantLv": 1838,
+            "maxExp": "112192496"
+        },
+        {
+            "enchantLv": 1839,
+            "maxExp": "112259528"
+        },
+        {
+            "enchantLv": 1840,
+            "maxExp": "112326560"
+        },
+        {
+            "enchantLv": 1841,
+            "maxExp": "112393592"
+        },
+        {
+            "enchantLv": 1842,
+            "maxExp": "112460624"
+        },
+        {
+            "enchantLv": 1843,
+            "maxExp": "112527656"
+        },
+        {
+            "enchantLv": 1844,
+            "maxExp": "112594688"
+        },
+        {
+            "enchantLv": 1845,
+            "maxExp": "112661720"
+        },
+        {
+            "enchantLv": 1846,
+            "maxExp": "112728752"
+        },
+        {
+            "enchantLv": 1847,
+            "maxExp": "112795784"
+        },
+        {
+            "enchantLv": 1848,
+            "maxExp": "112862816"
+        },
+        {
+            "enchantLv": 1849,
+            "maxExp": "112929848"
+        },
+        {
+            "enchantLv": 1850,
+            "maxExp": "112996880"
+        },
+        {
+            "enchantLv": 1851,
+            "maxExp": "113063912"
+        },
+        {
+            "enchantLv": 1852,
+            "maxExp": "113130944"
+        },
+        {
+            "enchantLv": 1853,
+            "maxExp": "113197976"
+        },
+        {
+            "enchantLv": 1854,
+            "maxExp": "113265008"
+        },
+        {
+            "enchantLv": 1855,
+            "maxExp": "113332040"
+        },
+        {
+            "enchantLv": 1856,
+            "maxExp": "113399072"
+        },
+        {
+            "enchantLv": 1857,
+            "maxExp": "113466104"
+        },
+        {
+            "enchantLv": 1858,
+            "maxExp": "113533136"
+        },
+        {
+            "enchantLv": 1859,
+            "maxExp": "113600168"
+        },
+        {
+            "enchantLv": 1860,
+            "maxExp": "113667200"
+        },
+        {
+            "enchantLv": 1861,
+            "maxExp": "113734232"
+        },
+        {
+            "enchantLv": 1862,
+            "maxExp": "113801264"
+        },
+        {
+            "enchantLv": 1863,
+            "maxExp": "113868296"
+        },
+        {
+            "enchantLv": 1864,
+            "maxExp": "113935328"
+        },
+        {
+            "enchantLv": 1865,
+            "maxExp": "114002360"
+        },
+        {
+            "enchantLv": 1866,
+            "maxExp": "114069392"
+        },
+        {
+            "enchantLv": 1867,
+            "maxExp": "114136424"
+        },
+        {
+            "enchantLv": 1868,
+            "maxExp": "114203456"
+        },
+        {
+            "enchantLv": 1869,
+            "maxExp": "114270488"
+        },
+        {
+            "enchantLv": 1870,
+            "maxExp": "114337520"
+        },
+        {
+            "enchantLv": 1871,
+            "maxExp": "114404552"
+        },
+        {
+            "enchantLv": 1872,
+            "maxExp": "114471584"
+        },
+        {
+            "enchantLv": 1873,
+            "maxExp": "114538616"
+        },
+        {
+            "enchantLv": 1874,
+            "maxExp": "114605648"
+        },
+        {
+            "enchantLv": 1875,
+            "maxExp": "114672680"
+        },
+        {
+            "enchantLv": 1876,
+            "maxExp": "114739712"
+        },
+        {
+            "enchantLv": 1877,
+            "maxExp": "114806744"
+        },
+        {
+            "enchantLv": 1878,
+            "maxExp": "114873776"
+        },
+        {
+            "enchantLv": 1879,
+            "maxExp": "114940808"
+        },
+        {
+            "enchantLv": 1880,
+            "maxExp": "115007840"
+        },
+        {
+            "enchantLv": 1881,
+            "maxExp": "115074872"
+        },
+        {
+            "enchantLv": 1882,
+            "maxExp": "115141904"
+        },
+        {
+            "enchantLv": 1883,
+            "maxExp": "115208936"
+        },
+        {
+            "enchantLv": 1884,
+            "maxExp": "115275968"
+        },
+        {
+            "enchantLv": 1885,
+            "maxExp": "115343000"
+        },
+        {
+            "enchantLv": 1886,
+            "maxExp": "115410032"
+        },
+        {
+            "enchantLv": 1887,
+            "maxExp": "115477064"
+        },
+        {
+            "enchantLv": 1888,
+            "maxExp": "115544096"
+        },
+        {
+            "enchantLv": 1889,
+            "maxExp": "115611128"
+        },
+        {
+            "enchantLv": 1890,
+            "maxExp": "115678160"
+        },
+        {
+            "enchantLv": 1891,
+            "maxExp": "115745192"
+        },
+        {
+            "enchantLv": 1892,
+            "maxExp": "115812224"
+        },
+        {
+            "enchantLv": 1893,
+            "maxExp": "115879256"
+        },
+        {
+            "enchantLv": 1894,
+            "maxExp": "115946288"
+        },
+        {
+            "enchantLv": 1895,
+            "maxExp": "116013320"
+        },
+        {
+            "enchantLv": 1896,
+            "maxExp": "116080352"
+        },
+        {
+            "enchantLv": 1897,
+            "maxExp": "116147384"
+        },
+        {
+            "enchantLv": 1898,
+            "maxExp": "116214416"
+        },
+        {
+            "enchantLv": 1899,
+            "maxExp": "116281448"
+        },
+        {
+            "enchantLv": 1900,
+            "maxExp": "116348480"
+        },
+        {
+            "enchantLv": 1901,
+            "maxExp": "116415512"
+        },
+        {
+            "enchantLv": 1902,
+            "maxExp": "116482544"
+        },
+        {
+            "enchantLv": 1903,
+            "maxExp": "116549576"
+        },
+        {
+            "enchantLv": 1904,
+            "maxExp": "116616608"
+        },
+        {
+            "enchantLv": 1905,
+            "maxExp": "116683640"
+        },
+        {
+            "enchantLv": 1906,
+            "maxExp": "116750672"
+        },
+        {
+            "enchantLv": 1907,
+            "maxExp": "116817704"
+        },
+        {
+            "enchantLv": 1908,
+            "maxExp": "116884736"
+        },
+        {
+            "enchantLv": 1909,
+            "maxExp": "116951768"
+        },
+        {
+            "enchantLv": 1910,
+            "maxExp": "117018800"
+        },
+        {
+            "enchantLv": 1911,
+            "maxExp": "117085832"
+        },
+        {
+            "enchantLv": 1912,
+            "maxExp": "117152864"
+        },
+        {
+            "enchantLv": 1913,
+            "maxExp": "117219896"
+        },
+        {
+            "enchantLv": 1914,
+            "maxExp": "117286928"
+        },
+        {
+            "enchantLv": 1915,
+            "maxExp": "117353960"
+        },
+        {
+            "enchantLv": 1916,
+            "maxExp": "117420992"
+        },
+        {
+            "enchantLv": 1917,
+            "maxExp": "117488024"
+        },
+        {
+            "enchantLv": 1918,
+            "maxExp": "117555056"
+        },
+        {
+            "enchantLv": 1919,
+            "maxExp": "117622088"
+        },
+        {
+            "enchantLv": 1920,
+            "maxExp": "117689120"
+        },
+        {
+            "enchantLv": 1921,
+            "maxExp": "117756152"
+        },
+        {
+            "enchantLv": 1922,
+            "maxExp": "117823184"
+        },
+        {
+            "enchantLv": 1923,
+            "maxExp": "117890216"
+        },
+        {
+            "enchantLv": 1924,
+            "maxExp": "117957248"
+        },
+        {
+            "enchantLv": 1925,
+            "maxExp": "118024280"
+        },
+        {
+            "enchantLv": 1926,
+            "maxExp": "118091312"
+        },
+        {
+            "enchantLv": 1927,
+            "maxExp": "118158344"
+        },
+        {
+            "enchantLv": 1928,
+            "maxExp": "118225376"
+        },
+        {
+            "enchantLv": 1929,
+            "maxExp": "118292408"
+        },
+        {
+            "enchantLv": 1930,
+            "maxExp": "118359440"
+        },
+        {
+            "enchantLv": 1931,
+            "maxExp": "118426472"
+        },
+        {
+            "enchantLv": 1932,
+            "maxExp": "118493504"
+        },
+        {
+            "enchantLv": 1933,
+            "maxExp": "118560536"
+        },
+        {
+            "enchantLv": 1934,
+            "maxExp": "118627568"
+        },
+        {
+            "enchantLv": 1935,
+            "maxExp": "118694600"
+        },
+        {
+            "enchantLv": 1936,
+            "maxExp": "118761632"
+        },
+        {
+            "enchantLv": 1937,
+            "maxExp": "118828664"
+        },
+        {
+            "enchantLv": 1938,
+            "maxExp": "118895696"
+        },
+        {
+            "enchantLv": 1939,
+            "maxExp": "118962728"
+        },
+        {
+            "enchantLv": 1940,
+            "maxExp": "119029760"
+        },
+        {
+            "enchantLv": 1941,
+            "maxExp": "119096792"
+        },
+        {
+            "enchantLv": 1942,
+            "maxExp": "119163824"
+        },
+        {
+            "enchantLv": 1943,
+            "maxExp": "119230856"
+        },
+        {
+            "enchantLv": 1944,
+            "maxExp": "119297888"
+        },
+        {
+            "enchantLv": 1945,
+            "maxExp": "119364920"
+        },
+        {
+            "enchantLv": 1946,
+            "maxExp": "119431952"
+        },
+        {
+            "enchantLv": 1947,
+            "maxExp": "119498984"
+        },
+        {
+            "enchantLv": 1948,
+            "maxExp": "119566016"
+        },
+        {
+            "enchantLv": 1949,
+            "maxExp": "119633048"
+        },
+        {
+            "enchantLv": 1950,
+            "maxExp": "119700080"
+        },
+        {
+            "enchantLv": 1951,
+            "maxExp": "119767112"
+        },
+        {
+            "enchantLv": 1952,
+            "maxExp": "119834144"
+        },
+        {
+            "enchantLv": 1953,
+            "maxExp": "119901176"
+        },
+        {
+            "enchantLv": 1954,
+            "maxExp": "119968208"
+        },
+        {
+            "enchantLv": 1955,
+            "maxExp": "120035240"
+        },
+        {
+            "enchantLv": 1956,
+            "maxExp": "120102272"
+        },
+        {
+            "enchantLv": 1957,
+            "maxExp": "120169304"
+        },
+        {
+            "enchantLv": 1958,
+            "maxExp": "120236336"
+        },
+        {
+            "enchantLv": 1959,
+            "maxExp": "120303368"
+        },
+        {
+            "enchantLv": 1960,
+            "maxExp": "120370400"
+        },
+        {
+            "enchantLv": 1961,
+            "maxExp": "120437432"
+        },
+        {
+            "enchantLv": 1962,
+            "maxExp": "120504464"
+        },
+        {
+            "enchantLv": 1963,
+            "maxExp": "120571496"
+        },
+        {
+            "enchantLv": 1964,
+            "maxExp": "120638528"
+        },
+        {
+            "enchantLv": 1965,
+            "maxExp": "120705560"
+        },
+        {
+            "enchantLv": 1966,
+            "maxExp": "120772592"
+        },
+        {
+            "enchantLv": 1967,
+            "maxExp": "120839624"
+        },
+        {
+            "enchantLv": 1968,
+            "maxExp": "120906656"
+        },
+        {
+            "enchantLv": 1969,
+            "maxExp": "120973688"
+        },
+        {
+            "enchantLv": 1970,
+            "maxExp": "121040720"
+        },
+        {
+            "enchantLv": 1971,
+            "maxExp": "121107752"
+        },
+        {
+            "enchantLv": 1972,
+            "maxExp": "121174784"
+        },
+        {
+            "enchantLv": 1973,
+            "maxExp": "121241816"
+        },
+        {
+            "enchantLv": 1974,
+            "maxExp": "121308848"
+        },
+        {
+            "enchantLv": 1975,
+            "maxExp": "121375880"
+        },
+        {
+            "enchantLv": 1976,
+            "maxExp": "121442912"
+        },
+        {
+            "enchantLv": 1977,
+            "maxExp": "121509944"
+        },
+        {
+            "enchantLv": 1978,
+            "maxExp": "121576976"
+        },
+        {
+            "enchantLv": 1979,
+            "maxExp": "121644008"
+        },
+        {
+            "enchantLv": 1980,
+            "maxExp": "121711040"
+        },
+        {
+            "enchantLv": 1981,
+            "maxExp": "121778072"
+        },
+        {
+            "enchantLv": 1982,
+            "maxExp": "121845104"
+        },
+        {
+            "enchantLv": 1983,
+            "maxExp": "121912136"
+        },
+        {
+            "enchantLv": 1984,
+            "maxExp": "121979168"
+        },
+        {
+            "enchantLv": 1985,
+            "maxExp": "122046200"
+        },
+        {
+            "enchantLv": 1986,
+            "maxExp": "122113232"
+        },
+        {
+            "enchantLv": 1987,
+            "maxExp": "122180264"
+        },
+        {
+            "enchantLv": 1988,
+            "maxExp": "122247296"
+        },
+        {
+            "enchantLv": 1989,
+            "maxExp": "122314328"
+        },
+        {
+            "enchantLv": 1990,
+            "maxExp": "122381360"
+        },
+        {
+            "enchantLv": 1991,
+            "maxExp": "122448392"
+        },
+        {
+            "enchantLv": 1992,
+            "maxExp": "122515424"
+        },
+        {
+            "enchantLv": 1993,
+            "maxExp": "122582456"
+        },
+        {
+            "enchantLv": 1994,
+            "maxExp": "122649488"
+        },
+        {
+            "enchantLv": 1995,
+            "maxExp": "122716520"
+        },
+        {
+            "enchantLv": 1996,
+            "maxExp": "122783552"
+        },
+        {
+            "enchantLv": 1997,
+            "maxExp": "122850584"
+        },
+        {
+            "enchantLv": 1998,
+            "maxExp": "122917616"
+        },
+        {
+            "enchantLv": 1999,
+            "maxExp": "122984648"
+        }
+    ]
+}

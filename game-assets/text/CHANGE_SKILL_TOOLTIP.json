@@ -1,0 +1,94 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2129384369119378383
+    },
+    "m_Name": "CHANGE_SKILL_TOOLTIP",
+    "keys": [
+        102440101,
+        102440301,
+        102440501,
+        102442601,
+        101577101,
+        101577801,
+        101579301,
+        101579901,
+        102449501,
+        122440101,
+        122440501,
+        122440801,
+        122441501
+    ],
+    "values": [
+        {
+            "indexSkillId": 102440101,
+            "changeSkillId": 102441101,
+            "changeSkillLocal": "SKILL_CHANGE_102441101"
+        },
+        {
+            "indexSkillId": 102440301,
+            "changeSkillId": 102441301,
+            "changeSkillLocal": "SKILL_CHANGE_102441101"
+        },
+        {
+            "indexSkillId": 102440501,
+            "changeSkillId": 102441501,
+            "changeSkillLocal": "SKILL_CHANGE_102441101"
+        },
+        {
+            "indexSkillId": 102442601,
+            "changeSkillId": 102443601,
+            "changeSkillLocal": "SKILL_CHANGE_102441101"
+        },
+        {
+            "indexSkillId": 101577101,
+            "changeSkillId": 121570501,
+            "changeSkillLocal": "SKILL_CHANGE_121570501"
+        },
+        {
+            "indexSkillId": 101577801,
+            "changeSkillId": 121570801,
+            "changeSkillLocal": "SKILL_CHANGE_121570501"
+        },
+        {
+            "indexSkillId": 101579301,
+            "changeSkillId": 121570901,
+            "changeSkillLocal": "SKILL_CHANGE_121570501"
+        },
+        {
+            "indexSkillId": 101579901,
+            "changeSkillId": 121571001,
+            "changeSkillLocal": "SKILL_CHANGE_121570501"
+        },
+        {
+            "indexSkillId": 102449501,
+            "changeSkillId": 102449801,
+            "changeSkillLocal": "SKILL_CHANGE_102449801"
+        },
+        {
+            "indexSkillId": 122440101,
+            "changeSkillId": 122440301,
+            "changeSkillLocal": "SKILL_CHANGE_102449801"
+        },
+        {
+            "indexSkillId": 122440501,
+            "changeSkillId": 122440601,
+            "changeSkillLocal": "SKILL_CHANGE_102449801"
+        },
+        {
+            "indexSkillId": 122440801,
+            "changeSkillId": 122441201,
+            "changeSkillLocal": "SKILL_CHANGE_102449801"
+        },
+        {
+            "indexSkillId": 122441501,
+            "changeSkillId": 122441801,
+            "changeSkillLocal": "SKILL_CHANGE_102449801"
+        }
+    ]
+}

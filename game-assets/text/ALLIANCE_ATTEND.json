@@ -1,0 +1,58 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1776715115611584821
+    },
+    "m_Name": "ALLIANCE_ATTEND",
+    "list": [
+        {
+            "attendId": 1,
+            "attendValue": 0,
+            "rewardType": 300,
+            "rewardValue": 1734,
+            "rewardQty": 1,
+            "rewardGold": 20000,
+            "rewardToken": 5,
+            "rewardAllianceExp": 250,
+            "rewardShopExp": 150
+        },
+        {
+            "attendId": 2,
+            "attendValue": 11,
+            "rewardType": 300,
+            "rewardValue": 1735,
+            "rewardQty": 1,
+            "rewardGold": 50000,
+            "rewardToken": 5,
+            "rewardAllianceExp": 300,
+            "rewardShopExp": 200
+        },
+        {
+            "attendId": 3,
+            "attendValue": 21,
+            "rewardType": 300,
+            "rewardValue": 1736,
+            "rewardQty": 1,
+            "rewardGold": 100000,
+            "rewardToken": 5,
+            "rewardAllianceExp": 350,
+            "rewardShopExp": 250
+        },
+        {
+            "attendId": 4,
+            "attendValue": 31,
+            "rewardType": 300,
+            "rewardValue": 1737,
+            "rewardQty": 1,
+            "rewardGold": 150000,
+            "rewardToken": 5,
+            "rewardAllianceExp": 400,
+            "rewardShopExp": 300
+        }
+    ]
+}

@@ -1,0 +1,4638 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1382281334814054588
+    },
+    "m_Name": "EVENT_DICE_VILLAIN",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+    ],
+    "values": [
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 1,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 2,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 3,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 4,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 5,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 6,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 7,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 8,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 9,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 10,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 11,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 12,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 13,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 14,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 15,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 16,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 17,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 18,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 19,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 20,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 0,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 500000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 750000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 3,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1000000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 4,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 5,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1500000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 6,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 1750000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 7,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2000000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 8,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 9,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2500000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 10,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 2750000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 11,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3000000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 12,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 13,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3500000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 14,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 3750000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 15,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4000000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 16,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 17,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4500000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 18,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 4750000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 19,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5000000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 20,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 21,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5500000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 22,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 5750000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 23,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6000000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 24,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 25,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6500000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 26,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 6750000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 27,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7000000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 28,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7250000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 29,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7500000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 30,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 7750000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 31,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8000000
+        },
+        {
+            "EventGroupId": 21,
+            "VillainFinishCount": 32,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 8250000
+        }
+    ],
+    "counts": [
+        14,
+        29,
+        29,
+        29,
+        29,
+        29,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33
+    ]
+}

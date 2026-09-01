@@ -1,0 +1,482 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 221086341519265167
+    },
+    "m_Name": "HERO_GET_CONDITION",
+    "keys": [
+        1010,
+        1020,
+        1030,
+        1040,
+        1050,
+        1060,
+        1070
+    ],
+    "values": [
+        {
+            "id": 1011,
+            "groupId": 1010,
+            "rewardHeroId": 1012401,
+            "conditionHeroGroup": 128,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1012,
+            "groupId": 1010,
+            "rewardHeroId": 1012401,
+            "conditionHeroGroup": 123,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1013,
+            "groupId": 1010,
+            "rewardHeroId": 1012401,
+            "conditionHeroGroup": 125,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1014,
+            "groupId": 1010,
+            "rewardHeroId": 1012401,
+            "conditionHeroGroup": 129,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1015,
+            "groupId": 1010,
+            "rewardHeroId": 1012401,
+            "conditionHeroGroup": 126,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1021,
+            "groupId": 1020,
+            "rewardHeroId": 1016801,
+            "conditionHeroGroup": 164,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1022,
+            "groupId": 1020,
+            "rewardHeroId": 1016801,
+            "conditionHeroGroup": 165,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1023,
+            "groupId": 1020,
+            "rewardHeroId": 1016801,
+            "conditionHeroGroup": 167,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1024,
+            "groupId": 1020,
+            "rewardHeroId": 1016801,
+            "conditionHeroGroup": 142,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1025,
+            "groupId": 1020,
+            "rewardHeroId": 1016801,
+            "conditionHeroGroup": 166,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1026,
+            "groupId": 1020,
+            "rewardHeroId": 1016801,
+            "conditionHeroGroup": 158,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1031,
+            "groupId": 1030,
+            "rewardHeroId": 1018301,
+            "conditionHeroGroup": 179,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1032,
+            "groupId": 1030,
+            "rewardHeroId": 1018301,
+            "conditionHeroGroup": 114,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1033,
+            "groupId": 1030,
+            "rewardHeroId": 1018301,
+            "conditionHeroGroup": 182,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1034,
+            "groupId": 1030,
+            "rewardHeroId": 1018301,
+            "conditionHeroGroup": 55,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1035,
+            "groupId": 1030,
+            "rewardHeroId": 1018301,
+            "conditionHeroGroup": 184,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1036,
+            "groupId": 1030,
+            "rewardHeroId": 1018301,
+            "conditionHeroGroup": 181,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1037,
+            "groupId": 1030,
+            "rewardHeroId": 1018301,
+            "conditionHeroGroup": 180,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1041,
+            "groupId": 1040,
+            "rewardHeroId": 1022601,
+            "conditionHeroGroup": 222,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1042,
+            "groupId": 1040,
+            "rewardHeroId": 1022601,
+            "conditionHeroGroup": 223,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1043,
+            "groupId": 1040,
+            "rewardHeroId": 1022601,
+            "conditionHeroGroup": 224,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1044,
+            "groupId": 1040,
+            "rewardHeroId": 1022601,
+            "conditionHeroGroup": 225,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1045,
+            "groupId": 1040,
+            "rewardHeroId": 1022601,
+            "conditionHeroGroup": 47,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1046,
+            "groupId": 1040,
+            "rewardHeroId": 1022601,
+            "conditionHeroGroup": 32,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1051,
+            "groupId": 1050,
+            "rewardHeroId": 1024001,
+            "conditionHeroGroup": 235,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 70,
+            "conditionHeroTier": 3
+        },
+        {
+            "id": 1052,
+            "groupId": 1050,
+            "rewardHeroId": 1024001,
+            "conditionHeroGroup": 236,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1053,
+            "groupId": 1050,
+            "rewardHeroId": 1024001,
+            "conditionHeroGroup": 18,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1054,
+            "groupId": 1050,
+            "rewardHeroId": 1024001,
+            "conditionHeroGroup": 238,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1055,
+            "groupId": 1050,
+            "rewardHeroId": 1024001,
+            "conditionHeroGroup": 44,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1056,
+            "groupId": 1050,
+            "rewardHeroId": 1024001,
+            "conditionHeroGroup": 237,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1057,
+            "groupId": 1050,
+            "rewardHeroId": 1024001,
+            "conditionHeroGroup": 239,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1061,
+            "groupId": 1060,
+            "rewardHeroId": 1026701,
+            "conditionHeroGroup": 264,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1062,
+            "groupId": 1060,
+            "rewardHeroId": 1026701,
+            "conditionHeroGroup": 266,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1063,
+            "groupId": 1060,
+            "rewardHeroId": 1026701,
+            "conditionHeroGroup": 202,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1064,
+            "groupId": 1060,
+            "rewardHeroId": 1026701,
+            "conditionHeroGroup": 203,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1065,
+            "groupId": 1060,
+            "rewardHeroId": 1026701,
+            "conditionHeroGroup": 123,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1066,
+            "groupId": 1060,
+            "rewardHeroId": 1026701,
+            "conditionHeroGroup": 142,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1067,
+            "groupId": 1060,
+            "rewardHeroId": 1026701,
+            "conditionHeroGroup": 265,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1071,
+            "groupId": 1070,
+            "rewardHeroId": 1028501,
+            "conditionHeroGroup": 283,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1072,
+            "groupId": 1070,
+            "rewardHeroId": 1028501,
+            "conditionHeroGroup": 19,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1073,
+            "groupId": 1070,
+            "rewardHeroId": 1028501,
+            "conditionHeroGroup": 68,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1074,
+            "groupId": 1070,
+            "rewardHeroId": 1028501,
+            "conditionHeroGroup": 287,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1075,
+            "groupId": 1070,
+            "rewardHeroId": 1028501,
+            "conditionHeroGroup": 237,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1076,
+            "groupId": 1070,
+            "rewardHeroId": 1028501,
+            "conditionHeroGroup": 286,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        },
+        {
+            "id": 1077,
+            "groupId": 1070,
+            "rewardHeroId": 1028501,
+            "conditionHeroGroup": 284,
+            "conditionHeroGrade": 6,
+            "conditionHeroAwaken": 6,
+            "conditionHeroLevel": 60,
+            "conditionHeroTier": 2
+        }
+    ],
+    "counts": [
+        5,
+        6,
+        7,
+        6,
+        7,
+        7,
+        7
+    ]
+}

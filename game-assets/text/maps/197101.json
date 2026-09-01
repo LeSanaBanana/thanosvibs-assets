@@ -1,0 +1,37 @@
+[
+    {
+        "level": "raid_apocalypse_in_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 961197101,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "appear": "idle",
+                        "point": 90,
+                        "mob": 713197101,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidQuickSliver_beginner",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "die": "die",
+                        "scale": "1.1",
+                        "boss_cam": "0,0.2,0"
+                    }
+                ]
+            }
+        ]
+    }
+]

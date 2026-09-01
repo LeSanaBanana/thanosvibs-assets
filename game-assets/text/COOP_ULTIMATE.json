@@ -1,0 +1,644 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1261964085056733752
+    },
+    "m_Name": "COOP_ULTIMATE",
+    "list": [
+        {
+            "id": 1010100,
+            "day": 1,
+            "stageId": 410111,
+            "rewardGroupId": 1010100,
+            "mobId": 779410111,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 1
+        },
+        {
+            "id": 1010200,
+            "day": 1,
+            "stageId": 410121,
+            "rewardGroupId": 1010200,
+            "mobId": 779410121,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 2
+        },
+        {
+            "id": 1010300,
+            "day": 1,
+            "stageId": 410131,
+            "rewardGroupId": 1010300,
+            "mobId": 779410131,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 3
+        },
+        {
+            "id": 1020100,
+            "day": 2,
+            "stageId": 410112,
+            "rewardGroupId": 1020100,
+            "mobId": 779410112,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 1
+        },
+        {
+            "id": 1020200,
+            "day": 2,
+            "stageId": 410122,
+            "rewardGroupId": 1020200,
+            "mobId": 779410122,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 2
+        },
+        {
+            "id": 1020300,
+            "day": 2,
+            "stageId": 410132,
+            "rewardGroupId": 1020300,
+            "mobId": 779410132,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 3
+        },
+        {
+            "id": 1030100,
+            "day": 3,
+            "stageId": 410113,
+            "rewardGroupId": 1030100,
+            "mobId": 779410113,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 1
+        },
+        {
+            "id": 1030200,
+            "day": 3,
+            "stageId": 410123,
+            "rewardGroupId": 1030200,
+            "mobId": 779410123,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 2
+        },
+        {
+            "id": 1030300,
+            "day": 3,
+            "stageId": 410133,
+            "rewardGroupId": 1030300,
+            "mobId": 779410133,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 3
+        },
+        {
+            "id": 1040100,
+            "day": 4,
+            "stageId": 410114,
+            "rewardGroupId": 1040100,
+            "mobId": 779410114,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 1
+        },
+        {
+            "id": 1040200,
+            "day": 4,
+            "stageId": 410124,
+            "rewardGroupId": 1040200,
+            "mobId": 779410124,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 2
+        },
+        {
+            "id": 1040300,
+            "day": 4,
+            "stageId": 410134,
+            "rewardGroupId": 1040300,
+            "mobId": 779410134,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 3
+        },
+        {
+            "id": 1050100,
+            "day": 5,
+            "stageId": 410112,
+            "rewardGroupId": 1050100,
+            "mobId": 779410112,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 1
+        },
+        {
+            "id": 1050200,
+            "day": 5,
+            "stageId": 410122,
+            "rewardGroupId": 1050200,
+            "mobId": 779410122,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 2
+        },
+        {
+            "id": 1050300,
+            "day": 5,
+            "stageId": 410132,
+            "rewardGroupId": 1050300,
+            "mobId": 779410132,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 3
+        },
+        {
+            "id": 1060100,
+            "day": 6,
+            "stageId": 410113,
+            "rewardGroupId": 1060100,
+            "mobId": 779410113,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 1
+        },
+        {
+            "id": 1060200,
+            "day": 6,
+            "stageId": 410123,
+            "rewardGroupId": 1060200,
+            "mobId": 779410123,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 2
+        },
+        {
+            "id": 1060300,
+            "day": 6,
+            "stageId": 410133,
+            "rewardGroupId": 1060300,
+            "mobId": 779410133,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 3
+        },
+        {
+            "id": 1070100,
+            "day": 7,
+            "stageId": 410114,
+            "rewardGroupId": 1070100,
+            "mobId": 779410114,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 1
+        },
+        {
+            "id": 1070200,
+            "day": 7,
+            "stageId": 410124,
+            "rewardGroupId": 1070200,
+            "mobId": 779410124,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 2
+        },
+        {
+            "id": 1070300,
+            "day": 7,
+            "stageId": 410134,
+            "rewardGroupId": 1070300,
+            "mobId": 779410134,
+            "mapId": 1,
+            "difficulty": 1,
+            "userNum": 3
+        },
+        {
+            "id": 2010100,
+            "day": 1,
+            "stageId": 410211,
+            "rewardGroupId": 2010100,
+            "mobId": 814410211,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 1
+        },
+        {
+            "id": 2010200,
+            "day": 1,
+            "stageId": 410221,
+            "rewardGroupId": 2010200,
+            "mobId": 1145410221,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 2
+        },
+        {
+            "id": 2010300,
+            "day": 1,
+            "stageId": 410231,
+            "rewardGroupId": 2010300,
+            "mobId": 1146410231,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 3
+        },
+        {
+            "id": 2020100,
+            "day": 2,
+            "stageId": 410212,
+            "rewardGroupId": 2020100,
+            "mobId": 814410212,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 1
+        },
+        {
+            "id": 2020200,
+            "day": 2,
+            "stageId": 410222,
+            "rewardGroupId": 2020200,
+            "mobId": 1145410222,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 2
+        },
+        {
+            "id": 2020300,
+            "day": 2,
+            "stageId": 410232,
+            "rewardGroupId": 2020300,
+            "mobId": 1146410232,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 3
+        },
+        {
+            "id": 2030100,
+            "day": 3,
+            "stageId": 410213,
+            "rewardGroupId": 2030100,
+            "mobId": 814410213,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 1
+        },
+        {
+            "id": 2030200,
+            "day": 3,
+            "stageId": 410223,
+            "rewardGroupId": 2030200,
+            "mobId": 1145410223,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 2
+        },
+        {
+            "id": 2030300,
+            "day": 3,
+            "stageId": 410233,
+            "rewardGroupId": 2030300,
+            "mobId": 1146410233,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 3
+        },
+        {
+            "id": 2040100,
+            "day": 4,
+            "stageId": 410214,
+            "rewardGroupId": 2040100,
+            "mobId": 814410214,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 1
+        },
+        {
+            "id": 2040200,
+            "day": 4,
+            "stageId": 410224,
+            "rewardGroupId": 2040200,
+            "mobId": 1145410224,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 2
+        },
+        {
+            "id": 2040300,
+            "day": 4,
+            "stageId": 410234,
+            "rewardGroupId": 2040300,
+            "mobId": 1146410234,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 3
+        },
+        {
+            "id": 2050100,
+            "day": 5,
+            "stageId": 410212,
+            "rewardGroupId": 2050100,
+            "mobId": 814410212,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 1
+        },
+        {
+            "id": 2050200,
+            "day": 5,
+            "stageId": 410222,
+            "rewardGroupId": 2050200,
+            "mobId": 1145410222,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 2
+        },
+        {
+            "id": 2050300,
+            "day": 5,
+            "stageId": 410232,
+            "rewardGroupId": 2050300,
+            "mobId": 1146410232,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 3
+        },
+        {
+            "id": 2060100,
+            "day": 6,
+            "stageId": 410213,
+            "rewardGroupId": 2060100,
+            "mobId": 814410213,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 1
+        },
+        {
+            "id": 2060200,
+            "day": 6,
+            "stageId": 410223,
+            "rewardGroupId": 2060200,
+            "mobId": 1145410223,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 2
+        },
+        {
+            "id": 2060300,
+            "day": 6,
+            "stageId": 410233,
+            "rewardGroupId": 2060300,
+            "mobId": 1146410233,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 3
+        },
+        {
+            "id": 2070100,
+            "day": 7,
+            "stageId": 410214,
+            "rewardGroupId": 2070100,
+            "mobId": 814410214,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 1
+        },
+        {
+            "id": 2070200,
+            "day": 7,
+            "stageId": 410224,
+            "rewardGroupId": 2070200,
+            "mobId": 1145410224,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 2
+        },
+        {
+            "id": 2070300,
+            "day": 7,
+            "stageId": 410234,
+            "rewardGroupId": 2070300,
+            "mobId": 1146410234,
+            "mapId": 2,
+            "difficulty": 2,
+            "userNum": 3
+        },
+        {
+            "id": 3010100,
+            "day": 1,
+            "stageId": 410311,
+            "rewardGroupId": 3010100,
+            "mobId": 1144410311,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 1
+        },
+        {
+            "id": 3010200,
+            "day": 1,
+            "stageId": 410321,
+            "rewardGroupId": 3010200,
+            "mobId": 1144410321,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 2
+        },
+        {
+            "id": 3010300,
+            "day": 1,
+            "stageId": 410331,
+            "rewardGroupId": 3010300,
+            "mobId": 1144410331,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 3
+        },
+        {
+            "id": 3020100,
+            "day": 2,
+            "stageId": 410312,
+            "rewardGroupId": 3020100,
+            "mobId": 1144410312,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 1
+        },
+        {
+            "id": 3020200,
+            "day": 2,
+            "stageId": 410322,
+            "rewardGroupId": 3020200,
+            "mobId": 1144410322,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 2
+        },
+        {
+            "id": 3020300,
+            "day": 2,
+            "stageId": 410332,
+            "rewardGroupId": 3020300,
+            "mobId": 1144410332,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 3
+        },
+        {
+            "id": 3030100,
+            "day": 3,
+            "stageId": 410313,
+            "rewardGroupId": 3030100,
+            "mobId": 1144410313,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 1
+        },
+        {
+            "id": 3030200,
+            "day": 3,
+            "stageId": 410323,
+            "rewardGroupId": 3030200,
+            "mobId": 1144410323,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 2
+        },
+        {
+            "id": 3030300,
+            "day": 3,
+            "stageId": 410333,
+            "rewardGroupId": 3030300,
+            "mobId": 1144410333,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 3
+        },
+        {
+            "id": 3040100,
+            "day": 4,
+            "stageId": 410314,
+            "rewardGroupId": 3040100,
+            "mobId": 1144410314,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 1
+        },
+        {
+            "id": 3040200,
+            "day": 4,
+            "stageId": 410324,
+            "rewardGroupId": 3040200,
+            "mobId": 1144410324,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 2
+        },
+        {
+            "id": 3040300,
+            "day": 4,
+            "stageId": 410334,
+            "rewardGroupId": 3040300,
+            "mobId": 1144410334,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 3
+        },
+        {
+            "id": 3050100,
+            "day": 5,
+            "stageId": 410312,
+            "rewardGroupId": 3050100,
+            "mobId": 1144410312,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 1
+        },
+        {
+            "id": 3050200,
+            "day": 5,
+            "stageId": 410322,
+            "rewardGroupId": 3050200,
+            "mobId": 1144410322,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 2
+        },
+        {
+            "id": 3050300,
+            "day": 5,
+            "stageId": 410332,
+            "rewardGroupId": 3050300,
+            "mobId": 1144410332,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 3
+        },
+        {
+            "id": 3060100,
+            "day": 6,
+            "stageId": 410313,
+            "rewardGroupId": 3060100,
+            "mobId": 1144410313,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 1
+        },
+        {
+            "id": 3060200,
+            "day": 6,
+            "stageId": 410323,
+            "rewardGroupId": 3060200,
+            "mobId": 1144410323,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 2
+        },
+        {
+            "id": 3060300,
+            "day": 6,
+            "stageId": 410333,
+            "rewardGroupId": 3060300,
+            "mobId": 1144410333,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 3
+        },
+        {
+            "id": 3070100,
+            "day": 7,
+            "stageId": 410314,
+            "rewardGroupId": 3070100,
+            "mobId": 1144410314,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 1
+        },
+        {
+            "id": 3070200,
+            "day": 7,
+            "stageId": 410324,
+            "rewardGroupId": 3070200,
+            "mobId": 1144410324,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 2
+        },
+        {
+            "id": 3070300,
+            "day": 7,
+            "stageId": 410334,
+            "rewardGroupId": 3070300,
+            "mobId": 1144410334,
+            "mapId": 3,
+            "difficulty": 3,
+            "userNum": 3
+        }
+    ]
+}

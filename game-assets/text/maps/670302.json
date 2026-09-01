@@ -1,0 +1,548 @@
+[
+    {
+        "level": "base_doomcastle_in_lab_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 419670302,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_ConverhenceDeviceOld_dynamic"
+                    },
+                    {
+                        "point": 99,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": 10,
+                        "appear": "appear",
+                        "aiprefab": "ai_latverian_talk_670301"
+                    },
+                    {
+                        "point": 10,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "12-12.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "12-12.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "12-12.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 13,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "12-12.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 15,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "12-12.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 16,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "12-12.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 17,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "12-12.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 18,
+                        "mob": 248670302,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "12-12.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 20,
+                        "mob": 250670302,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 21,
+                        "mob": 250670302,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 22,
+                        "mob": 250670302,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 23,
+                        "mob": 250670302,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 24,
+                        "mob": 250670302,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 25,
+                        "mob": 250670302,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 10,
+                        "mob": 248670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 247670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 248670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 13,
+                        "mob": 247670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 14,
+                        "mob": 248670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 15,
+                        "mob": 247670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 16,
+                        "mob": 248670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 17,
+                        "mob": 247670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 18,
+                        "mob": 248670302,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 250670302,
+                        "group": 4,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 31,
+                        "mob": 250670302,
+                        "group": 4,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 32,
+                        "mob": 250670302,
+                        "group": 4,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 33,
+                        "mob": 250670302,
+                        "group": 4,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 34,
+                        "mob": 250670302,
+                        "group": 4,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 35,
+                        "mob": 250670302,
+                        "group": 5,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 36,
+                        "mob": 250670302,
+                        "group": 5,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 37,
+                        "mob": 250670302,
+                        "group": 5,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 38,
+                        "mob": 250670302,
+                        "group": 5,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 39,
+                        "mob": 250670302,
+                        "group": 5,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "3-8",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear",
+                        "aiprefab": "ai_vil_doombot_dynamic"
+                    },
+                    {
+                        "point": 40,
+                        "mob": 247670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "4-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 41,
+                        "mob": 248670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "4-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 42,
+                        "mob": 247670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "4-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 43,
+                        "mob": 248670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "4-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 44,
+                        "mob": 247670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "4-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 45,
+                        "mob": 247670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "5-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 46,
+                        "mob": 248670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "5-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 47,
+                        "mob": 247670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "5-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 48,
+                        "mob": 248670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "5-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 49,
+                        "mob": 247670302,
+                        "group": 6,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "5-5",
+                        "keymob": 1,
+                        "delay": "0-0.5",
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 495670302,
+                        "group": 100,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "aiprefab": "ai_670301_wait"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "base_citycenter_re_0110_d01_new",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 495670302,
+                        "group": 1,
+                        "boss": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "scale": 1.1,
+                        "boss_cam": "0,0.3,0",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_gimmick_die_3sec"
+                    }
+                ]
+            }
+        ]
+    }
+]

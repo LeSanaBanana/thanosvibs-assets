@@ -1,0 +1,54 @@
+[
+    {
+        "level": "event_shadowland_0000_a04",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1267760104,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss_appear": "skill01",
+                        "aiprefab": "ai_boss_scarletwitch01_S07_760104",
+                        "boss": 24,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.3,0.7",
+                        "scale": "1.2"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 1227760104,
+                        "group": 2,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss": 24,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_boss_doctorstrange01_S06_760104",
+                        "scale": "1.2"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 1265760104,
+                        "group": 2,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss": 24,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_boss_wong01_s03_760104",
+                        "scale": "1.2"
+                    }
+                ]
+            }
+        ]
+    }
+]

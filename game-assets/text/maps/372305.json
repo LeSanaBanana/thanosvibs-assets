@@ -1,0 +1,33 @@
+[
+    {
+        "level": "Event_VillainSiege_Jotunnheim_0000_A03",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 80,
+                        "mob": 930372305,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_dummy04_Loki_S02_Summon_01"
+                    },
+                    {
+                        "point": 90,
+                        "mob": 732372305,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 2,
+                        "aiprefab": "AI_SB_loki01_S02_001",
+                        "avoidancePriority": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

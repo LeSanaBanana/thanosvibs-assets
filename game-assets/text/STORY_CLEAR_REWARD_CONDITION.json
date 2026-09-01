@@ -1,0 +1,2560 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6709929597055997025
+    },
+    "m_Name": "STORY_CLEAR_REWARD_CONDITION",
+    "keys": [
+        500101,
+        500102,
+        500103,
+        500201,
+        500202,
+        500203,
+        500301,
+        500302,
+        500303,
+        500401,
+        500402,
+        500501,
+        500601,
+        500602,
+        500701,
+        500702,
+        500703,
+        500801,
+        500802,
+        500803,
+        500901,
+        500902,
+        501001,
+        501002,
+        501101,
+        501102,
+        501201,
+        501202,
+        501301,
+        501302,
+        501303,
+        490101,
+        490102,
+        490103,
+        490201,
+        490202,
+        490203,
+        490301,
+        490302,
+        490303,
+        490401,
+        490402,
+        490501,
+        490601,
+        490602,
+        490701,
+        490702,
+        490703,
+        490801,
+        490802,
+        490803,
+        490901,
+        490902,
+        491001,
+        491002,
+        491101,
+        491102,
+        491201,
+        491202,
+        491301,
+        491302,
+        491303
+    ],
+    "values": [
+        {
+            "stageId": 500101,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000110
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000111
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000112
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000113
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000120
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000121
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000122
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000123
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000130
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000131
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000132
+        },
+        {
+            "stageId": 500101,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000133
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000110
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000111
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000112
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000113
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000120
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000121
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000122
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000123
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000130
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000131
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000132
+        },
+        {
+            "stageId": 500102,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000133
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000110
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000111
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000112
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000113
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000120
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000121
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000122
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000123
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000130
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000131
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000132
+        },
+        {
+            "stageId": 500103,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000133
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000210
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000211
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000212
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000213
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000220
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000221
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000222
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000223
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000230
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000231
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000232
+        },
+        {
+            "stageId": 500201,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000233
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000210
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000211
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000212
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000213
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000220
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000221
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000222
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000223
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000230
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000231
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000232
+        },
+        {
+            "stageId": 500202,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000233
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000310
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000311
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000312
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000313
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000320
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000321
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000322
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000323
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000330
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000331
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000332
+        },
+        {
+            "stageId": 500203,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000333
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000310
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000311
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000312
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000313
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000320
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000321
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000322
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000323
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000330
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000331
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000332
+        },
+        {
+            "stageId": 500301,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000333
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000410
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000411
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000412
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000413
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000420
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000421
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000422
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000423
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000430
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000431
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000432
+        },
+        {
+            "stageId": 500302,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000433
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000410
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000411
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000412
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000413
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000420
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000421
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000422
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000423
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000430
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000431
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000432
+        },
+        {
+            "stageId": 500303,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000433
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000510
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000511
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000512
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000513
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000520
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000521
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000522
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000523
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000530
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000531
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000532
+        },
+        {
+            "stageId": 500401,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000533
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000510
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000511
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000512
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000513
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000520
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000521
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000522
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000523
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000530
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000531
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000532
+        },
+        {
+            "stageId": 500402,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000533
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000510
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000511
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000512
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000513
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000520
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000521
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000522
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000523
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000530
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000531
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000532
+        },
+        {
+            "stageId": 500501,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000533
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000610
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000611
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000612
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000613
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000620
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000621
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000622
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000623
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000630
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000631
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000632
+        },
+        {
+            "stageId": 500601,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000633
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000610
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000611
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000612
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000613
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000620
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000621
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000622
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000623
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000630
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000631
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000632
+        },
+        {
+            "stageId": 500602,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000633
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000710
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000711
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000712
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000713
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000720
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000721
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000722
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000723
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000730
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000731
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000732
+        },
+        {
+            "stageId": 500701,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000733
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000710
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000711
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000712
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000713
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000720
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000721
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000722
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000723
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000730
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000731
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000732
+        },
+        {
+            "stageId": 500702,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000733
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000810
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000811
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000812
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000813
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000820
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000821
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000822
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000823
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000830
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000831
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000832
+        },
+        {
+            "stageId": 500703,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000833
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000810
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000811
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000812
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000813
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000820
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000821
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000822
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000823
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000830
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000831
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000832
+        },
+        {
+            "stageId": 500801,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000833
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000910
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000911
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000912
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000913
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000920
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000921
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000922
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000923
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000930
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000931
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000932
+        },
+        {
+            "stageId": 500802,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000933
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4000910
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4000911
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4000912
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4000913
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4000920
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4000921
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4000922
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4000923
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4000930
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4000931
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4000932
+        },
+        {
+            "stageId": 500803,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4000933
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001010
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001011
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001012
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001013
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001020
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001021
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001022
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001023
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001030
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001031
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001032
+        },
+        {
+            "stageId": 500901,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001033
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001110
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001111
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001112
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001113
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001120
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001121
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001122
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001123
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001130
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001131
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001132
+        },
+        {
+            "stageId": 500902,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001133
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001210
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001211
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001212
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001213
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001220
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001221
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001222
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001223
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001230
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001231
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001232
+        },
+        {
+            "stageId": 501001,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001233
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001310
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001311
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001312
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001313
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001320
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001321
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001322
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001323
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001330
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001331
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001332
+        },
+        {
+            "stageId": 501002,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001333
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001410
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001411
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001412
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001413
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001420
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001421
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001422
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001423
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001430
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001431
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001432
+        },
+        {
+            "stageId": 501101,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001433
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001510
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001511
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001512
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001513
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001520
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001521
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001522
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001523
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001530
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001531
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001532
+        },
+        {
+            "stageId": 501102,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001533
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001610
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001611
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001612
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001613
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001620
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001621
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001622
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001623
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001630
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001631
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001632
+        },
+        {
+            "stageId": 501201,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001633
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001710
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001711
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001712
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001713
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001720
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001721
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001722
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001723
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001730
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001731
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001732
+        },
+        {
+            "stageId": 501202,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001733
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001810
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001811
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001812
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001813
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001820
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001821
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001822
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001823
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001830
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001831
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001832
+        },
+        {
+            "stageId": 501301,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001833
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4001910
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4001911
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4001912
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4001913
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4001920
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4001921
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4001922
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4001923
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4001930
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4001931
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4001932
+        },
+        {
+            "stageId": 501302,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4001933
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 1,
+            "heroBonus": 0,
+            "rewardPick": 4002010
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 1,
+            "heroBonus": 1,
+            "rewardPick": 4002011
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 1,
+            "heroBonus": 2,
+            "rewardPick": 4002012
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 1,
+            "heroBonus": 3,
+            "rewardPick": 4002013
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 2,
+            "heroBonus": 0,
+            "rewardPick": 4002020
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 2,
+            "heroBonus": 1,
+            "rewardPick": 4002021
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 2,
+            "heroBonus": 2,
+            "rewardPick": 4002022
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 2,
+            "heroBonus": 3,
+            "rewardPick": 4002023
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 3,
+            "heroBonus": 0,
+            "rewardPick": 4002030
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 3,
+            "heroBonus": 1,
+            "rewardPick": 4002031
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 3,
+            "heroBonus": 2,
+            "rewardPick": 4002032
+        },
+        {
+            "stageId": 501303,
+            "heroSurvive": 3,
+            "heroBonus": 3,
+            "rewardPick": 4002033
+        },
+        {
+            "stageId": 490101,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000100
+        },
+        {
+            "stageId": 490102,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000100
+        },
+        {
+            "stageId": 490103,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000100
+        },
+        {
+            "stageId": 490201,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000200
+        },
+        {
+            "stageId": 490202,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000200
+        },
+        {
+            "stageId": 490203,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000300
+        },
+        {
+            "stageId": 490301,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000300
+        },
+        {
+            "stageId": 490302,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000400
+        },
+        {
+            "stageId": 490303,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000400
+        },
+        {
+            "stageId": 490401,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000500
+        },
+        {
+            "stageId": 490402,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000500
+        },
+        {
+            "stageId": 490501,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000500
+        },
+        {
+            "stageId": 490601,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000600
+        },
+        {
+            "stageId": 490602,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000600
+        },
+        {
+            "stageId": 490701,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000700
+        },
+        {
+            "stageId": 490702,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000700
+        },
+        {
+            "stageId": 490703,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000800
+        },
+        {
+            "stageId": 490801,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000800
+        },
+        {
+            "stageId": 490802,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000900
+        },
+        {
+            "stageId": 490803,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4000900
+        },
+        {
+            "stageId": 490901,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001000
+        },
+        {
+            "stageId": 490902,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001100
+        },
+        {
+            "stageId": 491001,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001200
+        },
+        {
+            "stageId": 491002,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001300
+        },
+        {
+            "stageId": 491101,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001400
+        },
+        {
+            "stageId": 491102,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001500
+        },
+        {
+            "stageId": 491201,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001600
+        },
+        {
+            "stageId": 491202,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001700
+        },
+        {
+            "stageId": 491301,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001800
+        },
+        {
+            "stageId": 491302,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4001900
+        },
+        {
+            "stageId": 491303,
+            "heroSurvive": 0,
+            "heroBonus": 0,
+            "rewardPick": 4002000
+        }
+    ],
+    "counts": [
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ]
+}

@@ -1,0 +1,769 @@
+[
+    {
+        "level": "base_triskelion_0101_e01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9000,
+                        "mob": 96611307,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 96611307,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 96611307,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9003,
+                        "mob": 96611307,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9004,
+                        "mob": 96511307,
+                        "group": 99,
+                        "sight": 99,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "AI_gimmick_dummy04_04",
+                        "hideeffect": 1
+                    },
+                    {
+                        "point": 9005,
+                        "mob": 96511307,
+                        "group": 99,
+                        "sight": 99,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "AI_gimmick_dummy04_06",
+                        "hideeffect": 1
+                    },
+                    {
+                        "point": 1,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 2,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 3,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 4,
+                        "mob": 21011307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 5,
+                        "mob": 21011307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 6,
+                        "mob": 23811307,
+                        "group": 2,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 7,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-3",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 8,
+                        "mob": 23811307,
+                        "group": 2,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 9,
+                        "mob": 21011307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 10,
+                        "mob": 21011307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 11,
+                        "mob": 21011307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 12,
+                        "mob": 21011307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 13,
+                        "mob": 24011307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-2",
+                        "delay": "0.0-0.6",
+                        "keymob": 1,
+                        "scale": "1.2"
+                    },
+                    {
+                        "point": 14,
+                        "mob": 21011307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 15,
+                        "mob": 21011307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 16,
+                        "mob": 21011307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 17,
+                        "mob": 21011307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 18,
+                        "mob": 23811307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 19,
+                        "mob": 23811307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 20,
+                        "mob": 23811307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 21,
+                        "mob": 21011307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 22,
+                        "mob": 21011307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 23,
+                        "mob": 21011307,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.0-0.6",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "base_triskelion_1001_f01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9000,
+                        "mob": 96611307,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 96611307,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 96611307,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9003,
+                        "mob": 96611307,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9004,
+                        "mob": 96511307,
+                        "group": 99,
+                        "sight": 99,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "AI_gimmick_dummy04_04",
+                        "hideeffect": 1
+                    },
+                    {
+                        "point": 9005,
+                        "mob": 96511307,
+                        "group": 99,
+                        "sight": 99,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "AI_gimmick_dummy04_06",
+                        "hideeffect": 1
+                    },
+                    {
+                        "point": 9006,
+                        "mob": 96511307,
+                        "group": 99,
+                        "sight": 99,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "AI_gimmick_dummy04_05",
+                        "hideeffect": 1
+                    },
+                    {
+                        "point": 1,
+                        "mob": 21011307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "aiprefab": "AI_boss_corvussummon",
+                        "appear": "appear",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 2,
+                        "mob": 24011307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "keymob": 1,
+                        "scale": "1.2"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 21011307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "aiprefab": "AI_boss_corvussummon",
+                        "appear": "appear",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 4,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 5,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 6,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 10,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 11,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 12,
+                        "mob": 23811307,
+                        "group": 1,
+                        "sight": 5,
+                        "firstattack": 1,
+                        "keymob": 1
+                    },
+                    {
+                        "point": 7,
+                        "mob": 23811307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "appear": "appear",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 8,
+                        "mob": 23811307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "appear": "appear",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 9,
+                        "mob": 23811307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "autoregen": "1-6",
+                        "appear": "appear",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 13,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 14,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 15,
+                        "mob": 24011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 16,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 17,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 18,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 19,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 20,
+                        "mob": 24011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 21,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 22,
+                        "mob": 21011307,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-9",
+                        "delay": "0.0-0.5",
+                        "aiprefab": "AI_boss_corvussummon",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 23,
+                        "mob": 23911307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 24,
+                        "mob": 24011307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1,
+                        "scale": "1.2"
+                    },
+                    {
+                        "point": 25,
+                        "mob": 23911307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 26,
+                        "mob": 23911307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 27,
+                        "mob": 24011307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1,
+                        "scale": "1.2"
+                    },
+                    {
+                        "point": 28,
+                        "mob": 23911307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 29,
+                        "mob": 23811307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 30,
+                        "mob": 23811307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 31,
+                        "mob": 23811307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 32,
+                        "mob": 23811307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 33,
+                        "mob": 23811307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 34,
+                        "mob": 23811307,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "2-3",
+                        "keymob": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "base_triskelion_0001_g01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9000,
+                        "mob": 96511307,
+                        "group": 99,
+                        "sight": 99,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "AI_gimmick_dummy04_04",
+                        "hideeffect": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 96511307,
+                        "group": 99,
+                        "sight": 99,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "AI_gimmick_dummy04_06",
+                        "hideeffect": 1
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 96511307,
+                        "group": 99,
+                        "sight": 99,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "AI_gimmick_dummy04_05",
+                        "hideeffect": 1
+                    },
+                    {
+                        "point": 7,
+                        "mob": 72411307,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "trigger": 11,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "boss_cam": "0,-0.17,0.34",
+                        "aiprefab": "AI_boss_antiman01",
+                        "boss_appear": "skill01"
+                    }
+                ]
+            }
+        ]
+    }
+]

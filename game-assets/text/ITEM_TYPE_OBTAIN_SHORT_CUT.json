@@ -1,0 +1,199 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 347560062038839428
+    },
+    "m_Name": "ITEM_TYPE_OBTAIN_SHORT_CUT",
+    "keys": [
+        106,
+        7,
+        8,
+        127,
+        126
+    ],
+    "values": [
+        {
+            "itemType": 106,
+            "type": 1,
+            "category": 10,
+            "order": 1,
+            "sceneId": 0,
+            "sceneOpt": "0",
+            "iconImage": "0"
+        },
+        {
+            "itemType": 106,
+            "type": 2,
+            "category": 10,
+            "order": 2,
+            "sceneId": 1001,
+            "sceneOpt": "1",
+            "iconImage": "Shop_Menu_07"
+        },
+        {
+            "itemType": 106,
+            "type": 1,
+            "category": 20,
+            "order": 1,
+            "sceneId": 0,
+            "sceneOpt": "0",
+            "iconImage": "0"
+        },
+        {
+            "itemType": 106,
+            "type": 2,
+            "category": 20,
+            "order": 2,
+            "sceneId": 119,
+            "sceneOpt": "0",
+            "iconImage": "lobby_Battle"
+        },
+        {
+            "itemType": 106,
+            "type": 2,
+            "category": 20,
+            "order": 30,
+            "sceneId": 130,
+            "sceneOpt": "0",
+            "iconImage": "lobby_Battle"
+        },
+        {
+            "itemType": 7,
+            "type": 1,
+            "category": 10,
+            "order": 1,
+            "sceneId": 0,
+            "sceneOpt": "0",
+            "iconImage": "0"
+        },
+        {
+            "itemType": 7,
+            "type": 2,
+            "category": 10,
+            "order": 1,
+            "sceneId": 1001,
+            "sceneOpt": "1",
+            "iconImage": "Shop_Menu_07"
+        },
+        {
+            "itemType": 7,
+            "type": 1,
+            "category": 20,
+            "order": 1,
+            "sceneId": 0,
+            "sceneOpt": "0",
+            "iconImage": "0"
+        },
+        {
+            "itemType": 7,
+            "type": 2,
+            "category": 20,
+            "order": 2,
+            "sceneId": 119,
+            "sceneOpt": "0",
+            "iconImage": "lobby_Battle"
+        },
+        {
+            "itemType": 7,
+            "type": 2,
+            "category": 20,
+            "order": 20,
+            "sceneId": 130,
+            "sceneOpt": "0",
+            "iconImage": "lobby_Battle"
+        },
+        {
+            "itemType": 8,
+            "type": 1,
+            "category": 10,
+            "order": 1,
+            "sceneId": 0,
+            "sceneOpt": "0",
+            "iconImage": "0"
+        },
+        {
+            "itemType": 8,
+            "type": 2,
+            "category": 10,
+            "order": 2,
+            "sceneId": 1001,
+            "sceneOpt": "34",
+            "iconImage": "Shop_Menu_07"
+        },
+        {
+            "itemType": 8,
+            "type": 1,
+            "category": 20,
+            "order": 1,
+            "sceneId": 0,
+            "sceneOpt": "0",
+            "iconImage": "0"
+        },
+        {
+            "itemType": 8,
+            "type": 2,
+            "category": 20,
+            "order": 2,
+            "sceneId": 126,
+            "sceneOpt": "0",
+            "iconImage": "lobby_Battle"
+        },
+        {
+            "itemType": 8,
+            "type": 2,
+            "category": 20,
+            "order": 3,
+            "sceneId": 141,
+            "sceneOpt": "0",
+            "iconImage": "lobby_Battle"
+        },
+        {
+            "itemType": 127,
+            "type": 1,
+            "category": 20,
+            "order": 1,
+            "sceneId": 0,
+            "sceneOpt": "0",
+            "iconImage": "0"
+        },
+        {
+            "itemType": 127,
+            "type": 2,
+            "category": 20,
+            "order": 2,
+            "sceneId": 141,
+            "sceneOpt": "0",
+            "iconImage": "lobby_Battle"
+        },
+        {
+            "itemType": 126,
+            "type": 1,
+            "category": 20,
+            "order": 1,
+            "sceneId": 0,
+            "sceneOpt": "0",
+            "iconImage": "0"
+        },
+        {
+            "itemType": 126,
+            "type": 2,
+            "category": 20,
+            "order": 2,
+            "sceneId": 141,
+            "sceneOpt": "0",
+            "iconImage": "lobby_Battle"
+        }
+    ],
+    "counts": [
+        5,
+        5,
+        5,
+        2,
+        2
+    ]
+}

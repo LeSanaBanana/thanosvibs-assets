@@ -1,0 +1,172 @@
+[
+    {
+        "level": "raid_apocalypse_in_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 713190250,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_raidquicksliver_dimension",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "die": "die",
+                        "scale": "1.1",
+                        "boss_cam": "0,0.2,0",
+                        "appear": "idle"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-1",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-2",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 13,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-3",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 14,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 15,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-5",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 16,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-6",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 17,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-7",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 17,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 17,
+                        "mob": 962190250,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-9",
+                        "avoidancePriority": 0,
+                        "die": "summon_disappear",
+                        "appear": "summon_appear",
+                        "delay": "10.0-20.0",
+                        "aiprefab": "ai_summon_scarletwitch01_dimension"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 945190250,
+                        "group": 90,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "1-1",
+                        "avoidancePriority": 0,
+                        "aiprefab": "AI_gimmick_summon_scarletwitch01"
+                    },
+                    {
+                        "point": 90,
+                        "mob": 715190250,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "autoregen": "1-1",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_raidscarletwitch01_dimension",
+                        "scale": 1.1,
+                        "keymob": 1,
+                        "appear": "phasechange",
+                        "delay": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

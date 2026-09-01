@@ -1,0 +1,92 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1478349244231739387
+    },
+    "m_Name": "TEAM_BATTLE_ARENA_LEAGUE",
+    "list": [
+        {
+            "leagueId": 1,
+            "iconName": "teambattlearena_league_1",
+            "promotionType": 2,
+            "promotion": 2000,
+            "demotionType": 0,
+            "demotion": 0,
+            "promotionLeagueId": 2,
+            "demotionLeagueId": 1,
+            "exPoolTier": 3,
+            "exPoolGrade": 6,
+            "exPoolNumber": 5
+        },
+        {
+            "leagueId": 2,
+            "iconName": "teambattlearena_league_2",
+            "promotionType": 2,
+            "promotion": 2000,
+            "demotionType": 2,
+            "demotion": 2000,
+            "promotionLeagueId": 3,
+            "demotionLeagueId": 1,
+            "exPoolTier": 3,
+            "exPoolGrade": 6,
+            "exPoolNumber": 7
+        },
+        {
+            "leagueId": 3,
+            "iconName": "teambattlearena_league_3",
+            "promotionType": 2,
+            "promotion": 2000,
+            "demotionType": 2,
+            "demotion": 2000,
+            "promotionLeagueId": 4,
+            "demotionLeagueId": 2,
+            "exPoolTier": 0,
+            "exPoolGrade": 0,
+            "exPoolNumber": 0
+        },
+        {
+            "leagueId": 4,
+            "iconName": "teambattlearena_league_4",
+            "promotionType": 2,
+            "promotion": 2000,
+            "demotionType": 2,
+            "demotion": 2000,
+            "promotionLeagueId": 5,
+            "demotionLeagueId": 3,
+            "exPoolTier": 0,
+            "exPoolGrade": 0,
+            "exPoolNumber": 0
+        },
+        {
+            "leagueId": 5,
+            "iconName": "teambattlearena_league_5",
+            "promotionType": 1,
+            "promotion": 25,
+            "demotionType": 2,
+            "demotion": 2000,
+            "promotionLeagueId": 6,
+            "demotionLeagueId": 4,
+            "exPoolTier": 0,
+            "exPoolGrade": 0,
+            "exPoolNumber": 0
+        },
+        {
+            "leagueId": 6,
+            "iconName": "teambattlearena_league_6",
+            "promotionType": 0,
+            "promotion": 0,
+            "demotionType": 1,
+            "demotion": 25,
+            "promotionLeagueId": 6,
+            "demotionLeagueId": 5,
+            "exPoolTier": 0,
+            "exPoolGrade": 0,
+            "exPoolNumber": 0
+        }
+    ]
+}

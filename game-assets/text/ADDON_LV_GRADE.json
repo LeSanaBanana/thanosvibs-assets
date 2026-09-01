@@ -1,0 +1,5616 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6576590623480836506
+    },
+    "m_Name": "ADDON_LV_GRADE",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+    ],
+    "values": [
+        {
+            "Level": 1,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                0,
+                0,
+                0
+            ],
+            "MaterialQtys": [
+                0,
+                0,
+                0
+            ],
+            "CostGold": 0,
+            "EarnStatPoint": 1,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 2,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                170,
+                30,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 2,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 3,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                172,
+                30,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 3,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 4,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                174,
+                31,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 4,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 5,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                176,
+                31,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 5,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 6,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                179,
+                32,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 6,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 7,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                181,
+                32,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 7,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 8,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                183,
+                32,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 8,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 9,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                185,
+                33,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 9,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 10,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                187,
+                33,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 10,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 11,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                189,
+                33,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 11,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 12,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                191,
+                34,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 12,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 13,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                193,
+                34,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 13,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 14,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                196,
+                35,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 14,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 15,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                198,
+                35,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 15,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 16,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                200,
+                35,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 16,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 17,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                202,
+                36,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 17,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 18,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                204,
+                36,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 18,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 19,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                206,
+                36,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 19,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 20,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199001,
+                10199003,
+                9831
+            ],
+            "MaterialQtys": [
+                208,
+                37,
+                34
+            ],
+            "CostGold": 50000,
+            "EarnStatPoint": 20,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 21,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                290,
+                30,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 21,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 22,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                290,
+                30,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 22,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 23,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                294,
+                30,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 23,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 24,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                297,
+                31,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 24,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 25,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                301,
+                31,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 25,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 26,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                305,
+                32,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 26,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 27,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                308,
+                32,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 27,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 28,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                312,
+                32,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 28,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 29,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                315,
+                33,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 29,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 30,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                319,
+                33,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 30,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 31,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                323,
+                33,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 31,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 32,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                326,
+                34,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 32,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 33,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                330,
+                34,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 33,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 34,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                334,
+                35,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 34,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 35,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                337,
+                35,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 35,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 36,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                341,
+                35,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 36,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 37,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                344,
+                36,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 37,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 38,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                348,
+                36,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 38,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 39,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                352,
+                36,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 39,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 40,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                10199002,
+                10199004,
+                9831
+            ],
+            "MaterialQtys": [
+                355,
+                37,
+                40
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 40,
+            "EarnSkillPoint": 0,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 41,
+            "UpgradeType": 2,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                50,
+                20,
+                36
+            ],
+            "CostGold": 60000,
+            "EarnStatPoint": 41,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                250000,
+                250000,
+                500000
+            ],
+            "PointQtys": [
+                25000,
+                50000,
+                1000000
+            ]
+        },
+        {
+            "Level": 42,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                260,
+                110,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 42,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 43,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                263,
+                111,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 43,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 44,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                267,
+                113,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 44,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 45,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                270,
+                114,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 45,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 46,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                273,
+                116,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 46,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 47,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                276,
+                117,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 47,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 48,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                280,
+                118,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 48,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 49,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                283,
+                120,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 49,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 50,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                286,
+                121,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 50,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 51,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                289,
+                122,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 51,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 52,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                293,
+                124,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 52,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 53,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                296,
+                125,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 53,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 54,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                299,
+                127,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 54,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 55,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                302,
+                128,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 55,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 56,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                306,
+                129,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 56,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 57,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                309,
+                131,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 57,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 58,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                312,
+                132,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 58,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 59,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                315,
+                133,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 59,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 60,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9831
+            ],
+            "MaterialQtys": [
+                319,
+                135,
+                47
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 60,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 61,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                50,
+                50,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 61,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 62,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                50,
+                50,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 62,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 63,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                51,
+                51,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 63,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 64,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                51,
+                51,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 64,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 65,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                52,
+                52,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 65,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 66,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                53,
+                53,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 66,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 67,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                53,
+                53,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 67,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 68,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                54,
+                54,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 68,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 69,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                54,
+                54,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 69,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 70,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                55,
+                55,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 70,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 71,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                56,
+                56,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 71,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 72,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                56,
+                56,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 72,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 73,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                57,
+                57,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 73,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 74,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                58,
+                58,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 74,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 75,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                58,
+                58,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 75,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 76,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                59,
+                59,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 76,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 77,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                59,
+                59,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 77,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 78,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                60,
+                60,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 78,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 79,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                61,
+                61,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 79,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 80,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1230001,
+                1240002,
+                9831
+            ],
+            "MaterialQtys": [
+                61,
+                61,
+                54
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 80,
+            "EarnSkillPoint": 1,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 81,
+            "UpgradeType": 2,
+            "MaterialIds": [
+                1140002,
+                1140003,
+                9832
+            ],
+            "MaterialQtys": [
+                20,
+                20,
+                42
+            ],
+            "CostGold": 65000,
+            "EarnStatPoint": 81,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                400000,
+                400000,
+                200000
+            ],
+            "PointQtys": [
+                20000,
+                44444,
+                1000000
+            ]
+        },
+        {
+            "Level": 82,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                120,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 82,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 83,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                122,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 83,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 84,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                123,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 84,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 85,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                125,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 85,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 86,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                126,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 86,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 87,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                128,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 87,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 88,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                129,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 88,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 89,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                131,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 89,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 90,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                132,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 90,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 91,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                134,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 91,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 92,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                135,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 92,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 93,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                137,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 93,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 94,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                138,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 94,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 95,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                140,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 95,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 96,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                141,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 96,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 97,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                143,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 97,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 98,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                144,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 98,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 99,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                146,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 99,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 100,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                147,
+                60,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 100,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 101,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                90,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 101,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 102,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                90,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 102,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 103,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                91,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 103,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 104,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                92,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 104,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 105,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                93,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 105,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 106,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                95,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 106,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 107,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                96,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 107,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 108,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                97,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 108,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 109,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                98,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 109,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 110,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                99,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 110,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 111,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                100,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 111,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 112,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                101,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 112,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 113,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                102,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 113,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 114,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                104,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 114,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 115,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                105,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 115,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 116,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                106,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 116,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 117,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                107,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 117,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 118,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                108,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 118,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 119,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                109,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 119,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 120,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                110,
+                67,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 120,
+            "EarnSkillPoint": 2,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 121,
+            "UpgradeType": 2,
+            "MaterialIds": [
+                1140001,
+                9832,
+                0
+            ],
+            "MaterialQtys": [
+                20,
+                49,
+                0
+            ],
+            "CostGold": 70000,
+            "EarnStatPoint": 121,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                500000,
+                400000,
+                100000
+            ],
+            "PointQtys": [
+                20000,
+                44444,
+                1000000
+            ]
+        },
+        {
+            "Level": 122,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                120,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 122,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 123,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                122,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 123,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 124,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                123,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 124,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 125,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                125,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 125,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 126,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                126,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 126,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 127,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                128,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 127,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 128,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                129,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 128,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 129,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                131,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 129,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 130,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                132,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 130,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 131,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                134,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 131,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 132,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                135,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 132,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 133,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                137,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 133,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 134,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                138,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 134,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 135,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                140,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 135,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 136,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                141,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 136,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 137,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                143,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 137,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 138,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                144,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 138,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 139,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                146,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 139,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 140,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1140001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                147,
+                74,
+                0
+            ],
+            "CostGold": 100000,
+            "EarnStatPoint": 140,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 141,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                30,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 141,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 142,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                30,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 142,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 143,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                30,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 143,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 144,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                31,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 144,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 145,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                31,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 145,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 146,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                32,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 146,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 147,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                32,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 147,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 148,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                32,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 148,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 149,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                33,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 149,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 150,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                33,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 150,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 151,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                33,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 151,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 152,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                34,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 152,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 153,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                34,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 153,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 154,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                35,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 154,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 155,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                35,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 155,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 156,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                35,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 156,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 157,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                36,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 157,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 158,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                36,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 158,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 159,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                36,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 159,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 160,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                37,
+                81,
+                0
+            ],
+            "CostGold": 120000,
+            "EarnStatPoint": 160,
+            "EarnSkillPoint": 3,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 161,
+            "UpgradeType": 2,
+            "MaterialIds": [
+                1330001,
+                9832,
+                0
+            ],
+            "MaterialQtys": [
+                10,
+                55,
+                0
+            ],
+            "CostGold": 75000,
+            "EarnStatPoint": 161,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                500000,
+                450000,
+                50000
+            ],
+            "PointQtys": [
+                20000,
+                57142,
+                1000000
+            ]
+        },
+        {
+            "Level": 162,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                170,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 162,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 163,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                174,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 163,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 164,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                179,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 164,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 165,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                183,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 165,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 166,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                187,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 166,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 167,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                191,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 167,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 168,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                196,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 168,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 169,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                200,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 169,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 170,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330002,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                204,
+                87,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 170,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 171,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                80,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 171,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 172,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                80,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 172,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 173,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                82,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 173,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 174,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                84,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 174,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 175,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                86,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 175,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 176,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                88,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 176,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 177,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                90,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 177,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 178,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                92,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 178,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 179,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                94,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 179,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 180,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330003,
+                9831,
+                0
+            ],
+            "MaterialQtys": [
+                96,
+                94,
+                0
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 180,
+            "EarnSkillPoint": 4,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 181,
+            "UpgradeType": 2,
+            "MaterialIds": [
+                1330002,
+                9832,
+                0
+            ],
+            "MaterialQtys": [
+                30,
+                62,
+                0
+            ],
+            "CostGold": 75000,
+            "EarnStatPoint": 181,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                550000,
+                410000,
+                40000
+            ],
+            "PointQtys": [
+                20000,
+                57142,
+                1000000
+            ]
+        },
+        {
+            "Level": 182,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                30,
+                170,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 182,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 183,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                31,
+                174,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 183,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 184,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                32,
+                179,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 184,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 185,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                32,
+                183,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 185,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 186,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                33,
+                187,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 186,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 187,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                34,
+                191,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 187,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 188,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                35,
+                196,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 188,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 189,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                35,
+                200,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 189,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 190,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330002,
+                9831
+            ],
+            "MaterialQtys": [
+                36,
+                204,
+                101
+            ],
+            "CostGold": 140000,
+            "EarnStatPoint": 190,
+            "EarnSkillPoint": 5,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 191,
+            "UpgradeType": 2,
+            "MaterialIds": [
+                1330003,
+                9832,
+                0
+            ],
+            "MaterialQtys": [
+                20,
+                68,
+                0
+            ],
+            "CostGold": 80000,
+            "EarnStatPoint": 191,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                550000,
+                410000,
+                40000
+            ],
+            "PointQtys": [
+                20000,
+                57142,
+                1000000
+            ]
+        },
+        {
+            "Level": 192,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                30,
+                80,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 192,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 193,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                31,
+                82,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 193,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 194,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                32,
+                84,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 194,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 195,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                32,
+                86,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 195,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 196,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                33,
+                88,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 196,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 197,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                34,
+                90,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 197,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 198,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                35,
+                92,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 198,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 199,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                35,
+                94,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 199,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Level": 200,
+            "UpgradeType": 1,
+            "MaterialIds": [
+                1330001,
+                1330003,
+                9831
+            ],
+            "MaterialQtys": [
+                36,
+                96,
+                107
+            ],
+            "CostGold": 160000,
+            "EarnStatPoint": 200,
+            "EarnSkillPoint": 7,
+            "PointRates": [
+                0,
+                0,
+                0
+            ],
+            "PointQtys": [
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

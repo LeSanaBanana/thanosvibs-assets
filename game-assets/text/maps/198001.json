@@ -1,0 +1,100 @@
+[
+    {
+        "level": "raid_knull_extreme",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "succ_cam_pos": "0,0,-6",
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 442198001,
+                        "group": 90,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_knull02_01"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 443198001,
+                        "group": 90,
+                        "sight": 50,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973198001,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate01"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973198001,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate02"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973198001,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate03"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973198001,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate04"
+                    },
+                    {
+                        "appear": "appear_cam",
+                        "point": 80,
+                        "mob": 1159198001,
+                        "group": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "autoinvincible": "50:5",
+                        "aiprefab": "ai_raidknull01_legend_event",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam_ani": "appear_cam",
+                        "boss_cam": "0,1,0.3"
+                    },
+                    {
+                        "appear": "appear",
+                        "point": 90,
+                        "mob": 1160198001,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "delay": "3.5",
+                        "autoregen": "1-1",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_raidknull02_legend_event",
+                        "keymob": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 874198001,
+                        "group": 95,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "99-99"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2779032872176914718
+    },
+    "m_Name": "SPECIAL_GEAR_AWAKEN",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "awakenMaterialQty": 1,
+            "awakenPrice": 50,
+            "reawakenPrice": 50,
+            "awakenJackpotProb": 0.0
+        },
+        {
+            "awakenMaterialQty": 2,
+            "awakenPrice": 70,
+            "reawakenPrice": 70,
+            "awakenJackpotProb": 0.009999999776482582
+        },
+        {
+            "awakenMaterialQty": 3,
+            "awakenPrice": 100,
+            "reawakenPrice": 100,
+            "awakenJackpotProb": 0.019999999552965164
+        },
+        {
+            "awakenMaterialQty": 4,
+            "awakenPrice": 150,
+            "reawakenPrice": 150,
+            "awakenJackpotProb": 0.029999999329447746
+        },
+        {
+            "awakenMaterialQty": 5,
+            "awakenPrice": 200,
+            "reawakenPrice": 200,
+            "awakenJackpotProb": 0.05000000074505806
+        },
+        {
+            "awakenMaterialQty": 6,
+            "awakenPrice": 250,
+            "reawakenPrice": 250,
+            "awakenJackpotProb": 0.07000000029802322
+        }
+    ]
+}

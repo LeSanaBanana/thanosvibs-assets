@@ -1,0 +1,42 @@
+[
+    {
+        "level": "base_munitionsfactory_0001_c01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 10,
+                        "mob": 772390701,
+                        "group": 2,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss": 2,
+                        "appear": "appear",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_epicdeluxe_cable",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 1,
+                        "mob": 773390701,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 12,
+                        "boss": 3,
+                        "appear": "appear",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_epicdeluxe_stryfe",
+                        "trigger": 1,
+                        "boss_appear": "skill04",
+                        "boss_cam": "0,0.18,1.83"
+                    }
+                ]
+            }
+        ]
+    }
+]

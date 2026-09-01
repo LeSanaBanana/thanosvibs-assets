@@ -1,0 +1,86 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -984219008568915260
+    },
+    "m_Name": "ITEM_SAVINGTHEME",
+    "keys": [
+        14001,
+        14003,
+        14004,
+        14005,
+        14006,
+        14007,
+        14008,
+        14009,
+        14010,
+        14011
+    ],
+    "values": [
+        {
+            "themeId": 14001,
+            "itemId": 14001,
+            "prefabs": "PowerSavingTheme1",
+            "statusType": 0
+        },
+        {
+            "themeId": 14003,
+            "itemId": 14003,
+            "prefabs": "PowerSavingTheme3",
+            "statusType": 0
+        },
+        {
+            "themeId": 14004,
+            "itemId": 14004,
+            "prefabs": "PowerSavingTheme4",
+            "statusType": 0
+        },
+        {
+            "themeId": 14005,
+            "itemId": 14005,
+            "prefabs": "PowerSavingTheme5",
+            "statusType": 0
+        },
+        {
+            "themeId": 14006,
+            "itemId": 14006,
+            "prefabs": "PowerSavingTheme2",
+            "statusType": 0
+        },
+        {
+            "themeId": 14007,
+            "itemId": 14007,
+            "prefabs": "PowerSavingTheme7",
+            "statusType": 0
+        },
+        {
+            "themeId": 14008,
+            "itemId": 14008,
+            "prefabs": "PowerSavingTheme8",
+            "statusType": 0
+        },
+        {
+            "themeId": 14009,
+            "itemId": 14009,
+            "prefabs": "PowerSavingTheme9",
+            "statusType": 0
+        },
+        {
+            "themeId": 14010,
+            "itemId": 14010,
+            "prefabs": "PowerSavingTheme10",
+            "statusType": 0
+        },
+        {
+            "themeId": 14011,
+            "itemId": 14011,
+            "prefabs": "PowerSavingTheme11",
+            "statusType": 1
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+[
+    {
+        "level": "arcade_blackwidow_citycenter_re_b01",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": 2,
+        "onlyCinematicLevel": 1,
+        "detail": [
+            {
+                "round": []
+            }
+        ]
+    },
+    {
+        "level": "arcade_blackwidow_citycenter_re_a01",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 837361503,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 4,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.2,0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "arcade_blackwidow_citycenter_re_c01",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": -1,
+        "succ_cam": "0,-90,0",
+        "succ_cam_pos": "0,0,0",
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 430361503,
+                        "group": 10,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 6,
+                        "mob": 430361503,
+                        "group": 11,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 5,
+                        "mob": 838361503,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 3,
+                        "boss_appear": "skill01-04",
+                        "aiprefab": "ai_legendary_blackwidow_taskmaster",
+                        "avoidancePriority": 0,
+                        "delay": "1.5",
+                        "boss_cam": "0,0.2,0"
+                    }
+                ]
+            }
+        ]
+    }
+]

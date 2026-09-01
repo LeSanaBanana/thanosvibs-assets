@@ -1,0 +1,614 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4207106345799530806
+    },
+    "m_Name": "ITEM_INFO",
+    "list": [
+        {
+            "groupId": 1,
+            "type": 101,
+            "value": 10199001
+        },
+        {
+            "groupId": 2,
+            "type": 101,
+            "value": 10199002
+        },
+        {
+            "groupId": 3,
+            "type": 100,
+            "value": 0
+        },
+        {
+            "groupId": 4,
+            "type": 102,
+            "value": 1020001
+        },
+        {
+            "groupId": 4,
+            "type": 102,
+            "value": 1020003
+        },
+        {
+            "groupId": 4,
+            "type": 102,
+            "value": 1020002
+        },
+        {
+            "groupId": 4,
+            "type": 102,
+            "value": 1020004
+        },
+        {
+            "groupId": 4,
+            "type": 110,
+            "value": 1100001
+        },
+        {
+            "groupId": 5,
+            "type": 107,
+            "value": 1070001
+        },
+        {
+            "groupId": 5,
+            "type": 107,
+            "value": 1070002
+        },
+        {
+            "groupId": 5,
+            "type": 107,
+            "value": 1070003
+        },
+        {
+            "groupId": 5,
+            "type": 107,
+            "value": 1070004
+        },
+        {
+            "groupId": 5,
+            "type": 107,
+            "value": 1070005
+        },
+        {
+            "groupId": 5,
+            "type": 107,
+            "value": 1070006
+        },
+        {
+            "groupId": 5,
+            "type": 111,
+            "value": 1110001
+        },
+        {
+            "groupId": 6,
+            "type": 102,
+            "value": 1020005
+        },
+        {
+            "groupId": 6,
+            "type": 112,
+            "value": 1120001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20001001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20002001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20003001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20004001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20005001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20006001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20007001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20008001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20009001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20010001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20011001
+        },
+        {
+            "groupId": 7,
+            "type": 200,
+            "value": 20012001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20101001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20102001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20103001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20104001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20105001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20106001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20107001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20108001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20109001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20110001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20111001
+        },
+        {
+            "groupId": 7,
+            "type": 201,
+            "value": 20112001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20201001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20202001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20203001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20204001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20205001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20206001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20207001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20208001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20209001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20210001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20211001
+        },
+        {
+            "groupId": 7,
+            "type": 202,
+            "value": 20212001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20301001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20302001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20303001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20304001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20305001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20306001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20307001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20308001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20309001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20310001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20311001
+        },
+        {
+            "groupId": 7,
+            "type": 203,
+            "value": 20312001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20401001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20402001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20403001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20404001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20405001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20406001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20407001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20408001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20409001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20410001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20411001
+        },
+        {
+            "groupId": 7,
+            "type": 204,
+            "value": 20412001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20501001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20502001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20503001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20504001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20505001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20506001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20507001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20508001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20509001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20510001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20511001
+        },
+        {
+            "groupId": 7,
+            "type": 205,
+            "value": 20512001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20601001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20602001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20603001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20604001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20605001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20606001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20607001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20608001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20609001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20610001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20611001
+        },
+        {
+            "groupId": 7,
+            "type": 206,
+            "value": 20612001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20701001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20702001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20703001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20704001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20705001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20706001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20707001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20708001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20709001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20710001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20711001
+        },
+        {
+            "groupId": 7,
+            "type": 207,
+            "value": 20712001
+        },
+        {
+            "groupId": 8,
+            "type": 106,
+            "value": 0
+        },
+        {
+            "groupId": 9,
+            "type": 7,
+            "value": 0
+        },
+        {
+            "groupId": 10,
+            "type": 302,
+            "value": 0
+        },
+        {
+            "groupId": 11,
+            "type": 108,
+            "value": 0
+        },
+        {
+            "groupId": 12,
+            "type": 101,
+            "value": 10199007
+        },
+        {
+            "groupId": 13,
+            "type": 122,
+            "value": 0
+        },
+        {
+            "groupId": 14,
+            "type": 600,
+            "value": 6
+        }
+    ]
+}

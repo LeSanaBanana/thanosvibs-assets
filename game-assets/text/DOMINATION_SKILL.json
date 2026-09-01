@@ -1,0 +1,64 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3206244821144278388
+    },
+    "m_Name": "DOMINATION_SKILL",
+    "list": [
+        {
+            "abilityOrder": 1,
+            "actionAbilityId": 2001,
+            "abilityCost": 500,
+            "abilityCooltime": 10,
+            "targetType": 2,
+            "visibleBuff": 0,
+            "skillIcon": "DominationSkill_1",
+            "targetArea": 2
+        },
+        {
+            "abilityOrder": 3,
+            "actionAbilityId": 2002,
+            "abilityCost": 5000,
+            "abilityCooltime": 1800,
+            "targetType": 1,
+            "visibleBuff": 0,
+            "skillIcon": "DominationSkill_2",
+            "targetArea": 3
+        },
+        {
+            "abilityOrder": 4,
+            "actionAbilityId": 2003,
+            "abilityCost": 2500,
+            "abilityCooltime": 1800,
+            "targetType": 1,
+            "visibleBuff": 1,
+            "skillIcon": "DominationSkill_3",
+            "targetArea": 0
+        },
+        {
+            "abilityOrder": 5,
+            "actionAbilityId": 2004,
+            "abilityCost": 5000,
+            "abilityCooltime": 1800,
+            "targetType": 2,
+            "visibleBuff": 0,
+            "skillIcon": "DominationSkill_4",
+            "targetArea": 2
+        },
+        {
+            "abilityOrder": 2,
+            "actionAbilityId": 2005,
+            "abilityCost": 500,
+            "abilityCooltime": 10,
+            "targetType": 2,
+            "visibleBuff": 0,
+            "skillIcon": "DominationSkill_5",
+            "targetArea": 2
+        }
+    ]
+}

@@ -1,0 +1,2114 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3482218891992000954
+    },
+    "m_Name": "FARMING_REWARD",
+    "list": [
+        {
+            "rewardId": 10010101,
+            "rewardGroupId": 1001,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10010201,
+            "rewardGroupId": 1001,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10020102,
+            "rewardGroupId": 1002,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10020202,
+            "rewardGroupId": 1002,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10030103,
+            "rewardGroupId": 1003,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10030203,
+            "rewardGroupId": 1003,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10040104,
+            "rewardGroupId": 1004,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10040204,
+            "rewardGroupId": 1004,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10050105,
+            "rewardGroupId": 1005,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10050205,
+            "rewardGroupId": 1005,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10060106,
+            "rewardGroupId": 1006,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10060206,
+            "rewardGroupId": 1006,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10070107,
+            "rewardGroupId": 1007,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10070207,
+            "rewardGroupId": 1007,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10080108,
+            "rewardGroupId": 1008,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10080208,
+            "rewardGroupId": 1008,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10090109,
+            "rewardGroupId": 1009,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10090209,
+            "rewardGroupId": 1009,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10100110,
+            "rewardGroupId": 1010,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10100210,
+            "rewardGroupId": 1010,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10110111,
+            "rewardGroupId": 1011,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10110211,
+            "rewardGroupId": 1011,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10120112,
+            "rewardGroupId": 1012,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10120212,
+            "rewardGroupId": 1012,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10130113,
+            "rewardGroupId": 1013,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10130213,
+            "rewardGroupId": 1013,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10140114,
+            "rewardGroupId": 1014,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10140214,
+            "rewardGroupId": 1014,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 10150115,
+            "rewardGroupId": 1015,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 10150215,
+            "rewardGroupId": 1015,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20010101,
+            "rewardGroupId": 2001,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20010201,
+            "rewardGroupId": 2001,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20020102,
+            "rewardGroupId": 2002,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20020202,
+            "rewardGroupId": 2002,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20030103,
+            "rewardGroupId": 2003,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20030203,
+            "rewardGroupId": 2003,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20040104,
+            "rewardGroupId": 2004,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20040204,
+            "rewardGroupId": 2004,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20050105,
+            "rewardGroupId": 2005,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20050205,
+            "rewardGroupId": 2005,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20060106,
+            "rewardGroupId": 2006,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20060206,
+            "rewardGroupId": 2006,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20070107,
+            "rewardGroupId": 2007,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20070207,
+            "rewardGroupId": 2007,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20080108,
+            "rewardGroupId": 2008,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20080208,
+            "rewardGroupId": 2008,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20090109,
+            "rewardGroupId": 2009,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20090209,
+            "rewardGroupId": 2009,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20100110,
+            "rewardGroupId": 2010,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20100210,
+            "rewardGroupId": 2010,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20110111,
+            "rewardGroupId": 2011,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20110211,
+            "rewardGroupId": 2011,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20120112,
+            "rewardGroupId": 2012,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20120212,
+            "rewardGroupId": 2012,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20130113,
+            "rewardGroupId": 2013,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20130213,
+            "rewardGroupId": 2013,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20140114,
+            "rewardGroupId": 2014,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20140214,
+            "rewardGroupId": 2014,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 20150115,
+            "rewardGroupId": 2015,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 20150215,
+            "rewardGroupId": 2015,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30010101,
+            "rewardGroupId": 3001,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30010201,
+            "rewardGroupId": 3001,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30020102,
+            "rewardGroupId": 3002,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30020202,
+            "rewardGroupId": 3002,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30030103,
+            "rewardGroupId": 3003,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30030203,
+            "rewardGroupId": 3003,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30040104,
+            "rewardGroupId": 3004,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30040204,
+            "rewardGroupId": 3004,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30050105,
+            "rewardGroupId": 3005,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30050205,
+            "rewardGroupId": 3005,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30060106,
+            "rewardGroupId": 3006,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30060206,
+            "rewardGroupId": 3006,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30070107,
+            "rewardGroupId": 3007,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30070207,
+            "rewardGroupId": 3007,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30080108,
+            "rewardGroupId": 3008,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30080208,
+            "rewardGroupId": 3008,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30090109,
+            "rewardGroupId": 3009,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30090209,
+            "rewardGroupId": 3009,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30100110,
+            "rewardGroupId": 3010,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30100210,
+            "rewardGroupId": 3010,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30110111,
+            "rewardGroupId": 3011,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30110211,
+            "rewardGroupId": 3011,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30120112,
+            "rewardGroupId": 3012,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30120212,
+            "rewardGroupId": 3012,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30130113,
+            "rewardGroupId": 3013,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30130213,
+            "rewardGroupId": 3013,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30140114,
+            "rewardGroupId": 3014,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30140214,
+            "rewardGroupId": 3014,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 30150115,
+            "rewardGroupId": 3015,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 30150215,
+            "rewardGroupId": 3015,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40010101,
+            "rewardGroupId": 4001,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40010201,
+            "rewardGroupId": 4001,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40020102,
+            "rewardGroupId": 4002,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40020202,
+            "rewardGroupId": 4002,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40030103,
+            "rewardGroupId": 4003,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40030203,
+            "rewardGroupId": 4003,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40040104,
+            "rewardGroupId": 4004,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40040204,
+            "rewardGroupId": 4004,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40050105,
+            "rewardGroupId": 4005,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40050205,
+            "rewardGroupId": 4005,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40060106,
+            "rewardGroupId": 4006,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40060206,
+            "rewardGroupId": 4006,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40070107,
+            "rewardGroupId": 4007,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40070207,
+            "rewardGroupId": 4007,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40080108,
+            "rewardGroupId": 4008,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40080208,
+            "rewardGroupId": 4008,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40090109,
+            "rewardGroupId": 4009,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40090209,
+            "rewardGroupId": 4009,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40100110,
+            "rewardGroupId": 4010,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40100210,
+            "rewardGroupId": 4010,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40110111,
+            "rewardGroupId": 4011,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40110211,
+            "rewardGroupId": 4011,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40120112,
+            "rewardGroupId": 4012,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40120212,
+            "rewardGroupId": 4012,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40130113,
+            "rewardGroupId": 4013,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40130213,
+            "rewardGroupId": 4013,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40140114,
+            "rewardGroupId": 4014,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40140214,
+            "rewardGroupId": 4014,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 40150115,
+            "rewardGroupId": 4015,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 40150215,
+            "rewardGroupId": 4015,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50010101,
+            "rewardGroupId": 5001,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50010201,
+            "rewardGroupId": 5001,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50020102,
+            "rewardGroupId": 5002,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50020202,
+            "rewardGroupId": 5002,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50030103,
+            "rewardGroupId": 5003,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50030203,
+            "rewardGroupId": 5003,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50040104,
+            "rewardGroupId": 5004,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50040204,
+            "rewardGroupId": 5004,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50050105,
+            "rewardGroupId": 5005,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50050205,
+            "rewardGroupId": 5005,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50060106,
+            "rewardGroupId": 5006,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50060206,
+            "rewardGroupId": 5006,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50070107,
+            "rewardGroupId": 5007,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50070207,
+            "rewardGroupId": 5007,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50080108,
+            "rewardGroupId": 5008,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50080208,
+            "rewardGroupId": 5008,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50090109,
+            "rewardGroupId": 5009,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50090209,
+            "rewardGroupId": 5009,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50100110,
+            "rewardGroupId": 5010,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50100210,
+            "rewardGroupId": 5010,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50110111,
+            "rewardGroupId": 5011,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50110211,
+            "rewardGroupId": 5011,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50120112,
+            "rewardGroupId": 5012,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50120212,
+            "rewardGroupId": 5012,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50130113,
+            "rewardGroupId": 5013,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50130213,
+            "rewardGroupId": 5013,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50140114,
+            "rewardGroupId": 5014,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50140214,
+            "rewardGroupId": 5014,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 50150115,
+            "rewardGroupId": 5015,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 50150215,
+            "rewardGroupId": 5015,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60010101,
+            "rewardGroupId": 6001,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60010201,
+            "rewardGroupId": 6001,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60020102,
+            "rewardGroupId": 6002,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60020202,
+            "rewardGroupId": 6002,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60030103,
+            "rewardGroupId": 6003,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60030203,
+            "rewardGroupId": 6003,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60040104,
+            "rewardGroupId": 6004,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60040204,
+            "rewardGroupId": 6004,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60050105,
+            "rewardGroupId": 6005,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60050205,
+            "rewardGroupId": 6005,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60060106,
+            "rewardGroupId": 6006,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60060206,
+            "rewardGroupId": 6006,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60070107,
+            "rewardGroupId": 6007,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60070207,
+            "rewardGroupId": 6007,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60080108,
+            "rewardGroupId": 6008,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60080208,
+            "rewardGroupId": 6008,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60090109,
+            "rewardGroupId": 6009,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60090209,
+            "rewardGroupId": 6009,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60100110,
+            "rewardGroupId": 6010,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60100210,
+            "rewardGroupId": 6010,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60110111,
+            "rewardGroupId": 6011,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60110211,
+            "rewardGroupId": 6011,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60120112,
+            "rewardGroupId": 6012,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60120212,
+            "rewardGroupId": 6012,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60130113,
+            "rewardGroupId": 6013,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60130213,
+            "rewardGroupId": 6013,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60140114,
+            "rewardGroupId": 6014,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60140214,
+            "rewardGroupId": 6014,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 60150115,
+            "rewardGroupId": 6015,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 60150215,
+            "rewardGroupId": 6015,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70010101,
+            "rewardGroupId": 7001,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70010201,
+            "rewardGroupId": 7001,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70020102,
+            "rewardGroupId": 7002,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70020202,
+            "rewardGroupId": 7002,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70030103,
+            "rewardGroupId": 7003,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70030203,
+            "rewardGroupId": 7003,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70040104,
+            "rewardGroupId": 7004,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70040204,
+            "rewardGroupId": 7004,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70050105,
+            "rewardGroupId": 7005,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70050205,
+            "rewardGroupId": 7005,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70060106,
+            "rewardGroupId": 7006,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70060206,
+            "rewardGroupId": 7006,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70070107,
+            "rewardGroupId": 7007,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70070207,
+            "rewardGroupId": 7007,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70080108,
+            "rewardGroupId": 7008,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70080208,
+            "rewardGroupId": 7008,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70090109,
+            "rewardGroupId": 7009,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70090209,
+            "rewardGroupId": 7009,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70100110,
+            "rewardGroupId": 7010,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70100210,
+            "rewardGroupId": 7010,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70110111,
+            "rewardGroupId": 7011,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70110211,
+            "rewardGroupId": 7011,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70120112,
+            "rewardGroupId": 7012,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70120212,
+            "rewardGroupId": 7012,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70130113,
+            "rewardGroupId": 7013,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70130213,
+            "rewardGroupId": 7013,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70140114,
+            "rewardGroupId": 7014,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70140214,
+            "rewardGroupId": 7014,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        },
+        {
+            "rewardId": 70150115,
+            "rewardGroupId": 7015,
+            "clearType": 1,
+            "clearRewardType": 6,
+            "clearRewardValue": 0,
+            "clearRewardMin": 1,
+            "clearRewardMax": 3,
+            "randomPickId": 0
+        },
+        {
+            "rewardId": 70150215,
+            "rewardGroupId": 7015,
+            "clearType": 2,
+            "clearRewardType": 0,
+            "clearRewardValue": 0,
+            "clearRewardMin": 0,
+            "clearRewardMax": 0,
+            "randomPickId": 1809
+        }
+    ]
+}

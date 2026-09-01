@@ -1,0 +1,734 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1401462100170248617
+    },
+    "m_Name": "AGENT_LV_GRADE",
+    "list": [
+        {
+            "id": 10101,
+            "grade": 1,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 1,
+            "group": 1,
+            "gradeAbilityGroup": 1010000,
+            "gradeImgKey": 1848610351
+        },
+        {
+            "id": 10201,
+            "grade": 2,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 2,
+            "group": 1,
+            "gradeAbilityGroup": 1020000,
+            "gradeImgKey": -2043072418
+        },
+        {
+            "id": 10301,
+            "grade": 3,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 10,
+            "group": 1,
+            "gradeAbilityGroup": 1030000,
+            "gradeImgKey": 685810937
+        },
+        {
+            "id": 10401,
+            "grade": 4,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 50,
+            "group": 1,
+            "gradeAbilityGroup": 1040000,
+            "gradeImgKey": -1686842059
+        },
+        {
+            "id": 10501,
+            "grade": 5,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 500,
+            "group": 1,
+            "gradeAbilityGroup": 1050000,
+            "gradeImgKey": 1042041296
+        },
+        {
+            "id": 10601,
+            "grade": 6,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 2500,
+            "group": 1,
+            "gradeAbilityGroup": 1060000,
+            "gradeImgKey": 1089095463
+        },
+        {
+            "id": 10701,
+            "grade": 7,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 570,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 10702,
+            "grade": 7,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 510,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 10703,
+            "grade": 7,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 450,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 10801,
+            "grade": 8,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 400,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 10802,
+            "grade": 8,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 350,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 10803,
+            "grade": 8,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 300,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 10901,
+            "grade": 9,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 260,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 10902,
+            "grade": 9,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 220,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 10903,
+            "grade": 9,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 180,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 11001,
+            "grade": 10,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 150,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 11002,
+            "grade": 10,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 120,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 11003,
+            "grade": 10,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 90,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 11101,
+            "grade": 11,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 70,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 11102,
+            "grade": 11,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 50,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 11103,
+            "grade": 11,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 30,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 11201,
+            "grade": 12,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 20,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        },
+        {
+            "id": 11202,
+            "grade": 12,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 10,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        },
+        {
+            "id": 11203,
+            "grade": 12,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 0,
+            "group": 1,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        },
+        {
+            "id": 20101,
+            "grade": 1,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 1,
+            "group": 2,
+            "gradeAbilityGroup": 2010000,
+            "gradeImgKey": 1848610351
+        },
+        {
+            "id": 20201,
+            "grade": 2,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 2,
+            "group": 2,
+            "gradeAbilityGroup": 2020000,
+            "gradeImgKey": -2043072418
+        },
+        {
+            "id": 20301,
+            "grade": 3,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 5,
+            "group": 2,
+            "gradeAbilityGroup": 2030000,
+            "gradeImgKey": 685810937
+        },
+        {
+            "id": 20401,
+            "grade": 4,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 25,
+            "group": 2,
+            "gradeAbilityGroup": 2040000,
+            "gradeImgKey": -1686842059
+        },
+        {
+            "id": 20501,
+            "grade": 5,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 100,
+            "group": 2,
+            "gradeAbilityGroup": 2050000,
+            "gradeImgKey": 1042041296
+        },
+        {
+            "id": 20601,
+            "grade": 6,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 500,
+            "group": 2,
+            "gradeAbilityGroup": 2060000,
+            "gradeImgKey": 1089095463
+        },
+        {
+            "id": 20701,
+            "grade": 7,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 570,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 20702,
+            "grade": 7,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 510,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 20703,
+            "grade": 7,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 450,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 20801,
+            "grade": 8,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 400,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 20802,
+            "grade": 8,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 350,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 20803,
+            "grade": 8,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 300,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 20901,
+            "grade": 9,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 260,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 20902,
+            "grade": 9,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 220,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 20903,
+            "grade": 9,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 180,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 21001,
+            "grade": 10,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 150,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 21002,
+            "grade": 10,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 120,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 21003,
+            "grade": 10,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 90,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 21101,
+            "grade": 11,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 70,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 21102,
+            "grade": 11,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 50,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 21103,
+            "grade": 11,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 30,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 21201,
+            "grade": 12,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 20,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        },
+        {
+            "id": 21202,
+            "grade": 12,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 10,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        },
+        {
+            "id": 21203,
+            "grade": 12,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 0,
+            "group": 2,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        },
+        {
+            "id": 30101,
+            "grade": 1,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 1,
+            "group": 3,
+            "gradeAbilityGroup": 3010000,
+            "gradeImgKey": 1848610351
+        },
+        {
+            "id": 30201,
+            "grade": 2,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 2,
+            "group": 3,
+            "gradeAbilityGroup": 3020000,
+            "gradeImgKey": -2043072418
+        },
+        {
+            "id": 30301,
+            "grade": 3,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 5,
+            "group": 3,
+            "gradeAbilityGroup": 3030000,
+            "gradeImgKey": 685810937
+        },
+        {
+            "id": 30401,
+            "grade": 4,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 25,
+            "group": 3,
+            "gradeAbilityGroup": 3040000,
+            "gradeImgKey": -1686842059
+        },
+        {
+            "id": 30501,
+            "grade": 5,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 50,
+            "group": 3,
+            "gradeAbilityGroup": 3050000,
+            "gradeImgKey": 1042041296
+        },
+        {
+            "id": 30601,
+            "grade": 6,
+            "level": 0,
+            "conditionType": 0,
+            "conditionValue": 250,
+            "group": 3,
+            "gradeAbilityGroup": 3060000,
+            "gradeImgKey": 1089095463
+        },
+        {
+            "id": 30701,
+            "grade": 7,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 570,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 30702,
+            "grade": 7,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 510,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 30703,
+            "grade": 7,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 450,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -476988478
+        },
+        {
+            "id": 30801,
+            "grade": 8,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 400,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 30802,
+            "grade": 8,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 350,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 30803,
+            "grade": 8,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 300,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -73703951
+        },
+        {
+            "id": 30901,
+            "grade": 9,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 260,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 30902,
+            "grade": 9,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 220,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 30903,
+            "grade": 9,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 180,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -1639787892
+        },
+        {
+            "id": 31001,
+            "grade": 10,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 150,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 31002,
+            "grade": 10,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 120,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 31003,
+            "grade": 10,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 90,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -880273005
+        },
+        {
+            "id": 31101,
+            "grade": 11,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 70,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 31102,
+            "grade": 11,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 50,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 31103,
+            "grade": 11,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 30,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": 1848610350
+        },
+        {
+            "id": 31201,
+            "grade": 12,
+            "level": 3,
+            "conditionType": 1,
+            "conditionValue": 20,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        },
+        {
+            "id": 31202,
+            "grade": 12,
+            "level": 2,
+            "conditionType": 1,
+            "conditionValue": 10,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        },
+        {
+            "id": 31203,
+            "grade": 12,
+            "level": 1,
+            "conditionType": 1,
+            "conditionValue": 0,
+            "group": 3,
+            "gradeAbilityGroup": 0,
+            "gradeImgKey": -2043072419
+        }
+    ]
+}

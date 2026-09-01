@@ -1,0 +1,107 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5384745145237347825
+    },
+    "m_Name": "STORY_CAMPAIGN_TYPE ",
+    "keys": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+    ],
+    "values": [
+        {
+            "index": 0,
+            "battleType": 0,
+            "time": 0.0,
+            "teamSlot": "1,2,3"
+        },
+        {
+            "index": 1,
+            "battleType": 0,
+            "time": 0.0,
+            "teamSlot": "1"
+        },
+        {
+            "index": 2,
+            "battleType": 0,
+            "time": 0.0,
+            "teamSlot": "2"
+        },
+        {
+            "index": 3,
+            "battleType": 0,
+            "time": 0.0,
+            "teamSlot": "3"
+        },
+        {
+            "index": 4,
+            "battleType": 0,
+            "time": 120.0,
+            "teamSlot": "1,2,3"
+        },
+        {
+            "index": 5,
+            "battleType": 1,
+            "time": 0.0,
+            "teamSlot": "1,2,3"
+        },
+        {
+            "index": 6,
+            "battleType": 2,
+            "time": 90.0,
+            "teamSlot": "1,2,3"
+        },
+        {
+            "index": 7,
+            "battleType": 2,
+            "time": 180.0,
+            "teamSlot": "1,2,3"
+        },
+        {
+            "index": 8,
+            "battleType": 2,
+            "time": 180.0,
+            "teamSlot": "1,2,3"
+        },
+        {
+            "index": 9,
+            "battleType": 2,
+            "time": 0.0,
+            "teamSlot": "1"
+        },
+        {
+            "index": 10,
+            "battleType": 0,
+            "time": 0.0,
+            "teamSlot": "1"
+        },
+        {
+            "index": 11,
+            "battleType": 0,
+            "time": 0.0,
+            "teamSlot": "2"
+        },
+        {
+            "index": 12,
+            "battleType": 0,
+            "time": 0.0,
+            "teamSlot": "3"
+        }
+    ]
+}

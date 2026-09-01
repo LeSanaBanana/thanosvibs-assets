@@ -1,0 +1,1016 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -9207745780350635223
+    },
+    "m_Name": "SHIELD_LEVEL",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+    ],
+    "values": [
+        {
+            "shieldLevel": 1,
+            "exp": 405,
+            "maxKey": 40,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 1,
+            "antimatterMax": 6000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 2,
+            "exp": 648,
+            "maxKey": 41,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 8100,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 3,
+            "exp": 939,
+            "maxKey": 42,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 10800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 4,
+            "exp": 1221,
+            "maxKey": 43,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 13500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 5,
+            "exp": 1526,
+            "maxKey": 44,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 2,
+            "antimatterMax": 16500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 6,
+            "exp": 1832,
+            "maxKey": 46,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 19800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 7,
+            "exp": 2152,
+            "maxKey": 47,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 23100,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 8,
+            "exp": 2518,
+            "maxKey": 48,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 26700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 9,
+            "exp": 2934,
+            "maxKey": 50,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 30300,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 10,
+            "exp": 3403,
+            "maxKey": 52,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 3,
+            "antimatterMax": 35700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 11,
+            "exp": 3931,
+            "maxKey": 53,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 39900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 12,
+            "exp": 4521,
+            "maxKey": 54,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 44400,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 13,
+            "exp": 5176,
+            "maxKey": 55,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 48900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 14,
+            "exp": 5901,
+            "maxKey": 56,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 53700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 15,
+            "exp": 6698,
+            "maxKey": 58,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 58800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 16,
+            "exp": 7569,
+            "maxKey": 59,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 64200,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 17,
+            "exp": 8515,
+            "maxKey": 60,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 69600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 18,
+            "exp": 9537,
+            "maxKey": 61,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 75300,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 19,
+            "exp": 10633,
+            "maxKey": 62,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 81000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 20,
+            "exp": 11803,
+            "maxKey": 64,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 93600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 21,
+            "exp": 13043,
+            "maxKey": 65,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 100200,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 22,
+            "exp": 14347,
+            "maxKey": 66,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 106800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 23,
+            "exp": 15782,
+            "maxKey": 67,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 113700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 24,
+            "exp": 17360,
+            "maxKey": 68,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 120900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 25,
+            "exp": 19096,
+            "maxKey": 70,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 128400,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 26,
+            "exp": 21006,
+            "maxKey": 71,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 135900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 27,
+            "exp": 23106,
+            "maxKey": 72,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 143700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 28,
+            "exp": 25417,
+            "maxKey": 73,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 151500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 29,
+            "exp": 27959,
+            "maxKey": 74,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 159600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 30,
+            "exp": 30754,
+            "maxKey": 76,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 177300,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 31,
+            "exp": 33830,
+            "maxKey": 77,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 186300,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 32,
+            "exp": 37213,
+            "maxKey": 78,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 195300,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 33,
+            "exp": 40934,
+            "maxKey": 79,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 204600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 34,
+            "exp": 45028,
+            "maxKey": 80,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 213900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 35,
+            "exp": 49531,
+            "maxKey": 82,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 223500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 36,
+            "exp": 53988,
+            "maxKey": 83,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 233400,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 37,
+            "exp": 58308,
+            "maxKey": 84,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 243300,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 38,
+            "exp": 62389,
+            "maxKey": 85,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 253500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 39,
+            "exp": 66132,
+            "maxKey": 86,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 264000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 40,
+            "exp": 69439,
+            "maxKey": 88,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 295200,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 41,
+            "exp": 72217,
+            "maxKey": 89,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 306600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 42,
+            "exp": 74383,
+            "maxKey": 90,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 318000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 43,
+            "exp": 75871,
+            "maxKey": 91,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 329700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 44,
+            "exp": 76630,
+            "maxKey": 92,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 341700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 45,
+            "exp": 80461,
+            "maxKey": 94,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 353700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 46,
+            "exp": 84484,
+            "maxKey": 95,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 366000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 47,
+            "exp": 88708,
+            "maxKey": 96,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 378600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 48,
+            "exp": 93144,
+            "maxKey": 97,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 391200,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 49,
+            "exp": 97801,
+            "maxKey": 98,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 404100,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 50,
+            "exp": 102691,
+            "maxKey": 100,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 453000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 51,
+            "exp": 112960,
+            "maxKey": 101,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 462000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 52,
+            "exp": 124256,
+            "maxKey": 102,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 470700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 53,
+            "exp": 136682,
+            "maxKey": 103,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 479400,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 54,
+            "exp": 150350,
+            "maxKey": 104,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 488100,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 55,
+            "exp": 165385,
+            "maxKey": 105,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 496800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 56,
+            "exp": 181924,
+            "maxKey": 106,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 505500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 57,
+            "exp": 200116,
+            "maxKey": 107,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 514200,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 58,
+            "exp": 220128,
+            "maxKey": 108,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 522900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 59,
+            "exp": 242141,
+            "maxKey": 109,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 531600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 60,
+            "exp": 266355,
+            "maxKey": 110,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 540300,
+            "unlockUruSlotNo": 1
+        },
+        {
+            "shieldLevel": 61,
+            "exp": 292991,
+            "maxKey": 111,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 549000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 62,
+            "exp": 307640,
+            "maxKey": 112,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 557700,
+            "unlockUruSlotNo": 2
+        },
+        {
+            "shieldLevel": 63,
+            "exp": 323022,
+            "maxKey": 113,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 566400,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 64,
+            "exp": 339173,
+            "maxKey": 114,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 575100,
+            "unlockUruSlotNo": 3
+        },
+        {
+            "shieldLevel": 65,
+            "exp": 356132,
+            "maxKey": 115,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 583800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 66,
+            "exp": 373939,
+            "maxKey": 116,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 592500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 67,
+            "exp": 392636,
+            "maxKey": 117,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 601200,
+            "unlockUruSlotNo": 4
+        },
+        {
+            "shieldLevel": 68,
+            "exp": 412268,
+            "maxKey": 118,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 609900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 69,
+            "exp": 432881,
+            "maxKey": 119,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 618600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 70,
+            "exp": 454525,
+            "maxKey": 120,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 627300,
+            "unlockUruSlotNo": 5
+        },
+        {
+            "shieldLevel": 71,
+            "exp": 477251,
+            "maxKey": 121,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 636000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 72,
+            "exp": 501114,
+            "maxKey": 122,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 644700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 73,
+            "exp": 526170,
+            "maxKey": 123,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 653400,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 74,
+            "exp": 552478,
+            "maxKey": 124,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 662100,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 75,
+            "exp": 580102,
+            "maxKey": 125,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 670800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 76,
+            "exp": 609107,
+            "maxKey": 126,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 679800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 77,
+            "exp": 639563,
+            "maxKey": 127,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 688500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 78,
+            "exp": 671541,
+            "maxKey": 128,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 697200,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 79,
+            "exp": 705118,
+            "maxKey": 129,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 705900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 80,
+            "exp": 740374,
+            "maxKey": 130,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 714600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 81,
+            "exp": 777392,
+            "maxKey": 131,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 723300,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 82,
+            "exp": 816262,
+            "maxKey": 132,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 732000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 83,
+            "exp": 857075,
+            "maxKey": 133,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 740700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 84,
+            "exp": 899929,
+            "maxKey": 134,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 749400,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 85,
+            "exp": 944926,
+            "maxKey": 135,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 758100,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 86,
+            "exp": 992172,
+            "maxKey": 136,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 766800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 87,
+            "exp": 1041780,
+            "maxKey": 137,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 775500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 88,
+            "exp": 1093869,
+            "maxKey": 138,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 784200,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 89,
+            "exp": 1148563,
+            "maxKey": 139,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 792900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 90,
+            "exp": 1205991,
+            "maxKey": 140,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 801600,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 91,
+            "exp": 1266291,
+            "maxKey": 141,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 810300,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 92,
+            "exp": 1329605,
+            "maxKey": 142,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 819000,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 93,
+            "exp": 1396086,
+            "maxKey": 143,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 827700,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 94,
+            "exp": 1465890,
+            "maxKey": 144,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 836400,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 95,
+            "exp": 1539184,
+            "maxKey": 145,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 845100,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 96,
+            "exp": 1616144,
+            "maxKey": 146,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 853800,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 97,
+            "exp": 1696951,
+            "maxKey": 147,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 862500,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 98,
+            "exp": 1781798,
+            "maxKey": 148,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 871200,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 99,
+            "exp": 1870888,
+            "maxKey": 149,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 879900,
+            "unlockUruSlotNo": 0
+        },
+        {
+            "shieldLevel": 100,
+            "exp": 1964433,
+            "maxKey": 150,
+            "unlockArmorySlot": 0,
+            "unlockTeamGroup": 0,
+            "antimatterMax": 888600,
+            "unlockUruSlotNo": 0
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7419909138924377917
+    },
+    "m_Name": "FACTION_EVENT_HERO_POINT",
+    "list": [
+        {
+            "growGroup": 1,
+            "tier": 1,
+            "grade": 1,
+            "stagePoint": 1
+        },
+        {
+            "growGroup": 1,
+            "tier": 1,
+            "grade": 2,
+            "stagePoint": 5
+        },
+        {
+            "growGroup": 1,
+            "tier": 1,
+            "grade": 3,
+            "stagePoint": 10
+        },
+        {
+            "growGroup": 1,
+            "tier": 1,
+            "grade": 4,
+            "stagePoint": 15
+        },
+        {
+            "growGroup": 1,
+            "tier": 1,
+            "grade": 5,
+            "stagePoint": 20
+        },
+        {
+            "growGroup": 1,
+            "tier": 1,
+            "grade": 6,
+            "stagePoint": 25
+        },
+        {
+            "growGroup": 1,
+            "tier": 2,
+            "grade": 1,
+            "stagePoint": 25
+        },
+        {
+            "growGroup": 1,
+            "tier": 2,
+            "grade": 2,
+            "stagePoint": 30
+        },
+        {
+            "growGroup": 1,
+            "tier": 2,
+            "grade": 3,
+            "stagePoint": 35
+        },
+        {
+            "growGroup": 1,
+            "tier": 2,
+            "grade": 4,
+            "stagePoint": 40
+        },
+        {
+            "growGroup": 1,
+            "tier": 2,
+            "grade": 5,
+            "stagePoint": 45
+        },
+        {
+            "growGroup": 1,
+            "tier": 2,
+            "grade": 6,
+            "stagePoint": 50
+        },
+        {
+            "growGroup": 1,
+            "tier": 3,
+            "grade": 1,
+            "stagePoint": 45
+        },
+        {
+            "growGroup": 1,
+            "tier": 3,
+            "grade": 2,
+            "stagePoint": 50
+        },
+        {
+            "growGroup": 1,
+            "tier": 3,
+            "grade": 3,
+            "stagePoint": 55
+        },
+        {
+            "growGroup": 1,
+            "tier": 3,
+            "grade": 4,
+            "stagePoint": 60
+        },
+        {
+            "growGroup": 1,
+            "tier": 3,
+            "grade": 5,
+            "stagePoint": 65
+        },
+        {
+            "growGroup": 1,
+            "tier": 3,
+            "grade": 6,
+            "stagePoint": 70
+        },
+        {
+            "growGroup": 1,
+            "tier": 4,
+            "grade": 1,
+            "stagePoint": 65
+        },
+        {
+            "growGroup": 1,
+            "tier": 4,
+            "grade": 2,
+            "stagePoint": 70
+        },
+        {
+            "growGroup": 1,
+            "tier": 4,
+            "grade": 3,
+            "stagePoint": 75
+        },
+        {
+            "growGroup": 1,
+            "tier": 4,
+            "grade": 4,
+            "stagePoint": 80
+        },
+        {
+            "growGroup": 1,
+            "tier": 4,
+            "grade": 5,
+            "stagePoint": 85
+        },
+        {
+            "growGroup": 1,
+            "tier": 4,
+            "grade": 6,
+            "stagePoint": 90
+        },
+        {
+            "growGroup": 2,
+            "tier": 1,
+            "grade": 1,
+            "stagePoint": 11
+        },
+        {
+            "growGroup": 2,
+            "tier": 1,
+            "grade": 2,
+            "stagePoint": 15
+        },
+        {
+            "growGroup": 2,
+            "tier": 1,
+            "grade": 3,
+            "stagePoint": 20
+        },
+        {
+            "growGroup": 2,
+            "tier": 1,
+            "grade": 4,
+            "stagePoint": 25
+        },
+        {
+            "growGroup": 2,
+            "tier": 1,
+            "grade": 5,
+            "stagePoint": 30
+        },
+        {
+            "growGroup": 2,
+            "tier": 1,
+            "grade": 6,
+            "stagePoint": 35
+        },
+        {
+            "growGroup": 2,
+            "tier": 2,
+            "grade": 1,
+            "stagePoint": 35
+        },
+        {
+            "growGroup": 2,
+            "tier": 2,
+            "grade": 2,
+            "stagePoint": 40
+        },
+        {
+            "growGroup": 2,
+            "tier": 2,
+            "grade": 3,
+            "stagePoint": 45
+        },
+        {
+            "growGroup": 2,
+            "tier": 2,
+            "grade": 4,
+            "stagePoint": 50
+        },
+        {
+            "growGroup": 2,
+            "tier": 2,
+            "grade": 5,
+            "stagePoint": 55
+        },
+        {
+            "growGroup": 2,
+            "tier": 2,
+            "grade": 6,
+            "stagePoint": 60
+        },
+        {
+            "growGroup": 2,
+            "tier": 3,
+            "grade": 1,
+            "stagePoint": 55
+        },
+        {
+            "growGroup": 2,
+            "tier": 3,
+            "grade": 2,
+            "stagePoint": 60
+        },
+        {
+            "growGroup": 2,
+            "tier": 3,
+            "grade": 3,
+            "stagePoint": 65
+        },
+        {
+            "growGroup": 2,
+            "tier": 3,
+            "grade": 4,
+            "stagePoint": 70
+        },
+        {
+            "growGroup": 2,
+            "tier": 3,
+            "grade": 5,
+            "stagePoint": 75
+        },
+        {
+            "growGroup": 2,
+            "tier": 3,
+            "grade": 6,
+            "stagePoint": 80
+        },
+        {
+            "growGroup": 2,
+            "tier": 4,
+            "grade": 1,
+            "stagePoint": 75
+        },
+        {
+            "growGroup": 2,
+            "tier": 4,
+            "grade": 2,
+            "stagePoint": 80
+        },
+        {
+            "growGroup": 2,
+            "tier": 4,
+            "grade": 3,
+            "stagePoint": 85
+        },
+        {
+            "growGroup": 2,
+            "tier": 4,
+            "grade": 4,
+            "stagePoint": 90
+        },
+        {
+            "growGroup": 2,
+            "tier": 4,
+            "grade": 5,
+            "stagePoint": 95
+        },
+        {
+            "growGroup": 2,
+            "tier": 4,
+            "grade": 6,
+            "stagePoint": 100
+        },
+        {
+            "growGroup": 3,
+            "tier": 1,
+            "grade": 1,
+            "stagePoint": 31
+        },
+        {
+            "growGroup": 3,
+            "tier": 1,
+            "grade": 2,
+            "stagePoint": 35
+        },
+        {
+            "growGroup": 3,
+            "tier": 1,
+            "grade": 3,
+            "stagePoint": 40
+        },
+        {
+            "growGroup": 3,
+            "tier": 1,
+            "grade": 4,
+            "stagePoint": 45
+        },
+        {
+            "growGroup": 3,
+            "tier": 1,
+            "grade": 5,
+            "stagePoint": 50
+        },
+        {
+            "growGroup": 3,
+            "tier": 1,
+            "grade": 6,
+            "stagePoint": 55
+        },
+        {
+            "growGroup": 3,
+            "tier": 2,
+            "grade": 1,
+            "stagePoint": 55
+        },
+        {
+            "growGroup": 3,
+            "tier": 2,
+            "grade": 2,
+            "stagePoint": 60
+        },
+        {
+            "growGroup": 3,
+            "tier": 2,
+            "grade": 3,
+            "stagePoint": 65
+        },
+        {
+            "growGroup": 3,
+            "tier": 2,
+            "grade": 4,
+            "stagePoint": 70
+        },
+        {
+            "growGroup": 3,
+            "tier": 2,
+            "grade": 5,
+            "stagePoint": 75
+        },
+        {
+            "growGroup": 3,
+            "tier": 2,
+            "grade": 6,
+            "stagePoint": 80
+        },
+        {
+            "growGroup": 3,
+            "tier": 3,
+            "grade": 1,
+            "stagePoint": 75
+        },
+        {
+            "growGroup": 3,
+            "tier": 3,
+            "grade": 2,
+            "stagePoint": 80
+        },
+        {
+            "growGroup": 3,
+            "tier": 3,
+            "grade": 3,
+            "stagePoint": 85
+        },
+        {
+            "growGroup": 3,
+            "tier": 3,
+            "grade": 4,
+            "stagePoint": 90
+        },
+        {
+            "growGroup": 3,
+            "tier": 3,
+            "grade": 5,
+            "stagePoint": 95
+        },
+        {
+            "growGroup": 3,
+            "tier": 3,
+            "grade": 6,
+            "stagePoint": 100
+        },
+        {
+            "growGroup": 3,
+            "tier": 4,
+            "grade": 1,
+            "stagePoint": 95
+        },
+        {
+            "growGroup": 3,
+            "tier": 4,
+            "grade": 2,
+            "stagePoint": 100
+        },
+        {
+            "growGroup": 3,
+            "tier": 4,
+            "grade": 3,
+            "stagePoint": 105
+        },
+        {
+            "growGroup": 3,
+            "tier": 4,
+            "grade": 4,
+            "stagePoint": 110
+        },
+        {
+            "growGroup": 3,
+            "tier": 4,
+            "grade": 5,
+            "stagePoint": 115
+        },
+        {
+            "growGroup": 3,
+            "tier": 4,
+            "grade": 6,
+            "stagePoint": 120
+        },
+        {
+            "growGroup": 4,
+            "tier": 1,
+            "grade": 1,
+            "stagePoint": 51
+        },
+        {
+            "growGroup": 4,
+            "tier": 1,
+            "grade": 2,
+            "stagePoint": 55
+        },
+        {
+            "growGroup": 4,
+            "tier": 1,
+            "grade": 3,
+            "stagePoint": 60
+        },
+        {
+            "growGroup": 4,
+            "tier": 1,
+            "grade": 4,
+            "stagePoint": 65
+        },
+        {
+            "growGroup": 4,
+            "tier": 1,
+            "grade": 5,
+            "stagePoint": 70
+        },
+        {
+            "growGroup": 4,
+            "tier": 1,
+            "grade": 6,
+            "stagePoint": 75
+        },
+        {
+            "growGroup": 4,
+            "tier": 2,
+            "grade": 1,
+            "stagePoint": 75
+        },
+        {
+            "growGroup": 4,
+            "tier": 2,
+            "grade": 2,
+            "stagePoint": 80
+        },
+        {
+            "growGroup": 4,
+            "tier": 2,
+            "grade": 3,
+            "stagePoint": 85
+        },
+        {
+            "growGroup": 4,
+            "tier": 2,
+            "grade": 4,
+            "stagePoint": 90
+        },
+        {
+            "growGroup": 4,
+            "tier": 2,
+            "grade": 5,
+            "stagePoint": 95
+        },
+        {
+            "growGroup": 4,
+            "tier": 2,
+            "grade": 6,
+            "stagePoint": 100
+        },
+        {
+            "growGroup": 4,
+            "tier": 3,
+            "grade": 1,
+            "stagePoint": 95
+        },
+        {
+            "growGroup": 4,
+            "tier": 3,
+            "grade": 2,
+            "stagePoint": 100
+        },
+        {
+            "growGroup": 4,
+            "tier": 3,
+            "grade": 3,
+            "stagePoint": 105
+        },
+        {
+            "growGroup": 4,
+            "tier": 3,
+            "grade": 4,
+            "stagePoint": 110
+        },
+        {
+            "growGroup": 4,
+            "tier": 3,
+            "grade": 5,
+            "stagePoint": 115
+        },
+        {
+            "growGroup": 4,
+            "tier": 3,
+            "grade": 6,
+            "stagePoint": 120
+        },
+        {
+            "growGroup": 4,
+            "tier": 4,
+            "grade": 1,
+            "stagePoint": 115
+        },
+        {
+            "growGroup": 4,
+            "tier": 4,
+            "grade": 2,
+            "stagePoint": 120
+        },
+        {
+            "growGroup": 4,
+            "tier": 4,
+            "grade": 3,
+            "stagePoint": 125
+        },
+        {
+            "growGroup": 4,
+            "tier": 4,
+            "grade": 4,
+            "stagePoint": 130
+        },
+        {
+            "growGroup": 4,
+            "tier": 4,
+            "grade": 5,
+            "stagePoint": 135
+        },
+        {
+            "growGroup": 4,
+            "tier": 4,
+            "grade": 6,
+            "stagePoint": 140
+        }
+    ]
+}

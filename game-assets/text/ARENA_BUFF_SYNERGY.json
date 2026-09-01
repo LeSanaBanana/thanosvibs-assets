@@ -1,0 +1,140 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3021624857335529253
+    },
+    "m_Name": "ARENA_BUFF_SYNERGY",
+    "list": [
+        {
+            "synergyId": 1,
+            "buffQty": 0,
+            "skillId": 0,
+            "synergyIcon": "Arena_synergy_invincible_start",
+            "synergyGrade": 0
+        },
+        {
+            "synergyId": 1,
+            "buffQty": 2,
+            "skillId": 510010010,
+            "synergyIcon": "Arena_synergy_invincible_start_bronze",
+            "synergyGrade": 1
+        },
+        {
+            "synergyId": 1,
+            "buffQty": 4,
+            "skillId": 510010020,
+            "synergyIcon": "Arena_synergy_invincible_start_silver",
+            "synergyGrade": 2
+        },
+        {
+            "synergyId": 1,
+            "buffQty": 6,
+            "skillId": 510010030,
+            "synergyIcon": "Arena_synergy_invincible_start_gold",
+            "synergyGrade": 3
+        },
+        {
+            "synergyId": 2,
+            "buffQty": 0,
+            "skillId": 0,
+            "synergyIcon": "Arena_synergy_healaddup_death",
+            "synergyGrade": 0
+        },
+        {
+            "synergyId": 2,
+            "buffQty": 3,
+            "skillId": 510020010,
+            "synergyIcon": "Arena_synergy_healaddup_death_silver",
+            "synergyGrade": 2
+        },
+        {
+            "synergyId": 2,
+            "buffQty": 6,
+            "skillId": 510020020,
+            "synergyIcon": "Arena_synergy_healaddup_death_gold",
+            "synergyGrade": 3
+        },
+        {
+            "synergyId": 3,
+            "buffQty": 0,
+            "skillId": 0,
+            "synergyIcon": "Arena_synergy_invincible_hp1",
+            "synergyGrade": 0
+        },
+        {
+            "synergyId": 3,
+            "buffQty": 2,
+            "skillId": 510030010,
+            "synergyIcon": "Arena_synergy_invincible_hp1_bronze",
+            "synergyGrade": 1
+        },
+        {
+            "synergyId": 3,
+            "buffQty": 4,
+            "skillId": 510030020,
+            "synergyIcon": "Arena_synergy_invincible_hp1_silver",
+            "synergyGrade": 2
+        },
+        {
+            "synergyId": 3,
+            "buffQty": 6,
+            "skillId": 510030030,
+            "synergyIcon": "Arena_synergy_invincible_hp1_gold",
+            "synergyGrade": 3
+        },
+        {
+            "synergyId": 4,
+            "buffQty": 0,
+            "skillId": 0,
+            "synergyIcon": "Arena_synergy_healaddup_hp1",
+            "synergyGrade": 0
+        },
+        {
+            "synergyId": 4,
+            "buffQty": 3,
+            "skillId": 510040010,
+            "synergyIcon": "Arena_synergy_healaddup_hp1_silver",
+            "synergyGrade": 2
+        },
+        {
+            "synergyId": 4,
+            "buffQty": 6,
+            "skillId": 510040020,
+            "synergyIcon": "Arena_synergy_healaddup_hp1_gold",
+            "synergyGrade": 3
+        },
+        {
+            "synergyId": 5,
+            "buffQty": 0,
+            "skillId": 0,
+            "synergyIcon": "Arena_synergy_instantdeath_hp_below",
+            "synergyGrade": 0
+        },
+        {
+            "synergyId": 5,
+            "buffQty": 2,
+            "skillId": 510050010,
+            "synergyIcon": "Arena_synergy_instantdeath_hp_below_bronze",
+            "synergyGrade": 1
+        },
+        {
+            "synergyId": 5,
+            "buffQty": 4,
+            "skillId": 510050020,
+            "synergyIcon": "Arena_synergy_instantdeath_hp_below_silver",
+            "synergyGrade": 2
+        },
+        {
+            "synergyId": 5,
+            "buffQty": 6,
+            "skillId": 510050030,
+            "synergyIcon": "Arena_synergy_instantdeath_hp_below_gold",
+            "synergyGrade": 3
+        }
+    ]
+}

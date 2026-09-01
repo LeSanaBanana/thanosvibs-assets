@@ -1,0 +1,522 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4366332832205187056
+    },
+    "m_Name": "CINEMATIC_BATTLE_AI",
+    "keys": [
+        360204,
+        360502,
+        360602,
+        360503,
+        360603,
+        360702,
+        360802,
+        360902,
+        361002,
+        361103,
+        361203,
+        361102,
+        361202,
+        361303,
+        361403,
+        361903,
+        362003,
+        362102,
+        362202,
+        362103,
+        362203,
+        362301,
+        362401,
+        362303,
+        362403,
+        362503,
+        362603
+    ],
+    "values": [
+        {
+            "stageId": 360204,
+            "heroGroupId": 144,
+            "uniformId": 0,
+            "regenPoint": 1,
+            "aiPrefab": "common_AI_cinematic",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360204,
+            "heroGroupId": 2,
+            "uniformId": 10300002,
+            "regenPoint": 2,
+            "aiPrefab": "common_AI_cinematic",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360204,
+            "heroGroupId": 14,
+            "uniformId": 10200014,
+            "regenPoint": 3,
+            "aiPrefab": "common_AI_cinematic",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360502,
+            "heroGroupId": 1,
+            "uniformId": 10600001,
+            "regenPoint": 1001,
+            "aiPrefab": "ai_legendaryallycaptain01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360502,
+            "heroGroupId": 31,
+            "uniformId": 10300031,
+            "regenPoint": 1002,
+            "aiPrefab": "ai_legendaryallywinter01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360602,
+            "heroGroupId": 1,
+            "uniformId": 10600001,
+            "regenPoint": 1001,
+            "aiPrefab": "ai_legendaryallycaptain01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360602,
+            "heroGroupId": 31,
+            "uniformId": 10300031,
+            "regenPoint": 1002,
+            "aiPrefab": "ai_legendaryallywinter01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360503,
+            "heroGroupId": 3,
+            "uniformId": 10400003,
+            "regenPoint": 20,
+            "aiPrefab": "ai_legendaryallyironman01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360503,
+            "heroGroupId": 28,
+            "uniformId": 10100028,
+            "regenPoint": 21,
+            "aiPrefab": "ai_legendaryallydoctor01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360603,
+            "heroGroupId": 3,
+            "uniformId": 10400003,
+            "regenPoint": 20,
+            "aiPrefab": "ai_legendaryallyironman01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360603,
+            "heroGroupId": 28,
+            "uniformId": 10100028,
+            "regenPoint": 21,
+            "aiPrefab": "ai_legendaryallydoctor01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360702,
+            "heroGroupId": 51,
+            "uniformId": 10200051,
+            "regenPoint": 1,
+            "aiPrefab": "ai_legendaryallywasp01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360802,
+            "heroGroupId": 51,
+            "uniformId": 10200051,
+            "regenPoint": 1,
+            "aiPrefab": "ai_legendaryallywasp01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 360902,
+            "heroGroupId": 26,
+            "uniformId": 10300026,
+            "regenPoint": 1001,
+            "aiPrefab": "ai_legendaryallycapma01",
+            "dialogId": 9059,
+            "appearAni": "skill05",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361002,
+            "heroGroupId": 26,
+            "uniformId": 10300026,
+            "regenPoint": 1001,
+            "aiPrefab": "ai_legendaryallycapma01",
+            "dialogId": 9065,
+            "appearAni": "skill05",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361103,
+            "heroGroupId": 1,
+            "uniformId": 10700001,
+            "regenPoint": 40,
+            "aiPrefab": "ai_legendary_endgame_allycaptain01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361103,
+            "heroGroupId": 2,
+            "uniformId": 10400002,
+            "regenPoint": 50,
+            "aiPrefab": "ai_legendary_endgame_allyhulk01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361103,
+            "heroGroupId": 7,
+            "uniformId": 10500007,
+            "regenPoint": 60,
+            "aiPrefab": "ai_legendary_endgame_allyblackwidow01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361103,
+            "heroGroupId": 26,
+            "uniformId": 10300026,
+            "regenPoint": 70,
+            "aiPrefab": "ai_legendary_endgame_allycapma01",
+            "dialogId": 0,
+            "appearAni": "summon_appear",
+            "regenCondition": 1
+        },
+        {
+            "stageId": 361203,
+            "heroGroupId": 1,
+            "uniformId": 10700001,
+            "regenPoint": 40,
+            "aiPrefab": "ai_legendary_endgame_allycaptain01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361203,
+            "heroGroupId": 2,
+            "uniformId": 10400002,
+            "regenPoint": 50,
+            "aiPrefab": "ai_legendary_endgame_allyhulk01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361203,
+            "heroGroupId": 7,
+            "uniformId": 10500007,
+            "regenPoint": 60,
+            "aiPrefab": "ai_legendary_endgame_allyblackwidow01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361203,
+            "heroGroupId": 26,
+            "uniformId": 10300026,
+            "regenPoint": 70,
+            "aiPrefab": "ai_legendary_endgame_allycapma01",
+            "dialogId": 0,
+            "appearAni": "summon_appear",
+            "regenCondition": 1
+        },
+        {
+            "stageId": 361102,
+            "heroGroupId": 5,
+            "uniformId": 10500005,
+            "regenPoint": 13,
+            "aiPrefab": "ai_legendaryallyrocket01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361202,
+            "heroGroupId": 5,
+            "uniformId": 10500005,
+            "regenPoint": 13,
+            "aiPrefab": "ai_legendaryallyrocket01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361303,
+            "heroGroupId": 134,
+            "uniformId": 10100134,
+            "regenPoint": 106,
+            "aiPrefab": "ai_legendarymysterio01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361403,
+            "heroGroupId": 134,
+            "uniformId": 10100134,
+            "regenPoint": 106,
+            "aiPrefab": "ai_legendarymysterio01",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 361903,
+            "heroGroupId": 8,
+            "uniformId": 10800008,
+            "regenPoint": 91,
+            "aiPrefab": "ai_legendarythor03",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362003,
+            "heroGroupId": 8,
+            "uniformId": 10800008,
+            "regenPoint": 91,
+            "aiPrefab": "ai_legendarythor03",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362102,
+            "heroGroupId": 154,
+            "uniformId": 10200154,
+            "regenPoint": 201,
+            "aiPrefab": "ai_legendary_shuri_362201",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362102,
+            "heroGroupId": 255,
+            "uniformId": 0,
+            "regenPoint": 202,
+            "aiPrefab": "ai_legendary_mbaku_362201",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362202,
+            "heroGroupId": 154,
+            "uniformId": 10200154,
+            "regenPoint": 201,
+            "aiPrefab": "ai_legendary_shuri_362201",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362202,
+            "heroGroupId": 255,
+            "uniformId": 0,
+            "regenPoint": 202,
+            "aiPrefab": "ai_legendary_mbaku_362201",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362103,
+            "heroGroupId": 154,
+            "uniformId": 10200154,
+            "regenPoint": 90,
+            "aiPrefab": "ai_legendary_blackpanther02_allyshuri",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362203,
+            "heroGroupId": 154,
+            "uniformId": 10200154,
+            "regenPoint": 90,
+            "aiPrefab": "ai_legendary_blackpanther02_allyshuri",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362301,
+            "heroGroupId": 49,
+            "uniformId": 10600049,
+            "regenPoint": 90,
+            "aiPrefab": "ai_legendary_antman2_allyantman_normal",
+            "dialogId": 0,
+            "appearAni": "succ_cam",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362401,
+            "heroGroupId": 49,
+            "uniformId": 10600049,
+            "regenPoint": 90,
+            "aiPrefab": "ai_legendary_antman2_allyantman_ex",
+            "dialogId": 0,
+            "appearAni": "succ_cam",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362303,
+            "heroGroupId": 51,
+            "uniformId": 10300051,
+            "regenPoint": 201,
+            "aiPrefab": "ai_legendary_wasp_362303",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 1
+        },
+        {
+            "stageId": 362303,
+            "heroGroupId": 257,
+            "uniformId": 0,
+            "regenPoint": 202,
+            "aiPrefab": "ai_legendary_stinger_362303",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 2
+        },
+        {
+            "stageId": 362403,
+            "heroGroupId": 51,
+            "uniformId": 10300051,
+            "regenPoint": 201,
+            "aiPrefab": "ai_legendary_wasp_362303_ex",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 1
+        },
+        {
+            "stageId": 362403,
+            "heroGroupId": 257,
+            "uniformId": 0,
+            "regenPoint": 202,
+            "aiPrefab": "ai_legendary_stinger_362303_ex",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 2
+        },
+        {
+            "stageId": 362503,
+            "heroGroupId": 70,
+            "uniformId": 10400070,
+            "regenPoint": 102,
+            "aiPrefab": "ai_legendaey_msmarvel_362503",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362503,
+            "heroGroupId": 247,
+            "uniformId": 10100247,
+            "regenPoint": 103,
+            "aiPrefab": "ai_legendaey_spectrum_362503",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362603,
+            "heroGroupId": 70,
+            "uniformId": 10400070,
+            "regenPoint": 102,
+            "aiPrefab": "ai_legendaey_msmarvel_362603_ex",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        },
+        {
+            "stageId": 362603,
+            "heroGroupId": 247,
+            "uniformId": 10100247,
+            "regenPoint": 103,
+            "aiPrefab": "ai_legendaey_spectrum_362603_ex",
+            "dialogId": 0,
+            "appearAni": "0",
+            "regenCondition": 0
+        }
+    ],
+    "counts": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+    ]
+}

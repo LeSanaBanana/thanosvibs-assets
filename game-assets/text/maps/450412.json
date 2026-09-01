@@ -1,0 +1,762 @@
+[
+    {
+        "level": "Base_Kyln_1001_A01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9000,
+                        "mob": 917450412,
+                        "group": 99,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 917450412,
+                        "group": 99,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 917450412,
+                        "group": 99,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9003,
+                        "mob": 917450412,
+                        "group": 99,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9100,
+                        "mob": 189450412,
+                        "group": 1,
+                        "gimmickid": 1,
+                        "sight": 4,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 9101,
+                        "mob": 189450412,
+                        "group": 98,
+                        "gimmickid": 1,
+                        "sight": 10,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 9102,
+                        "mob": 189450412,
+                        "group": 98,
+                        "gimmickid": 1,
+                        "sight": 10,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 1,
+                        "mob": 184450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 184450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 185450412,
+                        "group": 1,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "trigger": 1,
+                        "aiprefab": "AI_novacorps_minionsdrone01_003"
+                    },
+                    {
+                        "point": 4,
+                        "mob": 185450412,
+                        "group": 1,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "trigger": 1,
+                        "aiprefab": "AI_novacorps_minionsdrone01_003"
+                    },
+                    {
+                        "point": "6-1000-1001-1002",
+                        "mob": 185450412,
+                        "patroltime": "1",
+                        "group": 1,
+                        "sight": 3,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "delay": "1-1.5",
+                        "aiprefab": "AI_novacorps_minionsdrone01_004"
+                    },
+                    {
+                        "point": 7,
+                        "mob": 184450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 8,
+                        "mob": 184450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 10,
+                        "mob": 184450412,
+                        "group": 2,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "trigger": 1,
+                        "autoregen": "1-2",
+                        "delay": "1.2-1.7"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 184450412,
+                        "group": 2,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "trigger": 1,
+                        "autoregen": "1-2",
+                        "delay": "1.2-1.7"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 184450412,
+                        "group": 2,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "trigger": 1,
+                        "autoregen": "1-2",
+                        "delay": "1.2-1.7"
+                    },
+                    {
+                        "point": 13,
+                        "mob": 184450412,
+                        "group": 2,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "trigger": 1,
+                        "autoregen": "1-2",
+                        "delay": "1.2-1.7"
+                    },
+                    {
+                        "point": 20,
+                        "mob": 184450412,
+                        "group": 3,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": 3,
+                        "autoregen": "2-4"
+                    },
+                    {
+                        "point": 21,
+                        "mob": 184450412,
+                        "group": 3,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": 0.5,
+                        "trigger": 2,
+                        "autoregen": "3-1"
+                    },
+                    {
+                        "point": 22,
+                        "mob": 184450412,
+                        "group": 3,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": 1,
+                        "trigger": 2,
+                        "autoregen": "3-1"
+                    },
+                    {
+                        "point": 23,
+                        "mob": 185450412,
+                        "group": 3,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "3-1",
+                        "aiprefab": "AI_novacorps_minionsdrone01_003"
+                    },
+                    {
+                        "point": 24,
+                        "mob": 185450412,
+                        "group": 3,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": 0.5,
+                        "autoregen": "3-1",
+                        "aiprefab": "AI_novacorps_minionsdrone01_003"
+                    },
+                    {
+                        "point": 25,
+                        "mob": 184450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": 2,
+                        "trigger": 2,
+                        "autoregen": "1-4"
+                    },
+                    {
+                        "point": 26,
+                        "mob": 184450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": 2,
+                        "trigger": 2,
+                        "autoregen": "1-4"
+                    },
+                    {
+                        "point": 27,
+                        "mob": 184450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": 2,
+                        "trigger": 2,
+                        "autoregen": "1-4"
+                    },
+                    {
+                        "point": 28,
+                        "mob": 185450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "1-1.5",
+                        "appear": "appear",
+                        "trigger": 3,
+                        "autoregen": "4-1",
+                        "aiprefab": "AI_novacorps_minionsdrone01_003"
+                    },
+                    {
+                        "point": 29,
+                        "mob": 186450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "0.5-1",
+                        "appear": "appear",
+                        "trigger": 3,
+                        "autoregen": "4-1"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 186450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": "0.5-1",
+                        "appear": "appear",
+                        "trigger": 3,
+                        "autoregen": "4-1"
+                    },
+                    {
+                        "point": 31,
+                        "mob": 184450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "trigger": 3,
+                        "autoregen": "4-4"
+                    },
+                    {
+                        "point": 32,
+                        "mob": 184450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "trigger": 3,
+                        "autoregen": "4-4"
+                    },
+                    {
+                        "point": 33,
+                        "mob": 184450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "trigger": 3,
+                        "autoregen": "4-4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "Base_Kyln_0110_A01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9000,
+                        "mob": 917450412,
+                        "group": 99,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 917450412,
+                        "group": 99,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 917450412,
+                        "group": 99,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9003,
+                        "mob": 917450412,
+                        "group": 99,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9100,
+                        "mob": 189450412,
+                        "group": 98,
+                        "sight": 10,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 9101,
+                        "mob": 189450412,
+                        "group": 98,
+                        "sight": 10,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 9102,
+                        "mob": 189450412,
+                        "group": 98,
+                        "sight": 10,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 9103,
+                        "mob": 189450412,
+                        "group": 98,
+                        "sight": 10,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 1,
+                        "mob": 184450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "keeper": 1
+                    },
+                    {
+                        "point": 2,
+                        "mob": 184450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "keeper": 1,
+                        "delay": "0.1-0.5",
+                        "trigger": 1,
+                        "autoregen": "1-1"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 184450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "0.1-0.5",
+                        "keeper": 1
+                    },
+                    {
+                        "point": 4,
+                        "mob": 185450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "delay": "0.1-0.5",
+                        "autoregen": "1-1",
+                        "aiprefab": "AI_novacorps_minionsdrone01_003"
+                    },
+                    {
+                        "point": 5,
+                        "mob": 185450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "delay": "0.1-0.5",
+                        "autoregen": "1-1",
+                        "aiprefab": "AI_novacorps_minionsdrone01_003"
+                    },
+                    {
+                        "point": "6-1000-1001-1002",
+                        "mob": 185450412,
+                        "patroltime": "1",
+                        "group": 2,
+                        "sight": 3,
+                        "firstattack": 1,
+                        "keeper": 1,
+                        "appear": "appear",
+                        "delay": "1-1.5",
+                        "aiprefab": "AI_novacorps_minionsdrone01_004"
+                    },
+                    {
+                        "point": 7,
+                        "mob": 185450412,
+                        "group": 2,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "keeper": 1,
+                        "delay": "0.1-0.5",
+                        "autoregen": "2-1"
+                    },
+                    {
+                        "point": 8,
+                        "mob": 185450412,
+                        "group": 2,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "keeper": 1,
+                        "delay": "0.1-0.5",
+                        "autoregen": "2-1"
+                    },
+                    {
+                        "point": 9,
+                        "mob": 186450412,
+                        "group": 2,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "keeper": 1,
+                        "delay": "1-1.5",
+                        "autoregen": "2-3"
+                    },
+                    {
+                        "point": 10,
+                        "mob": 185450412,
+                        "group": 2,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "keeper": 1,
+                        "delay": "1-1.5",
+                        "autoregen": "2-3"
+                    },
+                    {
+                        "point": "40-1003-1004",
+                        "mob": 185450412,
+                        "patroltime": "1",
+                        "group": 3,
+                        "sight": 3,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": "41-1005-1006",
+                        "mob": 185450412,
+                        "patroltime": "1",
+                        "group": 3,
+                        "sight": 3,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 42,
+                        "mob": 186450412,
+                        "group": 3,
+                        "sight": 6,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "0.2-0.5",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 43,
+                        "mob": 186450412,
+                        "group": 3,
+                        "sight": 6,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "0.2-0.5",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 44,
+                        "mob": 186450412,
+                        "group": 3,
+                        "sight": 6,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "0.2-0.5",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 45,
+                        "mob": 186450412,
+                        "group": 3,
+                        "sight": 6,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "0.2-0.5",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 46,
+                        "mob": 184450412,
+                        "group": 3,
+                        "sight": 6,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "0.2-0.5",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 47,
+                        "mob": 184450412,
+                        "group": 3,
+                        "sight": 6,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "0.2-0.5",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 48,
+                        "mob": 184450412,
+                        "group": 3,
+                        "sight": 6,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "0.2-0.5",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 20,
+                        "mob": 184450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "1",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 21,
+                        "mob": 184450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "1-2",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 22,
+                        "mob": 184450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "1-2",
+                        "autoregen": "1-5,2-5"
+                    },
+                    {
+                        "point": 23,
+                        "mob": 185450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "0.5-1",
+                        "autoregen": "4-1"
+                    },
+                    {
+                        "point": 24,
+                        "mob": 185450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "0.5-1",
+                        "autoregen": "4-1"
+                    },
+                    {
+                        "point": 25,
+                        "mob": 186450412,
+                        "group": 4,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "0.5-1",
+                        "autoregen": "4-1"
+                    },
+                    {
+                        "point": 26,
+                        "mob": 184450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "4-4"
+                    },
+                    {
+                        "point": 27,
+                        "mob": 184450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "0-0.5",
+                        "autoregen": "4-5"
+                    },
+                    {
+                        "point": 28,
+                        "mob": 185450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "0.5-1",
+                        "autoregen": "4-6"
+                    },
+                    {
+                        "point": 29,
+                        "mob": 185450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "0.5-1",
+                        "autoregen": "4-6"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 186450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "1-1.5",
+                        "autoregen": "5-2"
+                    },
+                    {
+                        "point": 31,
+                        "mob": 186450412,
+                        "group": 5,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "delay": "1-1.5",
+                        "autoregen": "5-2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "Base_Kyln_0001_A01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 530450412,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "trigger": 99
+                    }
+                ]
+            }
+        ]
+    }
+]

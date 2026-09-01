@@ -1,0 +1,52 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2647620728993424494
+    },
+    "m_Name": "WEEKLY_PASS",
+    "keys": [
+        10101,
+        10201,
+        10301,
+        10401
+    ],
+    "values": [
+        {
+            "PassId": 10101,
+            "PassImagePath": "weeklyPass_icon_8",
+            "GoodsId": 590001,
+            "AchieveGroupId": 23001,
+            "PassRewardGroupId": 1001,
+            "PremiumAbility": 16001
+        },
+        {
+            "PassId": 10201,
+            "PassImagePath": "weeklyPass_icon_4",
+            "GoodsId": 590002,
+            "AchieveGroupId": 23002,
+            "PassRewardGroupId": 2001,
+            "PremiumAbility": 16002
+        },
+        {
+            "PassId": 10301,
+            "PassImagePath": "weeklyPass_icon_3",
+            "GoodsId": 590003,
+            "AchieveGroupId": 23003,
+            "PassRewardGroupId": 3001,
+            "PremiumAbility": 16003
+        },
+        {
+            "PassId": 10401,
+            "PassImagePath": "weeklyPass_icon_1",
+            "GoodsId": 590004,
+            "AchieveGroupId": 23004,
+            "PassRewardGroupId": 4001,
+            "PremiumAbility": 16004
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+[
+    {
+        "level": "arcade_endgame_titan_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 993361103,
+                        "group": 90,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_boss_thanosgimmick_s03"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 993361103,
+                        "group": 90,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_boss_thanosgimmick_s03_02"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 993361103,
+                        "group": 90,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_boss_thanosgimmick_s03_03",
+                        "delay": "6.5",
+                        "autoregen": "1-1"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 807361103,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_legendary_endgame_thanos01",
+                        "keymob": 1,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill03-01",
+                        "boss_cam": "0,0.3,0.8",
+                        "scale": "1.43"
+                    },
+                    {
+                        "appear": "appear_warp",
+                        "point": 9001,
+                        "mob": 808361103,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_legendary_endgame_thanos02",
+                        "keymob": 1,
+                        "boss": 4,
+                        "delay": "5.5",
+                        "autoregen": "1-1",
+                        "avoidancePriority": 0,
+                        "scale": "1.43"
+                    }
+                ]
+            }
+        ]
+    }
+]

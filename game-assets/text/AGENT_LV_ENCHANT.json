@@ -1,0 +1,518 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7343206454841872712
+    },
+    "m_Name": "AGENT_LV_ENCHANT",
+    "list": [
+        {
+            "itemType": 120,
+            "itemGrade": 1,
+            "exp": 30,
+            "cost": 200
+        },
+        {
+            "itemType": 120,
+            "itemGrade": 2,
+            "exp": 59,
+            "cost": 200
+        },
+        {
+            "itemType": 120,
+            "itemGrade": 3,
+            "exp": 292,
+            "cost": 200
+        },
+        {
+            "itemType": 120,
+            "itemGrade": 4,
+            "exp": 1749,
+            "cost": 200
+        },
+        {
+            "itemType": 120,
+            "itemGrade": 5,
+            "exp": 2915,
+            "cost": 200
+        },
+        {
+            "itemType": 120,
+            "itemGrade": 6,
+            "exp": 5829,
+            "cost": 200
+        },
+        {
+            "itemType": 200,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 200,
+            "itemGrade": 7,
+            "exp": 473,
+            "cost": 600
+        },
+        {
+            "itemType": 200,
+            "itemGrade": 8,
+            "exp": 886,
+            "cost": 600
+        },
+        {
+            "itemType": 200,
+            "itemGrade": 9,
+            "exp": 1085,
+            "cost": 600
+        },
+        {
+            "itemType": 200,
+            "itemGrade": 10,
+            "exp": 1289,
+            "cost": 600
+        },
+        {
+            "itemType": 200,
+            "itemGrade": 11,
+            "exp": 1493,
+            "cost": 600
+        },
+        {
+            "itemType": 200,
+            "itemGrade": 12,
+            "exp": 1697,
+            "cost": 600
+        },
+        {
+            "itemType": 201,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 201,
+            "itemGrade": 7,
+            "exp": 473,
+            "cost": 600
+        },
+        {
+            "itemType": 201,
+            "itemGrade": 8,
+            "exp": 886,
+            "cost": 600
+        },
+        {
+            "itemType": 201,
+            "itemGrade": 9,
+            "exp": 1085,
+            "cost": 600
+        },
+        {
+            "itemType": 201,
+            "itemGrade": 10,
+            "exp": 1289,
+            "cost": 600
+        },
+        {
+            "itemType": 201,
+            "itemGrade": 11,
+            "exp": 1493,
+            "cost": 600
+        },
+        {
+            "itemType": 201,
+            "itemGrade": 12,
+            "exp": 1697,
+            "cost": 600
+        },
+        {
+            "itemType": 202,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 202,
+            "itemGrade": 7,
+            "exp": 473,
+            "cost": 600
+        },
+        {
+            "itemType": 202,
+            "itemGrade": 8,
+            "exp": 886,
+            "cost": 600
+        },
+        {
+            "itemType": 202,
+            "itemGrade": 9,
+            "exp": 1085,
+            "cost": 600
+        },
+        {
+            "itemType": 202,
+            "itemGrade": 10,
+            "exp": 1289,
+            "cost": 600
+        },
+        {
+            "itemType": 202,
+            "itemGrade": 11,
+            "exp": 1493,
+            "cost": 600
+        },
+        {
+            "itemType": 202,
+            "itemGrade": 12,
+            "exp": 1697,
+            "cost": 600
+        },
+        {
+            "itemType": 203,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 203,
+            "itemGrade": 7,
+            "exp": 473,
+            "cost": 600
+        },
+        {
+            "itemType": 203,
+            "itemGrade": 8,
+            "exp": 886,
+            "cost": 600
+        },
+        {
+            "itemType": 203,
+            "itemGrade": 9,
+            "exp": 1085,
+            "cost": 600
+        },
+        {
+            "itemType": 203,
+            "itemGrade": 10,
+            "exp": 1289,
+            "cost": 600
+        },
+        {
+            "itemType": 203,
+            "itemGrade": 11,
+            "exp": 1493,
+            "cost": 600
+        },
+        {
+            "itemType": 203,
+            "itemGrade": 12,
+            "exp": 1697,
+            "cost": 600
+        },
+        {
+            "itemType": 204,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 204,
+            "itemGrade": 7,
+            "exp": 473,
+            "cost": 600
+        },
+        {
+            "itemType": 204,
+            "itemGrade": 8,
+            "exp": 886,
+            "cost": 600
+        },
+        {
+            "itemType": 204,
+            "itemGrade": 9,
+            "exp": 1085,
+            "cost": 600
+        },
+        {
+            "itemType": 204,
+            "itemGrade": 10,
+            "exp": 1289,
+            "cost": 600
+        },
+        {
+            "itemType": 204,
+            "itemGrade": 11,
+            "exp": 1493,
+            "cost": 600
+        },
+        {
+            "itemType": 204,
+            "itemGrade": 12,
+            "exp": 1697,
+            "cost": 600
+        },
+        {
+            "itemType": 205,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 205,
+            "itemGrade": 7,
+            "exp": 473,
+            "cost": 600
+        },
+        {
+            "itemType": 205,
+            "itemGrade": 8,
+            "exp": 886,
+            "cost": 600
+        },
+        {
+            "itemType": 205,
+            "itemGrade": 9,
+            "exp": 1085,
+            "cost": 600
+        },
+        {
+            "itemType": 205,
+            "itemGrade": 10,
+            "exp": 1289,
+            "cost": 600
+        },
+        {
+            "itemType": 205,
+            "itemGrade": 11,
+            "exp": 1493,
+            "cost": 600
+        },
+        {
+            "itemType": 205,
+            "itemGrade": 12,
+            "exp": 1697,
+            "cost": 600
+        },
+        {
+            "itemType": 206,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 206,
+            "itemGrade": 7,
+            "exp": 473,
+            "cost": 600
+        },
+        {
+            "itemType": 206,
+            "itemGrade": 8,
+            "exp": 886,
+            "cost": 600
+        },
+        {
+            "itemType": 206,
+            "itemGrade": 9,
+            "exp": 1085,
+            "cost": 600
+        },
+        {
+            "itemType": 206,
+            "itemGrade": 10,
+            "exp": 1289,
+            "cost": 600
+        },
+        {
+            "itemType": 206,
+            "itemGrade": 11,
+            "exp": 1493,
+            "cost": 600
+        },
+        {
+            "itemType": 206,
+            "itemGrade": 12,
+            "exp": 1697,
+            "cost": 600
+        },
+        {
+            "itemType": 207,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 207,
+            "itemGrade": 7,
+            "exp": 473,
+            "cost": 600
+        },
+        {
+            "itemType": 207,
+            "itemGrade": 8,
+            "exp": 886,
+            "cost": 600
+        },
+        {
+            "itemType": 207,
+            "itemGrade": 9,
+            "exp": 1085,
+            "cost": 600
+        },
+        {
+            "itemType": 207,
+            "itemGrade": 10,
+            "exp": 1289,
+            "cost": 600
+        },
+        {
+            "itemType": 207,
+            "itemGrade": 11,
+            "exp": 1493,
+            "cost": 600
+        },
+        {
+            "itemType": 207,
+            "itemGrade": 12,
+            "exp": 1697,
+            "cost": 600
+        },
+        {
+            "itemType": 106,
+            "itemGrade": 6,
+            "exp": 2915,
+            "cost": 600
+        },
+        {
+            "itemType": 106,
+            "itemGrade": 7,
+            "exp": 3644,
+            "cost": 600
+        },
+        {
+            "itemType": 106,
+            "itemGrade": 8,
+            "exp": 5101,
+            "cost": 600
+        },
+        {
+            "itemType": 106,
+            "itemGrade": 9,
+            "exp": 8016,
+            "cost": 600
+        },
+        {
+            "itemType": 106,
+            "itemGrade": 10,
+            "exp": 12389,
+            "cost": 600
+        },
+        {
+            "itemType": 106,
+            "itemGrade": 11,
+            "exp": 18219,
+            "cost": 600
+        },
+        {
+            "itemType": 106,
+            "itemGrade": 12,
+            "exp": 25506,
+            "cost": 600
+        },
+        {
+            "itemType": 7,
+            "itemGrade": 6,
+            "exp": 321,
+            "cost": 600
+        },
+        {
+            "itemType": 7,
+            "itemGrade": 7,
+            "exp": 482,
+            "cost": 600
+        },
+        {
+            "itemType": 7,
+            "itemGrade": 8,
+            "exp": 14239,
+            "cost": 600
+        },
+        {
+            "itemType": 108,
+            "itemGrade": 6,
+            "exp": 986,
+            "cost": 600
+        },
+        {
+            "itemType": 122,
+            "itemGrade": 6,
+            "exp": 986,
+            "cost": 600
+        },
+        {
+            "itemType": 122,
+            "itemGrade": 7,
+            "exp": 1479,
+            "cost": 600
+        },
+        {
+            "itemType": 122,
+            "itemGrade": 8,
+            "exp": 9860,
+            "cost": 600
+        },
+        {
+            "itemType": 8,
+            "itemGrade": 6,
+            "exp": 2915,
+            "cost": 600
+        },
+        {
+            "itemType": 319,
+            "itemGrade": 6,
+            "exp": 205,
+            "cost": 600
+        },
+        {
+            "itemType": 9,
+            "itemGrade": 6,
+            "exp": 321,
+            "cost": 600
+        },
+        {
+            "itemType": 130,
+            "itemGrade": 6,
+            "exp": 2915,
+            "cost": 600
+        },
+        {
+            "itemType": 11,
+            "itemGrade": 6,
+            "exp": 2915,
+            "cost": 600
+        },
+        {
+            "itemType": 12,
+            "itemGrade": 6,
+            "exp": 2915,
+            "cost": 600
+        },
+        {
+            "itemType": 137,
+            "itemGrade": 6,
+            "exp": 2915,
+            "cost": 600
+        },
+        {
+            "itemType": 139,
+            "itemGrade": 6,
+            "exp": 2915,
+            "cost": 600
+        }
+    ]
+}

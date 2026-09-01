@@ -1,0 +1,1098 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6049651391229041478
+    },
+    "m_Name": "SQUAD_SPECIAL_OPTION",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "values": [
+        {
+            "squadId": 1,
+            "squadLevel": 0,
+            "successProb": 0,
+            "skillId": 0,
+            "lvupPrice": 0
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 1,
+            "successProb": 10000,
+            "skillId": 840101010,
+            "lvupPrice": 10
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 2,
+            "successProb": 10000,
+            "skillId": 840101020,
+            "lvupPrice": 12
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 3,
+            "successProb": 9000,
+            "skillId": 840101030,
+            "lvupPrice": 14
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 4,
+            "successProb": 9000,
+            "skillId": 840101040,
+            "lvupPrice": 16
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 5,
+            "successProb": 8000,
+            "skillId": 840101050,
+            "lvupPrice": 19
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 6,
+            "successProb": 7500,
+            "skillId": 840101060,
+            "lvupPrice": 22
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 7,
+            "successProb": 7000,
+            "skillId": 840101070,
+            "lvupPrice": 25
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 8,
+            "successProb": 6500,
+            "skillId": 840101080,
+            "lvupPrice": 28
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 9,
+            "successProb": 6000,
+            "skillId": 840101090,
+            "lvupPrice": 32
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 10,
+            "successProb": 5500,
+            "skillId": 840101100,
+            "lvupPrice": 34
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 11,
+            "successProb": 5000,
+            "skillId": 840101110,
+            "lvupPrice": 36
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 12,
+            "successProb": 4000,
+            "skillId": 840101120,
+            "lvupPrice": 38
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 13,
+            "successProb": 3000,
+            "skillId": 840101130,
+            "lvupPrice": 40
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 14,
+            "successProb": 2000,
+            "skillId": 840101140,
+            "lvupPrice": 42
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 15,
+            "successProb": 1500,
+            "skillId": 840101150,
+            "lvupPrice": 44
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 16,
+            "successProb": 1000,
+            "skillId": 840101160,
+            "lvupPrice": 46
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 17,
+            "successProb": 700,
+            "skillId": 840101170,
+            "lvupPrice": 48
+        },
+        {
+            "squadId": 1,
+            "squadLevel": 18,
+            "successProb": 500,
+            "skillId": 840101180,
+            "lvupPrice": 50
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 0,
+            "successProb": 0,
+            "skillId": 0,
+            "lvupPrice": 0
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 1,
+            "successProb": 10000,
+            "skillId": 840201010,
+            "lvupPrice": 10
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 2,
+            "successProb": 10000,
+            "skillId": 840201020,
+            "lvupPrice": 12
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 3,
+            "successProb": 9000,
+            "skillId": 840201030,
+            "lvupPrice": 14
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 4,
+            "successProb": 9000,
+            "skillId": 840201040,
+            "lvupPrice": 16
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 5,
+            "successProb": 8000,
+            "skillId": 840201050,
+            "lvupPrice": 19
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 6,
+            "successProb": 7500,
+            "skillId": 840201060,
+            "lvupPrice": 22
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 7,
+            "successProb": 7000,
+            "skillId": 840201070,
+            "lvupPrice": 25
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 8,
+            "successProb": 6500,
+            "skillId": 840201080,
+            "lvupPrice": 28
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 9,
+            "successProb": 6000,
+            "skillId": 840201090,
+            "lvupPrice": 32
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 10,
+            "successProb": 5500,
+            "skillId": 840201100,
+            "lvupPrice": 34
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 11,
+            "successProb": 5000,
+            "skillId": 840201110,
+            "lvupPrice": 36
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 12,
+            "successProb": 4000,
+            "skillId": 840201120,
+            "lvupPrice": 38
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 13,
+            "successProb": 3000,
+            "skillId": 840201130,
+            "lvupPrice": 40
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 14,
+            "successProb": 2000,
+            "skillId": 840201140,
+            "lvupPrice": 42
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 15,
+            "successProb": 1500,
+            "skillId": 840201150,
+            "lvupPrice": 44
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 16,
+            "successProb": 1000,
+            "skillId": 840201160,
+            "lvupPrice": 46
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 17,
+            "successProb": 700,
+            "skillId": 840201170,
+            "lvupPrice": 48
+        },
+        {
+            "squadId": 2,
+            "squadLevel": 18,
+            "successProb": 500,
+            "skillId": 840201180,
+            "lvupPrice": 50
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 0,
+            "successProb": 0,
+            "skillId": 0,
+            "lvupPrice": 0
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 1,
+            "successProb": 10000,
+            "skillId": 840301010,
+            "lvupPrice": 10
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 2,
+            "successProb": 10000,
+            "skillId": 840301020,
+            "lvupPrice": 12
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 3,
+            "successProb": 9000,
+            "skillId": 840301030,
+            "lvupPrice": 14
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 4,
+            "successProb": 9000,
+            "skillId": 840301040,
+            "lvupPrice": 16
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 5,
+            "successProb": 8000,
+            "skillId": 840301050,
+            "lvupPrice": 19
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 6,
+            "successProb": 7500,
+            "skillId": 840301060,
+            "lvupPrice": 22
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 7,
+            "successProb": 7000,
+            "skillId": 840301070,
+            "lvupPrice": 25
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 8,
+            "successProb": 6500,
+            "skillId": 840301080,
+            "lvupPrice": 28
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 9,
+            "successProb": 6000,
+            "skillId": 840301090,
+            "lvupPrice": 32
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 10,
+            "successProb": 5500,
+            "skillId": 840301100,
+            "lvupPrice": 34
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 11,
+            "successProb": 5000,
+            "skillId": 840301110,
+            "lvupPrice": 36
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 12,
+            "successProb": 4000,
+            "skillId": 840301120,
+            "lvupPrice": 38
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 13,
+            "successProb": 3000,
+            "skillId": 840301130,
+            "lvupPrice": 40
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 14,
+            "successProb": 2000,
+            "skillId": 840301140,
+            "lvupPrice": 42
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 15,
+            "successProb": 1500,
+            "skillId": 840301150,
+            "lvupPrice": 44
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 16,
+            "successProb": 1000,
+            "skillId": 840301160,
+            "lvupPrice": 46
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 17,
+            "successProb": 700,
+            "skillId": 840301170,
+            "lvupPrice": 48
+        },
+        {
+            "squadId": 3,
+            "squadLevel": 18,
+            "successProb": 500,
+            "skillId": 840301180,
+            "lvupPrice": 50
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 0,
+            "successProb": 0,
+            "skillId": 0,
+            "lvupPrice": 0
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 1,
+            "successProb": 10000,
+            "skillId": 840401010,
+            "lvupPrice": 10
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 2,
+            "successProb": 10000,
+            "skillId": 840401020,
+            "lvupPrice": 12
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 3,
+            "successProb": 9000,
+            "skillId": 840401030,
+            "lvupPrice": 14
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 4,
+            "successProb": 9000,
+            "skillId": 840401040,
+            "lvupPrice": 16
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 5,
+            "successProb": 8000,
+            "skillId": 840401050,
+            "lvupPrice": 19
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 6,
+            "successProb": 7500,
+            "skillId": 840401060,
+            "lvupPrice": 22
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 7,
+            "successProb": 7000,
+            "skillId": 840401070,
+            "lvupPrice": 25
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 8,
+            "successProb": 6500,
+            "skillId": 840401080,
+            "lvupPrice": 28
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 9,
+            "successProb": 6000,
+            "skillId": 840401090,
+            "lvupPrice": 32
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 10,
+            "successProb": 5500,
+            "skillId": 840401100,
+            "lvupPrice": 34
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 11,
+            "successProb": 5000,
+            "skillId": 840401110,
+            "lvupPrice": 36
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 12,
+            "successProb": 4000,
+            "skillId": 840401120,
+            "lvupPrice": 38
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 13,
+            "successProb": 3000,
+            "skillId": 840401130,
+            "lvupPrice": 40
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 14,
+            "successProb": 2000,
+            "skillId": 840401140,
+            "lvupPrice": 42
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 15,
+            "successProb": 1500,
+            "skillId": 840401150,
+            "lvupPrice": 44
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 16,
+            "successProb": 1000,
+            "skillId": 840401160,
+            "lvupPrice": 46
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 17,
+            "successProb": 700,
+            "skillId": 840401170,
+            "lvupPrice": 48
+        },
+        {
+            "squadId": 4,
+            "squadLevel": 18,
+            "successProb": 500,
+            "skillId": 840401180,
+            "lvupPrice": 50
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 0,
+            "successProb": 0,
+            "skillId": 0,
+            "lvupPrice": 0
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 1,
+            "successProb": 10000,
+            "skillId": 840501010,
+            "lvupPrice": 10
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 2,
+            "successProb": 10000,
+            "skillId": 840501020,
+            "lvupPrice": 12
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 3,
+            "successProb": 9000,
+            "skillId": 840501030,
+            "lvupPrice": 14
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 4,
+            "successProb": 9000,
+            "skillId": 840501040,
+            "lvupPrice": 16
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 5,
+            "successProb": 8000,
+            "skillId": 840501050,
+            "lvupPrice": 19
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 6,
+            "successProb": 7500,
+            "skillId": 840501060,
+            "lvupPrice": 22
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 7,
+            "successProb": 7000,
+            "skillId": 840501070,
+            "lvupPrice": 25
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 8,
+            "successProb": 6500,
+            "skillId": 840501080,
+            "lvupPrice": 28
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 9,
+            "successProb": 6000,
+            "skillId": 840501090,
+            "lvupPrice": 32
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 10,
+            "successProb": 5500,
+            "skillId": 840501100,
+            "lvupPrice": 34
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 11,
+            "successProb": 5000,
+            "skillId": 840501110,
+            "lvupPrice": 36
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 12,
+            "successProb": 4000,
+            "skillId": 840501120,
+            "lvupPrice": 38
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 13,
+            "successProb": 3000,
+            "skillId": 840501130,
+            "lvupPrice": 40
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 14,
+            "successProb": 2000,
+            "skillId": 840501140,
+            "lvupPrice": 42
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 15,
+            "successProb": 1500,
+            "skillId": 840501150,
+            "lvupPrice": 44
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 16,
+            "successProb": 1000,
+            "skillId": 840501160,
+            "lvupPrice": 46
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 17,
+            "successProb": 700,
+            "skillId": 840501170,
+            "lvupPrice": 48
+        },
+        {
+            "squadId": 5,
+            "squadLevel": 18,
+            "successProb": 500,
+            "skillId": 840501180,
+            "lvupPrice": 50
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 0,
+            "successProb": 0,
+            "skillId": 0,
+            "lvupPrice": 0
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 1,
+            "successProb": 10000,
+            "skillId": 840601010,
+            "lvupPrice": 10
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 2,
+            "successProb": 10000,
+            "skillId": 840601020,
+            "lvupPrice": 12
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 3,
+            "successProb": 9000,
+            "skillId": 840601030,
+            "lvupPrice": 14
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 4,
+            "successProb": 9000,
+            "skillId": 840601040,
+            "lvupPrice": 16
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 5,
+            "successProb": 8000,
+            "skillId": 840601050,
+            "lvupPrice": 19
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 6,
+            "successProb": 7500,
+            "skillId": 840601060,
+            "lvupPrice": 22
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 7,
+            "successProb": 7000,
+            "skillId": 840601070,
+            "lvupPrice": 25
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 8,
+            "successProb": 6500,
+            "skillId": 840601080,
+            "lvupPrice": 28
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 9,
+            "successProb": 6000,
+            "skillId": 840601090,
+            "lvupPrice": 32
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 10,
+            "successProb": 5500,
+            "skillId": 840601100,
+            "lvupPrice": 34
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 11,
+            "successProb": 5000,
+            "skillId": 840601110,
+            "lvupPrice": 36
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 12,
+            "successProb": 4000,
+            "skillId": 840601120,
+            "lvupPrice": 38
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 13,
+            "successProb": 3000,
+            "skillId": 840601130,
+            "lvupPrice": 40
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 14,
+            "successProb": 2000,
+            "skillId": 840601140,
+            "lvupPrice": 42
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 15,
+            "successProb": 1500,
+            "skillId": 840601150,
+            "lvupPrice": 44
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 16,
+            "successProb": 1000,
+            "skillId": 840601160,
+            "lvupPrice": 46
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 17,
+            "successProb": 700,
+            "skillId": 840601170,
+            "lvupPrice": 48
+        },
+        {
+            "squadId": 6,
+            "squadLevel": 18,
+            "successProb": 500,
+            "skillId": 840601180,
+            "lvupPrice": 50
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 0,
+            "successProb": 0,
+            "skillId": 0,
+            "lvupPrice": 0
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 1,
+            "successProb": 10000,
+            "skillId": 840701010,
+            "lvupPrice": 10
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 2,
+            "successProb": 10000,
+            "skillId": 840701020,
+            "lvupPrice": 12
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 3,
+            "successProb": 9000,
+            "skillId": 840701030,
+            "lvupPrice": 14
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 4,
+            "successProb": 9000,
+            "skillId": 840701040,
+            "lvupPrice": 16
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 5,
+            "successProb": 8000,
+            "skillId": 840701050,
+            "lvupPrice": 19
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 6,
+            "successProb": 7500,
+            "skillId": 840701060,
+            "lvupPrice": 22
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 7,
+            "successProb": 7000,
+            "skillId": 840701070,
+            "lvupPrice": 25
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 8,
+            "successProb": 6500,
+            "skillId": 840701080,
+            "lvupPrice": 28
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 9,
+            "successProb": 6000,
+            "skillId": 840701090,
+            "lvupPrice": 32
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 10,
+            "successProb": 5500,
+            "skillId": 840701100,
+            "lvupPrice": 34
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 11,
+            "successProb": 5000,
+            "skillId": 840701110,
+            "lvupPrice": 36
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 12,
+            "successProb": 4000,
+            "skillId": 840701120,
+            "lvupPrice": 38
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 13,
+            "successProb": 3000,
+            "skillId": 840701130,
+            "lvupPrice": 40
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 14,
+            "successProb": 2000,
+            "skillId": 840701140,
+            "lvupPrice": 42
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 15,
+            "successProb": 1500,
+            "skillId": 840701150,
+            "lvupPrice": 44
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 16,
+            "successProb": 1000,
+            "skillId": 840701160,
+            "lvupPrice": 46
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 17,
+            "successProb": 700,
+            "skillId": 840701170,
+            "lvupPrice": 48
+        },
+        {
+            "squadId": 7,
+            "squadLevel": 18,
+            "successProb": 500,
+            "skillId": 840701180,
+            "lvupPrice": 50
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 0,
+            "successProb": 0,
+            "skillId": 0,
+            "lvupPrice": 0
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 1,
+            "successProb": 10000,
+            "skillId": 840801010,
+            "lvupPrice": 10
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 2,
+            "successProb": 10000,
+            "skillId": 840801020,
+            "lvupPrice": 12
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 3,
+            "successProb": 9000,
+            "skillId": 840801030,
+            "lvupPrice": 14
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 4,
+            "successProb": 9000,
+            "skillId": 840801040,
+            "lvupPrice": 16
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 5,
+            "successProb": 8000,
+            "skillId": 840801050,
+            "lvupPrice": 19
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 6,
+            "successProb": 7500,
+            "skillId": 840801060,
+            "lvupPrice": 22
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 7,
+            "successProb": 7000,
+            "skillId": 840801070,
+            "lvupPrice": 25
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 8,
+            "successProb": 6500,
+            "skillId": 840801080,
+            "lvupPrice": 28
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 9,
+            "successProb": 6000,
+            "skillId": 840801090,
+            "lvupPrice": 32
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 10,
+            "successProb": 5500,
+            "skillId": 840801100,
+            "lvupPrice": 34
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 11,
+            "successProb": 5000,
+            "skillId": 840801110,
+            "lvupPrice": 36
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 12,
+            "successProb": 4000,
+            "skillId": 840801120,
+            "lvupPrice": 38
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 13,
+            "successProb": 3000,
+            "skillId": 840801130,
+            "lvupPrice": 40
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 14,
+            "successProb": 2000,
+            "skillId": 840801140,
+            "lvupPrice": 42
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 15,
+            "successProb": 1500,
+            "skillId": 840801150,
+            "lvupPrice": 44
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 16,
+            "successProb": 1000,
+            "skillId": 840801160,
+            "lvupPrice": 46
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 17,
+            "successProb": 700,
+            "skillId": 840801170,
+            "lvupPrice": 48
+        },
+        {
+            "squadId": 8,
+            "squadLevel": 18,
+            "successProb": 500,
+            "skillId": 840801180,
+            "lvupPrice": 50
+        }
+    ],
+    "counts": [
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19
+    ]
+}

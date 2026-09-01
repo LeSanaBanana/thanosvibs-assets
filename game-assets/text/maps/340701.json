@@ -1,0 +1,59 @@
+[
+    {
+        "level": "base_city_x_mansion_0001_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 91,
+                        "mob": 231340701,
+                        "group": 99,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "autoregen": 99
+                    },
+                    {
+                        "point": 92,
+                        "mob": 230340701,
+                        "group": 99,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "autoregen": 99
+                    },
+                    {
+                        "point": 93,
+                        "mob": 229340701,
+                        "group": 99,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "autoregen": 99
+                    },
+                    {
+                        "point": 1,
+                        "mob": 687340701,
+                        "group": 1,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "trigger": 1
+                    },
+                    {
+                        "point": 2,
+                        "mob": 674340701,
+                        "group": 1,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "boss": 2,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "aiprefab": "ai_sv_maximous_001"
+                    }
+                ]
+            }
+        ]
+    }
+]

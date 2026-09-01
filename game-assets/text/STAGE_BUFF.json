@@ -1,0 +1,208 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2507979995355196207
+    },
+    "m_Name": "STAGE_BUFF",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+    ],
+    "values": [
+        {
+            "stage_buff_id": 1,
+            "stage_type": 1,
+            "item_icon": "Buff_Icon_Common_Atkup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 9,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 2,
+            "stage_type": 1,
+            "item_icon": "Buff_Icon_Common_Defup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 10,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 3,
+            "stage_type": 1,
+            "item_icon": "Buff_Icon_Common_Criup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 14,
+            "ability_value_1": 0.029999999329447746,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 4,
+            "stage_type": 1,
+            "item_icon": "Buff_Icon_Common_Auto",
+            "price": 50,
+            "auto_type": 2,
+            "ability_type_1": 0,
+            "ability_value_1": 0.0,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 5,
+            "stage_type": 2,
+            "item_icon": "Buff_Icon_Common_Atkup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 9,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 14,
+            "ability_value_2": 0.029999999329447746
+        },
+        {
+            "stage_buff_id": 6,
+            "stage_type": 2,
+            "item_icon": "Buff_Icon_Common_Defup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 10,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 11,
+            "ability_value_2": 0.10000000149011612
+        },
+        {
+            "stage_buff_id": 7,
+            "stage_type": 2,
+            "item_icon": "Buff_Icon_Common_Criup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 10000,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 8,
+            "stage_type": 2,
+            "item_icon": "Buff_Icon_Common_Auto",
+            "price": 50,
+            "auto_type": 2,
+            "ability_type_1": 0,
+            "ability_value_1": 0.0,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 9,
+            "stage_type": 3,
+            "item_icon": "Buff_Icon_Common_Atkup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 9,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 10,
+            "stage_type": 3,
+            "item_icon": "Buff_Icon_Common_Defup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 10,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 11,
+            "stage_type": 3,
+            "item_icon": "Buff_Icon_Common_Criup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 10003,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 12,
+            "stage_type": 3,
+            "item_icon": "Buff_Icon_Common_Auto",
+            "price": 50,
+            "auto_type": 2,
+            "ability_type_1": 0,
+            "ability_value_1": 0.0,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 13,
+            "stage_type": 7,
+            "item_icon": "Buff_Icon_Common_Atkup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 9,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 14,
+            "stage_type": 7,
+            "item_icon": "Buff_Icon_Common_Defup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 10,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 15,
+            "stage_type": 7,
+            "item_icon": "Buff_Icon_Common_Criup",
+            "price": 50,
+            "auto_type": 0,
+            "ability_type_1": 19,
+            "ability_value_1": 0.05000000074505806,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        },
+        {
+            "stage_buff_id": 16,
+            "stage_type": 7,
+            "item_icon": "Buff_Icon_Common_Auto",
+            "price": 50,
+            "auto_type": 2,
+            "ability_type_1": 0,
+            "ability_value_1": 0.0,
+            "ability_type_2": 0,
+            "ability_value_2": 0.0
+        }
+    ]
+}

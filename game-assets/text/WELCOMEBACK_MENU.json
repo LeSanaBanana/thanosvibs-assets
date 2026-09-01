@@ -1,0 +1,44 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7467253589979532728
+    },
+    "m_Name": "WELCOMEBACK_MENU",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "welcomeBackMenuId": 1,
+            "welcomBackGroupId": 1,
+            "welcomeBackMenuEventType": 1,
+            "order": 1,
+            "menuBackground": "ui/welcomebackevent/WELCOMEBACK_MENU_ATTEND_1",
+            "background": "ui/welcomebackevent/WELCOMEBACK_ATTEND_BG_1"
+        },
+        {
+            "welcomeBackMenuId": 2,
+            "welcomBackGroupId": 1,
+            "welcomeBackMenuEventType": 2,
+            "order": 2,
+            "menuBackground": "ui/welcomebackevent/WELCOMEBACK_MENU_STEP_MISSION_2",
+            "background": "ui/welcomebackevent/WELCOMEBACK_STEP_MISSION_BG_1"
+        },
+        {
+            "welcomeBackMenuId": 3,
+            "welcomBackGroupId": 1,
+            "welcomeBackMenuEventType": 3,
+            "order": 3,
+            "menuBackground": "ui/welcomebackevent/WELCOMEBACK_MENU_ROULETTE_2",
+            "background": "ui/welcomebackevent/WELCOMEBACK_ROULETTE_BG_2"
+        }
+    ],
+    "counts": [
+        3
+    ]
+}

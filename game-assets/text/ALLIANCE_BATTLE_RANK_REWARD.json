@@ -1,0 +1,455 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7416224123750186202
+    },
+    "m_Name": "ALLIANCE_BATTLE_RANK_REWARD",
+    "list": [
+        {
+            "groupId": 0,
+            "id": 1,
+            "rankType": 1,
+            "rankMin": 1,
+            "rankMax": 1,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 1250000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 150,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 307,
+                    "value": 2196,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 350,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 2,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 2,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 1000000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 135,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 307,
+                    "value": 2160,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 320,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 3,
+            "rankType": 1,
+            "rankMin": 3,
+            "rankMax": 3,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 750000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 120,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 307,
+                    "value": 2155,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 300,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 4,
+            "rankType": 1,
+            "rankMin": 4,
+            "rankMax": 10,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 500000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 105,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 280,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 5,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 250000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 90,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 260,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 6,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 200000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 75,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 240,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 7,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 599,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 175000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 60,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 220,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 8,
+            "rankType": 2,
+            "rankMin": 600,
+            "rankMax": 1099,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 150000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 45,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 190,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 9,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 125000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 30,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 170,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 10,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 100000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 15,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 150,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 11,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 75000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 3005,
+                    "qty": 10,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1240002,
+                    "qty": 130,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 0,
+            "id": 13,
+            "rankType": 3,
+            "rankMin": 1,
+            "rankMax": 1,
+            "rewards": [
+                {
+                    "Type": 4,
+                    "value": 0,
+                    "qty": 5500,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        }
+    ]
+}

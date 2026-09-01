@@ -1,0 +1,92 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2620718901332661521
+    },
+    "m_Name": "DRAW_EVENT",
+    "list": [
+        {
+            "id": 9,
+            "group": 101,
+            "order": 1,
+            "rewardId": 70001,
+            "drawCount": 5,
+            "startTime": "2026/08/29 01:00",
+            "endTime": "2026/08/29 12:30",
+            "startTime_cn": "2026/09/05 01:00",
+            "endTime_cn": "2026/09/05 12:30",
+            "limitBuyCount": 1000,
+            "beforeState": 0
+        },
+        {
+            "id": 9,
+            "group": 102,
+            "order": 2,
+            "rewardId": 70001,
+            "drawCount": 5,
+            "startTime": "2026/08/29 13:00",
+            "endTime": "2026/08/30 00:30",
+            "startTime_cn": "2026/09/05 13:00",
+            "endTime_cn": "2026/09/06 00:30",
+            "limitBuyCount": 1000,
+            "beforeState": 0
+        },
+        {
+            "id": 9,
+            "group": 201,
+            "order": 3,
+            "rewardId": 70018,
+            "drawCount": 5,
+            "startTime": "2026/08/30 01:00",
+            "endTime": "2026/08/30 12:30",
+            "startTime_cn": "2026/09/06 01:00",
+            "endTime_cn": "2026/09/06 12:30",
+            "limitBuyCount": 1000,
+            "beforeState": 0
+        },
+        {
+            "id": 9,
+            "group": 202,
+            "order": 4,
+            "rewardId": 70018,
+            "drawCount": 5,
+            "startTime": "2026/08/30 13:00",
+            "endTime": "2026/08/31 00:30",
+            "startTime_cn": "2026/09/06 13:00",
+            "endTime_cn": "2026/09/07 00:30",
+            "limitBuyCount": 1000,
+            "beforeState": 0
+        },
+        {
+            "id": 9,
+            "group": 301,
+            "order": 5,
+            "rewardId": 70019,
+            "drawCount": 5,
+            "startTime": "2026/08/31 01:00",
+            "endTime": "2026/08/31 12:30",
+            "startTime_cn": "2026/09/07 01:00",
+            "endTime_cn": "2026/09/07 12:30",
+            "limitBuyCount": 1000,
+            "beforeState": 0
+        },
+        {
+            "id": 9,
+            "group": 302,
+            "order": 6,
+            "rewardId": 70019,
+            "drawCount": 5,
+            "startTime": "2026/08/31 13:00",
+            "endTime": "2026/09/01 00:30",
+            "startTime_cn": "2026/09/07 13:00",
+            "endTime_cn": "2026/09/08 00:30",
+            "limitBuyCount": 1000,
+            "beforeState": 0
+        }
+    ]
+}

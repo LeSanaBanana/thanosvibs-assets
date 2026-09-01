@@ -1,0 +1,27 @@
+[
+    {
+        "level": "arcade_thor_arena_01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 717360101,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 50,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_sb_hero_hulk_s03_001",
+                        "boss_appear": "atk02",
+                        "boss_cam": "0,0.58,0.55"
+                    }
+                ]
+            }
+        ]
+    }
+]

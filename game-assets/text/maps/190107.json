@@ -1,0 +1,36 @@
+[
+    {
+        "level": "Raid_Titan",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 939190107,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidThanos_Summon"
+                    },
+                    {
+                        "appear": "appear_cam",
+                        "point": 91,
+                        "mob": 571190107,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidThanos01",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam_ani": "appear_cam"
+                    }
+                ]
+            }
+        ]
+    }
+]

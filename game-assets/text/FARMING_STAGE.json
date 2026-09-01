@@ -1,0 +1,1064 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -9006497629141272812
+    },
+    "m_Name": "FARMING_STAGE",
+    "list": [
+        {
+            "id": 1001,
+            "groupId": 1,
+            "difficulty": 1,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450101,
+            "rewardGroupId": 1001,
+            "rewardHero": 10001
+        },
+        {
+            "id": 1002,
+            "groupId": 1,
+            "difficulty": 2,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450102,
+            "rewardGroupId": 1002,
+            "rewardHero": 10001
+        },
+        {
+            "id": 1003,
+            "groupId": 1,
+            "difficulty": 3,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450103,
+            "rewardGroupId": 1003,
+            "rewardHero": 10001
+        },
+        {
+            "id": 1004,
+            "groupId": 1,
+            "difficulty": 4,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450104,
+            "rewardGroupId": 1004,
+            "rewardHero": 10001
+        },
+        {
+            "id": 1005,
+            "groupId": 1,
+            "difficulty": 5,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450105,
+            "rewardGroupId": 1005,
+            "rewardHero": 10001
+        },
+        {
+            "id": 1006,
+            "groupId": 1,
+            "difficulty": 6,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450106,
+            "rewardGroupId": 1006,
+            "rewardHero": 10001
+        },
+        {
+            "id": 1007,
+            "groupId": 1,
+            "difficulty": 7,
+            "unlockId": 0,
+            "unlockAgentLv": 15,
+            "stageId": 450107,
+            "rewardGroupId": 1007,
+            "rewardHero": 10002
+        },
+        {
+            "id": 1008,
+            "groupId": 1,
+            "difficulty": 8,
+            "unlockId": 0,
+            "unlockAgentLv": 30,
+            "stageId": 450108,
+            "rewardGroupId": 1008,
+            "rewardHero": 10002
+        },
+        {
+            "id": 1009,
+            "groupId": 1,
+            "difficulty": 9,
+            "unlockId": 0,
+            "unlockAgentLv": 45,
+            "stageId": 450109,
+            "rewardGroupId": 1009,
+            "rewardHero": 10002
+        },
+        {
+            "id": 1010,
+            "groupId": 1,
+            "difficulty": 10,
+            "unlockId": 0,
+            "unlockAgentLv": 60,
+            "stageId": 450110,
+            "rewardGroupId": 1010,
+            "rewardHero": 10002
+        },
+        {
+            "id": 1011,
+            "groupId": 1,
+            "difficulty": 11,
+            "unlockId": 0,
+            "unlockAgentLv": 70,
+            "stageId": 450111,
+            "rewardGroupId": 1011,
+            "rewardHero": 10002
+        },
+        {
+            "id": 1012,
+            "groupId": 1,
+            "difficulty": 12,
+            "unlockId": 0,
+            "unlockAgentLv": 80,
+            "stageId": 450112,
+            "rewardGroupId": 1012,
+            "rewardHero": 10002
+        },
+        {
+            "id": 1013,
+            "groupId": 1,
+            "difficulty": 13,
+            "unlockId": 0,
+            "unlockAgentLv": 90,
+            "stageId": 450113,
+            "rewardGroupId": 1013,
+            "rewardHero": 10002
+        },
+        {
+            "id": 1014,
+            "groupId": 1,
+            "difficulty": 14,
+            "unlockId": 0,
+            "unlockAgentLv": 100,
+            "stageId": 450114,
+            "rewardGroupId": 1014,
+            "rewardHero": 10002
+        },
+        {
+            "id": 1015,
+            "groupId": 1,
+            "difficulty": 15,
+            "unlockId": 0,
+            "unlockAgentLv": 110,
+            "stageId": 450115,
+            "rewardGroupId": 1015,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2001,
+            "groupId": 2,
+            "difficulty": 1,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450201,
+            "rewardGroupId": 2001,
+            "rewardHero": 10001
+        },
+        {
+            "id": 2002,
+            "groupId": 2,
+            "difficulty": 2,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450202,
+            "rewardGroupId": 2002,
+            "rewardHero": 10001
+        },
+        {
+            "id": 2003,
+            "groupId": 2,
+            "difficulty": 3,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450203,
+            "rewardGroupId": 2003,
+            "rewardHero": 10001
+        },
+        {
+            "id": 2004,
+            "groupId": 2,
+            "difficulty": 4,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450204,
+            "rewardGroupId": 2004,
+            "rewardHero": 10001
+        },
+        {
+            "id": 2005,
+            "groupId": 2,
+            "difficulty": 5,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450205,
+            "rewardGroupId": 2005,
+            "rewardHero": 10001
+        },
+        {
+            "id": 2006,
+            "groupId": 2,
+            "difficulty": 6,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450206,
+            "rewardGroupId": 2006,
+            "rewardHero": 10001
+        },
+        {
+            "id": 2007,
+            "groupId": 2,
+            "difficulty": 7,
+            "unlockId": 0,
+            "unlockAgentLv": 15,
+            "stageId": 450207,
+            "rewardGroupId": 2007,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2008,
+            "groupId": 2,
+            "difficulty": 8,
+            "unlockId": 0,
+            "unlockAgentLv": 30,
+            "stageId": 450208,
+            "rewardGroupId": 2008,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2009,
+            "groupId": 2,
+            "difficulty": 9,
+            "unlockId": 0,
+            "unlockAgentLv": 45,
+            "stageId": 450209,
+            "rewardGroupId": 2009,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2010,
+            "groupId": 2,
+            "difficulty": 10,
+            "unlockId": 0,
+            "unlockAgentLv": 60,
+            "stageId": 450210,
+            "rewardGroupId": 2010,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2011,
+            "groupId": 2,
+            "difficulty": 11,
+            "unlockId": 0,
+            "unlockAgentLv": 70,
+            "stageId": 450211,
+            "rewardGroupId": 2011,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2012,
+            "groupId": 2,
+            "difficulty": 12,
+            "unlockId": 0,
+            "unlockAgentLv": 80,
+            "stageId": 450212,
+            "rewardGroupId": 2012,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2013,
+            "groupId": 2,
+            "difficulty": 13,
+            "unlockId": 0,
+            "unlockAgentLv": 90,
+            "stageId": 450213,
+            "rewardGroupId": 2013,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2014,
+            "groupId": 2,
+            "difficulty": 14,
+            "unlockId": 0,
+            "unlockAgentLv": 100,
+            "stageId": 450214,
+            "rewardGroupId": 2014,
+            "rewardHero": 10002
+        },
+        {
+            "id": 2015,
+            "groupId": 2,
+            "difficulty": 15,
+            "unlockId": 0,
+            "unlockAgentLv": 110,
+            "stageId": 450215,
+            "rewardGroupId": 2015,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3001,
+            "groupId": 3,
+            "difficulty": 1,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450301,
+            "rewardGroupId": 3001,
+            "rewardHero": 10001
+        },
+        {
+            "id": 3002,
+            "groupId": 3,
+            "difficulty": 2,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450302,
+            "rewardGroupId": 3002,
+            "rewardHero": 10001
+        },
+        {
+            "id": 3003,
+            "groupId": 3,
+            "difficulty": 3,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450303,
+            "rewardGroupId": 3003,
+            "rewardHero": 10001
+        },
+        {
+            "id": 3004,
+            "groupId": 3,
+            "difficulty": 4,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450304,
+            "rewardGroupId": 3004,
+            "rewardHero": 10001
+        },
+        {
+            "id": 3005,
+            "groupId": 3,
+            "difficulty": 5,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450305,
+            "rewardGroupId": 3005,
+            "rewardHero": 10001
+        },
+        {
+            "id": 3006,
+            "groupId": 3,
+            "difficulty": 6,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450306,
+            "rewardGroupId": 3006,
+            "rewardHero": 10001
+        },
+        {
+            "id": 3007,
+            "groupId": 3,
+            "difficulty": 7,
+            "unlockId": 0,
+            "unlockAgentLv": 15,
+            "stageId": 450307,
+            "rewardGroupId": 3007,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3008,
+            "groupId": 3,
+            "difficulty": 8,
+            "unlockId": 0,
+            "unlockAgentLv": 30,
+            "stageId": 450308,
+            "rewardGroupId": 3008,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3009,
+            "groupId": 3,
+            "difficulty": 9,
+            "unlockId": 0,
+            "unlockAgentLv": 45,
+            "stageId": 450309,
+            "rewardGroupId": 3009,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3010,
+            "groupId": 3,
+            "difficulty": 10,
+            "unlockId": 0,
+            "unlockAgentLv": 60,
+            "stageId": 450310,
+            "rewardGroupId": 3010,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3011,
+            "groupId": 3,
+            "difficulty": 11,
+            "unlockId": 0,
+            "unlockAgentLv": 70,
+            "stageId": 450311,
+            "rewardGroupId": 3011,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3012,
+            "groupId": 3,
+            "difficulty": 12,
+            "unlockId": 0,
+            "unlockAgentLv": 80,
+            "stageId": 450312,
+            "rewardGroupId": 3012,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3013,
+            "groupId": 3,
+            "difficulty": 13,
+            "unlockId": 0,
+            "unlockAgentLv": 90,
+            "stageId": 450313,
+            "rewardGroupId": 3013,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3014,
+            "groupId": 3,
+            "difficulty": 14,
+            "unlockId": 0,
+            "unlockAgentLv": 100,
+            "stageId": 450314,
+            "rewardGroupId": 3014,
+            "rewardHero": 10002
+        },
+        {
+            "id": 3015,
+            "groupId": 3,
+            "difficulty": 15,
+            "unlockId": 0,
+            "unlockAgentLv": 110,
+            "stageId": 450315,
+            "rewardGroupId": 3015,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4001,
+            "groupId": 4,
+            "difficulty": 1,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450401,
+            "rewardGroupId": 4001,
+            "rewardHero": 10001
+        },
+        {
+            "id": 4002,
+            "groupId": 4,
+            "difficulty": 2,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450402,
+            "rewardGroupId": 4002,
+            "rewardHero": 10001
+        },
+        {
+            "id": 4003,
+            "groupId": 4,
+            "difficulty": 3,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450403,
+            "rewardGroupId": 4003,
+            "rewardHero": 10001
+        },
+        {
+            "id": 4004,
+            "groupId": 4,
+            "difficulty": 4,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450404,
+            "rewardGroupId": 4004,
+            "rewardHero": 10001
+        },
+        {
+            "id": 4005,
+            "groupId": 4,
+            "difficulty": 5,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450405,
+            "rewardGroupId": 4005,
+            "rewardHero": 10001
+        },
+        {
+            "id": 4006,
+            "groupId": 4,
+            "difficulty": 6,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450406,
+            "rewardGroupId": 4006,
+            "rewardHero": 10001
+        },
+        {
+            "id": 4007,
+            "groupId": 4,
+            "difficulty": 7,
+            "unlockId": 0,
+            "unlockAgentLv": 15,
+            "stageId": 450407,
+            "rewardGroupId": 4007,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4008,
+            "groupId": 4,
+            "difficulty": 8,
+            "unlockId": 0,
+            "unlockAgentLv": 30,
+            "stageId": 450408,
+            "rewardGroupId": 4008,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4009,
+            "groupId": 4,
+            "difficulty": 9,
+            "unlockId": 0,
+            "unlockAgentLv": 45,
+            "stageId": 450409,
+            "rewardGroupId": 4009,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4010,
+            "groupId": 4,
+            "difficulty": 10,
+            "unlockId": 0,
+            "unlockAgentLv": 60,
+            "stageId": 450410,
+            "rewardGroupId": 4010,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4011,
+            "groupId": 4,
+            "difficulty": 11,
+            "unlockId": 0,
+            "unlockAgentLv": 70,
+            "stageId": 450411,
+            "rewardGroupId": 4011,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4012,
+            "groupId": 4,
+            "difficulty": 12,
+            "unlockId": 0,
+            "unlockAgentLv": 80,
+            "stageId": 450412,
+            "rewardGroupId": 4012,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4013,
+            "groupId": 4,
+            "difficulty": 13,
+            "unlockId": 0,
+            "unlockAgentLv": 90,
+            "stageId": 450413,
+            "rewardGroupId": 4013,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4014,
+            "groupId": 4,
+            "difficulty": 14,
+            "unlockId": 0,
+            "unlockAgentLv": 100,
+            "stageId": 450414,
+            "rewardGroupId": 4014,
+            "rewardHero": 10002
+        },
+        {
+            "id": 4015,
+            "groupId": 4,
+            "difficulty": 15,
+            "unlockId": 0,
+            "unlockAgentLv": 110,
+            "stageId": 450415,
+            "rewardGroupId": 4015,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5001,
+            "groupId": 5,
+            "difficulty": 1,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450501,
+            "rewardGroupId": 5001,
+            "rewardHero": 10001
+        },
+        {
+            "id": 5002,
+            "groupId": 5,
+            "difficulty": 2,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450502,
+            "rewardGroupId": 5002,
+            "rewardHero": 10001
+        },
+        {
+            "id": 5003,
+            "groupId": 5,
+            "difficulty": 3,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450503,
+            "rewardGroupId": 5003,
+            "rewardHero": 10001
+        },
+        {
+            "id": 5004,
+            "groupId": 5,
+            "difficulty": 4,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450504,
+            "rewardGroupId": 5004,
+            "rewardHero": 10001
+        },
+        {
+            "id": 5005,
+            "groupId": 5,
+            "difficulty": 5,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450505,
+            "rewardGroupId": 5005,
+            "rewardHero": 10001
+        },
+        {
+            "id": 5006,
+            "groupId": 5,
+            "difficulty": 6,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450506,
+            "rewardGroupId": 5006,
+            "rewardHero": 10001
+        },
+        {
+            "id": 5007,
+            "groupId": 5,
+            "difficulty": 7,
+            "unlockId": 0,
+            "unlockAgentLv": 15,
+            "stageId": 450507,
+            "rewardGroupId": 5007,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5008,
+            "groupId": 5,
+            "difficulty": 8,
+            "unlockId": 0,
+            "unlockAgentLv": 30,
+            "stageId": 450508,
+            "rewardGroupId": 5008,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5009,
+            "groupId": 5,
+            "difficulty": 9,
+            "unlockId": 0,
+            "unlockAgentLv": 45,
+            "stageId": 450509,
+            "rewardGroupId": 5009,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5010,
+            "groupId": 5,
+            "difficulty": 10,
+            "unlockId": 0,
+            "unlockAgentLv": 60,
+            "stageId": 450510,
+            "rewardGroupId": 5010,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5011,
+            "groupId": 5,
+            "difficulty": 11,
+            "unlockId": 0,
+            "unlockAgentLv": 70,
+            "stageId": 450511,
+            "rewardGroupId": 5011,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5012,
+            "groupId": 5,
+            "difficulty": 12,
+            "unlockId": 0,
+            "unlockAgentLv": 80,
+            "stageId": 450512,
+            "rewardGroupId": 5012,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5013,
+            "groupId": 5,
+            "difficulty": 13,
+            "unlockId": 0,
+            "unlockAgentLv": 90,
+            "stageId": 450513,
+            "rewardGroupId": 5013,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5014,
+            "groupId": 5,
+            "difficulty": 14,
+            "unlockId": 0,
+            "unlockAgentLv": 100,
+            "stageId": 450514,
+            "rewardGroupId": 5014,
+            "rewardHero": 10002
+        },
+        {
+            "id": 5015,
+            "groupId": 5,
+            "difficulty": 15,
+            "unlockId": 0,
+            "unlockAgentLv": 110,
+            "stageId": 450515,
+            "rewardGroupId": 5015,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6001,
+            "groupId": 6,
+            "difficulty": 1,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450601,
+            "rewardGroupId": 6001,
+            "rewardHero": 10001
+        },
+        {
+            "id": 6002,
+            "groupId": 6,
+            "difficulty": 2,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450602,
+            "rewardGroupId": 6002,
+            "rewardHero": 10001
+        },
+        {
+            "id": 6003,
+            "groupId": 6,
+            "difficulty": 3,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450603,
+            "rewardGroupId": 6003,
+            "rewardHero": 10001
+        },
+        {
+            "id": 6004,
+            "groupId": 6,
+            "difficulty": 4,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450604,
+            "rewardGroupId": 6004,
+            "rewardHero": 10001
+        },
+        {
+            "id": 6005,
+            "groupId": 6,
+            "difficulty": 5,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450605,
+            "rewardGroupId": 6005,
+            "rewardHero": 10001
+        },
+        {
+            "id": 6006,
+            "groupId": 6,
+            "difficulty": 6,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450606,
+            "rewardGroupId": 6006,
+            "rewardHero": 10001
+        },
+        {
+            "id": 6007,
+            "groupId": 6,
+            "difficulty": 7,
+            "unlockId": 0,
+            "unlockAgentLv": 15,
+            "stageId": 450607,
+            "rewardGroupId": 6007,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6008,
+            "groupId": 6,
+            "difficulty": 8,
+            "unlockId": 0,
+            "unlockAgentLv": 30,
+            "stageId": 450608,
+            "rewardGroupId": 6008,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6009,
+            "groupId": 6,
+            "difficulty": 9,
+            "unlockId": 0,
+            "unlockAgentLv": 45,
+            "stageId": 450609,
+            "rewardGroupId": 6009,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6010,
+            "groupId": 6,
+            "difficulty": 10,
+            "unlockId": 0,
+            "unlockAgentLv": 60,
+            "stageId": 450610,
+            "rewardGroupId": 6010,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6011,
+            "groupId": 6,
+            "difficulty": 11,
+            "unlockId": 0,
+            "unlockAgentLv": 70,
+            "stageId": 450611,
+            "rewardGroupId": 6011,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6012,
+            "groupId": 6,
+            "difficulty": 12,
+            "unlockId": 0,
+            "unlockAgentLv": 80,
+            "stageId": 450612,
+            "rewardGroupId": 6012,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6013,
+            "groupId": 6,
+            "difficulty": 13,
+            "unlockId": 0,
+            "unlockAgentLv": 90,
+            "stageId": 450613,
+            "rewardGroupId": 6013,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6014,
+            "groupId": 6,
+            "difficulty": 14,
+            "unlockId": 0,
+            "unlockAgentLv": 100,
+            "stageId": 450614,
+            "rewardGroupId": 6014,
+            "rewardHero": 10002
+        },
+        {
+            "id": 6015,
+            "groupId": 6,
+            "difficulty": 15,
+            "unlockId": 0,
+            "unlockAgentLv": 110,
+            "stageId": 450615,
+            "rewardGroupId": 6015,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7001,
+            "groupId": 7,
+            "difficulty": 1,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450701,
+            "rewardGroupId": 7001,
+            "rewardHero": 10001
+        },
+        {
+            "id": 7002,
+            "groupId": 7,
+            "difficulty": 2,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450702,
+            "rewardGroupId": 7002,
+            "rewardHero": 10001
+        },
+        {
+            "id": 7003,
+            "groupId": 7,
+            "difficulty": 3,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450703,
+            "rewardGroupId": 7003,
+            "rewardHero": 10001
+        },
+        {
+            "id": 7004,
+            "groupId": 7,
+            "difficulty": 4,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450704,
+            "rewardGroupId": 7004,
+            "rewardHero": 10001
+        },
+        {
+            "id": 7005,
+            "groupId": 7,
+            "difficulty": 5,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450705,
+            "rewardGroupId": 7005,
+            "rewardHero": 10001
+        },
+        {
+            "id": 7006,
+            "groupId": 7,
+            "difficulty": 6,
+            "unlockId": 0,
+            "unlockAgentLv": 1,
+            "stageId": 450706,
+            "rewardGroupId": 7006,
+            "rewardHero": 10001
+        },
+        {
+            "id": 7007,
+            "groupId": 7,
+            "difficulty": 7,
+            "unlockId": 0,
+            "unlockAgentLv": 15,
+            "stageId": 450707,
+            "rewardGroupId": 7007,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7008,
+            "groupId": 7,
+            "difficulty": 8,
+            "unlockId": 0,
+            "unlockAgentLv": 30,
+            "stageId": 450708,
+            "rewardGroupId": 7008,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7009,
+            "groupId": 7,
+            "difficulty": 9,
+            "unlockId": 0,
+            "unlockAgentLv": 45,
+            "stageId": 450709,
+            "rewardGroupId": 7009,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7010,
+            "groupId": 7,
+            "difficulty": 10,
+            "unlockId": 0,
+            "unlockAgentLv": 60,
+            "stageId": 450710,
+            "rewardGroupId": 7010,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7011,
+            "groupId": 7,
+            "difficulty": 11,
+            "unlockId": 0,
+            "unlockAgentLv": 70,
+            "stageId": 450711,
+            "rewardGroupId": 7011,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7012,
+            "groupId": 7,
+            "difficulty": 12,
+            "unlockId": 0,
+            "unlockAgentLv": 80,
+            "stageId": 450712,
+            "rewardGroupId": 7012,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7013,
+            "groupId": 7,
+            "difficulty": 13,
+            "unlockId": 0,
+            "unlockAgentLv": 90,
+            "stageId": 450713,
+            "rewardGroupId": 7013,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7014,
+            "groupId": 7,
+            "difficulty": 14,
+            "unlockId": 0,
+            "unlockAgentLv": 100,
+            "stageId": 450714,
+            "rewardGroupId": 7014,
+            "rewardHero": 10002
+        },
+        {
+            "id": 7015,
+            "groupId": 7,
+            "difficulty": 15,
+            "unlockId": 0,
+            "unlockAgentLv": 110,
+            "stageId": 450715,
+            "rewardGroupId": 7015,
+            "rewardHero": 10002
+        }
+    ]
+}

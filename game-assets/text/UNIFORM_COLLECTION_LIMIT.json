@@ -1,0 +1,576 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5163477430890447125
+    },
+    "m_Name": "UNIFORM_COLLECTION_LIMIT",
+    "keys": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026,
+        2027
+    ],
+    "values": [
+        {
+            "limitId": 1001,
+            "groupId": 1010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 100,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2018/09/30 00:00"
+        },
+        {
+            "limitId": 1002,
+            "groupId": 2010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 100,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2018/09/30 00:00"
+        },
+        {
+            "limitId": 1003,
+            "groupId": 3010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 100,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2018/09/30 00:00"
+        },
+        {
+            "limitId": 1004,
+            "groupId": 4010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 100,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2018/12/30 00:00"
+        },
+        {
+            "limitId": 1005,
+            "groupId": 5010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 100,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2018/12/30 00:00"
+        },
+        {
+            "limitId": 1006,
+            "groupId": 7010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/01/24 00:00"
+        },
+        {
+            "limitId": 1007,
+            "groupId": 8010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/03/07 00:00"
+        },
+        {
+            "limitId": 1008,
+            "groupId": 9010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/04/04 00:00"
+        },
+        {
+            "limitId": 1009,
+            "groupId": 9020,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/04/04 00:00"
+        },
+        {
+            "limitId": 1010,
+            "groupId": 10010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/05/30 00:00"
+        },
+        {
+            "limitId": 1011,
+            "groupId": 10020,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/05/30 00:00"
+        },
+        {
+            "limitId": 1012,
+            "groupId": 10030,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/05/30 00:00"
+        },
+        {
+            "limitId": 1013,
+            "groupId": 10040,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/05/30 00:00"
+        },
+        {
+            "limitId": 1014,
+            "groupId": 11010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/06/13 00:00"
+        },
+        {
+            "limitId": 1015,
+            "groupId": 12010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/07/17 00:00"
+        },
+        {
+            "limitId": 1016,
+            "groupId": 13010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/08/21 00:00"
+        },
+        {
+            "limitId": 1017,
+            "groupId": 14010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/10/15 00:00"
+        },
+        {
+            "limitId": 1018,
+            "groupId": 15010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/11/06 00:00"
+        },
+        {
+            "limitId": 1019,
+            "groupId": 16010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/11/06 00:00"
+        },
+        {
+            "limitId": 1020,
+            "groupId": 17010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/12/11 00:00"
+        },
+        {
+            "limitId": 1021,
+            "groupId": 18010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/01/22 00:00"
+        },
+        {
+            "limitId": 1022,
+            "groupId": 19010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/02/26 00:00"
+        },
+        {
+            "limitId": 1023,
+            "groupId": 20010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/04/01 00:00"
+        },
+        {
+            "limitId": 1024,
+            "groupId": 21010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/05/06 00:00"
+        },
+        {
+            "limitId": 1025,
+            "groupId": 22010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/06/10 00:00"
+        },
+        {
+            "limitId": 1026,
+            "groupId": 23010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/07/15 00:00"
+        },
+        {
+            "limitId": 1027,
+            "groupId": 24010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/09/01 00:00"
+        },
+        {
+            "limitId": 1028,
+            "groupId": 25010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/10/21 00:00"
+        },
+        {
+            "limitId": 1029,
+            "groupId": 26010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/11/18 00:00"
+        },
+        {
+            "limitId": 2001,
+            "groupId": 1010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 100,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2018/09/30 00:00"
+        },
+        {
+            "limitId": 2002,
+            "groupId": 2010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 100,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2018/09/30 00:00"
+        },
+        {
+            "limitId": 2003,
+            "groupId": 3010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 100,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2018/09/30 00:00"
+        },
+        {
+            "limitId": 2004,
+            "groupId": 7010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/01/31 00:00"
+        },
+        {
+            "limitId": 2005,
+            "groupId": 8010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/03/14 00:00"
+        },
+        {
+            "limitId": 2006,
+            "groupId": 9010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/04/04 00:00"
+        },
+        {
+            "limitId": 2007,
+            "groupId": 9020,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/04/04 00:00"
+        },
+        {
+            "limitId": 2008,
+            "groupId": 10010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/05/30 00:00"
+        },
+        {
+            "limitId": 2009,
+            "groupId": 10020,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/05/30 00:00"
+        },
+        {
+            "limitId": 2010,
+            "groupId": 10030,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/05/30 00:00"
+        },
+        {
+            "limitId": 2011,
+            "groupId": 10040,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/05/30 00:00"
+        },
+        {
+            "limitId": 2012,
+            "groupId": 11010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/06/20 00:00"
+        },
+        {
+            "limitId": 2013,
+            "groupId": 12010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/07/25 00:00"
+        },
+        {
+            "limitId": 2014,
+            "groupId": 13010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/08/27 00:00"
+        },
+        {
+            "limitId": 2015,
+            "groupId": 14010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/10/24 00:00"
+        },
+        {
+            "limitId": 2016,
+            "groupId": 15010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/11/13 00:00"
+        },
+        {
+            "limitId": 2017,
+            "groupId": 16010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/11/13 00:00"
+        },
+        {
+            "limitId": 2018,
+            "groupId": 17010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2019/12/18 00:00"
+        },
+        {
+            "limitId": 2019,
+            "groupId": 18010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/01/29 00:00"
+        },
+        {
+            "limitId": 2020,
+            "groupId": 19010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/03/04 00:00"
+        },
+        {
+            "limitId": 2021,
+            "groupId": 20010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/04/08 00:00"
+        },
+        {
+            "limitId": 2022,
+            "groupId": 21010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/05/13 00:00"
+        },
+        {
+            "limitId": 2023,
+            "groupId": 22010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/06/17 00:00"
+        },
+        {
+            "limitId": 2024,
+            "groupId": 23010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/07/22 00:00"
+        },
+        {
+            "limitId": 2025,
+            "groupId": 24010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/09/08 00:00"
+        },
+        {
+            "limitId": 2026,
+            "groupId": 25010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/10/07 00:00"
+        },
+        {
+            "limitId": 2027,
+            "groupId": 26010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 375,
+            "_startTimer": "2001/01/01 00:00",
+            "_endTimer": "2020/11/25 00:00"
+        }
+    ]
+}

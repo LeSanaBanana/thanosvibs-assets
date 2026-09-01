@@ -1,0 +1,113 @@
+[
+    {
+        "level": "base_city_alaska_1001_b01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9000,
+                        "mob": 943390402,
+                        "group": 99,
+                        "sight": 5,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 943390402,
+                        "group": 99,
+                        "sight": 5,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 943390402,
+                        "group": 99,
+                        "sight": 5,
+                        "gimmickid": 1
+                    },
+                    {
+                        "point": 9011,
+                        "mob": 207390402,
+                        "group": 99,
+                        "sight": 100,
+                        "gimmickid": 1,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_Kylntower02_1"
+                    },
+                    {
+                        "point": 9012,
+                        "mob": 207390402,
+                        "group": 99,
+                        "sight": 100,
+                        "gimmickid": 1,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_Kylntower02_3"
+                    },
+                    {
+                        "point": 9013,
+                        "mob": 207390402,
+                        "group": 99,
+                        "sight": 100,
+                        "gimmickid": 1,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_Kylntower02_1"
+                    },
+                    {
+                        "point": 9014,
+                        "mob": 207390402,
+                        "group": 99,
+                        "sight": 100,
+                        "gimmickid": 1,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_Kylntower02_2"
+                    },
+                    {
+                        "point": 9015,
+                        "mob": 207390402,
+                        "group": 99,
+                        "sight": 100,
+                        "gimmickid": 1,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_Kylntower02_4"
+                    },
+                    {
+                        "point": 9016,
+                        "mob": 207390402,
+                        "group": 99,
+                        "sight": 100,
+                        "gimmickid": 1,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_Kylntower02_1"
+                    },
+                    {
+                        "point": 9017,
+                        "mob": 207390402,
+                        "group": 98,
+                        "sight": 100,
+                        "gimmickid": 1,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_Kylntower02_1"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 769390402,
+                        "group": 1,
+                        "firstattack": 1,
+                        "sight": 9,
+                        "appear": "appear",
+                        "boss_appear": "skill03",
+                        "keymob": 1,
+                        "trigger": 1,
+                        "summon": "1:2",
+                        "boss": 3,
+                        "boss_cam": "0,0.2,0",
+                        "boss_cam_rot": "-5,0,0"
+                    }
+                ]
+            }
+        ]
+    }
+]

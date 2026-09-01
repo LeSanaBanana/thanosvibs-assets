@@ -1,0 +1,41 @@
+[
+    {
+        "level": "Base_Antman_Laboratory_0000_C01",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9000,
+                        "mob": 903420301,
+                        "group": 99,
+                        "sight": 5,
+                        "gimmickid": 1,
+                        "scale": 1.05
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 903420301,
+                        "group": 99,
+                        "sight": 5,
+                        "gimmickid": 1,
+                        "scale": 0.95
+                    },
+                    {
+                        "point": 1,
+                        "mob": 799420301,
+                        "group": 1,
+                        "sight": 6,
+                        "firstattack": 1,
+                        "trigger": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "boss_appear": "skill02-02"
+                    }
+                ]
+            }
+        ]
+    }
+]

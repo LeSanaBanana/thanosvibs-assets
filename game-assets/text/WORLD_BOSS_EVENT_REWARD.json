@@ -1,0 +1,314 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6401508984456177760
+    },
+    "m_Name": "WORLD_BOSS_EVENT_REWARD",
+    "keys": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1099
+    ],
+    "values": [
+        {
+            "EventBossGroup": 1001,
+            "Point": 3,
+            "OrgRewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1001,
+            "Point": 5,
+            "OrgRewardType": 100,
+            "RewardValue": 1230001,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1001,
+            "Point": 8,
+            "OrgRewardType": 100,
+            "RewardValue": 1240002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1001,
+            "Point": 11,
+            "OrgRewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1001,
+            "Point": 14,
+            "OrgRewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1
+        },
+        {
+            "EventBossGroup": 1002,
+            "Point": 3,
+            "OrgRewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1002,
+            "Point": 5,
+            "OrgRewardType": 100,
+            "RewardValue": 1230001,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1002,
+            "Point": 8,
+            "OrgRewardType": 100,
+            "RewardValue": 1240002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1002,
+            "Point": 11,
+            "OrgRewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1002,
+            "Point": 14,
+            "OrgRewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1
+        },
+        {
+            "EventBossGroup": 1003,
+            "Point": 3,
+            "OrgRewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1003,
+            "Point": 5,
+            "OrgRewardType": 100,
+            "RewardValue": 1230001,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1003,
+            "Point": 8,
+            "OrgRewardType": 100,
+            "RewardValue": 1240002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1003,
+            "Point": 11,
+            "OrgRewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1003,
+            "Point": 14,
+            "OrgRewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1
+        },
+        {
+            "EventBossGroup": 1004,
+            "Point": 3,
+            "OrgRewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1004,
+            "Point": 5,
+            "OrgRewardType": 100,
+            "RewardValue": 1230001,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1004,
+            "Point": 7,
+            "OrgRewardType": 100,
+            "RewardValue": 1240002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1004,
+            "Point": 9,
+            "OrgRewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1004,
+            "Point": 12,
+            "OrgRewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1
+        },
+        {
+            "EventBossGroup": 1005,
+            "Point": 3,
+            "OrgRewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1005,
+            "Point": 5,
+            "OrgRewardType": 100,
+            "RewardValue": 1230001,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1005,
+            "Point": 7,
+            "OrgRewardType": 100,
+            "RewardValue": 1240002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1005,
+            "Point": 9,
+            "OrgRewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1005,
+            "Point": 12,
+            "OrgRewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1
+        },
+        {
+            "EventBossGroup": 1006,
+            "Point": 3,
+            "OrgRewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1006,
+            "Point": 5,
+            "OrgRewardType": 100,
+            "RewardValue": 1230001,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1006,
+            "Point": 7,
+            "OrgRewardType": 100,
+            "RewardValue": 1240002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1006,
+            "Point": 9,
+            "OrgRewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1006,
+            "Point": 12,
+            "OrgRewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1
+        },
+        {
+            "EventBossGroup": 1007,
+            "Point": 3,
+            "OrgRewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1007,
+            "Point": 5,
+            "OrgRewardType": 100,
+            "RewardValue": 1230001,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1007,
+            "Point": 7,
+            "OrgRewardType": 100,
+            "RewardValue": 1240002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1007,
+            "Point": 9,
+            "OrgRewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1007,
+            "Point": 12,
+            "OrgRewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1
+        },
+        {
+            "EventBossGroup": 1099,
+            "Point": 3,
+            "OrgRewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1099,
+            "Point": 5,
+            "OrgRewardType": 100,
+            "RewardValue": 1230001,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1099,
+            "Point": 7,
+            "OrgRewardType": 100,
+            "RewardValue": 1240002,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1099,
+            "Point": 9,
+            "OrgRewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 150
+        },
+        {
+            "EventBossGroup": 1099,
+            "Point": 12,
+            "OrgRewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1
+        }
+    ],
+    "counts": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+    ]
+}

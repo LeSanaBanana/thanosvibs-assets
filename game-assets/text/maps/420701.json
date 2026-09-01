@@ -1,0 +1,49 @@
+[
+    {
+        "level": "base_doomcastle_in_0001_c01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 798420701,
+                        "group": 1,
+                        "sight": 9,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "summon": "0:2",
+                        "boss_appear": "skill04-01c",
+                        "avoidancePriority": 0,
+                        "boss_cam": "0.0,0.5,0.2",
+                        "aiprefab": "AI_SB_doctordoom01_deluxe"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 250420701,
+                        "group": 2,
+                        "sight": 18,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "0",
+                        "delay": "4.5-5.0"
+                    },
+                    {
+                        "point": 5,
+                        "mob": 250420701,
+                        "group": 2,
+                        "sight": 18,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "0",
+                        "delay": "4.5-5.0"
+                    }
+                ]
+            }
+        ]
+    }
+]

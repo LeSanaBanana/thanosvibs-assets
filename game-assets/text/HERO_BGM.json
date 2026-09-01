@@ -1,0 +1,84 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4803444154123641634
+    },
+    "m_Name": "HERO_BGM",
+    "list": [
+        {
+            "heroGroupId": 153,
+            "playCondition": 1,
+            "audioName": "lunasnow_tonight_edit.mp3",
+            "prop": 10000.0,
+            "uniformId": 0
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 2,
+            "audioName": "lunasnow_bgm",
+            "prop": 5000.0,
+            "uniformId": 0
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 1,
+            "audioName": "luna_andromeda_universe",
+            "prop": 10000.0,
+            "uniformId": 10100153
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 2,
+            "audioName": "luna_andromeda_ingame",
+            "prop": 5000.0,
+            "uniformId": 10100153
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 1,
+            "audioName": "luna_lifestyle_universe",
+            "prop": 10000.0,
+            "uniformId": 10200153
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 2,
+            "audioName": "luna_lifestyle_ingame",
+            "prop": 5000.0,
+            "uniformId": 10200153
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 1,
+            "audioName": "luna_whitesiriusarmor_universe",
+            "prop": 10000.0,
+            "uniformId": 10300153
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 2,
+            "audioName": "luna_whitesiriusarmor_ingame",
+            "prop": 5000.0,
+            "uniformId": 10300153
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 1,
+            "audioName": "luna_summerfantasy_universe",
+            "prop": 10000.0,
+            "uniformId": 10400153
+        },
+        {
+            "heroGroupId": 153,
+            "playCondition": 2,
+            "audioName": "luna_summerfantasy_ingame",
+            "prop": 5000.0,
+            "uniformId": 10400153
+        }
+    ]
+}

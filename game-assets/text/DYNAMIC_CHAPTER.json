@@ -1,0 +1,111 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4996278714709474906
+    },
+    "m_Name": "DYNAMIC_CHAPTER",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "cameraKey": -562081074,
+            "heroAniKey": -1967916507,
+            "heroPortraitKey": 604166844,
+            "openTimeGLKey": 584860731,
+            "openTimeCNKey": 1380754590,
+            "chapterId": 101,
+            "storyId": 1,
+            "chapterUnlock": 0,
+            "dialogGroupId": 0,
+            "heroCostume": 1027201,
+            "order": 1
+        },
+        {
+            "cameraKey": -2022091851,
+            "heroAniKey": -1967916507,
+            "heroPortraitKey": -428821658,
+            "openTimeGLKey": -1375382528,
+            "openTimeCNKey": -1765401710,
+            "chapterId": 102,
+            "storyId": 1,
+            "chapterUnlock": 101,
+            "dialogGroupId": 0,
+            "heroCostume": 1031017901,
+            "order": 2
+        },
+        {
+            "cameraKey": 1583114919,
+            "heroAniKey": -1967916507,
+            "heroPortraitKey": 1083213776,
+            "openTimeGLKey": 1805928861,
+            "openTimeCNKey": 569322327,
+            "chapterId": 103,
+            "storyId": 1,
+            "chapterUnlock": 102,
+            "dialogGroupId": 0,
+            "heroCostume": 1031018004,
+            "order": 3
+        },
+        {
+            "cameraKey": 761496544,
+            "heroAniKey": -1967916507,
+            "heroPortraitKey": 1933536734,
+            "openTimeGLKey": -154314398,
+            "openTimeCNKey": 584966428,
+            "chapterId": 104,
+            "storyId": 1,
+            "chapterUnlock": 103,
+            "dialogGroupId": 0,
+            "heroCostume": 1031018105,
+            "order": 4
+        },
+        {
+            "cameraKey": -534779450,
+            "heroAniKey": -1967916507,
+            "heroPortraitKey": -947554067,
+            "openTimeGLKey": -138670297,
+            "openTimeCNKey": -1375276831,
+            "chapterId": 105,
+            "storyId": 1,
+            "chapterUnlock": 104,
+            "dialogGroupId": 0,
+            "heroCostume": 1031018203,
+            "order": 5
+        },
+        {
+            "cameraKey": -1669795612,
+            "heroAniKey": -1967916507,
+            "heroPortraitKey": -475924619,
+            "openTimeGLKey": -2098913556,
+            "openTimeCNKey": 1806034558,
+            "chapterId": 106,
+            "storyId": 1,
+            "chapterUnlock": 105,
+            "dialogGroupId": 0,
+            "heroCostume": 1027136,
+            "order": 6
+        },
+        {
+            "cameraKey": -1698475482,
+            "heroAniKey": -1967916507,
+            "heroPortraitKey": 693285203,
+            "openTimeGLKey": -953969447,
+            "openTimeCNKey": -154208701,
+            "chapterId": 107,
+            "storyId": 1,
+            "chapterUnlock": 106,
+            "dialogGroupId": 0,
+            "heroCostume": 1018301,
+            "order": 7
+        }
+    ],
+    "counts": [
+        7
+    ]
+}

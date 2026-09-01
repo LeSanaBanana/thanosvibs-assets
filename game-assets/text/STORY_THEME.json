@@ -1,0 +1,76 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2425363766231526947
+    },
+    "m_Name": "STORY_THEME",
+    "keys": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "values": [
+        {
+            "themeId": 1,
+            "useFreemode": 2,
+            "openFreemode": 0,
+            "achieveGroup": 0,
+            "achieveComplete": 0,
+            "achieveImage": "0",
+            "themeImage": "StoryTheme01",
+            "useTrait": 0,
+            "themeOpen": 1,
+            "themeNum": 1,
+            "rewardPick": 4020001,
+            "rewardPickNormal": 4010001
+        },
+        {
+            "themeId": 2,
+            "useFreemode": 2,
+            "openFreemode": 491202,
+            "achieveGroup": 0,
+            "achieveComplete": 0,
+            "achieveImage": "0",
+            "themeImage": "StoryTheme02",
+            "useTrait": 0,
+            "themeOpen": 1,
+            "themeNum": 3,
+            "rewardPick": 4020001,
+            "rewardPickNormal": 4010001
+        },
+        {
+            "themeId": 3,
+            "useFreemode": 2,
+            "openFreemode": 490803,
+            "achieveGroup": 0,
+            "achieveComplete": 0,
+            "achieveImage": "0",
+            "themeImage": "StoryTheme03",
+            "useTrait": 0,
+            "themeOpen": 1,
+            "themeNum": 2,
+            "rewardPick": 4020001,
+            "rewardPickNormal": 4010001
+        },
+        {
+            "themeId": 4,
+            "useFreemode": 2,
+            "openFreemode": 491002,
+            "achieveGroup": 0,
+            "achieveComplete": 0,
+            "achieveImage": "0",
+            "themeImage": "StoryTheme04",
+            "useTrait": 0,
+            "themeOpen": 1,
+            "themeNum": 4,
+            "rewardPick": 4020001,
+            "rewardPickNormal": 4010001
+        }
+    ]
+}

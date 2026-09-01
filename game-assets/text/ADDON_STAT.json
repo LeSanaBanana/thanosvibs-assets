@@ -1,0 +1,58 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1779980637436160677
+    },
+    "m_Name": "ADDON_STAT",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "StatId": 1,
+            "AbilityId": 9,
+            "AddParamOffset": 10,
+            "MaxLevelLimit": 100
+        },
+        {
+            "StatId": 2,
+            "AbilityId": 10,
+            "AddParamOffset": 10,
+            "MaxLevelLimit": 100
+        },
+        {
+            "StatId": 3,
+            "AbilityId": 11,
+            "AddParamOffset": 10,
+            "MaxLevelLimit": 100
+        },
+        {
+            "StatId": 4,
+            "AbilityId": 6,
+            "AddParamOffset": 15,
+            "MaxLevelLimit": 100
+        },
+        {
+            "StatId": 5,
+            "AbilityId": 8,
+            "AddParamOffset": 15,
+            "MaxLevelLimit": 100
+        },
+        {
+            "StatId": 6,
+            "AbilityId": 29,
+            "AddParamOffset": 15,
+            "MaxLevelLimit": 100
+        }
+    ]
+}

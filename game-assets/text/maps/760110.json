@@ -1,0 +1,52 @@
+[
+    {
+        "level": "event_shadowland_0000_a04",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1312760110,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "hpgroup": "1",
+                        "sight": 30,
+                        "boss_appear": "skill01",
+                        "boss": 3,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.3,0.7",
+                        "scale": "1.1",
+                        "aiprefab": "ai_sv_hadespluto01_760110"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 1313760110,
+                        "group": 2,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "hpgroup": "1",
+                        "sight": 30,
+                        "boss": 4,
+                        "avoidancePriority": 0,
+                        "scale": "1.1",
+                        "aiprefab": "ai_hero_zeus01_760110"
+                    },
+                    {
+                        "point": 10,
+                        "mob": 541760107,
+                        "group": 10,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "aiprefab": "ai_gimmick_dummy82_760110"
+                    }
+                ]
+            }
+        ]
+    }
+]

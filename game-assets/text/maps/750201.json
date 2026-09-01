@@ -1,0 +1,30 @@
+[
+    {
+        "level": "arcade_captainmarvel_pegasusbunker_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 669750201,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "firstattack": 1,
+                        "sight": 5,
+                        "boss_cam": "0,0.3,1",
+                        "boss_cam_rot": "-10,0,0",
+                        "boss_appear": "skill05-02",
+                        "aiprefab": "ai_hero_amadeuscho01_S01_750201",
+                        "avoidancePriority": 0,
+                        "scale": 1.1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2000 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6115076557993188345
+    },
+    "m_Name": "HERO_ADDON",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        10,
+        12,
+        14,
+        16,
+        17,
+        23,
+        26,
+        27,
+        28,
+        30,
+        31,
+        32,
+        36,
+        37,
+        38,
+        40,
+        42,
+        43,
+        44,
+        45,
+        49,
+        65,
+        66,
+        72,
+        75,
+        77,
+        79,
+        82,
+        88,
+        92,
+        94,
+        105,
+        106,
+        121,
+        123,
+        124,
+        125,
+        126,
+        128,
+        129,
+        139,
+        140,
+        141,
+        142,
+        151,
+        152,
+        153,
+        157,
+        159,
+        164,
+        167,
+        172,
+        173,
+        176,
+        179,
+        180,
+        181,
+        183,
+        185,
+        198,
+        199,
+        210,
+        212,
+        216,
+        217,
+        218,
+        220,
+        221,
+        222,
+        226,
+        235,
+        241,
+        252,
+        267,
+        127,
+        193,
+        108,
+        182,
+        11,
+        160,
+        281,
+        189,
+        204,
+        244,
+        96,
+        89,
+        70,
+        109,
+        283,
+        284,
+        285,
+        237,
+        107,
+        147,
+        231,
+        259,
+        13,
+        29,
+        21,
+        225,
+        223,
+        175,
+        289,
+        256,
+        203,
+        229,
+        168,
+        114,
+        290,
+        253,
+        144,
+        9,
+        178,
+        194,
+        130,
+        236,
+        18,
+        133
+    ],
+    "values": [
+        {
+            "HeroGroupId": 1,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 3
+        },
+        {
+            "HeroGroupId": 2,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 3
+        },
+        {
+            "HeroGroupId": 3,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 4,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 7,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 3
+        },
+        {
+            "HeroGroupId": 8,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 10,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 12,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 14,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 16,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 17,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 23,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 26,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 27,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 28,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 30,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 31,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 32,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 36,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 37,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 38,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 40,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 42,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 43,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 44,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 45,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 49,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 65,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 66,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 72,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 3
+        },
+        {
+            "HeroGroupId": 75,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 77,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 79,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 82,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 88,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 92,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 94,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 105,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 106,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 121,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 3
+        },
+        {
+            "HeroGroupId": 123,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 124,
+            "MaterialIds": [
+                1110001,
+                1120001,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 125,
+            "MaterialIds": [
+                1110001,
+                1120001,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 126,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 128,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 129,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 139,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 140,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 141,
+            "MaterialIds": [
+                1110001,
+                1120001,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 142,
+            "MaterialIds": [
+                1110001,
+                1120001,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 151,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 152,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 153,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 157,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 159,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 164,
+            "MaterialIds": [
+                1110001,
+                1120001,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 167,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 172,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 173,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 176,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 179,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 180,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 181,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 183,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 185,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 198,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 199,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 3
+        },
+        {
+            "HeroGroupId": 210,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 212,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 216,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 217,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 218,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 220,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 221,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 222,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 226,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 235,
+            "MaterialIds": [
+                1140001,
+                1130004,
+                9832
+            ],
+            "MaterialQtys": [
+                1800,
+                8,
+                300
+            ],
+            "CostGold": 3000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 241,
+            "MaterialIds": [
+                1140001,
+                1130004,
+                9832
+            ],
+            "MaterialQtys": [
+                1800,
+                8,
+                300
+            ],
+            "CostGold": 3000000,
+            "AddOnSkillGroupId": 3
+        },
+        {
+            "HeroGroupId": 252,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 267,
+            "MaterialIds": [
+                1110001,
+                1120001,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 127,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 193,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 108,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 182,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 11,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 160,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 281,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 189,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 204,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 244,
+            "MaterialIds": [
+                1140001,
+                1130002,
+                9832
+            ],
+            "MaterialQtys": [
+                1800,
+                8,
+                300
+            ],
+            "CostGold": 3000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 96,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 89,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 70,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 109,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 283,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 284,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 285,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 237,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 107,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 147,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 231,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 259,
+            "MaterialIds": [
+                1140001,
+                1130004,
+                9832
+            ],
+            "MaterialQtys": [
+                1800,
+                8,
+                300
+            ],
+            "CostGold": 3000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 13,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 29,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 21,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 225,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 223,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 175,
+            "MaterialIds": [
+                1070001,
+                1020004,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 289,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 256,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 203,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 229,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 168,
+            "MaterialIds": [
+                1110001,
+                1120001,
+                9832
+            ],
+            "MaterialQtys": [
+                3500,
+                2000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 114,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 290,
+            "MaterialIds": [
+                1070001,
+                1020002,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 253,
+            "MaterialIds": [
+                1140001,
+                1130004,
+                9832
+            ],
+            "MaterialQtys": [
+                1800,
+                8,
+                300
+            ],
+            "CostGold": 3000000,
+            "AddOnSkillGroupId": 3
+        },
+        {
+            "HeroGroupId": 144,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 9,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 178,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 194,
+            "MaterialIds": [
+                1110001,
+                1100001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 130,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 236,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 1
+        },
+        {
+            "HeroGroupId": 18,
+            "MaterialIds": [
+                1070001,
+                1020003,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 133,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        }
+    ]
+}

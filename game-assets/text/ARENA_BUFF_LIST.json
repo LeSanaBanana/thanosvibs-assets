@@ -1,0 +1,3674 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4594746762182745435
+    },
+    "m_Name": "ARENA_BUFF_LIST",
+    "list": [
+        {
+            "buffId": 1001,
+            "buffGroupId": 1,
+            "buffLevel": 1,
+            "buffGrade": 5,
+            "skillId": 500010010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 1002,
+            "buffGroupId": 1,
+            "buffLevel": 2,
+            "buffGrade": 5,
+            "skillId": 500010020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 1003,
+            "buffGroupId": 1,
+            "buffLevel": 3,
+            "buffGrade": 5,
+            "skillId": 500010030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 1004,
+            "buffGroupId": 1,
+            "buffLevel": 4,
+            "buffGrade": 5,
+            "skillId": 500010040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 1005,
+            "buffGroupId": 1,
+            "buffLevel": 5,
+            "buffGrade": 5,
+            "skillId": 500010050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 1006,
+            "buffGroupId": 1,
+            "buffLevel": 6,
+            "buffGrade": 5,
+            "skillId": 500010060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 2001,
+            "buffGroupId": 2,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500020010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 2002,
+            "buffGroupId": 2,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500020020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 2003,
+            "buffGroupId": 2,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500020030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 2004,
+            "buffGroupId": 2,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500020040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 2005,
+            "buffGroupId": 2,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500020050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 2006,
+            "buffGroupId": 2,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500020060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 3001,
+            "buffGroupId": 3,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500030010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 3002,
+            "buffGroupId": 3,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500030020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 3003,
+            "buffGroupId": 3,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500030030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 3004,
+            "buffGroupId": 3,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500030040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 3005,
+            "buffGroupId": 3,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500030050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 3006,
+            "buffGroupId": 3,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500030060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 4001,
+            "buffGroupId": 4,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500040010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 4002,
+            "buffGroupId": 4,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500040020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 4003,
+            "buffGroupId": 4,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500040030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 4004,
+            "buffGroupId": 4,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500040040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 4005,
+            "buffGroupId": 4,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500040050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 4006,
+            "buffGroupId": 4,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500040060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 5001,
+            "buffGroupId": 5,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500050010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 5002,
+            "buffGroupId": 5,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500050020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 5003,
+            "buffGroupId": 5,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500050030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 5004,
+            "buffGroupId": 5,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500050040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 5005,
+            "buffGroupId": 5,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500050050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 5006,
+            "buffGroupId": 5,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500050060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 6001,
+            "buffGroupId": 6,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500060010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 6002,
+            "buffGroupId": 6,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500060020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 6003,
+            "buffGroupId": 6,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500060030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 6004,
+            "buffGroupId": 6,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500060040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 6005,
+            "buffGroupId": 6,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500060050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 6006,
+            "buffGroupId": 6,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500060060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 7001,
+            "buffGroupId": 7,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500070010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 7002,
+            "buffGroupId": 7,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500070020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 7003,
+            "buffGroupId": 7,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500070030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 7004,
+            "buffGroupId": 7,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500070040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 7005,
+            "buffGroupId": 7,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500070050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 7006,
+            "buffGroupId": 7,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500070060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 8001,
+            "buffGroupId": 8,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500080010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 8002,
+            "buffGroupId": 8,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500080020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 8003,
+            "buffGroupId": 8,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500080030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 8004,
+            "buffGroupId": 8,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500080040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 8005,
+            "buffGroupId": 8,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500080050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 8006,
+            "buffGroupId": 8,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500080060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 9001,
+            "buffGroupId": 9,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500090010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 9002,
+            "buffGroupId": 9,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500090020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 9003,
+            "buffGroupId": 9,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500090030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 9004,
+            "buffGroupId": 9,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500090040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 9005,
+            "buffGroupId": 9,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500090050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 9006,
+            "buffGroupId": 9,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500090060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 10001,
+            "buffGroupId": 10,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500100010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 10002,
+            "buffGroupId": 10,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500100020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 10003,
+            "buffGroupId": 10,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500100030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 10004,
+            "buffGroupId": 10,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500100040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 10005,
+            "buffGroupId": 10,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500100050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 10006,
+            "buffGroupId": 10,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500100060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 11001,
+            "buffGroupId": 11,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500110010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 11002,
+            "buffGroupId": 11,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500110020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 11003,
+            "buffGroupId": 11,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500110030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 11004,
+            "buffGroupId": 11,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500110040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 11005,
+            "buffGroupId": 11,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500110050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 11006,
+            "buffGroupId": 11,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500110060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 12001,
+            "buffGroupId": 12,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500120010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 12002,
+            "buffGroupId": 12,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500120020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 12003,
+            "buffGroupId": 12,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500120030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 12004,
+            "buffGroupId": 12,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500120040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 12005,
+            "buffGroupId": 12,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500120050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 12006,
+            "buffGroupId": 12,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500120060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 13001,
+            "buffGroupId": 13,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500130010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 13002,
+            "buffGroupId": 13,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500130020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 13003,
+            "buffGroupId": 13,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500130030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 13004,
+            "buffGroupId": 13,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500130040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 13005,
+            "buffGroupId": 13,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500130050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 13006,
+            "buffGroupId": 13,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500130060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 14001,
+            "buffGroupId": 14,
+            "buffLevel": 1,
+            "buffGrade": 5,
+            "skillId": 500140010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 14002,
+            "buffGroupId": 14,
+            "buffLevel": 2,
+            "buffGrade": 5,
+            "skillId": 500140020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 14003,
+            "buffGroupId": 14,
+            "buffLevel": 3,
+            "buffGrade": 5,
+            "skillId": 500140030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 14004,
+            "buffGroupId": 14,
+            "buffLevel": 4,
+            "buffGrade": 5,
+            "skillId": 500140040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 14005,
+            "buffGroupId": 14,
+            "buffLevel": 5,
+            "buffGrade": 5,
+            "skillId": 500140050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 14006,
+            "buffGroupId": 14,
+            "buffLevel": 6,
+            "buffGrade": 5,
+            "skillId": 500140060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 15001,
+            "buffGroupId": 15,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500150010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 15002,
+            "buffGroupId": 15,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500150020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 15003,
+            "buffGroupId": 15,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500150030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 15004,
+            "buffGroupId": 15,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500150040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 15005,
+            "buffGroupId": 15,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500150050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 15006,
+            "buffGroupId": 15,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500150060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 16001,
+            "buffGroupId": 16,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500160010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 16002,
+            "buffGroupId": 16,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500160020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 16003,
+            "buffGroupId": 16,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500160030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 16004,
+            "buffGroupId": 16,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500160040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 16005,
+            "buffGroupId": 16,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500160050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 16006,
+            "buffGroupId": 16,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500160060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 17001,
+            "buffGroupId": 17,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500170010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 17002,
+            "buffGroupId": 17,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500170020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 17003,
+            "buffGroupId": 17,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500170030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 17004,
+            "buffGroupId": 17,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500170040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 17005,
+            "buffGroupId": 17,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500170050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 17006,
+            "buffGroupId": 17,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500170060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 18001,
+            "buffGroupId": 18,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500180010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 18002,
+            "buffGroupId": 18,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500180020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 18003,
+            "buffGroupId": 18,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500180030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 18004,
+            "buffGroupId": 18,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500180040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 18005,
+            "buffGroupId": 18,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500180050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 18006,
+            "buffGroupId": 18,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500180060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 19001,
+            "buffGroupId": 19,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500190010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 19002,
+            "buffGroupId": 19,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500190020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 19003,
+            "buffGroupId": 19,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500190030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 19004,
+            "buffGroupId": 19,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500190040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 19005,
+            "buffGroupId": 19,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500190050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 19006,
+            "buffGroupId": 19,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500190060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 20001,
+            "buffGroupId": 20,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500200010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 20002,
+            "buffGroupId": 20,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500200020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 20003,
+            "buffGroupId": 20,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500200030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 20004,
+            "buffGroupId": 20,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500200040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 20005,
+            "buffGroupId": 20,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500200050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 20006,
+            "buffGroupId": 20,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500200060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 21001,
+            "buffGroupId": 21,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500210010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 21002,
+            "buffGroupId": 21,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500210020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 21003,
+            "buffGroupId": 21,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500210030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 21004,
+            "buffGroupId": 21,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500210040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 21005,
+            "buffGroupId": 21,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500210050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 21006,
+            "buffGroupId": 21,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500210060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 22001,
+            "buffGroupId": 22,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500220010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 22002,
+            "buffGroupId": 22,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500220020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 22003,
+            "buffGroupId": 22,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500220030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 22004,
+            "buffGroupId": 22,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500220040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 22005,
+            "buffGroupId": 22,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500220050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 22006,
+            "buffGroupId": 22,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500220060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 23001,
+            "buffGroupId": 23,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500230010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 23002,
+            "buffGroupId": 23,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500230020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 23003,
+            "buffGroupId": 23,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500230030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 23004,
+            "buffGroupId": 23,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500230040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 23005,
+            "buffGroupId": 23,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500230050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 23006,
+            "buffGroupId": 23,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500230060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 24001,
+            "buffGroupId": 24,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500240010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 24002,
+            "buffGroupId": 24,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500240020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 24003,
+            "buffGroupId": 24,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500240030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 24004,
+            "buffGroupId": 24,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500240040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 24005,
+            "buffGroupId": 24,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500240050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 24006,
+            "buffGroupId": 24,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500240060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 25001,
+            "buffGroupId": 25,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500250010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 25002,
+            "buffGroupId": 25,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500250020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 25003,
+            "buffGroupId": 25,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500250030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 25004,
+            "buffGroupId": 25,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500250040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 25005,
+            "buffGroupId": 25,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500250050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 25006,
+            "buffGroupId": 25,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500250060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 26001,
+            "buffGroupId": 26,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500260010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 26002,
+            "buffGroupId": 26,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500260020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 26003,
+            "buffGroupId": 26,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500260030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 26004,
+            "buffGroupId": 26,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500260040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 26005,
+            "buffGroupId": 26,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500260050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 26006,
+            "buffGroupId": 26,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500260060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_def",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 27001,
+            "buffGroupId": 27,
+            "buffLevel": 1,
+            "buffGrade": 5,
+            "skillId": 500270010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 27002,
+            "buffGroupId": 27,
+            "buffLevel": 2,
+            "buffGrade": 5,
+            "skillId": 500270020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 27003,
+            "buffGroupId": 27,
+            "buffLevel": 3,
+            "buffGrade": 5,
+            "skillId": 500270030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 27004,
+            "buffGroupId": 27,
+            "buffLevel": 4,
+            "buffGrade": 5,
+            "skillId": 500270040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 27005,
+            "buffGroupId": 27,
+            "buffLevel": 5,
+            "buffGrade": 5,
+            "skillId": 500270050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 27006,
+            "buffGroupId": 27,
+            "buffLevel": 6,
+            "buffGrade": 5,
+            "skillId": 500270060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 28001,
+            "buffGroupId": 28,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500280010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 28002,
+            "buffGroupId": 28,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500280020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 28003,
+            "buffGroupId": 28,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500280030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 28004,
+            "buffGroupId": 28,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500280040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 28005,
+            "buffGroupId": 28,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500280050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 28006,
+            "buffGroupId": 28,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500280060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_hero"
+        },
+        {
+            "buffId": 29001,
+            "buffGroupId": 29,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500290010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 29002,
+            "buffGroupId": 29,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500290020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 29003,
+            "buffGroupId": 29,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500290030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 29004,
+            "buffGroupId": 29,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500290040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 29005,
+            "buffGroupId": 29,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500290050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 29006,
+            "buffGroupId": 29,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500290060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_villain"
+        },
+        {
+            "buffId": 30001,
+            "buffGroupId": 30,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500300010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 30002,
+            "buffGroupId": 30,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500300020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 30003,
+            "buffGroupId": 30,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500300030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 30004,
+            "buffGroupId": 30,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500300040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 30005,
+            "buffGroupId": 30,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500300050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 30006,
+            "buffGroupId": 30,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500300060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 31001,
+            "buffGroupId": 31,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500310010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 31002,
+            "buffGroupId": 31,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500310020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 31003,
+            "buffGroupId": 31,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500310030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 31004,
+            "buffGroupId": 31,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500310040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 31005,
+            "buffGroupId": 31,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500310050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 31006,
+            "buffGroupId": 31,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500310060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 32001,
+            "buffGroupId": 32,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500320010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 32002,
+            "buffGroupId": 32,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500320020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 32003,
+            "buffGroupId": 32,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500320030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 32004,
+            "buffGroupId": 32,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500320040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 32005,
+            "buffGroupId": 32,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500320050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 32006,
+            "buffGroupId": 32,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500320060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 33001,
+            "buffGroupId": 33,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500330010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 33002,
+            "buffGroupId": 33,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500330020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 33003,
+            "buffGroupId": 33,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500330030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 33004,
+            "buffGroupId": 33,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500330040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 33005,
+            "buffGroupId": 33,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500330050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 33006,
+            "buffGroupId": 33,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500330060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 34001,
+            "buffGroupId": 34,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500340010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 34002,
+            "buffGroupId": 34,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500340020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 34003,
+            "buffGroupId": 34,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500340030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 34004,
+            "buffGroupId": 34,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500340040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 34005,
+            "buffGroupId": 34,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500340050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 34006,
+            "buffGroupId": 34,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500340060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_human"
+        },
+        {
+            "buffId": 35001,
+            "buffGroupId": 35,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500350010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 35002,
+            "buffGroupId": 35,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500350020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 35003,
+            "buffGroupId": 35,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500350030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 35004,
+            "buffGroupId": 35,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500350040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 35005,
+            "buffGroupId": 35,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500350050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 35006,
+            "buffGroupId": 35,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500350060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_alien"
+        },
+        {
+            "buffId": 36001,
+            "buffGroupId": 36,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500360010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 36002,
+            "buffGroupId": 36,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500360020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 36003,
+            "buffGroupId": 36,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500360030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 36004,
+            "buffGroupId": 36,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500360040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 36005,
+            "buffGroupId": 36,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500360050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 36006,
+            "buffGroupId": 36,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500360060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_creature"
+        },
+        {
+            "buffId": 37001,
+            "buffGroupId": 37,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500370010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 37002,
+            "buffGroupId": 37,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500370020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 37003,
+            "buffGroupId": 37,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500370030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 37004,
+            "buffGroupId": 37,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500370040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 37005,
+            "buffGroupId": 37,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500370050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 37006,
+            "buffGroupId": 37,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500370060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_mutant"
+        },
+        {
+            "buffId": 38001,
+            "buffGroupId": 38,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500380010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 38002,
+            "buffGroupId": 38,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500380020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 38003,
+            "buffGroupId": 38,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500380030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 38004,
+            "buffGroupId": 38,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500380040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 38005,
+            "buffGroupId": 38,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500380050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 38006,
+            "buffGroupId": 38,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500380060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_inhuman"
+        },
+        {
+            "buffId": 39001,
+            "buffGroupId": 39,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500390010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 39002,
+            "buffGroupId": 39,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500390020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 39003,
+            "buffGroupId": 39,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500390030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 39004,
+            "buffGroupId": 39,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500390040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 39005,
+            "buffGroupId": 39,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500390050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 39006,
+            "buffGroupId": 39,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500390060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_hp",
+            "buffIcon2": "Arena_buff_unidentified"
+        },
+        {
+            "buffId": 40001,
+            "buffGroupId": 40,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500400010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_barrier",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 40002,
+            "buffGroupId": 40,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500400020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_barrier",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 40003,
+            "buffGroupId": 40,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500400030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_barrier",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 40004,
+            "buffGroupId": 40,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500400040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_barrier",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 40005,
+            "buffGroupId": 40,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500400050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_barrier",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 40006,
+            "buffGroupId": 40,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500400060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_barrier",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 41001,
+            "buffGroupId": 41,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500410010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atking"
+        },
+        {
+            "buffId": 41002,
+            "buffGroupId": 41,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500410020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atking"
+        },
+        {
+            "buffId": 41003,
+            "buffGroupId": 41,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500410030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atking"
+        },
+        {
+            "buffId": 41004,
+            "buffGroupId": 41,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500410040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atking"
+        },
+        {
+            "buffId": 41005,
+            "buffGroupId": 41,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500410050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atking"
+        },
+        {
+            "buffId": 41006,
+            "buffGroupId": 41,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500410060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atking"
+        },
+        {
+            "buffId": 42001,
+            "buffGroupId": 42,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500420010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atked"
+        },
+        {
+            "buffId": 42002,
+            "buffGroupId": 42,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500420020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atked"
+        },
+        {
+            "buffId": 42003,
+            "buffGroupId": 42,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500420030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atked"
+        },
+        {
+            "buffId": 42004,
+            "buffGroupId": 42,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500420040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atked"
+        },
+        {
+            "buffId": 42005,
+            "buffGroupId": 42,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500420050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atked"
+        },
+        {
+            "buffId": 42006,
+            "buffGroupId": 42,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500420060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_atked"
+        },
+        {
+            "buffId": 43001,
+            "buffGroupId": 43,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500430010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 43002,
+            "buffGroupId": 43,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500430020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 43003,
+            "buffGroupId": 43,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500430030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 43004,
+            "buffGroupId": 43,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500430040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 43005,
+            "buffGroupId": 43,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500430050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 43006,
+            "buffGroupId": 43,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500430060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_paralysis",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 44001,
+            "buffGroupId": 44,
+            "buffLevel": 1,
+            "buffGrade": 2,
+            "skillId": 500440010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_silence",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 44002,
+            "buffGroupId": 44,
+            "buffLevel": 2,
+            "buffGrade": 2,
+            "skillId": 500440020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_silence",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 44003,
+            "buffGroupId": 44,
+            "buffLevel": 3,
+            "buffGrade": 2,
+            "skillId": 500440030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_silence",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 44004,
+            "buffGroupId": 44,
+            "buffLevel": 4,
+            "buffGrade": 2,
+            "skillId": 500440040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_silence",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 44005,
+            "buffGroupId": 44,
+            "buffLevel": 5,
+            "buffGrade": 2,
+            "skillId": 500440050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_silence",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 44006,
+            "buffGroupId": 44,
+            "buffLevel": 6,
+            "buffGrade": 2,
+            "skillId": 500440060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_silence",
+            "buffIcon2": "Arena_buff_start"
+        },
+        {
+            "buffId": 45001,
+            "buffGroupId": 45,
+            "buffLevel": 1,
+            "buffGrade": 6,
+            "skillId": 500450010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_ultimate_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 45002,
+            "buffGroupId": 45,
+            "buffLevel": 2,
+            "buffGrade": 6,
+            "skillId": 500450020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_ultimate_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 45003,
+            "buffGroupId": 45,
+            "buffLevel": 3,
+            "buffGrade": 6,
+            "skillId": 500450030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_ultimate_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 45004,
+            "buffGroupId": 45,
+            "buffLevel": 4,
+            "buffGrade": 6,
+            "skillId": 500450040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_ultimate_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 45005,
+            "buffGroupId": 45,
+            "buffLevel": 5,
+            "buffGrade": 6,
+            "skillId": 500450050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_ultimate_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 45006,
+            "buffGroupId": 45,
+            "buffLevel": 6,
+            "buffGrade": 6,
+            "skillId": 500450060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_ultimate_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 46001,
+            "buffGroupId": 46,
+            "buffLevel": 1,
+            "buffGrade": 1,
+            "skillId": 500460010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_awaken_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 46002,
+            "buffGroupId": 46,
+            "buffLevel": 2,
+            "buffGrade": 1,
+            "skillId": 500460020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_awaken_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 46003,
+            "buffGroupId": 46,
+            "buffLevel": 3,
+            "buffGrade": 1,
+            "skillId": 500460030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_awaken_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 46004,
+            "buffGroupId": 46,
+            "buffLevel": 4,
+            "buffGrade": 1,
+            "skillId": 500460040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_awaken_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 46005,
+            "buffGroupId": 46,
+            "buffLevel": 5,
+            "buffGrade": 1,
+            "skillId": 500460050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_awaken_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 46006,
+            "buffGroupId": 46,
+            "buffLevel": 6,
+            "buffGrade": 1,
+            "skillId": 500460060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_awaken_skill",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 47001,
+            "buffGroupId": 47,
+            "buffLevel": 1,
+            "buffGrade": 5,
+            "skillId": 500470010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 47002,
+            "buffGroupId": 47,
+            "buffLevel": 2,
+            "buffGrade": 5,
+            "skillId": 500470020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 47003,
+            "buffGroupId": 47,
+            "buffLevel": 3,
+            "buffGrade": 5,
+            "skillId": 500470030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 47004,
+            "buffGroupId": 47,
+            "buffLevel": 4,
+            "buffGrade": 5,
+            "skillId": 500470040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 47005,
+            "buffGroupId": 47,
+            "buffLevel": 5,
+            "buffGrade": 5,
+            "skillId": 500470050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 47006,
+            "buffGroupId": 47,
+            "buffLevel": 6,
+            "buffGrade": 5,
+            "skillId": 500470060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 48001,
+            "buffGroupId": 48,
+            "buffLevel": 1,
+            "buffGrade": 5,
+            "skillId": 500480010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 48002,
+            "buffGroupId": 48,
+            "buffLevel": 2,
+            "buffGrade": 5,
+            "skillId": 500480020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 48003,
+            "buffGroupId": 48,
+            "buffLevel": 3,
+            "buffGrade": 5,
+            "skillId": 500480030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 48004,
+            "buffGroupId": 48,
+            "buffLevel": 4,
+            "buffGrade": 5,
+            "skillId": 500480040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 48005,
+            "buffGroupId": 48,
+            "buffLevel": 5,
+            "buffGrade": 5,
+            "skillId": 500480050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 48006,
+            "buffGroupId": 48,
+            "buffLevel": 6,
+            "buffGrade": 5,
+            "skillId": 500480060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_over"
+        },
+        {
+            "buffId": 49001,
+            "buffGroupId": 49,
+            "buffLevel": 1,
+            "buffGrade": 5,
+            "skillId": 500490010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 49002,
+            "buffGroupId": 49,
+            "buffLevel": 2,
+            "buffGrade": 5,
+            "skillId": 500490020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 49003,
+            "buffGroupId": 49,
+            "buffLevel": 3,
+            "buffGrade": 5,
+            "skillId": 500490030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 49004,
+            "buffGroupId": 49,
+            "buffLevel": 4,
+            "buffGrade": 5,
+            "skillId": 500490040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 49005,
+            "buffGroupId": 49,
+            "buffLevel": 5,
+            "buffGrade": 5,
+            "skillId": 500490050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 49006,
+            "buffGroupId": 49,
+            "buffLevel": 6,
+            "buffGrade": 5,
+            "skillId": 500490060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atk",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 50001,
+            "buffGroupId": 50,
+            "buffLevel": 1,
+            "buffGrade": 5,
+            "skillId": 500500010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 50002,
+            "buffGroupId": 50,
+            "buffLevel": 2,
+            "buffGrade": 5,
+            "skillId": 500500020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 50003,
+            "buffGroupId": 50,
+            "buffLevel": 3,
+            "buffGrade": 5,
+            "skillId": 500500030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 50004,
+            "buffGroupId": 50,
+            "buffLevel": 4,
+            "buffGrade": 5,
+            "skillId": 500500040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 50005,
+            "buffGroupId": 50,
+            "buffLevel": 5,
+            "buffGrade": 5,
+            "skillId": 500500050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 50006,
+            "buffGroupId": 50,
+            "buffLevel": 6,
+            "buffGrade": 5,
+            "skillId": 500500060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_recovery",
+            "buffIcon2": "Arena_buff_hp_below"
+        },
+        {
+            "buffId": 51001,
+            "buffGroupId": 51,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500510010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 51002,
+            "buffGroupId": 51,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500510020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 51003,
+            "buffGroupId": 51,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500510030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 51004,
+            "buffGroupId": 51,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500510040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 51005,
+            "buffGroupId": 51,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500510050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 51006,
+            "buffGroupId": 51,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500510060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 52001,
+            "buffGroupId": 52,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500520010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 52002,
+            "buffGroupId": 52,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500520020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 52003,
+            "buffGroupId": 52,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500520030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 52004,
+            "buffGroupId": 52,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500520040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 52005,
+            "buffGroupId": 52,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500520050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 52006,
+            "buffGroupId": 52,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500520060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 53001,
+            "buffGroupId": 53,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500530010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 53002,
+            "buffGroupId": 53,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500530020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 53003,
+            "buffGroupId": 53,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500530030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 53004,
+            "buffGroupId": 53,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500530040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 53005,
+            "buffGroupId": 53,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500530050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 53006,
+            "buffGroupId": 53,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500530060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 54001,
+            "buffGroupId": 54,
+            "buffLevel": 1,
+            "buffGrade": 3,
+            "skillId": 500540010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 54002,
+            "buffGroupId": 54,
+            "buffLevel": 2,
+            "buffGrade": 3,
+            "skillId": 500540020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 54003,
+            "buffGroupId": 54,
+            "buffLevel": 3,
+            "buffGrade": 3,
+            "skillId": 500540030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 54004,
+            "buffGroupId": 54,
+            "buffLevel": 4,
+            "buffGrade": 3,
+            "skillId": 500540040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 54005,
+            "buffGroupId": 54,
+            "buffLevel": 5,
+            "buffGrade": 3,
+            "skillId": 500540050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 54006,
+            "buffGroupId": 54,
+            "buffLevel": 6,
+            "buffGrade": 3,
+            "skillId": 500540060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_dmg_give",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 55001,
+            "buffGroupId": 55,
+            "buffLevel": 1,
+            "buffGrade": 4,
+            "skillId": 500550010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 55002,
+            "buffGroupId": 55,
+            "buffLevel": 2,
+            "buffGrade": 4,
+            "skillId": 500550020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 55003,
+            "buffGroupId": 55,
+            "buffLevel": 3,
+            "buffGrade": 4,
+            "skillId": 500550030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 55004,
+            "buffGroupId": 55,
+            "buffLevel": 4,
+            "buffGrade": 4,
+            "skillId": 500550040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 55005,
+            "buffGroupId": 55,
+            "buffLevel": 5,
+            "buffGrade": 4,
+            "skillId": 500550050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 55006,
+            "buffGroupId": 55,
+            "buffLevel": 6,
+            "buffGrade": 4,
+            "skillId": 500550060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_combat"
+        },
+        {
+            "buffId": 56001,
+            "buffGroupId": 56,
+            "buffLevel": 1,
+            "buffGrade": 4,
+            "skillId": 500560010,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 56002,
+            "buffGroupId": 56,
+            "buffLevel": 2,
+            "buffGrade": 4,
+            "skillId": 500560020,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 56003,
+            "buffGroupId": 56,
+            "buffLevel": 3,
+            "buffGrade": 4,
+            "skillId": 500560030,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 56004,
+            "buffGroupId": 56,
+            "buffLevel": 4,
+            "buffGrade": 4,
+            "skillId": 500560040,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 56005,
+            "buffGroupId": 56,
+            "buffLevel": 5,
+            "buffGrade": 4,
+            "skillId": 500560050,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 56006,
+            "buffGroupId": 56,
+            "buffLevel": 6,
+            "buffGrade": 4,
+            "skillId": 500560060,
+            "synergyId": 2,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_blast"
+        },
+        {
+            "buffId": 57001,
+            "buffGroupId": 57,
+            "buffLevel": 1,
+            "buffGrade": 4,
+            "skillId": 500570010,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 57002,
+            "buffGroupId": 57,
+            "buffLevel": 2,
+            "buffGrade": 4,
+            "skillId": 500570020,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 57003,
+            "buffGroupId": 57,
+            "buffLevel": 3,
+            "buffGrade": 4,
+            "skillId": 500570030,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 57004,
+            "buffGroupId": 57,
+            "buffLevel": 4,
+            "buffGrade": 4,
+            "skillId": 500570040,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 57005,
+            "buffGroupId": 57,
+            "buffLevel": 5,
+            "buffGrade": 4,
+            "skillId": 500570050,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 57006,
+            "buffGroupId": 57,
+            "buffLevel": 6,
+            "buffGrade": 4,
+            "skillId": 500570060,
+            "synergyId": 3,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_speed"
+        },
+        {
+            "buffId": 58001,
+            "buffGroupId": 58,
+            "buffLevel": 1,
+            "buffGrade": 4,
+            "skillId": 500580010,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 58002,
+            "buffGroupId": 58,
+            "buffLevel": 2,
+            "buffGrade": 4,
+            "skillId": 500580020,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 58003,
+            "buffGroupId": 58,
+            "buffLevel": 3,
+            "buffGrade": 4,
+            "skillId": 500580030,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 58004,
+            "buffGroupId": 58,
+            "buffLevel": 4,
+            "buffGrade": 4,
+            "skillId": 500580040,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 58005,
+            "buffGroupId": 58,
+            "buffLevel": 5,
+            "buffGrade": 4,
+            "skillId": 500580050,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 58006,
+            "buffGroupId": 58,
+            "buffLevel": 6,
+            "buffGrade": 4,
+            "skillId": 500580060,
+            "synergyId": 4,
+            "buffIcon1": "Arena_buff_dmg_accept",
+            "buffIcon2": "Arena_buff_universal"
+        },
+        {
+            "buffId": 59001,
+            "buffGroupId": 59,
+            "buffLevel": 1,
+            "buffGrade": 4,
+            "skillId": 500590010,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atkdown_hpup",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 59002,
+            "buffGroupId": 59,
+            "buffLevel": 2,
+            "buffGrade": 4,
+            "skillId": 500590020,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atkdown_hpup",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 59003,
+            "buffGroupId": 59,
+            "buffLevel": 3,
+            "buffGrade": 4,
+            "skillId": 500590030,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atkdown_hpup",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 59004,
+            "buffGroupId": 59,
+            "buffLevel": 4,
+            "buffGrade": 4,
+            "skillId": 500590040,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atkdown_hpup",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 59005,
+            "buffGroupId": 59,
+            "buffLevel": 5,
+            "buffGrade": 4,
+            "skillId": 500590050,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atkdown_hpup",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 59006,
+            "buffGroupId": 59,
+            "buffLevel": 6,
+            "buffGrade": 4,
+            "skillId": 500590060,
+            "synergyId": 1,
+            "buffIcon1": "Arena_buff_atkdown_hpup",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 60001,
+            "buffGroupId": 60,
+            "buffLevel": 1,
+            "buffGrade": 4,
+            "skillId": 500600010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atkup_hpdown",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 60002,
+            "buffGroupId": 60,
+            "buffLevel": 2,
+            "buffGrade": 4,
+            "skillId": 500600020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atkup_hpdown",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 60003,
+            "buffGroupId": 60,
+            "buffLevel": 3,
+            "buffGrade": 4,
+            "skillId": 500600030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atkup_hpdown",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 60004,
+            "buffGroupId": 60,
+            "buffLevel": 4,
+            "buffGrade": 4,
+            "skillId": 500600040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atkup_hpdown",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 60005,
+            "buffGroupId": 60,
+            "buffLevel": 5,
+            "buffGrade": 4,
+            "skillId": 500600050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atkup_hpdown",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 60006,
+            "buffGroupId": 60,
+            "buffLevel": 6,
+            "buffGrade": 4,
+            "skillId": 500600060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_atkup_hpdown",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 61001,
+            "buffGroupId": 61,
+            "buffLevel": 1,
+            "buffGrade": 6,
+            "skillId": 500610010,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_cooltime",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 61002,
+            "buffGroupId": 61,
+            "buffLevel": 2,
+            "buffGrade": 6,
+            "skillId": 500610020,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_cooltime",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 61003,
+            "buffGroupId": 61,
+            "buffLevel": 3,
+            "buffGrade": 6,
+            "skillId": 500610030,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_cooltime",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 61004,
+            "buffGroupId": 61,
+            "buffLevel": 4,
+            "buffGrade": 6,
+            "skillId": 500610040,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_cooltime",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 61005,
+            "buffGroupId": 61,
+            "buffLevel": 5,
+            "buffGrade": 6,
+            "skillId": 500610050,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_cooltime",
+            "buffIcon2": "0"
+        },
+        {
+            "buffId": 61006,
+            "buffGroupId": 61,
+            "buffLevel": 6,
+            "buffGrade": 6,
+            "skillId": 500610060,
+            "synergyId": 5,
+            "buffIcon1": "Arena_buff_cooltime",
+            "buffIcon2": "0"
+        }
+    ]
+}

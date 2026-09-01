@@ -1,0 +1,630 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 578127572843960852
+    },
+    "m_Name": "TEAM_BATTLE_ARENA_RANK_REWARD",
+    "keys": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        6
+    ],
+    "values": [
+        {
+            "rewardId": 1,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 5,
+            "rewardGroupId": 30001
+        },
+        {
+            "rewardId": 2,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 5,
+            "rewardGroupId": 30002
+        },
+        {
+            "rewardId": 3,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 5,
+            "rewardGroupId": 30003
+        },
+        {
+            "rewardId": 4,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 5,
+            "rewardGroupId": 30004
+        },
+        {
+            "rewardId": 5,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 5,
+            "rewardGroupId": 30005
+        },
+        {
+            "rewardId": 6,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 5,
+            "rewardGroupId": 30006
+        },
+        {
+            "rewardId": 7,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 5,
+            "rewardGroupId": 30007
+        },
+        {
+            "rewardId": 8,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 5,
+            "rewardGroupId": 30008
+        },
+        {
+            "rewardId": 9,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 5,
+            "rewardGroupId": 30009
+        },
+        {
+            "rewardId": 54,
+            "rankType": 3,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 5,
+            "rewardGroupId": 30054
+        },
+        {
+            "rewardId": 55,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 5,
+            "rewardGroupId": 30055
+        },
+        {
+            "rewardId": 66,
+            "rankType": 5,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 5,
+            "rewardGroupId": 30066
+        },
+        {
+            "rewardId": 67,
+            "rankType": 6,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 5,
+            "rewardGroupId": 30067
+        },
+        {
+            "rewardId": 10,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 4,
+            "rewardGroupId": 30010
+        },
+        {
+            "rewardId": 11,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 4,
+            "rewardGroupId": 30011
+        },
+        {
+            "rewardId": 12,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 4,
+            "rewardGroupId": 30012
+        },
+        {
+            "rewardId": 13,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 4,
+            "rewardGroupId": 30013
+        },
+        {
+            "rewardId": 14,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 4,
+            "rewardGroupId": 30014
+        },
+        {
+            "rewardId": 15,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 4,
+            "rewardGroupId": 30015
+        },
+        {
+            "rewardId": 16,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 4,
+            "rewardGroupId": 30016
+        },
+        {
+            "rewardId": 17,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 4,
+            "rewardGroupId": 30017
+        },
+        {
+            "rewardId": 18,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 4,
+            "rewardGroupId": 30018
+        },
+        {
+            "rewardId": 56,
+            "rankType": 3,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 4,
+            "rewardGroupId": 30056
+        },
+        {
+            "rewardId": 57,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 4,
+            "rewardGroupId": 30057
+        },
+        {
+            "rewardId": 68,
+            "rankType": 5,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 4,
+            "rewardGroupId": 30068
+        },
+        {
+            "rewardId": 69,
+            "rankType": 6,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 4,
+            "rewardGroupId": 30069
+        },
+        {
+            "rewardId": 19,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 3,
+            "rewardGroupId": 30019
+        },
+        {
+            "rewardId": 20,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 3,
+            "rewardGroupId": 30020
+        },
+        {
+            "rewardId": 21,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 3,
+            "rewardGroupId": 30021
+        },
+        {
+            "rewardId": 22,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 3,
+            "rewardGroupId": 30022
+        },
+        {
+            "rewardId": 23,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 3,
+            "rewardGroupId": 30023
+        },
+        {
+            "rewardId": 24,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 3,
+            "rewardGroupId": 30024
+        },
+        {
+            "rewardId": 25,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 3,
+            "rewardGroupId": 30025
+        },
+        {
+            "rewardId": 26,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 3,
+            "rewardGroupId": 30026
+        },
+        {
+            "rewardId": 27,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 3,
+            "rewardGroupId": 30027
+        },
+        {
+            "rewardId": 58,
+            "rankType": 3,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 3,
+            "rewardGroupId": 30058
+        },
+        {
+            "rewardId": 59,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 3,
+            "rewardGroupId": 30059
+        },
+        {
+            "rewardId": 70,
+            "rankType": 5,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 3,
+            "rewardGroupId": 30070
+        },
+        {
+            "rewardId": 71,
+            "rankType": 6,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 3,
+            "rewardGroupId": 30071
+        },
+        {
+            "rewardId": 28,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 2,
+            "rewardGroupId": 30028
+        },
+        {
+            "rewardId": 29,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 2,
+            "rewardGroupId": 30029
+        },
+        {
+            "rewardId": 30,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 2,
+            "rewardGroupId": 30030
+        },
+        {
+            "rewardId": 31,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 2,
+            "rewardGroupId": 30031
+        },
+        {
+            "rewardId": 32,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 2,
+            "rewardGroupId": 30032
+        },
+        {
+            "rewardId": 33,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 2,
+            "rewardGroupId": 30033
+        },
+        {
+            "rewardId": 34,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 2,
+            "rewardGroupId": 30034
+        },
+        {
+            "rewardId": 35,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 2,
+            "rewardGroupId": 30035
+        },
+        {
+            "rewardId": 36,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 2,
+            "rewardGroupId": 30036
+        },
+        {
+            "rewardId": 60,
+            "rankType": 3,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 2,
+            "rewardGroupId": 30060
+        },
+        {
+            "rewardId": 61,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 2,
+            "rewardGroupId": 30061
+        },
+        {
+            "rewardId": 72,
+            "rankType": 5,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 2,
+            "rewardGroupId": 30072
+        },
+        {
+            "rewardId": 73,
+            "rankType": 6,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 2,
+            "rewardGroupId": 30073
+        },
+        {
+            "rewardId": 37,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 1,
+            "rewardGroupId": 30037
+        },
+        {
+            "rewardId": 38,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 1,
+            "rewardGroupId": 30038
+        },
+        {
+            "rewardId": 39,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 1,
+            "rewardGroupId": 30039
+        },
+        {
+            "rewardId": 40,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 1,
+            "rewardGroupId": 30040
+        },
+        {
+            "rewardId": 41,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 1,
+            "rewardGroupId": 30041
+        },
+        {
+            "rewardId": 42,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 1,
+            "rewardGroupId": 30042
+        },
+        {
+            "rewardId": 43,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 1,
+            "rewardGroupId": 30043
+        },
+        {
+            "rewardId": 44,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 1,
+            "rewardGroupId": 30044
+        },
+        {
+            "rewardId": 45,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 1,
+            "rewardGroupId": 30045
+        },
+        {
+            "rewardId": 62,
+            "rankType": 3,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 1,
+            "rewardGroupId": 30062
+        },
+        {
+            "rewardId": 63,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 1,
+            "rewardGroupId": 30063
+        },
+        {
+            "rewardId": 74,
+            "rankType": 5,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 1,
+            "rewardGroupId": 30074
+        },
+        {
+            "rewardId": 75,
+            "rankType": 6,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 1,
+            "rewardGroupId": 30075
+        },
+        {
+            "rewardId": 46,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 6,
+            "rewardGroupId": 30046
+        },
+        {
+            "rewardId": 47,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 5,
+            "leagueId": 6,
+            "rewardGroupId": 30047
+        },
+        {
+            "rewardId": 48,
+            "rankType": 1,
+            "rankMin": 6,
+            "rankMax": 10,
+            "leagueId": 6,
+            "rewardGroupId": 30048
+        },
+        {
+            "rewardId": 49,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 20,
+            "leagueId": 6,
+            "rewardGroupId": 30049
+        },
+        {
+            "rewardId": 50,
+            "rankType": 1,
+            "rankMin": 21,
+            "rankMax": 30,
+            "leagueId": 6,
+            "rewardGroupId": 30050
+        },
+        {
+            "rewardId": 51,
+            "rankType": 1,
+            "rankMin": 31,
+            "rankMax": 50,
+            "leagueId": 6,
+            "rewardGroupId": 30051
+        },
+        {
+            "rewardId": 52,
+            "rankType": 3,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 6,
+            "rewardGroupId": 30052
+        },
+        {
+            "rewardId": 53,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 6,
+            "rewardGroupId": 30053
+        },
+        {
+            "rewardId": 64,
+            "rankType": 5,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 6,
+            "rewardGroupId": 30064
+        },
+        {
+            "rewardId": 65,
+            "rankType": 6,
+            "rankMin": 0,
+            "rankMax": 0,
+            "leagueId": 6,
+            "rewardGroupId": 30065
+        }
+    ],
+    "counts": [
+        13,
+        13,
+        13,
+        13,
+        13,
+        10
+    ]
+}

@@ -1,0 +1,817 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1308679836770846458
+    },
+    "m_Name": "EVENT_DROP",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+    ],
+    "values": [
+        {
+            "eventId": 10101,
+            "eventGroup": 1,
+            "dropListId": 600101
+        },
+        {
+            "eventId": 10102,
+            "eventGroup": 1,
+            "dropListId": 600102
+        },
+        {
+            "eventId": 10103,
+            "eventGroup": 1,
+            "dropListId": 600103
+        },
+        {
+            "eventId": 10104,
+            "eventGroup": 1,
+            "dropListId": 600104
+        },
+        {
+            "eventId": 10105,
+            "eventGroup": 1,
+            "dropListId": 600105
+        },
+        {
+            "eventId": 10106,
+            "eventGroup": 1,
+            "dropListId": 600106
+        },
+        {
+            "eventId": 10107,
+            "eventGroup": 1,
+            "dropListId": 600107
+        },
+        {
+            "eventId": 10108,
+            "eventGroup": 1,
+            "dropListId": 600108
+        },
+        {
+            "eventId": 10109,
+            "eventGroup": 1,
+            "dropListId": 600109
+        },
+        {
+            "eventId": 10110,
+            "eventGroup": 1,
+            "dropListId": 600110
+        },
+        {
+            "eventId": 10201,
+            "eventGroup": 2,
+            "dropListId": 600201
+        },
+        {
+            "eventId": 10202,
+            "eventGroup": 2,
+            "dropListId": 600202
+        },
+        {
+            "eventId": 10301,
+            "eventGroup": 3,
+            "dropListId": 600301
+        },
+        {
+            "eventId": 10302,
+            "eventGroup": 3,
+            "dropListId": 600302
+        },
+        {
+            "eventId": 10303,
+            "eventGroup": 3,
+            "dropListId": 600303
+        },
+        {
+            "eventId": 10304,
+            "eventGroup": 3,
+            "dropListId": 600304
+        },
+        {
+            "eventId": 10305,
+            "eventGroup": 3,
+            "dropListId": 600305
+        },
+        {
+            "eventId": 10306,
+            "eventGroup": 3,
+            "dropListId": 600306
+        },
+        {
+            "eventId": 10307,
+            "eventGroup": 3,
+            "dropListId": 600307
+        },
+        {
+            "eventId": 10308,
+            "eventGroup": 3,
+            "dropListId": 600308
+        },
+        {
+            "eventId": 10309,
+            "eventGroup": 3,
+            "dropListId": 600309
+        },
+        {
+            "eventId": 10310,
+            "eventGroup": 3,
+            "dropListId": 600310
+        },
+        {
+            "eventId": 10311,
+            "eventGroup": 3,
+            "dropListId": 600311
+        },
+        {
+            "eventId": 10312,
+            "eventGroup": 3,
+            "dropListId": 600312
+        },
+        {
+            "eventId": 10313,
+            "eventGroup": 3,
+            "dropListId": 600313
+        },
+        {
+            "eventId": 10314,
+            "eventGroup": 3,
+            "dropListId": 600314
+        },
+        {
+            "eventId": 10401,
+            "eventGroup": 4,
+            "dropListId": 600401
+        },
+        {
+            "eventId": 10402,
+            "eventGroup": 4,
+            "dropListId": 600402
+        },
+        {
+            "eventId": 10403,
+            "eventGroup": 4,
+            "dropListId": 600403
+        },
+        {
+            "eventId": 10404,
+            "eventGroup": 4,
+            "dropListId": 600404
+        },
+        {
+            "eventId": 10405,
+            "eventGroup": 4,
+            "dropListId": 600405
+        },
+        {
+            "eventId": 10406,
+            "eventGroup": 4,
+            "dropListId": 600406
+        },
+        {
+            "eventId": 10407,
+            "eventGroup": 4,
+            "dropListId": 600407
+        },
+        {
+            "eventId": 10408,
+            "eventGroup": 4,
+            "dropListId": 600408
+        },
+        {
+            "eventId": 10409,
+            "eventGroup": 4,
+            "dropListId": 600409
+        },
+        {
+            "eventId": 10410,
+            "eventGroup": 4,
+            "dropListId": 600410
+        },
+        {
+            "eventId": 10411,
+            "eventGroup": 4,
+            "dropListId": 600411
+        },
+        {
+            "eventId": 10412,
+            "eventGroup": 4,
+            "dropListId": 600412
+        },
+        {
+            "eventId": 10413,
+            "eventGroup": 4,
+            "dropListId": 600413
+        },
+        {
+            "eventId": 10501,
+            "eventGroup": 5,
+            "dropListId": 600501
+        },
+        {
+            "eventId": 10502,
+            "eventGroup": 5,
+            "dropListId": 600502
+        },
+        {
+            "eventId": 10503,
+            "eventGroup": 5,
+            "dropListId": 600503
+        },
+        {
+            "eventId": 10504,
+            "eventGroup": 5,
+            "dropListId": 600504
+        },
+        {
+            "eventId": 10505,
+            "eventGroup": 5,
+            "dropListId": 600505
+        },
+        {
+            "eventId": 10506,
+            "eventGroup": 5,
+            "dropListId": 600506
+        },
+        {
+            "eventId": 10507,
+            "eventGroup": 5,
+            "dropListId": 600507
+        },
+        {
+            "eventId": 10508,
+            "eventGroup": 5,
+            "dropListId": 600508
+        },
+        {
+            "eventId": 10509,
+            "eventGroup": 5,
+            "dropListId": 600509
+        },
+        {
+            "eventId": 10510,
+            "eventGroup": 5,
+            "dropListId": 600510
+        },
+        {
+            "eventId": 10511,
+            "eventGroup": 5,
+            "dropListId": 600511
+        },
+        {
+            "eventId": 10512,
+            "eventGroup": 5,
+            "dropListId": 600512
+        },
+        {
+            "eventId": 10513,
+            "eventGroup": 5,
+            "dropListId": 600513
+        },
+        {
+            "eventId": 10514,
+            "eventGroup": 5,
+            "dropListId": 600514
+        },
+        {
+            "eventId": 10601,
+            "eventGroup": 6,
+            "dropListId": 600601
+        },
+        {
+            "eventId": 10602,
+            "eventGroup": 6,
+            "dropListId": 600602
+        },
+        {
+            "eventId": 10603,
+            "eventGroup": 6,
+            "dropListId": 600603
+        },
+        {
+            "eventId": 10604,
+            "eventGroup": 6,
+            "dropListId": 600604
+        },
+        {
+            "eventId": 10605,
+            "eventGroup": 6,
+            "dropListId": 600605
+        },
+        {
+            "eventId": 10606,
+            "eventGroup": 6,
+            "dropListId": 600606
+        },
+        {
+            "eventId": 10607,
+            "eventGroup": 6,
+            "dropListId": 600607
+        },
+        {
+            "eventId": 10608,
+            "eventGroup": 6,
+            "dropListId": 600608
+        },
+        {
+            "eventId": 10609,
+            "eventGroup": 6,
+            "dropListId": 600609
+        },
+        {
+            "eventId": 10610,
+            "eventGroup": 6,
+            "dropListId": 600610
+        },
+        {
+            "eventId": 10611,
+            "eventGroup": 6,
+            "dropListId": 600611
+        },
+        {
+            "eventId": 10612,
+            "eventGroup": 6,
+            "dropListId": 600612
+        },
+        {
+            "eventId": 10613,
+            "eventGroup": 6,
+            "dropListId": 600613
+        },
+        {
+            "eventId": 10614,
+            "eventGroup": 6,
+            "dropListId": 600614
+        },
+        {
+            "eventId": 10701,
+            "eventGroup": 7,
+            "dropListId": 600701
+        },
+        {
+            "eventId": 10702,
+            "eventGroup": 7,
+            "dropListId": 600702
+        },
+        {
+            "eventId": 10703,
+            "eventGroup": 7,
+            "dropListId": 600703
+        },
+        {
+            "eventId": 10704,
+            "eventGroup": 7,
+            "dropListId": 600704
+        },
+        {
+            "eventId": 10705,
+            "eventGroup": 7,
+            "dropListId": 600705
+        },
+        {
+            "eventId": 10706,
+            "eventGroup": 7,
+            "dropListId": 600706
+        },
+        {
+            "eventId": 10707,
+            "eventGroup": 7,
+            "dropListId": 600707
+        },
+        {
+            "eventId": 10708,
+            "eventGroup": 7,
+            "dropListId": 600708
+        },
+        {
+            "eventId": 10709,
+            "eventGroup": 7,
+            "dropListId": 600709
+        },
+        {
+            "eventId": 10710,
+            "eventGroup": 7,
+            "dropListId": 600710
+        },
+        {
+            "eventId": 10711,
+            "eventGroup": 7,
+            "dropListId": 600711
+        },
+        {
+            "eventId": 10712,
+            "eventGroup": 7,
+            "dropListId": 600712
+        },
+        {
+            "eventId": 10713,
+            "eventGroup": 7,
+            "dropListId": 600713
+        },
+        {
+            "eventId": 10714,
+            "eventGroup": 7,
+            "dropListId": 600714
+        },
+        {
+            "eventId": 10801,
+            "eventGroup": 8,
+            "dropListId": 600801
+        },
+        {
+            "eventId": 10802,
+            "eventGroup": 8,
+            "dropListId": 600802
+        },
+        {
+            "eventId": 10803,
+            "eventGroup": 8,
+            "dropListId": 600803
+        },
+        {
+            "eventId": 10804,
+            "eventGroup": 8,
+            "dropListId": 600804
+        },
+        {
+            "eventId": 10805,
+            "eventGroup": 8,
+            "dropListId": 600805
+        },
+        {
+            "eventId": 10806,
+            "eventGroup": 8,
+            "dropListId": 600806
+        },
+        {
+            "eventId": 10807,
+            "eventGroup": 8,
+            "dropListId": 600807
+        },
+        {
+            "eventId": 10808,
+            "eventGroup": 8,
+            "dropListId": 600808
+        },
+        {
+            "eventId": 10809,
+            "eventGroup": 8,
+            "dropListId": 600809
+        },
+        {
+            "eventId": 10810,
+            "eventGroup": 8,
+            "dropListId": 600810
+        },
+        {
+            "eventId": 10811,
+            "eventGroup": 8,
+            "dropListId": 600811
+        },
+        {
+            "eventId": 10812,
+            "eventGroup": 8,
+            "dropListId": 600812
+        },
+        {
+            "eventId": 10813,
+            "eventGroup": 8,
+            "dropListId": 600813
+        },
+        {
+            "eventId": 10814,
+            "eventGroup": 8,
+            "dropListId": 600814
+        },
+        {
+            "eventId": 10901,
+            "eventGroup": 9,
+            "dropListId": 600901
+        },
+        {
+            "eventId": 10902,
+            "eventGroup": 9,
+            "dropListId": 600902
+        },
+        {
+            "eventId": 10903,
+            "eventGroup": 9,
+            "dropListId": 600903
+        },
+        {
+            "eventId": 10904,
+            "eventGroup": 9,
+            "dropListId": 600904
+        },
+        {
+            "eventId": 10905,
+            "eventGroup": 9,
+            "dropListId": 600905
+        },
+        {
+            "eventId": 10906,
+            "eventGroup": 9,
+            "dropListId": 600906
+        },
+        {
+            "eventId": 10907,
+            "eventGroup": 9,
+            "dropListId": 600907
+        },
+        {
+            "eventId": 10908,
+            "eventGroup": 9,
+            "dropListId": 600908
+        },
+        {
+            "eventId": 10909,
+            "eventGroup": 9,
+            "dropListId": 600909
+        },
+        {
+            "eventId": 10910,
+            "eventGroup": 9,
+            "dropListId": 600910
+        },
+        {
+            "eventId": 10911,
+            "eventGroup": 9,
+            "dropListId": 600911
+        },
+        {
+            "eventId": 10912,
+            "eventGroup": 9,
+            "dropListId": 600912
+        },
+        {
+            "eventId": 10913,
+            "eventGroup": 9,
+            "dropListId": 600913
+        },
+        {
+            "eventId": 10914,
+            "eventGroup": 9,
+            "dropListId": 600914
+        },
+        {
+            "eventId": 10915,
+            "eventGroup": 9,
+            "dropListId": 600915
+        },
+        {
+            "eventId": 11001,
+            "eventGroup": 10,
+            "dropListId": 601001
+        },
+        {
+            "eventId": 11002,
+            "eventGroup": 10,
+            "dropListId": 601002
+        },
+        {
+            "eventId": 11003,
+            "eventGroup": 10,
+            "dropListId": 601003
+        },
+        {
+            "eventId": 11004,
+            "eventGroup": 10,
+            "dropListId": 601004
+        },
+        {
+            "eventId": 11005,
+            "eventGroup": 10,
+            "dropListId": 601005
+        },
+        {
+            "eventId": 11006,
+            "eventGroup": 10,
+            "dropListId": 601006
+        },
+        {
+            "eventId": 11007,
+            "eventGroup": 10,
+            "dropListId": 601007
+        },
+        {
+            "eventId": 11008,
+            "eventGroup": 10,
+            "dropListId": 601008
+        },
+        {
+            "eventId": 11009,
+            "eventGroup": 10,
+            "dropListId": 601009
+        },
+        {
+            "eventId": 11010,
+            "eventGroup": 10,
+            "dropListId": 601010
+        },
+        {
+            "eventId": 11011,
+            "eventGroup": 10,
+            "dropListId": 601011
+        },
+        {
+            "eventId": 11012,
+            "eventGroup": 10,
+            "dropListId": 601012
+        },
+        {
+            "eventId": 11013,
+            "eventGroup": 10,
+            "dropListId": 601013
+        },
+        {
+            "eventId": 11014,
+            "eventGroup": 10,
+            "dropListId": 601014
+        },
+        {
+            "eventId": 11015,
+            "eventGroup": 10,
+            "dropListId": 601015
+        },
+        {
+            "eventId": 11101,
+            "eventGroup": 11,
+            "dropListId": 601101
+        },
+        {
+            "eventId": 11102,
+            "eventGroup": 11,
+            "dropListId": 601102
+        },
+        {
+            "eventId": 11103,
+            "eventGroup": 11,
+            "dropListId": 601103
+        },
+        {
+            "eventId": 11104,
+            "eventGroup": 11,
+            "dropListId": 601104
+        },
+        {
+            "eventId": 11105,
+            "eventGroup": 11,
+            "dropListId": 601105
+        },
+        {
+            "eventId": 11106,
+            "eventGroup": 11,
+            "dropListId": 601106
+        },
+        {
+            "eventId": 11107,
+            "eventGroup": 11,
+            "dropListId": 601107
+        },
+        {
+            "eventId": 11108,
+            "eventGroup": 11,
+            "dropListId": 601108
+        },
+        {
+            "eventId": 11109,
+            "eventGroup": 11,
+            "dropListId": 601109
+        },
+        {
+            "eventId": 11110,
+            "eventGroup": 11,
+            "dropListId": 601110
+        },
+        {
+            "eventId": 11111,
+            "eventGroup": 11,
+            "dropListId": 601111
+        },
+        {
+            "eventId": 11112,
+            "eventGroup": 11,
+            "dropListId": 601112
+        },
+        {
+            "eventId": 11113,
+            "eventGroup": 11,
+            "dropListId": 601113
+        },
+        {
+            "eventId": 11114,
+            "eventGroup": 11,
+            "dropListId": 601114
+        },
+        {
+            "eventId": 11115,
+            "eventGroup": 11,
+            "dropListId": 601115
+        },
+        {
+            "eventId": 11201,
+            "eventGroup": 12,
+            "dropListId": 601201
+        },
+        {
+            "eventId": 11202,
+            "eventGroup": 12,
+            "dropListId": 601202
+        },
+        {
+            "eventId": 11203,
+            "eventGroup": 12,
+            "dropListId": 601203
+        },
+        {
+            "eventId": 11204,
+            "eventGroup": 12,
+            "dropListId": 601204
+        },
+        {
+            "eventId": 11205,
+            "eventGroup": 12,
+            "dropListId": 601205
+        },
+        {
+            "eventId": 11206,
+            "eventGroup": 12,
+            "dropListId": 601206
+        },
+        {
+            "eventId": 11207,
+            "eventGroup": 12,
+            "dropListId": 601207
+        },
+        {
+            "eventId": 11208,
+            "eventGroup": 12,
+            "dropListId": 601208
+        },
+        {
+            "eventId": 11209,
+            "eventGroup": 12,
+            "dropListId": 601209
+        },
+        {
+            "eventId": 11210,
+            "eventGroup": 12,
+            "dropListId": 601210
+        },
+        {
+            "eventId": 11211,
+            "eventGroup": 12,
+            "dropListId": 601211
+        },
+        {
+            "eventId": 11212,
+            "eventGroup": 12,
+            "dropListId": 601212
+        },
+        {
+            "eventId": 11213,
+            "eventGroup": 12,
+            "dropListId": 601213
+        },
+        {
+            "eventId": 11214,
+            "eventGroup": 12,
+            "dropListId": 601214
+        },
+        {
+            "eventId": 11215,
+            "eventGroup": 12,
+            "dropListId": 601215
+        }
+    ],
+    "counts": [
+        10,
+        2,
+        14,
+        13,
+        14,
+        14,
+        14,
+        14,
+        15,
+        15,
+        15,
+        15
+    ]
+}

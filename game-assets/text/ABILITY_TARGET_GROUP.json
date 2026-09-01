@@ -1,0 +1,527 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8913307313799641705
+    },
+    "m_Name": "ABILITY_TARGET_GROUP",
+    "keys": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4,
+        6,
+        7,
+        9,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        401,
+        403,
+        407,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451
+    ],
+    "values": [
+        {
+            "target": 0,
+            "subTypeUse": 0,
+            "heroListColume": 0,
+            "value": 0
+        },
+        {
+            "target": 1,
+            "subTypeUse": 0,
+            "heroListColume": 0,
+            "value": 0
+        },
+        {
+            "target": 2,
+            "subTypeUse": 0,
+            "heroListColume": 99,
+            "value": 0
+        },
+        {
+            "target": 3,
+            "subTypeUse": 0,
+            "heroListColume": 1,
+            "value": 0
+        },
+        {
+            "target": 5,
+            "subTypeUse": 0,
+            "heroListColume": 1,
+            "value": 2
+        },
+        {
+            "target": 4,
+            "subTypeUse": 0,
+            "heroListColume": 1,
+            "value": 1
+        },
+        {
+            "target": 6,
+            "subTypeUse": 0,
+            "heroListColume": 1,
+            "value": 3
+        },
+        {
+            "target": 7,
+            "subTypeUse": 0,
+            "heroListColume": 1,
+            "value": 0
+        },
+        {
+            "target": 9,
+            "subTypeUse": 0,
+            "heroListColume": 1,
+            "value": 2
+        },
+        {
+            "target": 8,
+            "subTypeUse": 0,
+            "heroListColume": 1,
+            "value": 1
+        },
+        {
+            "target": 10,
+            "subTypeUse": 0,
+            "heroListColume": 1,
+            "value": 3
+        },
+        {
+            "target": 11,
+            "subTypeUse": 0,
+            "heroListColume": 4,
+            "value": 500
+        },
+        {
+            "target": 12,
+            "subTypeUse": 0,
+            "heroListColume": 4,
+            "value": 501
+        },
+        {
+            "target": 13,
+            "subTypeUse": 0,
+            "heroListColume": 4,
+            "value": 502
+        },
+        {
+            "target": 14,
+            "subTypeUse": 0,
+            "heroListColume": 5,
+            "value": 300
+        },
+        {
+            "target": 15,
+            "subTypeUse": 0,
+            "heroListColume": 5,
+            "value": 301
+        },
+        {
+            "target": 16,
+            "subTypeUse": 0,
+            "heroListColume": 5,
+            "value": 302
+        },
+        {
+            "target": 17,
+            "subTypeUse": 0,
+            "heroListColume": 5,
+            "value": 304
+        },
+        {
+            "target": 18,
+            "subTypeUse": 0,
+            "heroListColume": 5,
+            "value": 305
+        },
+        {
+            "target": 19,
+            "subTypeUse": 0,
+            "heroListColume": 0,
+            "value": 0
+        },
+        {
+            "target": 20,
+            "subTypeUse": 0,
+            "heroListColume": 5,
+            "value": 306
+        },
+        {
+            "target": 21,
+            "subTypeUse": 0,
+            "heroListColume": 99,
+            "value": 0
+        },
+        {
+            "target": 22,
+            "subTypeUse": 0,
+            "heroListColume": 99,
+            "value": 0
+        },
+        {
+            "target": 23,
+            "subTypeUse": 0,
+            "heroListColume": 0,
+            "value": 0
+        },
+        {
+            "target": 24,
+            "subTypeUse": 0,
+            "heroListColume": 99,
+            "value": 0
+        },
+        {
+            "target": 25,
+            "subTypeUse": 0,
+            "heroListColume": 0,
+            "value": 0
+        },
+        {
+            "target": 26,
+            "subTypeUse": 0,
+            "heroListColume": 99,
+            "value": 0
+        },
+        {
+            "target": 27,
+            "subTypeUse": 0,
+            "heroListColume": 0,
+            "value": 0
+        },
+        {
+            "target": 28,
+            "subTypeUse": 0,
+            "heroListColume": 6,
+            "value": 445
+        },
+        {
+            "target": 401,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 401
+        },
+        {
+            "target": 403,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 403
+        },
+        {
+            "target": 407,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 407
+        },
+        {
+            "target": 409,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 409
+        },
+        {
+            "target": 410,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 410
+        },
+        {
+            "target": 411,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 411
+        },
+        {
+            "target": 412,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 412
+        },
+        {
+            "target": 413,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 413
+        },
+        {
+            "target": 414,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 414
+        },
+        {
+            "target": 415,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 415
+        },
+        {
+            "target": 416,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 416
+        },
+        {
+            "target": 417,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 417
+        },
+        {
+            "target": 418,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 418
+        },
+        {
+            "target": 419,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 419
+        },
+        {
+            "target": 420,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 420
+        },
+        {
+            "target": 421,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 421
+        },
+        {
+            "target": 422,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 422
+        },
+        {
+            "target": 423,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 423
+        },
+        {
+            "target": 424,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 424
+        },
+        {
+            "target": 425,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 425
+        },
+        {
+            "target": 426,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 426
+        },
+        {
+            "target": 427,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 427
+        },
+        {
+            "target": 428,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 428
+        },
+        {
+            "target": 429,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 429
+        },
+        {
+            "target": 432,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 432
+        },
+        {
+            "target": 433,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 433
+        },
+        {
+            "target": 434,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 434
+        },
+        {
+            "target": 435,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 435
+        },
+        {
+            "target": 436,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 436
+        },
+        {
+            "target": 437,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 437
+        },
+        {
+            "target": 438,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 438
+        },
+        {
+            "target": 439,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 439
+        },
+        {
+            "target": 440,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 440
+        },
+        {
+            "target": 441,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 441
+        },
+        {
+            "target": 442,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 442
+        },
+        {
+            "target": 443,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 443
+        },
+        {
+            "target": 444,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 444
+        },
+        {
+            "target": 445,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 445
+        },
+        {
+            "target": 446,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 446
+        },
+        {
+            "target": 447,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 447
+        },
+        {
+            "target": 448,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 448
+        },
+        {
+            "target": 449,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 449
+        },
+        {
+            "target": 450,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 450
+        },
+        {
+            "target": 451,
+            "subTypeUse": 1,
+            "heroListColume": 0,
+            "value": 451
+        }
+    ]
+}

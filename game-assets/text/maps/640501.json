@@ -1,0 +1,38 @@
+[
+    {
+        "level": "pvp_danger_room_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1199640501,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "scale": 1.2,
+                        "boss_cam": "-0.6,0.28,0.28",
+                        "avoidancePriority": 0,
+                        "boss_appear": "tp"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 1201640501,
+                        "group": 2,
+                        "boss": 2,
+                        "firstattack": 1,
+                        "sight": 11,
+                        "scale": 1.1,
+                        "avoidancePriority": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

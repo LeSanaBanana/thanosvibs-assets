@@ -1,0 +1,24 @@
+[
+    {
+        "level": "Raid_Wakanda",
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 31400000,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoheal": 20,
+                        "aiprefab": "AI_ultron_army01_test"
+                    }
+                ]
+            }
+        ]
+    }
+]

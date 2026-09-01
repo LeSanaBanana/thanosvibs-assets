@@ -1,0 +1,53 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7636048769172240466
+    },
+    "m_Name": "COOP_ULTIMATE_DIFFICULTY",
+    "list": [
+        {
+            "difficulty": 1,
+            "unlockTier": 2,
+            "unlockGrade": 6,
+            "unlockAwakening": 6,
+            "unlockLevel": 60,
+            "unlockValue": 3,
+            "synergeTier": 2,
+            "synergeGrade": 6,
+            "synergeAwakening": 6,
+            "synergeLevel": 60,
+            "rewardBoost": 35
+        },
+        {
+            "difficulty": 2,
+            "unlockTier": 2,
+            "unlockGrade": 6,
+            "unlockAwakening": 6,
+            "unlockLevel": 60,
+            "unlockValue": 3,
+            "synergeTier": 2,
+            "synergeGrade": 6,
+            "synergeAwakening": 6,
+            "synergeLevel": 60,
+            "rewardBoost": 35
+        },
+        {
+            "difficulty": 3,
+            "unlockTier": 3,
+            "unlockGrade": 6,
+            "unlockAwakening": 6,
+            "unlockLevel": 70,
+            "unlockValue": 3,
+            "synergeTier": 3,
+            "synergeGrade": 6,
+            "synergeAwakening": 6,
+            "synergeLevel": 70,
+            "rewardBoost": 40
+        }
+    ]
+}

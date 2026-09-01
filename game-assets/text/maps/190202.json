@@ -1,0 +1,29 @@
+[
+    {
+        "level": "raid_apocalypse_out_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "appear": "atk-01c",
+                        "point": 90,
+                        "mob": 714190202,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "aiprefab": "AI_RaidCable",
+                        "avoidancePriority": 0,
+                        "scale": "1.2",
+                        "boss_cam": "0,0.2,0.37"
+                    }
+                ]
+            }
+        ]
+    }
+]

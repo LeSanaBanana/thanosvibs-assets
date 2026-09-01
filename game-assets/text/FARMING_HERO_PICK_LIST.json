@@ -1,0 +1,874 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -337036211074721221
+    },
+    "m_Name": "FARMING_HERO_PICK_LIST",
+    "keys": [
+        10101,
+        10102,
+        10103,
+        10104,
+        10105
+    ],
+    "values": [
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000001
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000007
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000003
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000013
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000029
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000027
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000019
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000034
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000042
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000010
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000006
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000017
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000033
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000018
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000044
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000023
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000043
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000040
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000015
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47619,
+            "rewardType": 100,
+            "rewardValue": 1000008
+        },
+        {
+            "rewardHeroSub": 10101,
+            "pickProb": 47620,
+            "rewardType": 100,
+            "rewardValue": 1000014
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000046
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000011
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000047
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000022
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000048
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000049
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000050
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000052
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000051
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000130
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000131
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000133
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000134
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000132
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000083
+        },
+        {
+            "rewardHeroSub": 10102,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000084
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000086
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000087
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000110
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000111
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000112
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000114
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000115
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000107
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000159
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000188
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000193
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000063
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000060
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000054
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000053
+        },
+        {
+            "rewardHeroSub": 10103,
+            "pickProb": 62500,
+            "rewardType": 100,
+            "rewardValue": 1000085
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000002
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000005
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000021
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000025
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000036
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000064
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000065
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000066
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000067
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000068
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000070
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000071
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000078
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000079
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000081
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000082
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000089
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000090
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000109
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000117
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000118
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000120
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000122
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000137
+        },
+        {
+            "rewardHeroSub": 10104,
+            "pickProb": 40000,
+            "rewardType": 100,
+            "rewardValue": 1000138
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000041
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000072
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000080
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000088
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000095
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000097
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000108
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000113
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000119
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000121
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000135
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000136
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000144
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000149
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000153
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000155
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000157
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000158
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000162
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000163
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000170
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000172
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000173
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000175
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000176
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000184
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000185
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000189
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000191
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000194
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000197
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000198
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000201
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000205
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000207
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000213
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000214
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000219
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000221
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000223
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000227
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000229
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000230
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000232
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000233
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15900,
+            "rewardType": 100,
+            "rewardValue": 1000237
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000238
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000242
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000247
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000248
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000252
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000254
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000255
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000256
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000257
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000258
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000260
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000262
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000263
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000266
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000269
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000273
+        },
+        {
+            "rewardHeroSub": 10105,
+            "pickProb": 15800,
+            "rewardType": 100,
+            "rewardValue": 1000275
+        }
+    ],
+    "counts": [
+        21,
+        16,
+        16,
+        25,
+        63
+    ]
+}

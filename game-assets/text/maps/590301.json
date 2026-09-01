@@ -1,0 +1,28 @@
+[
+    {
+        "level": "arcade_endgame_titan_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 808590301,
+                        "group": 1,
+                        "sight": 6,
+                        "trigger": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 3,
+                        "appear": "appear",
+                        "boss_appear": "skill03-01",
+                        "aiprefab": "ai_epic_eteners_thanos01",
+                        "avoidancePriority": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

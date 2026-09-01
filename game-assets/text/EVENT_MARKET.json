@@ -1,0 +1,34 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3841024680180346101
+    },
+    "m_Name": "EVENT_MARKET",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "marketId": 1,
+            "marketGroupId": 39,
+            "marketType": 2,
+            "startTime": 0,
+            "useTime": 82800,
+            "salesStartTime": "01:00",
+            "enterLimit": 0,
+            "costType": 3,
+            "costValue": 0,
+            "costQty": 5000,
+            "maxTokenCount": 4,
+            "rewardType": 100,
+            "rewardValue": 504028801,
+            "rewardQty": 1,
+            "enterCountGroup": 0
+        }
+    ]
+}

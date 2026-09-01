@@ -1,0 +1,310 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7379969030554808475
+    },
+    "m_Name": "CARD_AWAKEN",
+    "keys": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607
+    ],
+    "values": [
+        {
+            "awakenid": 101,
+            "awakengroupid": 1,
+            "quality": 1,
+            "opt": 1100001010
+        },
+        {
+            "awakenid": 102,
+            "awakengroupid": 1,
+            "quality": 2,
+            "opt": 1100001020
+        },
+        {
+            "awakenid": 103,
+            "awakengroupid": 1,
+            "quality": 3,
+            "opt": 1100001030
+        },
+        {
+            "awakenid": 104,
+            "awakengroupid": 1,
+            "quality": 4,
+            "opt": 1100001040
+        },
+        {
+            "awakenid": 105,
+            "awakengroupid": 1,
+            "quality": 5,
+            "opt": 1100001050
+        },
+        {
+            "awakenid": 106,
+            "awakengroupid": 1,
+            "quality": 6,
+            "opt": 1100001060
+        },
+        {
+            "awakenid": 107,
+            "awakengroupid": 1,
+            "quality": 7,
+            "opt": 1100001070
+        },
+        {
+            "awakenid": 201,
+            "awakengroupid": 2,
+            "quality": 1,
+            "opt": 1100002010
+        },
+        {
+            "awakenid": 202,
+            "awakengroupid": 2,
+            "quality": 2,
+            "opt": 1100002020
+        },
+        {
+            "awakenid": 203,
+            "awakengroupid": 2,
+            "quality": 3,
+            "opt": 1100002030
+        },
+        {
+            "awakenid": 204,
+            "awakengroupid": 2,
+            "quality": 4,
+            "opt": 1100002040
+        },
+        {
+            "awakenid": 205,
+            "awakengroupid": 2,
+            "quality": 5,
+            "opt": 1100002050
+        },
+        {
+            "awakenid": 206,
+            "awakengroupid": 2,
+            "quality": 6,
+            "opt": 1100002060
+        },
+        {
+            "awakenid": 207,
+            "awakengroupid": 2,
+            "quality": 7,
+            "opt": 1100002070
+        },
+        {
+            "awakenid": 301,
+            "awakengroupid": 3,
+            "quality": 1,
+            "opt": 1100003010
+        },
+        {
+            "awakenid": 302,
+            "awakengroupid": 3,
+            "quality": 2,
+            "opt": 1100003020
+        },
+        {
+            "awakenid": 303,
+            "awakengroupid": 3,
+            "quality": 3,
+            "opt": 1100003030
+        },
+        {
+            "awakenid": 304,
+            "awakengroupid": 3,
+            "quality": 4,
+            "opt": 1100003040
+        },
+        {
+            "awakenid": 305,
+            "awakengroupid": 3,
+            "quality": 5,
+            "opt": 1100003050
+        },
+        {
+            "awakenid": 306,
+            "awakengroupid": 3,
+            "quality": 6,
+            "opt": 1100003060
+        },
+        {
+            "awakenid": 307,
+            "awakengroupid": 3,
+            "quality": 7,
+            "opt": 1100003070
+        },
+        {
+            "awakenid": 401,
+            "awakengroupid": 4,
+            "quality": 1,
+            "opt": 1100004010
+        },
+        {
+            "awakenid": 402,
+            "awakengroupid": 4,
+            "quality": 2,
+            "opt": 1100004020
+        },
+        {
+            "awakenid": 403,
+            "awakengroupid": 4,
+            "quality": 3,
+            "opt": 1100004030
+        },
+        {
+            "awakenid": 404,
+            "awakengroupid": 4,
+            "quality": 4,
+            "opt": 1100004040
+        },
+        {
+            "awakenid": 405,
+            "awakengroupid": 4,
+            "quality": 5,
+            "opt": 1100004050
+        },
+        {
+            "awakenid": 406,
+            "awakengroupid": 4,
+            "quality": 6,
+            "opt": 1100004060
+        },
+        {
+            "awakenid": 407,
+            "awakengroupid": 4,
+            "quality": 7,
+            "opt": 1100004070
+        },
+        {
+            "awakenid": 501,
+            "awakengroupid": 5,
+            "quality": 1,
+            "opt": 1100005010
+        },
+        {
+            "awakenid": 502,
+            "awakengroupid": 5,
+            "quality": 2,
+            "opt": 1100005020
+        },
+        {
+            "awakenid": 503,
+            "awakengroupid": 5,
+            "quality": 3,
+            "opt": 1100005030
+        },
+        {
+            "awakenid": 504,
+            "awakengroupid": 5,
+            "quality": 4,
+            "opt": 1100005040
+        },
+        {
+            "awakenid": 505,
+            "awakengroupid": 5,
+            "quality": 5,
+            "opt": 1100005050
+        },
+        {
+            "awakenid": 506,
+            "awakengroupid": 5,
+            "quality": 6,
+            "opt": 1100005060
+        },
+        {
+            "awakenid": 507,
+            "awakengroupid": 5,
+            "quality": 7,
+            "opt": 1100005070
+        },
+        {
+            "awakenid": 601,
+            "awakengroupid": 6,
+            "quality": 1,
+            "opt": 1100006010
+        },
+        {
+            "awakenid": 602,
+            "awakengroupid": 6,
+            "quality": 2,
+            "opt": 1100006020
+        },
+        {
+            "awakenid": 603,
+            "awakengroupid": 6,
+            "quality": 3,
+            "opt": 1100006030
+        },
+        {
+            "awakenid": 604,
+            "awakengroupid": 6,
+            "quality": 4,
+            "opt": 1100006040
+        },
+        {
+            "awakenid": 605,
+            "awakengroupid": 6,
+            "quality": 5,
+            "opt": 1100006050
+        },
+        {
+            "awakenid": 606,
+            "awakengroupid": 6,
+            "quality": 6,
+            "opt": 1100006060
+        },
+        {
+            "awakenid": 607,
+            "awakengroupid": 6,
+            "quality": 7,
+            "opt": 1100006070
+        }
+    ]
+}

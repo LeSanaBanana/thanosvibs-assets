@@ -1,0 +1,1877 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1240404267996216979
+    },
+    "m_Name": "SUMMON",
+    "list": [
+        {
+            "groupId": 1,
+            "mobId": 10000001,
+            "offsetX": 1.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 1,
+            "mobId": 10000001,
+            "offsetX": -1.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 2,
+            "mobId": 10000002,
+            "offsetX": 0.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 2,
+            "mobId": 10000005,
+            "offsetX": -2.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 2,
+            "mobId": 10000005,
+            "offsetX": 2.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 2,
+            "mobId": 10000004,
+            "offsetX": -3.200000047683716,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 2,
+            "mobId": 10000004,
+            "offsetX": 3.200000047683716,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 3,
+            "mobId": 10000003,
+            "offsetX": 1.7999999523162842,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 3,
+            "mobId": 10000003,
+            "offsetX": -0.800000011920929,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 3,
+            "mobId": 10000003,
+            "offsetX": 2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 3,
+            "mobId": 10000003,
+            "offsetX": -2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 4,
+            "mobId": 10000006,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "skill_speech_in_4",
+            "disappearSpeech": "skill_speech_out_4",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 5,
+            "mobId": 10000007,
+            "offsetX": 3.0,
+            "offsetZ": -4.0,
+            "appearSpeech": "skill_speech_in_5",
+            "disappearSpeech": "skill_speech_out_5",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 6,
+            "mobId": 10000008,
+            "offsetX": -1.5,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 6,
+            "mobId": 10000008,
+            "offsetX": 0.5,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 6,
+            "mobId": 10000008,
+            "offsetX": -1.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 6,
+            "mobId": 10000008,
+            "offsetX": 2.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 6,
+            "mobId": 10000008,
+            "offsetX": -2.5,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 6,
+            "mobId": 10000008,
+            "offsetX": 0.0,
+            "offsetZ": 4.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 7,
+            "mobId": 10000010,
+            "offsetX": -5.0,
+            "offsetZ": -5.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 7,
+            "mobId": 10000010,
+            "offsetX": -3.0,
+            "offsetZ": -3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 7,
+            "mobId": 10000010,
+            "offsetX": -2.0,
+            "offsetZ": -1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 7,
+            "mobId": 10000010,
+            "offsetX": 0.0,
+            "offsetZ": 1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 7,
+            "mobId": 10000010,
+            "offsetX": 2.0,
+            "offsetZ": -1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 7,
+            "mobId": 10000010,
+            "offsetX": 3.0,
+            "offsetZ": -3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 7,
+            "mobId": 10000010,
+            "offsetX": 5.0,
+            "offsetZ": -5.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 8,
+            "mobId": 10000012,
+            "offsetX": 1.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 8,
+            "mobId": 10000012,
+            "offsetX": -1.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 9,
+            "mobId": 10000013,
+            "offsetX": 1.7999999523162842,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 9,
+            "mobId": 10000013,
+            "offsetX": -0.800000011920929,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 9,
+            "mobId": 10000013,
+            "offsetX": 2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 9,
+            "mobId": 10000013,
+            "offsetX": -2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 10,
+            "mobId": 10000014,
+            "offsetX": 0.0,
+            "offsetZ": 2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 10,
+            "mobId": 10000014,
+            "offsetX": -1.600000023841858,
+            "offsetZ": 1.600000023841858,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 10,
+            "mobId": 10000014,
+            "offsetX": 1.600000023841858,
+            "offsetZ": 1.600000023841858,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 10,
+            "mobId": 10000014,
+            "offsetX": -2.5,
+            "offsetZ": 0.20000000298023224,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 10,
+            "mobId": 10000014,
+            "offsetX": 2.5,
+            "offsetZ": 0.20000000298023224,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 11,
+            "mobId": 10000015,
+            "offsetX": 0.0,
+            "offsetZ": 2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 11,
+            "mobId": 10000015,
+            "offsetX": -1.600000023841858,
+            "offsetZ": 1.600000023841858,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 11,
+            "mobId": 10000015,
+            "offsetX": 1.600000023841858,
+            "offsetZ": 1.600000023841858,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 11,
+            "mobId": 10000015,
+            "offsetX": -2.5,
+            "offsetZ": 0.20000000298023224,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 11,
+            "mobId": 10000015,
+            "offsetX": 2.5,
+            "offsetZ": 0.20000000298023224,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 12,
+            "mobId": 10000018,
+            "offsetX": 3.0,
+            "offsetZ": -4.0,
+            "appearSpeech": "skill_speech_in_6",
+            "disappearSpeech": "skill_speech_out_6",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 13,
+            "mobId": 10000016,
+            "offsetX": 2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 14,
+            "mobId": 10000017,
+            "offsetX": 3.0,
+            "offsetZ": -4.0,
+            "appearSpeech": "skill_speech_in_7",
+            "disappearSpeech": "skill_speech_out_7",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 15,
+            "mobId": 10000019,
+            "offsetX": 3.0,
+            "offsetZ": -4.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 16,
+            "mobId": 10000020,
+            "offsetX": 1.0,
+            "offsetZ": 4.5,
+            "appearSpeech": "skill_speech_in_8",
+            "disappearSpeech": "skill_speech_out_8",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 16,
+            "mobId": 10000021,
+            "offsetX": 4.0,
+            "offsetZ": 1.0,
+            "appearSpeech": "skill_speech_in_8",
+            "disappearSpeech": "skill_speech_out_8",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 16,
+            "mobId": 10000021,
+            "offsetX": -4.0,
+            "offsetZ": 1.0,
+            "appearSpeech": "skill_speech_in_8",
+            "disappearSpeech": "skill_speech_out_8",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 16,
+            "mobId": 10000022,
+            "offsetX": -1.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 17,
+            "mobId": 10000023,
+            "offsetX": 0.0,
+            "offsetZ": 2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 18,
+            "mobId": 10000024,
+            "offsetX": 2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 18,
+            "mobId": 10000024,
+            "offsetX": -2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 19,
+            "mobId": 10000024,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 20,
+            "mobId": 10000025,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 21,
+            "mobId": 10000026,
+            "offsetX": 1.7999999523162842,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 21,
+            "mobId": 10000026,
+            "offsetX": -0.800000011920929,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 22,
+            "mobId": 10000027,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 23,
+            "mobId": 10000028,
+            "offsetX": 1.5,
+            "offsetZ": 1.5,
+            "appearSpeech": "skill_speech_in_9",
+            "disappearSpeech": "skill_speech_out_9",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 23,
+            "mobId": 10000030,
+            "offsetX": -1.5,
+            "offsetZ": 1.5,
+            "appearSpeech": "skill_speech_in_10",
+            "disappearSpeech": "skill_speech_out_10",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 24,
+            "mobId": 10000030,
+            "offsetX": 1.5,
+            "offsetZ": 1.5,
+            "appearSpeech": "skill_speech_in_11",
+            "disappearSpeech": "skill_speech_out_11",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 24,
+            "mobId": 10000029,
+            "offsetX": -1.5,
+            "offsetZ": 1.5,
+            "appearSpeech": "skill_speech_in_12",
+            "disappearSpeech": "skill_speech_out_12",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 25,
+            "mobId": 10000029,
+            "offsetX": 1.5,
+            "offsetZ": 1.5,
+            "appearSpeech": "skill_speech_in_14",
+            "disappearSpeech": "skill_speech_out_14",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 25,
+            "mobId": 10000028,
+            "offsetX": -1.5,
+            "offsetZ": 1.5,
+            "appearSpeech": "skill_speech_in_13",
+            "disappearSpeech": "skill_speech_out_13",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 26,
+            "mobId": 10000031,
+            "offsetX": -2.5,
+            "offsetZ": 2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 26,
+            "mobId": 10000031,
+            "offsetX": 2.5,
+            "offsetZ": 2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 26,
+            "mobId": 10000031,
+            "offsetX": -0.800000011920929,
+            "offsetZ": 1.7000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 26,
+            "mobId": 10000032,
+            "offsetX": 0.800000011920929,
+            "offsetZ": 4.699999809265137,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 27,
+            "mobId": 10000033,
+            "offsetX": -2.5,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 27,
+            "mobId": 10000033,
+            "offsetX": 2.5,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 28,
+            "mobId": 10000034,
+            "offsetX": 0.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 29,
+            "mobId": 10000035,
+            "offsetX": -2.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 29,
+            "mobId": 10000035,
+            "offsetX": 2.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 29,
+            "mobId": 10000035,
+            "offsetX": 0.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 30,
+            "mobId": 10000036,
+            "offsetX": 3.0,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 31,
+            "mobId": 10000038,
+            "offsetX": 3.0,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 32,
+            "mobId": 10000039,
+            "offsetX": 0.0,
+            "offsetZ": 0.30000001192092896,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 33,
+            "mobId": 10000040,
+            "offsetX": 0.0,
+            "offsetZ": 0.30000001192092896,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 34,
+            "mobId": 10000041,
+            "offsetX": 0.0,
+            "offsetZ": 0.30000001192092896,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 35,
+            "mobId": 10000042,
+            "offsetX": -1.5,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 35,
+            "mobId": 10000042,
+            "offsetX": 3.5,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 35,
+            "mobId": 10000042,
+            "offsetX": 1.5,
+            "offsetZ": -3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 35,
+            "mobId": 10000042,
+            "offsetX": -3.5,
+            "offsetZ": -1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 36,
+            "mobId": 10000043,
+            "offsetX": 3.0,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 37,
+            "mobId": 10000045,
+            "offsetX": 2.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 38,
+            "mobId": 10000045,
+            "offsetX": 0.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 39,
+            "mobId": 10000045,
+            "offsetX": -2.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 40,
+            "mobId": 10000045,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 41,
+            "mobId": 10000044,
+            "offsetX": 3.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 41,
+            "mobId": 10000044,
+            "offsetX": 3.0,
+            "offsetZ": -3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 41,
+            "mobId": 10000044,
+            "offsetX": -3.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 41,
+            "mobId": 10000044,
+            "offsetX": -3.0,
+            "offsetZ": -3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 42,
+            "mobId": 10000046,
+            "offsetX": 1.7999999523162842,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 42,
+            "mobId": 10000046,
+            "offsetX": -0.800000011920929,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 42,
+            "mobId": 10000046,
+            "offsetX": 2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 42,
+            "mobId": 10000046,
+            "offsetX": -2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 43,
+            "mobId": 10000047,
+            "offsetX": 2.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 43,
+            "mobId": 10000047,
+            "offsetX": 0.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 43,
+            "mobId": 10000047,
+            "offsetX": -2.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 43,
+            "mobId": 10000047,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 44,
+            "mobId": 10000048,
+            "offsetX": -1.5,
+            "offsetZ": 1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 44,
+            "mobId": 10000048,
+            "offsetX": 1.5,
+            "offsetZ": 1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 44,
+            "mobId": 10000049,
+            "offsetX": 0.0,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 45,
+            "mobId": 10000050,
+            "offsetX": 3.0,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 45,
+            "mobId": 10000050,
+            "offsetX": -3.0,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 45,
+            "mobId": 10000050,
+            "offsetX": 3.0,
+            "offsetZ": -2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 45,
+            "mobId": 10000050,
+            "offsetX": -3.0,
+            "offsetZ": -2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 46,
+            "mobId": 10000051,
+            "offsetX": 0.0,
+            "offsetZ": 2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 47,
+            "mobId": 10000053,
+            "offsetX": -1.600000023841858,
+            "offsetZ": 1.600000023841858,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 47,
+            "mobId": 10000053,
+            "offsetX": 1.600000023841858,
+            "offsetZ": 1.600000023841858,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 47,
+            "mobId": 10000053,
+            "offsetX": -2.5,
+            "offsetZ": 0.20000000298023224,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 47,
+            "mobId": 10000053,
+            "offsetX": 2.5,
+            "offsetZ": 0.20000000298023224,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 48,
+            "mobId": 10000052,
+            "offsetX": -1.5,
+            "offsetZ": 1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 48,
+            "mobId": 10000052,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 48,
+            "mobId": 10000052,
+            "offsetX": 1.5,
+            "offsetZ": 1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 49,
+            "mobId": 10000054,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 49,
+            "mobId": 10000055,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 49,
+            "mobId": 10000056,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 50,
+            "mobId": 10000058,
+            "offsetX": -6.5,
+            "offsetZ": 4.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 0
+        },
+        {
+            "groupId": 51,
+            "mobId": 10000059,
+            "offsetX": -3.0,
+            "offsetZ": 8.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 0
+        },
+        {
+            "groupId": 52,
+            "mobId": 10000060,
+            "offsetX": 3.0,
+            "offsetZ": 8.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 0
+        },
+        {
+            "groupId": 53,
+            "mobId": 10000061,
+            "offsetX": 6.5,
+            "offsetZ": 4.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 0
+        },
+        {
+            "groupId": 54,
+            "mobId": 10000057,
+            "offsetX": -6.5,
+            "offsetZ": 4.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 0
+        },
+        {
+            "groupId": 55,
+            "mobId": 10000057,
+            "offsetX": -3.0,
+            "offsetZ": 8.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 0
+        },
+        {
+            "groupId": 56,
+            "mobId": 10000057,
+            "offsetX": 3.0,
+            "offsetZ": 8.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 0
+        },
+        {
+            "groupId": 57,
+            "mobId": 10000057,
+            "offsetX": 6.5,
+            "offsetZ": 4.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 0
+        },
+        {
+            "groupId": 58,
+            "mobId": 10000062,
+            "offsetX": 5.0,
+            "offsetZ": 5.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 59,
+            "mobId": 10000063,
+            "offsetX": 2.0,
+            "offsetZ": 1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 60,
+            "mobId": 10000064,
+            "offsetX": 1.7999999523162842,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 60,
+            "mobId": 10000064,
+            "offsetX": -0.800000011920929,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 60,
+            "mobId": 10000064,
+            "offsetX": 2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 60,
+            "mobId": 10000064,
+            "offsetX": -2.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 61,
+            "mobId": 10000065,
+            "offsetX": 0.0,
+            "offsetZ": 0.20000000298023224,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 62,
+            "mobId": 10000067,
+            "offsetX": -1.2000000476837158,
+            "offsetZ": 1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 62,
+            "mobId": 10000067,
+            "offsetX": 1.2000000476837158,
+            "offsetZ": 1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 63,
+            "mobId": 10000066,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 64,
+            "mobId": 10000066,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 65,
+            "mobId": 10000066,
+            "offsetX": 1.7999999523162842,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 66,
+            "mobId": 10000066,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 67,
+            "mobId": 10000066,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 68,
+            "mobId": 10000066,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 69,
+            "mobId": 10000066,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 70,
+            "mobId": 10000066,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 71,
+            "mobId": 10000066,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 72,
+            "mobId": 10000069,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 73,
+            "mobId": 10000068,
+            "offsetX": 3.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 73,
+            "mobId": 10000068,
+            "offsetX": -3.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 74,
+            "mobId": 10000070,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 75,
+            "mobId": 10000071,
+            "offsetX": 3.0,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 76,
+            "mobId": 10000072,
+            "offsetX": 0.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 77,
+            "mobId": 10000073,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 78,
+            "mobId": 10000066,
+            "offsetX": 1.5,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 79,
+            "mobId": 10000066,
+            "offsetX": -1.5,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 80,
+            "mobId": 10000066,
+            "offsetX": -1.5,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 81,
+            "mobId": 10000066,
+            "offsetX": 1.5,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 82,
+            "mobId": 10000074,
+            "offsetX": 0.0,
+            "offsetZ": 3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 82,
+            "mobId": 10000074,
+            "offsetX": 3.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 82,
+            "mobId": 10000074,
+            "offsetX": -3.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 83,
+            "mobId": 10000075,
+            "offsetX": 3.0,
+            "offsetZ": -3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 83,
+            "mobId": 10000075,
+            "offsetX": -3.0,
+            "offsetZ": -3.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 84,
+            "mobId": 10000076,
+            "offsetX": 0.0,
+            "offsetZ": 0.30000001192092896,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 85,
+            "mobId": 10000077,
+            "offsetX": 0.0,
+            "offsetZ": 0.30000001192092896,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 86,
+            "mobId": 10000078,
+            "offsetX": 0.0,
+            "offsetZ": 0.30000001192092896,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 87,
+            "mobId": 10000079,
+            "offsetX": -2.5,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 87,
+            "mobId": 10000079,
+            "offsetX": 2.5,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 88,
+            "mobId": 10000080,
+            "offsetX": 0.0,
+            "offsetZ": -2.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 89,
+            "mobId": 10000081,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 90,
+            "mobId": 10000082,
+            "offsetX": 0.5,
+            "offsetZ": 0.30000001192092896,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 91,
+            "mobId": 10000083,
+            "offsetX": -0.5,
+            "offsetZ": 0.30000001192092896,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 92,
+            "mobId": 10000084,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 93,
+            "mobId": 10000085,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 94,
+            "mobId": 10000086,
+            "offsetX": -2.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 94,
+            "mobId": 10000086,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 94,
+            "mobId": 10000086,
+            "offsetX": 2.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 95,
+            "mobId": 10000088,
+            "offsetX": 1.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 95,
+            "mobId": 10000088,
+            "offsetX": -1.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 96,
+            "mobId": 10000089,
+            "offsetX": 0.0,
+            "offsetZ": 5.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 97,
+            "mobId": 10000090,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 98,
+            "mobId": 10000091,
+            "offsetX": 3.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 98,
+            "mobId": 10000091,
+            "offsetX": -3.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 99,
+            "mobId": 10000092,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 100,
+            "mobId": 10000093,
+            "offsetX": 1.5,
+            "offsetZ": -1.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 101,
+            "mobId": 10000094,
+            "offsetX": -4.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 102,
+            "mobId": 10000095,
+            "offsetX": 4.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 103,
+            "mobId": 10000098,
+            "offsetX": 2.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 103,
+            "mobId": 10000098,
+            "offsetX": 0.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 103,
+            "mobId": 10000098,
+            "offsetX": -2.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 103,
+            "mobId": 10000098,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 104,
+            "mobId": 10000099,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 105,
+            "mobId": 10000100,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 106,
+            "mobId": 10000101,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 107,
+            "mobId": 10000102,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 108,
+            "mobId": 10000103,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 109,
+            "mobId": 10000104,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 110,
+            "mobId": 10000105,
+            "offsetX": 0.0,
+            "offsetZ": 2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 110,
+            "mobId": 10000105,
+            "offsetX": -2.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 110,
+            "mobId": 10000105,
+            "offsetX": 2.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 111,
+            "mobId": 10000106,
+            "offsetX": 0.0,
+            "offsetZ": 5.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 112,
+            "mobId": 10000107,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 113,
+            "mobId": 10000108,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 114,
+            "mobId": 10000109,
+            "offsetX": 0.0,
+            "offsetZ": 1.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 115,
+            "mobId": 10000112,
+            "offsetX": 2.0,
+            "offsetZ": -1.2000000476837158,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 116,
+            "mobId": 10000026,
+            "offsetX": -0.800000011920929,
+            "offsetZ": 3.5,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 117,
+            "mobId": 10000113,
+            "offsetX": 0.0,
+            "offsetZ": 0.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 118,
+            "mobId": 10000115,
+            "offsetX": 0.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 119,
+            "mobId": 10000116,
+            "offsetX": 3.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        },
+        {
+            "groupId": 119,
+            "mobId": 10000116,
+            "offsetX": -3.0,
+            "offsetZ": -2.0,
+            "appearSpeech": "",
+            "disappearSpeech": "",
+            "applyRotation": 1
+        }
+    ]
+}

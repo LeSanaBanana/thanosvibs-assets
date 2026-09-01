@@ -1,0 +1,26 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3542574516245691584
+    },
+    "m_Name": "EVENT_BOARD_POINT",
+    "list": [
+        {
+            "rewardPoint": 1,
+            "prob": 500000
+        },
+        {
+            "rewardPoint": 2,
+            "prob": 350000
+        },
+        {
+            "rewardPoint": 3,
+            "prob": 150000
+        }
+    ]
+}

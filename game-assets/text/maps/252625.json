@@ -1,0 +1,37 @@
+[
+    {
+        "level": "event_shadowland_0000_a01",
+        "lightIndex": 2,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 204,
+                        "mob": 959252625,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_shadow_gimmick_summon_01"
+                    },
+                    {
+                        "point": 204,
+                        "mob": 960252625,
+                        "group": 10,
+                        "autoregen": 99
+                    },
+                    {
+                        "point": 200,
+                        "mob": 698252625,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 20,
+                        "keymob": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

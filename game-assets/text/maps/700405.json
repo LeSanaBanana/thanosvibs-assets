@@ -1,0 +1,43 @@
+[
+    {
+        "level": "raid_mephisto_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1324700405,
+                        "group": 1,
+                        "keymob": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "trigger": 1,
+                        "boss": 3,
+                        "boss_cam_rot": "-10,0,0",
+                        "boss_cam": "0,0.2,0.2",
+                        "boss_appear": "skill06-02",
+                        "havepoint": 2,
+                        "avoidancePriority": 0
+                    },
+                    {
+                        "appear": "skillmad_get",
+                        "point": 2,
+                        "mob": 1326700405,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "autoregen": "1-1",
+                        "delay": "1.0",
+                        "avoidancePriority": 0,
+                        "keymob": 1,
+                        "havepoint": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

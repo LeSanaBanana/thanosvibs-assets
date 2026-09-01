@@ -1,0 +1,314 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 598251008607971449
+    },
+    "m_Name": "DISPATCH_GROWTH_SCORE",
+    "list": [
+        {
+            "growthLevel": 1,
+            "growthScore": 0,
+            "rewardAddRate": 0,
+            "expAddRate": 0
+        },
+        {
+            "growthLevel": 2,
+            "growthScore": 100000,
+            "rewardAddRate": 0,
+            "expAddRate": 50
+        },
+        {
+            "growthLevel": 3,
+            "growthScore": 220000,
+            "rewardAddRate": 0,
+            "expAddRate": 100
+        },
+        {
+            "growthLevel": 4,
+            "growthScore": 360000,
+            "rewardAddRate": 0,
+            "expAddRate": 150
+        },
+        {
+            "growthLevel": 5,
+            "growthScore": 520000,
+            "rewardAddRate": 1000,
+            "expAddRate": 150
+        },
+        {
+            "growthLevel": 6,
+            "growthScore": 700000,
+            "rewardAddRate": 1000,
+            "expAddRate": 200
+        },
+        {
+            "growthLevel": 7,
+            "growthScore": 900000,
+            "rewardAddRate": 1000,
+            "expAddRate": 250
+        },
+        {
+            "growthLevel": 8,
+            "growthScore": 1120000,
+            "rewardAddRate": 1000,
+            "expAddRate": 300
+        },
+        {
+            "growthLevel": 9,
+            "growthScore": 1360000,
+            "rewardAddRate": 1000,
+            "expAddRate": 350
+        },
+        {
+            "growthLevel": 10,
+            "growthScore": 1620000,
+            "rewardAddRate": 2000,
+            "expAddRate": 350
+        },
+        {
+            "growthLevel": 11,
+            "growthScore": 1900000,
+            "rewardAddRate": 2000,
+            "expAddRate": 400
+        },
+        {
+            "growthLevel": 12,
+            "growthScore": 2200000,
+            "rewardAddRate": 2000,
+            "expAddRate": 450
+        },
+        {
+            "growthLevel": 13,
+            "growthScore": 2520000,
+            "rewardAddRate": 2000,
+            "expAddRate": 500
+        },
+        {
+            "growthLevel": 14,
+            "growthScore": 2860000,
+            "rewardAddRate": 2000,
+            "expAddRate": 550
+        },
+        {
+            "growthLevel": 15,
+            "growthScore": 3220000,
+            "rewardAddRate": 3000,
+            "expAddRate": 550
+        },
+        {
+            "growthLevel": 16,
+            "growthScore": 3600000,
+            "rewardAddRate": 3000,
+            "expAddRate": 650
+        },
+        {
+            "growthLevel": 17,
+            "growthScore": 4000000,
+            "rewardAddRate": 3000,
+            "expAddRate": 750
+        },
+        {
+            "growthLevel": 18,
+            "growthScore": 4420000,
+            "rewardAddRate": 3000,
+            "expAddRate": 850
+        },
+        {
+            "growthLevel": 19,
+            "growthScore": 4860000,
+            "rewardAddRate": 3000,
+            "expAddRate": 950
+        },
+        {
+            "growthLevel": 20,
+            "growthScore": 5320000,
+            "rewardAddRate": 4000,
+            "expAddRate": 950
+        },
+        {
+            "growthLevel": 21,
+            "growthScore": 5800000,
+            "rewardAddRate": 4000,
+            "expAddRate": 1050
+        },
+        {
+            "growthLevel": 22,
+            "growthScore": 6300000,
+            "rewardAddRate": 4000,
+            "expAddRate": 1150
+        },
+        {
+            "growthLevel": 23,
+            "growthScore": 6820000,
+            "rewardAddRate": 4000,
+            "expAddRate": 1250
+        },
+        {
+            "growthLevel": 24,
+            "growthScore": 7360000,
+            "rewardAddRate": 4000,
+            "expAddRate": 1350
+        },
+        {
+            "growthLevel": 25,
+            "growthScore": 7920000,
+            "rewardAddRate": 5000,
+            "expAddRate": 1350
+        },
+        {
+            "growthLevel": 26,
+            "growthScore": 8500000,
+            "rewardAddRate": 5000,
+            "expAddRate": 1450
+        },
+        {
+            "growthLevel": 27,
+            "growthScore": 9100000,
+            "rewardAddRate": 5000,
+            "expAddRate": 1550
+        },
+        {
+            "growthLevel": 28,
+            "growthScore": 9720000,
+            "rewardAddRate": 5000,
+            "expAddRate": 1650
+        },
+        {
+            "growthLevel": 29,
+            "growthScore": 10360000,
+            "rewardAddRate": 5000,
+            "expAddRate": 1750
+        },
+        {
+            "growthLevel": 30,
+            "growthScore": 11020000,
+            "rewardAddRate": 6000,
+            "expAddRate": 1750
+        },
+        {
+            "growthLevel": 31,
+            "growthScore": 11700000,
+            "rewardAddRate": 6000,
+            "expAddRate": 1900
+        },
+        {
+            "growthLevel": 32,
+            "growthScore": 12400000,
+            "rewardAddRate": 6000,
+            "expAddRate": 2050
+        },
+        {
+            "growthLevel": 33,
+            "growthScore": 13120000,
+            "rewardAddRate": 6000,
+            "expAddRate": 2200
+        },
+        {
+            "growthLevel": 34,
+            "growthScore": 13860000,
+            "rewardAddRate": 6000,
+            "expAddRate": 2350
+        },
+        {
+            "growthLevel": 35,
+            "growthScore": 14620000,
+            "rewardAddRate": 7000,
+            "expAddRate": 2350
+        },
+        {
+            "growthLevel": 36,
+            "growthScore": 15400000,
+            "rewardAddRate": 7000,
+            "expAddRate": 2500
+        },
+        {
+            "growthLevel": 37,
+            "growthScore": 16200000,
+            "rewardAddRate": 7000,
+            "expAddRate": 2650
+        },
+        {
+            "growthLevel": 38,
+            "growthScore": 17020000,
+            "rewardAddRate": 7000,
+            "expAddRate": 2800
+        },
+        {
+            "growthLevel": 39,
+            "growthScore": 17860000,
+            "rewardAddRate": 7000,
+            "expAddRate": 2950
+        },
+        {
+            "growthLevel": 40,
+            "growthScore": 18720000,
+            "rewardAddRate": 8000,
+            "expAddRate": 2950
+        },
+        {
+            "growthLevel": 41,
+            "growthScore": 19600000,
+            "rewardAddRate": 8000,
+            "expAddRate": 3100
+        },
+        {
+            "growthLevel": 42,
+            "growthScore": 20500000,
+            "rewardAddRate": 8000,
+            "expAddRate": 3250
+        },
+        {
+            "growthLevel": 43,
+            "growthScore": 21420000,
+            "rewardAddRate": 8000,
+            "expAddRate": 3400
+        },
+        {
+            "growthLevel": 44,
+            "growthScore": 22360000,
+            "rewardAddRate": 8000,
+            "expAddRate": 3550
+        },
+        {
+            "growthLevel": 45,
+            "growthScore": 23320000,
+            "rewardAddRate": 9000,
+            "expAddRate": 3550
+        },
+        {
+            "growthLevel": 46,
+            "growthScore": 24300000,
+            "rewardAddRate": 9000,
+            "expAddRate": 3750
+        },
+        {
+            "growthLevel": 47,
+            "growthScore": 25300000,
+            "rewardAddRate": 9000,
+            "expAddRate": 3950
+        },
+        {
+            "growthLevel": 48,
+            "growthScore": 26320000,
+            "rewardAddRate": 9000,
+            "expAddRate": 4150
+        },
+        {
+            "growthLevel": 49,
+            "growthScore": 27360000,
+            "rewardAddRate": 9000,
+            "expAddRate": 4350
+        },
+        {
+            "growthLevel": 50,
+            "growthScore": 28420000,
+            "rewardAddRate": 10000,
+            "expAddRate": 4350
+        }
+    ]
+}

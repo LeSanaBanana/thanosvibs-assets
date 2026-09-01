@@ -1,0 +1,129 @@
+[
+    {
+        "level": "raid_knowhere_b01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 973331101,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate01"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973331101,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate02"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973331101,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate03"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973331101,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate04"
+                    },
+                    {
+                        "point": 20,
+                        "mob": 515331901,
+                        "group": 20,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 21,
+                        "mob": 515331901,
+                        "group": 21,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 22,
+                        "mob": 515331901,
+                        "group": 22,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 23,
+                        "mob": 515331901,
+                        "group": 23,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 24,
+                        "mob": 515331901,
+                        "group": 24,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 25,
+                        "mob": 515331901,
+                        "group": 25,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 20,
+                        "mob": 515331901,
+                        "group": 10,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dummy72_aether_controller_331901"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 515331901,
+                        "group": 11,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy72_pattern06"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 1238331901,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 1,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "scale": "1.05"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 1239331901,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "avoidancePriority": 1,
+                        "boss_cam": "-0.3,0.6,0.65",
+                        "appear": "appear_cam",
+                        "boss_cam_ani": "appear_cam"
+                    }
+                ]
+            }
+        ]
+    }
+]

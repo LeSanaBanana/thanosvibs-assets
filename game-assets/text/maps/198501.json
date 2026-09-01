@@ -1,0 +1,72 @@
+[
+    {
+        "level": "raid_blackswan_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 30,
+                        "mob": 973198501,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_01_331701"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 973198501,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_02_331701"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 973198501,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_03_331701"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 973198501,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_04_331701"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 547198501,
+                        "group": 10,
+                        "firstattack": 1,
+                        "sight": 10
+                    },
+                    {
+                        "point": 11,
+                        "mob": 1325198501,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "die": "phase2-die",
+                        "boss_appear": "skill01",
+                        "appear": "appear_cam",
+                        "boss_cam_ani": "appear_cam",
+                        "boss": 3,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.5,0.8",
+                        "scale": "1.4",
+                        "aiprefab": "ai_blackswan_331701"
+                    }
+                ]
+            }
+        ]
+    }
+]

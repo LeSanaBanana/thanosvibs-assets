@@ -1,0 +1,64 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4701246386614913899
+    },
+    "m_Name": "ADDON_SKILL",
+    "keys": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "values": [
+        {
+            "AddOnSkillGroupId": 1,
+            "SkillGroupIds": [
+                501600,
+                501700,
+                501200,
+                501300
+            ],
+            "AddOnGroupImagePath": "ui/etc/addon_gear_1",
+            "AddOnEffectColorHexCode": "F26627"
+        },
+        {
+            "AddOnSkillGroupId": 2,
+            "SkillGroupIds": [
+                501600,
+                501700,
+                501200,
+                501400
+            ],
+            "AddOnGroupImagePath": "ui/etc/addon_gear_2",
+            "AddOnEffectColorHexCode": "27F281"
+        },
+        {
+            "AddOnSkillGroupId": 3,
+            "SkillGroupIds": [
+                501600,
+                501700,
+                501200,
+                501100
+            ],
+            "AddOnGroupImagePath": "ui/etc/addon_gear_3",
+            "AddOnEffectColorHexCode": "F26027"
+        },
+        {
+            "AddOnSkillGroupId": 4,
+            "SkillGroupIds": [
+                501600,
+                501700,
+                501200,
+                501500
+            ],
+            "AddOnGroupImagePath": "ui/etc/addon_gear_4",
+            "AddOnEffectColorHexCode": "F2276A"
+        }
+    ]
+}

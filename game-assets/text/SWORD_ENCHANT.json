@@ -1,0 +1,64 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3690775209785544402
+    },
+    "m_Name": "SWORD_ENCHANT",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "level": 1,
+            "enchantProb": 1000000,
+            "materialQty": 7,
+            "enchantCost": 10000,
+            "removePrice": 100
+        },
+        {
+            "level": 2,
+            "enchantProb": 1000000,
+            "materialQty": 8,
+            "enchantCost": 20000,
+            "removePrice": 200
+        },
+        {
+            "level": 3,
+            "enchantProb": 1000000,
+            "materialQty": 9,
+            "enchantCost": 30000,
+            "removePrice": 300
+        },
+        {
+            "level": 4,
+            "enchantProb": 1000000,
+            "materialQty": 11,
+            "enchantCost": 40000,
+            "removePrice": 400
+        },
+        {
+            "level": 5,
+            "enchantProb": 1000000,
+            "materialQty": 13,
+            "enchantCost": 50000,
+            "removePrice": 500
+        },
+        {
+            "level": 6,
+            "enchantProb": 1000000,
+            "materialQty": 15,
+            "enchantCost": 60000,
+            "removePrice": 600
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "level": "base_city_wakanda_0000_g01",
+        "lightIndex": 2,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 613700303,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill03",
+                        "aiprefab": "ai_sv_destroyer01_S01 _700303"
+                    }
+                ]
+            }
+        ]
+    }
+]

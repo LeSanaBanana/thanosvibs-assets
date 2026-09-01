@@ -1,0 +1,136 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3245490350712063490
+    },
+    "m_Name": "DISCOUNT_GROW_GROUP",
+    "keys": [
+        101,
+        102,
+        1101,
+        1102
+    ],
+    "values": [
+        {
+            "growGroupId": 101,
+            "growType": 1,
+            "nextgrowType": 1
+        },
+        {
+            "growGroupId": 101,
+            "growType": 2,
+            "nextgrowType": 2
+        },
+        {
+            "growGroupId": 101,
+            "growType": 3,
+            "nextgrowType": 3
+        },
+        {
+            "growGroupId": 101,
+            "growType": 4,
+            "nextgrowType": 4
+        },
+        {
+            "growGroupId": 101,
+            "growType": 5,
+            "nextgrowType": 5
+        },
+        {
+            "growGroupId": 102,
+            "growType": 3,
+            "nextgrowType": 3
+        },
+        {
+            "growGroupId": 102,
+            "growType": 1,
+            "nextgrowType": 1
+        },
+        {
+            "growGroupId": 102,
+            "growType": 2,
+            "nextgrowType": 2
+        },
+        {
+            "growGroupId": 102,
+            "growType": 3,
+            "nextgrowType": 4
+        },
+        {
+            "growGroupId": 102,
+            "growType": 4,
+            "nextgrowType": 4
+        },
+        {
+            "growGroupId": 102,
+            "growType": 5,
+            "nextgrowType": 5
+        },
+        {
+            "growGroupId": 102,
+            "growType": 6,
+            "nextgrowType": 1
+        },
+        {
+            "growGroupId": 102,
+            "growType": 13,
+            "nextgrowType": 3
+        },
+        {
+            "growGroupId": 1101,
+            "growType": 1,
+            "nextgrowType": 1
+        },
+        {
+            "growGroupId": 1101,
+            "growType": 2,
+            "nextgrowType": 2
+        },
+        {
+            "growGroupId": 1101,
+            "growType": 4,
+            "nextgrowType": 4
+        },
+        {
+            "growGroupId": 1101,
+            "growType": 5,
+            "nextgrowType": 5
+        },
+        {
+            "growGroupId": 1102,
+            "growType": 1,
+            "nextgrowType": 1
+        },
+        {
+            "growGroupId": 1102,
+            "growType": 2,
+            "nextgrowType": 2
+        },
+        {
+            "growGroupId": 1102,
+            "growType": 4,
+            "nextgrowType": 4
+        },
+        {
+            "growGroupId": 1102,
+            "growType": 5,
+            "nextgrowType": 5
+        },
+        {
+            "growGroupId": 1102,
+            "growType": 6,
+            "nextgrowType": 1
+        }
+    ],
+    "counts": [
+        5,
+        8,
+        4,
+        5
+    ]
+}

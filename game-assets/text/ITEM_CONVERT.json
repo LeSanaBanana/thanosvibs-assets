@@ -1,0 +1,618 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4383239626102020777
+    },
+    "m_Name": "ITEM_CONVERT",
+    "keys": [
+        7,
+        106,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        11,
+        8
+    ],
+    "values": [
+        {
+            "convertItemType": 7,
+            "convertItemGrade": 0,
+            "convertValue": 0,
+            "convertCost": 2500,
+            "resultItemId": 9251,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 7,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 2500,
+            "resultItemId": 9251,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 7,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 3750,
+            "resultItemId": 9252,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 7,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 9253,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 7,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 6250,
+            "resultItemId": 9254,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 7,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 7500,
+            "resultItemId": 9255,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 7,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 8750,
+            "resultItemId": 9256,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 3250,
+            "resultItemId": 9261,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 4500,
+            "resultItemId": 9262,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 5750,
+            "resultItemId": 9263,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 7000,
+            "resultItemId": 9264,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 8250,
+            "resultItemId": 9265,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 9500,
+            "resultItemId": 9266,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 6,
+            "convertValue": 1,
+            "convertCost": 10000,
+            "resultItemId": 9841,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 7,
+            "convertValue": 1,
+            "convertCost": 11250,
+            "resultItemId": 9841,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 8,
+            "convertValue": 1,
+            "convertCost": 12500,
+            "resultItemId": 9841,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 9,
+            "convertValue": 1,
+            "convertCost": 13750,
+            "resultItemId": 9841,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 10,
+            "convertValue": 1,
+            "convertCost": 15000,
+            "resultItemId": 9841,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 11,
+            "convertValue": 1,
+            "convertCost": 16250,
+            "resultItemId": 9841,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 106,
+            "convertItemGrade": 12,
+            "convertValue": 1,
+            "convertCost": 17500,
+            "resultItemId": 9841,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 200,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 1250,
+            "resultItemId": 7101,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 200,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 2000,
+            "resultItemId": 7102,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 200,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 2750,
+            "resultItemId": 7103,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 200,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 3500,
+            "resultItemId": 7104,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 200,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 4250,
+            "resultItemId": 7105,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 200,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 7106,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 201,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 1250,
+            "resultItemId": 7101,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 201,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 2000,
+            "resultItemId": 7102,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 201,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 2750,
+            "resultItemId": 7103,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 201,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 3500,
+            "resultItemId": 7104,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 201,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 4250,
+            "resultItemId": 7105,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 201,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 7106,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 202,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 1250,
+            "resultItemId": 7101,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 202,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 2000,
+            "resultItemId": 7102,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 202,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 2750,
+            "resultItemId": 7103,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 202,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 3500,
+            "resultItemId": 7104,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 202,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 4250,
+            "resultItemId": 7105,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 202,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 7106,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 203,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 1250,
+            "resultItemId": 7101,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 203,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 2000,
+            "resultItemId": 7102,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 203,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 2750,
+            "resultItemId": 7103,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 203,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 3500,
+            "resultItemId": 7104,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 203,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 4250,
+            "resultItemId": 7105,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 203,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 7106,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 204,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 1250,
+            "resultItemId": 7101,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 204,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 2000,
+            "resultItemId": 7102,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 204,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 2750,
+            "resultItemId": 7103,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 204,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 3500,
+            "resultItemId": 7104,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 204,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 4250,
+            "resultItemId": 7105,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 204,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 7106,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 205,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 1250,
+            "resultItemId": 7101,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 205,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 2000,
+            "resultItemId": 7102,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 205,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 2750,
+            "resultItemId": 7103,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 205,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 3500,
+            "resultItemId": 7104,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 205,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 4250,
+            "resultItemId": 7105,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 205,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 7106,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 206,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 1250,
+            "resultItemId": 7101,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 206,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 2000,
+            "resultItemId": 7102,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 206,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 2750,
+            "resultItemId": 7103,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 206,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 3500,
+            "resultItemId": 7104,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 206,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 4250,
+            "resultItemId": 7105,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 206,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 7106,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 207,
+            "convertItemGrade": 1,
+            "convertValue": 0,
+            "convertCost": 1250,
+            "resultItemId": 7101,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 207,
+            "convertItemGrade": 2,
+            "convertValue": 0,
+            "convertCost": 2000,
+            "resultItemId": 7102,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 207,
+            "convertItemGrade": 3,
+            "convertValue": 0,
+            "convertCost": 2750,
+            "resultItemId": 7103,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 207,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 3500,
+            "resultItemId": 7104,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 207,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 4250,
+            "resultItemId": 7105,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 207,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 5000,
+            "resultItemId": 7106,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 11,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 10000,
+            "resultItemId": 9271,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 8,
+            "convertItemGrade": 4,
+            "convertValue": 0,
+            "convertCost": 8750,
+            "resultItemId": 9901,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 8,
+            "convertItemGrade": 5,
+            "convertValue": 0,
+            "convertCost": 10000,
+            "resultItemId": 9902,
+            "resultItemQty": 1
+        },
+        {
+            "convertItemType": 8,
+            "convertItemGrade": 6,
+            "convertValue": 0,
+            "convertCost": 11250,
+            "resultItemId": 9903,
+            "resultItemQty": 1
+        }
+    ],
+    "counts": [
+        7,
+        13,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        1,
+        3
+    ]
+}

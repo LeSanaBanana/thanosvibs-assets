@@ -1,0 +1,38 @@
+[
+    {
+        "level": "Raid_Necropolis",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 934197001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy06_beginner"
+                    },
+                    {
+                        "appear": "appear",
+                        "point": 90,
+                        "mob": 563197001,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidProxima_beginner",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "scale": "1.1",
+                        "boss_cam": "0,0.29,0.37",
+                        "boss_appear": "skill01"
+                    }
+                ]
+            }
+        ]
+    }
+]

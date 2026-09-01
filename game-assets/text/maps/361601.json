@@ -1,0 +1,46 @@
+[
+    {
+        "level": "arcade_blackwidow_budapest_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "succ_cam": "0,-180,0",
+        "succ_cam_pos": "-1,0,0",
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 429361601,
+                        "group": 99,
+                        "sight": 23,
+                        "firstattack": 1,
+                        "avoidancePriority": 0,
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 2,
+                        "mob": 410361601,
+                        "group": 2,
+                        "sight": 23,
+                        "firstattack": 1,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_gimmick_dummy19_361601"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 835361601,
+                        "group": 1,
+                        "sight": 8,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss_appear": "skill01",
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_sv_yelenabelova02"
+                    }
+                ]
+            }
+        ]
+    }
+]

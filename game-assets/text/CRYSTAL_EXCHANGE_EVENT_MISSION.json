@@ -1,0 +1,40 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5000154490892887062
+    },
+    "m_Name": "CRYSTAL_EXCHANGE_EVENT_MISSION",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "EventId": 1,
+            "MissionCount": 10,
+            "CashQty": 100
+        },
+        {
+            "EventId": 1,
+            "MissionCount": 20,
+            "CashQty": 100
+        },
+        {
+            "EventId": 1,
+            "MissionCount": 30,
+            "CashQty": 100
+        },
+        {
+            "EventId": 1,
+            "MissionCount": 40,
+            "CashQty": 100
+        }
+    ],
+    "counts": [
+        4
+    ]
+}

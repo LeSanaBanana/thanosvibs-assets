@@ -1,0 +1,61 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2389913570139928596
+    },
+    "m_Name": "NEXT_DAY_MISSION_REWARD",
+    "keys": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "values": [
+        {
+            "groupId": 1,
+            "id": 1001,
+            "rewardType": 500,
+            "rewardValue": 50147,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 2,
+            "id": 2001,
+            "rewardType": 500,
+            "rewardValue": 50148,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 3,
+            "id": 3001,
+            "rewardType": 500,
+            "rewardValue": 50149,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 4,
+            "id": 4001,
+            "rewardType": 500,
+            "rewardValue": 50150,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 4,
+            "id": 4002,
+            "rewardType": 500,
+            "rewardValue": 50151,
+            "rewardQty": 1
+        }
+    ],
+    "counts": [
+        1,
+        1,
+        1,
+        2
+    ]
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "level": "raid_galactus_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "uifollow_determine_visible": 1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1146410234,
+                        "group": 1,
+                        "keymob": 1,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "autoinvincible": "40:5",
+                        "boss_cam_ani": "appear_cam",
+                        "aiprefab": "ai_galactus01"
+                    },
+                    {
+                        "point": 999,
+                        "mob": 533410234,
+                        "group": 60,
+                        "sight": 150,
+                        "firstattack": 1,
+                        "aiprefab": "ai_boss_galactus_cooper_skill"
+                    }
+                ]
+            }
+        ]
+    }
+]

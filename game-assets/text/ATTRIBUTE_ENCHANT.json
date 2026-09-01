@@ -1,0 +1,3616 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7581516169408346717
+    },
+    "m_Name": "ATTRIBUTE_ENCHANT",
+    "keys": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10101,
+        10102,
+        10103,
+        10104,
+        10105,
+        10106,
+        10201,
+        10202,
+        10203,
+        10204,
+        10205,
+        10206,
+        10301,
+        10302,
+        10303,
+        10304,
+        10305,
+        10306,
+        11001,
+        11002,
+        11003,
+        11004,
+        11005,
+        11006,
+        11101,
+        11102,
+        11103,
+        11104,
+        11105,
+        11106,
+        11201,
+        11202,
+        11203,
+        11204,
+        11205,
+        11206,
+        11301,
+        11302,
+        11303,
+        11304,
+        11305,
+        11306,
+        20001,
+        20002,
+        20003,
+        20004,
+        20005,
+        20006,
+        20101,
+        20102,
+        20103,
+        20104,
+        20105,
+        20106,
+        20201,
+        20202,
+        20203,
+        20204,
+        20205,
+        20206,
+        20301,
+        20302,
+        20303,
+        20304,
+        20305,
+        20306,
+        21001,
+        21002,
+        21003,
+        21004,
+        21005,
+        21006,
+        21101,
+        21102,
+        21103,
+        21104,
+        21105,
+        21106,
+        21201,
+        21202,
+        21203,
+        21204,
+        21205,
+        21206,
+        21301,
+        21302,
+        21303,
+        21304,
+        21305,
+        21306,
+        30001,
+        30002,
+        30003,
+        30004,
+        30005,
+        30006,
+        30101,
+        30102,
+        30103,
+        30104,
+        30105,
+        30106,
+        30201,
+        30202,
+        30203,
+        30204,
+        30205,
+        30206,
+        30301,
+        30302,
+        30303,
+        30304,
+        30305,
+        30306,
+        31001,
+        31002,
+        31003,
+        31004,
+        31005,
+        31006,
+        31101,
+        31102,
+        31103,
+        31104,
+        31105,
+        31106,
+        31201,
+        31202,
+        31203,
+        31204,
+        31205,
+        31206,
+        31301,
+        31302,
+        31303,
+        31304,
+        31305,
+        31306
+    ],
+    "values": [
+        {
+            "id": 11001,
+            "groupId": 1000,
+            "grade": 1,
+            "price": 20000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160001,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11002,
+            "groupId": 1000,
+            "grade": 2,
+            "price": 40000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160002,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11003,
+            "groupId": 1000,
+            "grade": 3,
+            "price": 60000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160003,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11004,
+            "groupId": 1000,
+            "grade": 4,
+            "price": 80000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160004,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11005,
+            "groupId": 1000,
+            "grade": 5,
+            "price": 100000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160005,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11006,
+            "groupId": 1000,
+            "grade": 6,
+            "price": 120000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160006,
+                    "qty": 2
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11011,
+            "groupId": 1010,
+            "grade": 1,
+            "price": 20000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170001,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11012,
+            "groupId": 1010,
+            "grade": 2,
+            "price": 40000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170002,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11013,
+            "groupId": 1010,
+            "grade": 3,
+            "price": 60000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170003,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11014,
+            "groupId": 1010,
+            "grade": 4,
+            "price": 80000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170004,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11015,
+            "groupId": 1010,
+            "grade": 5,
+            "price": 100000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170005,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11016,
+            "groupId": 1010,
+            "grade": 6,
+            "price": 120000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170006,
+                    "qty": 2
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11021,
+            "groupId": 1020,
+            "grade": 1,
+            "price": 20000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180001,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11022,
+            "groupId": 1020,
+            "grade": 2,
+            "price": 40000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180002,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11023,
+            "groupId": 1020,
+            "grade": 3,
+            "price": 60000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180003,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11024,
+            "groupId": 1020,
+            "grade": 4,
+            "price": 80000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180004,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11025,
+            "groupId": 1020,
+            "grade": 5,
+            "price": 100000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180005,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11026,
+            "groupId": 1020,
+            "grade": 6,
+            "price": 120000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180006,
+                    "qty": 2
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11031,
+            "groupId": 1030,
+            "grade": 1,
+            "price": 20000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190001,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11032,
+            "groupId": 1030,
+            "grade": 2,
+            "price": 40000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190002,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11033,
+            "groupId": 1030,
+            "grade": 3,
+            "price": 60000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190003,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11034,
+            "groupId": 1030,
+            "grade": 4,
+            "price": 80000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190004,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11035,
+            "groupId": 1030,
+            "grade": 5,
+            "price": 100000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190005,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11036,
+            "groupId": 1030,
+            "grade": 6,
+            "price": 120000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190006,
+                    "qty": 2
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11101,
+            "groupId": 1100,
+            "grade": 1,
+            "price": 20000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160001,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11102,
+            "groupId": 1100,
+            "grade": 2,
+            "price": 40000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160002,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11103,
+            "groupId": 1100,
+            "grade": 3,
+            "price": 60000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160003,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11104,
+            "groupId": 1100,
+            "grade": 4,
+            "price": 80000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160004,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11105,
+            "groupId": 1100,
+            "grade": 5,
+            "price": 100000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160005,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11106,
+            "groupId": 1100,
+            "grade": 6,
+            "price": 120000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160006,
+                    "qty": 2
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11111,
+            "groupId": 1110,
+            "grade": 1,
+            "price": 20000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170001,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11112,
+            "groupId": 1110,
+            "grade": 2,
+            "price": 40000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170002,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11113,
+            "groupId": 1110,
+            "grade": 3,
+            "price": 60000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170003,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11114,
+            "groupId": 1110,
+            "grade": 4,
+            "price": 80000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170004,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11115,
+            "groupId": 1110,
+            "grade": 5,
+            "price": 100000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170005,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11116,
+            "groupId": 1110,
+            "grade": 6,
+            "price": 120000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170006,
+                    "qty": 2
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11121,
+            "groupId": 1120,
+            "grade": 1,
+            "price": 20000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180001,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11122,
+            "groupId": 1120,
+            "grade": 2,
+            "price": 40000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180002,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11123,
+            "groupId": 1120,
+            "grade": 3,
+            "price": 60000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180003,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11124,
+            "groupId": 1120,
+            "grade": 4,
+            "price": 80000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180004,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11125,
+            "groupId": 1120,
+            "grade": 5,
+            "price": 100000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180005,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11126,
+            "groupId": 1120,
+            "grade": 6,
+            "price": 120000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180006,
+                    "qty": 2
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11131,
+            "groupId": 1130,
+            "grade": 1,
+            "price": 20000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190001,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11132,
+            "groupId": 1130,
+            "grade": 2,
+            "price": 40000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190002,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11133,
+            "groupId": 1130,
+            "grade": 3,
+            "price": 60000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190003,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11134,
+            "groupId": 1130,
+            "grade": 4,
+            "price": 80000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190004,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11135,
+            "groupId": 1130,
+            "grade": 5,
+            "price": 100000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190005,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 11136,
+            "groupId": 1130,
+            "grade": 6,
+            "price": 120000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190006,
+                    "qty": 2
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12001,
+            "groupId": 2000,
+            "grade": 1,
+            "price": 30000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160001,
+                    "qty": 96
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12002,
+            "groupId": 2000,
+            "grade": 2,
+            "price": 60000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160002,
+                    "qty": 48
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12003,
+            "groupId": 2000,
+            "grade": 3,
+            "price": 90000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160003,
+                    "qty": 24
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12004,
+            "groupId": 2000,
+            "grade": 4,
+            "price": 120000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160004,
+                    "qty": 12
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12005,
+            "groupId": 2000,
+            "grade": 5,
+            "price": 150000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160005,
+                    "qty": 6
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12006,
+            "groupId": 2000,
+            "grade": 6,
+            "price": 180000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160006,
+                    "qty": 3
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12011,
+            "groupId": 2010,
+            "grade": 1,
+            "price": 30000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170001,
+                    "qty": 96
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12012,
+            "groupId": 2010,
+            "grade": 2,
+            "price": 60000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170002,
+                    "qty": 48
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12013,
+            "groupId": 2010,
+            "grade": 3,
+            "price": 90000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170003,
+                    "qty": 24
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12014,
+            "groupId": 2010,
+            "grade": 4,
+            "price": 120000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170004,
+                    "qty": 12
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12015,
+            "groupId": 2010,
+            "grade": 5,
+            "price": 150000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170005,
+                    "qty": 6
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12016,
+            "groupId": 2010,
+            "grade": 6,
+            "price": 180000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170006,
+                    "qty": 3
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12021,
+            "groupId": 2020,
+            "grade": 1,
+            "price": 30000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180001,
+                    "qty": 96
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12022,
+            "groupId": 2020,
+            "grade": 2,
+            "price": 60000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180002,
+                    "qty": 48
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12023,
+            "groupId": 2020,
+            "grade": 3,
+            "price": 90000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180003,
+                    "qty": 24
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12024,
+            "groupId": 2020,
+            "grade": 4,
+            "price": 120000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180004,
+                    "qty": 12
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12025,
+            "groupId": 2020,
+            "grade": 5,
+            "price": 150000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180005,
+                    "qty": 6
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12026,
+            "groupId": 2020,
+            "grade": 6,
+            "price": 180000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180006,
+                    "qty": 3
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12031,
+            "groupId": 2030,
+            "grade": 1,
+            "price": 30000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190001,
+                    "qty": 96
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12032,
+            "groupId": 2030,
+            "grade": 2,
+            "price": 60000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190002,
+                    "qty": 48
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12033,
+            "groupId": 2030,
+            "grade": 3,
+            "price": 90000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190003,
+                    "qty": 24
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12034,
+            "groupId": 2030,
+            "grade": 4,
+            "price": 120000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190004,
+                    "qty": 12
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12035,
+            "groupId": 2030,
+            "grade": 5,
+            "price": 150000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190005,
+                    "qty": 6
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12036,
+            "groupId": 2030,
+            "grade": 6,
+            "price": 180000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190006,
+                    "qty": 3
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12101,
+            "groupId": 2100,
+            "grade": 1,
+            "price": 30000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160001,
+                    "qty": 96
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12102,
+            "groupId": 2100,
+            "grade": 2,
+            "price": 60000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160002,
+                    "qty": 48
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12103,
+            "groupId": 2100,
+            "grade": 3,
+            "price": 90000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160003,
+                    "qty": 24
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12104,
+            "groupId": 2100,
+            "grade": 4,
+            "price": 120000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160004,
+                    "qty": 12
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12105,
+            "groupId": 2100,
+            "grade": 5,
+            "price": 150000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160005,
+                    "qty": 6
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12106,
+            "groupId": 2100,
+            "grade": 6,
+            "price": 180000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160006,
+                    "qty": 3
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12111,
+            "groupId": 2110,
+            "grade": 1,
+            "price": 30000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170001,
+                    "qty": 96
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12112,
+            "groupId": 2110,
+            "grade": 2,
+            "price": 60000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170002,
+                    "qty": 48
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12113,
+            "groupId": 2110,
+            "grade": 3,
+            "price": 90000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170003,
+                    "qty": 24
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12114,
+            "groupId": 2110,
+            "grade": 4,
+            "price": 120000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170004,
+                    "qty": 12
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12115,
+            "groupId": 2110,
+            "grade": 5,
+            "price": 150000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170005,
+                    "qty": 6
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12116,
+            "groupId": 2110,
+            "grade": 6,
+            "price": 180000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170006,
+                    "qty": 3
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12121,
+            "groupId": 2120,
+            "grade": 1,
+            "price": 30000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180001,
+                    "qty": 96
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12122,
+            "groupId": 2120,
+            "grade": 2,
+            "price": 60000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180002,
+                    "qty": 48
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12123,
+            "groupId": 2120,
+            "grade": 3,
+            "price": 90000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180003,
+                    "qty": 24
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12124,
+            "groupId": 2120,
+            "grade": 4,
+            "price": 120000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180004,
+                    "qty": 12
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12125,
+            "groupId": 2120,
+            "grade": 5,
+            "price": 150000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180005,
+                    "qty": 6
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12126,
+            "groupId": 2120,
+            "grade": 6,
+            "price": 180000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180006,
+                    "qty": 3
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12131,
+            "groupId": 2130,
+            "grade": 1,
+            "price": 30000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190001,
+                    "qty": 96
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12132,
+            "groupId": 2130,
+            "grade": 2,
+            "price": 60000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190002,
+                    "qty": 48
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12133,
+            "groupId": 2130,
+            "grade": 3,
+            "price": 90000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190003,
+                    "qty": 24
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12134,
+            "groupId": 2130,
+            "grade": 4,
+            "price": 120000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190004,
+                    "qty": 12
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12135,
+            "groupId": 2130,
+            "grade": 5,
+            "price": 150000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190005,
+                    "qty": 6
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 12136,
+            "groupId": 2130,
+            "grade": 6,
+            "price": 180000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190006,
+                    "qty": 3
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13001,
+            "groupId": 3000,
+            "grade": 1,
+            "price": 40000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160001,
+                    "qty": 128
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13002,
+            "groupId": 3000,
+            "grade": 2,
+            "price": 80000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160002,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13003,
+            "groupId": 3000,
+            "grade": 3,
+            "price": 120000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160003,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13004,
+            "groupId": 3000,
+            "grade": 4,
+            "price": 160000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160004,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13005,
+            "groupId": 3000,
+            "grade": 5,
+            "price": 200000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160005,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13006,
+            "groupId": 3000,
+            "grade": 6,
+            "price": 240000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160006,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13011,
+            "groupId": 3010,
+            "grade": 1,
+            "price": 40000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170001,
+                    "qty": 128
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13012,
+            "groupId": 3010,
+            "grade": 2,
+            "price": 80000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170002,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13013,
+            "groupId": 3010,
+            "grade": 3,
+            "price": 120000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170003,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13014,
+            "groupId": 3010,
+            "grade": 4,
+            "price": 160000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170004,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13015,
+            "groupId": 3010,
+            "grade": 5,
+            "price": 200000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170005,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13016,
+            "groupId": 3010,
+            "grade": 6,
+            "price": 240000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170006,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13021,
+            "groupId": 3020,
+            "grade": 1,
+            "price": 40000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180001,
+                    "qty": 128
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13022,
+            "groupId": 3020,
+            "grade": 2,
+            "price": 80000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180002,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13023,
+            "groupId": 3020,
+            "grade": 3,
+            "price": 120000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180003,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13024,
+            "groupId": 3020,
+            "grade": 4,
+            "price": 160000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180004,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13025,
+            "groupId": 3020,
+            "grade": 5,
+            "price": 200000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180005,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13026,
+            "groupId": 3020,
+            "grade": 6,
+            "price": 240000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180006,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13031,
+            "groupId": 3030,
+            "grade": 1,
+            "price": 40000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190001,
+                    "qty": 128
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13032,
+            "groupId": 3030,
+            "grade": 2,
+            "price": 80000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190002,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13033,
+            "groupId": 3030,
+            "grade": 3,
+            "price": 120000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190003,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13034,
+            "groupId": 3030,
+            "grade": 4,
+            "price": 160000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190004,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13035,
+            "groupId": 3030,
+            "grade": 5,
+            "price": 200000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190005,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13036,
+            "groupId": 3030,
+            "grade": 6,
+            "price": 240000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190006,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13101,
+            "groupId": 3100,
+            "grade": 1,
+            "price": 40000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160001,
+                    "qty": 128
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13102,
+            "groupId": 3100,
+            "grade": 2,
+            "price": 80000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160002,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13103,
+            "groupId": 3100,
+            "grade": 3,
+            "price": 120000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160003,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13104,
+            "groupId": 3100,
+            "grade": 4,
+            "price": 160000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160004,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13105,
+            "groupId": 3100,
+            "grade": 5,
+            "price": 200000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160005,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13106,
+            "groupId": 3100,
+            "grade": 6,
+            "price": 240000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1160006,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13111,
+            "groupId": 3110,
+            "grade": 1,
+            "price": 40000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170001,
+                    "qty": 128
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13112,
+            "groupId": 3110,
+            "grade": 2,
+            "price": 80000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170002,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13113,
+            "groupId": 3110,
+            "grade": 3,
+            "price": 120000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170003,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13114,
+            "groupId": 3110,
+            "grade": 4,
+            "price": 160000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170004,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13115,
+            "groupId": 3110,
+            "grade": 5,
+            "price": 200000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170005,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13116,
+            "groupId": 3110,
+            "grade": 6,
+            "price": 240000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1170006,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13121,
+            "groupId": 3120,
+            "grade": 1,
+            "price": 40000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180001,
+                    "qty": 128
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13122,
+            "groupId": 3120,
+            "grade": 2,
+            "price": 80000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180002,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13123,
+            "groupId": 3120,
+            "grade": 3,
+            "price": 120000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180003,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13124,
+            "groupId": 3120,
+            "grade": 4,
+            "price": 160000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180004,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13125,
+            "groupId": 3120,
+            "grade": 5,
+            "price": 200000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180005,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13126,
+            "groupId": 3120,
+            "grade": 6,
+            "price": 240000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1180006,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13131,
+            "groupId": 3130,
+            "grade": 1,
+            "price": 40000,
+            "prob": 1000000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190001,
+                    "qty": 128
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13132,
+            "groupId": 3130,
+            "grade": 2,
+            "price": 80000,
+            "prob": 769230,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190002,
+                    "qty": 64
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13133,
+            "groupId": 3130,
+            "grade": 3,
+            "price": 120000,
+            "prob": 625000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190003,
+                    "qty": 32
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13134,
+            "groupId": 3130,
+            "grade": 4,
+            "price": 160000,
+            "prob": 500000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190004,
+                    "qty": 16
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13135,
+            "groupId": 3130,
+            "grade": 5,
+            "price": 200000,
+            "prob": 250000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190005,
+                    "qty": 8
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "id": 13136,
+            "groupId": 3130,
+            "grade": 6,
+            "price": 240000,
+            "prob": 125000,
+            "requireItemList": [
+                {
+                    "type": 100,
+                    "value": 1190006,
+                    "qty": 4
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                },
+                {
+                    "type": 0,
+                    "value": 0,
+                    "qty": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4813101171092212779
+    },
+    "m_Name": "ZOMBIE_SURVIVAL_RANK_REWARD",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "rewardId": 1,
+            "rewardRankMin": 1,
+            "rewardRankMax": 1,
+            "rewardType": 100,
+            "rewardValue": 292,
+            "rewardQty": 1000,
+            "rewardType2": 100,
+            "rewardValue2": 304,
+            "rewardQty2": 1100,
+            "rewardType3": 3,
+            "rewardValue3": 0,
+            "rewardQty3": 4000000
+        },
+        {
+            "rewardId": 2,
+            "rewardRankMin": 2,
+            "rewardRankMax": 2,
+            "rewardType": 100,
+            "rewardValue": 292,
+            "rewardQty": 800,
+            "rewardType2": 100,
+            "rewardValue2": 304,
+            "rewardQty2": 900,
+            "rewardType3": 3,
+            "rewardValue3": 0,
+            "rewardQty3": 3000000
+        },
+        {
+            "rewardId": 3,
+            "rewardRankMin": 3,
+            "rewardRankMax": 3,
+            "rewardType": 100,
+            "rewardValue": 292,
+            "rewardQty": 600,
+            "rewardType2": 100,
+            "rewardValue2": 304,
+            "rewardQty2": 700,
+            "rewardType3": 3,
+            "rewardValue3": 0,
+            "rewardQty3": 2000000
+        },
+        {
+            "rewardId": 4,
+            "rewardRankMin": 4,
+            "rewardRankMax": 10,
+            "rewardType": 100,
+            "rewardValue": 292,
+            "rewardQty": 400,
+            "rewardType2": 100,
+            "rewardValue2": 304,
+            "rewardQty2": 500,
+            "rewardType3": 3,
+            "rewardValue3": 0,
+            "rewardQty3": 1000000
+        },
+        {
+            "rewardId": 5,
+            "rewardRankMin": 11,
+            "rewardRankMax": 40,
+            "rewardType": 100,
+            "rewardValue": 292,
+            "rewardQty": 150,
+            "rewardType2": 100,
+            "rewardValue2": 304,
+            "rewardQty2": 250,
+            "rewardType3": 3,
+            "rewardValue3": 0,
+            "rewardQty3": 500000
+        },
+        {
+            "rewardId": 6,
+            "rewardRankMin": 41,
+            "rewardRankMax": 50,
+            "rewardType": 100,
+            "rewardValue": 292,
+            "rewardQty": 50,
+            "rewardType2": 100,
+            "rewardValue2": 304,
+            "rewardQty2": 150,
+            "rewardType3": 3,
+            "rewardValue3": 0,
+            "rewardQty3": 500000
+        }
+    ]
+}

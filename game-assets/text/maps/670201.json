@@ -1,0 +1,207 @@
+[
+    {
+        "level": "base_doomcastle_in_prison_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 499670201,
+                        "group": 90,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "autoheal": 60,
+                        "aiprefab": "ai_dynamicswitch_90_tuto"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 499670201,
+                        "group": 91,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "autoheal": 60,
+                        "aiprefab": "ai_dynamicswitch_91"
+                    },
+                    {
+                        "point": 100,
+                        "mob": 505670201,
+                        "group": 100,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 101,
+                        "mob": 505670201,
+                        "group": 101,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 1,
+                        "mob": 316670201,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_standing_group1"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 316670201,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_standing_group2"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 316670201,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_standing_group2"
+                    },
+                    {
+                        "point": 4,
+                        "mob": 316670201,
+                        "group": 3,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_patrol_670201_1_group3"
+                    },
+                    {
+                        "point": 200,
+                        "mob": 463670201,
+                        "group": 10,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_670201_talker"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "base_doomcastle_in_prison_g01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 315670201,
+                        "group": 10,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_rotate_group1"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 315670201,
+                        "group": 10,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_rotate_group1"
+                    },
+                    {
+                        "point": 90,
+                        "mob": 499670201,
+                        "group": 90,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "autoheal": 60,
+                        "aiprefab": "ai_dynamicswitch_90"
+                    },
+                    {
+                        "point": 100,
+                        "mob": 505670201,
+                        "group": 100,
+                        "sight": 30,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 3,
+                        "mob": 315670201,
+                        "group": 20,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_rotate_group2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "base_doomcastle_in_prison_b01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 316670201,
+                        "group": 10,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_patrol_670201_3_group1_1"
+                    },
+                    {
+                        "point": 10,
+                        "mob": 315670201,
+                        "group": 10,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_latverian_patrol_670201_3_group1_3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "base_doomcastle_in_prison_e01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 250670201,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "boss_cam": "0,0.3,0",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_vil_doombot_dynamic_boss",
+                        "trigger": 1
+                    },
+                    {
+                        "point": 1,
+                        "mob": 463670201,
+                        "group": 10,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_670201_talker_boss"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 506670201,
+                        "group": 10,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_die_1sec"
+                    }
+                ]
+            }
+        ]
+    }
+]

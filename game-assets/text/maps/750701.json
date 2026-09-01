@@ -1,0 +1,43 @@
+[
+    {
+        "level": "raid_mephisto_a01",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 200,
+                        "mob": 1271750701,
+                        "group": 2,
+                        "boss": 4,
+                        "hpgroup": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_sv_hela01_S02_01_750701",
+                        "scale": 1.2,
+                        "delay": 1.5
+                    },
+                    {
+                        "point": 201,
+                        "mob": 1272750701,
+                        "group": 1,
+                        "boss": 3,
+                        "hpgroup": 1,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "sight": 20,
+                        "boss_cam": "0.9,0.2,0.5",
+                        "firstattack": 1,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_sv_hadespluto01_01_750701",
+                        "boss_appear": "idle",
+                        "scale": 1.1
+                    }
+                ]
+            }
+        ]
+    }
+]

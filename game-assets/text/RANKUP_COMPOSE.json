@@ -1,0 +1,232 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3180814452042539229
+    },
+    "m_Name": "RANKUP_COMPOSE",
+    "keys": [
+        1070001,
+        1070002,
+        1070003,
+        1070004,
+        1070005,
+        1070006,
+        1140001,
+        1280001,
+        1280002,
+        1280003,
+        1280004,
+        1280005,
+        9601,
+        9602,
+        9603,
+        9604,
+        9605,
+        9606
+    ],
+    "values": [
+        {
+            "groupid": 1,
+            "id": 1070001,
+            "grade": 1,
+            "requireItemId": 0,
+            "requireQty": 0,
+            "requirePrice": 0,
+            "disassembleItemId": 0,
+            "disassembleQty": 0,
+            "disassemblePrice": 0
+        },
+        {
+            "groupid": 1,
+            "id": 1070002,
+            "grade": 2,
+            "requireItemId": 1070001,
+            "requireQty": 50,
+            "requirePrice": 125000,
+            "disassembleItemId": 1070001,
+            "disassembleQty": 50,
+            "disassemblePrice": 100000
+        },
+        {
+            "groupid": 1,
+            "id": 1070003,
+            "grade": 3,
+            "requireItemId": 1070002,
+            "requireQty": 2,
+            "requirePrice": 187500,
+            "disassembleItemId": 1070001,
+            "disassembleQty": 100,
+            "disassemblePrice": 150000
+        },
+        {
+            "groupid": 1,
+            "id": 1070004,
+            "grade": 4,
+            "requireItemId": 1070003,
+            "requireQty": 2,
+            "requirePrice": 250000,
+            "disassembleItemId": 1070001,
+            "disassembleQty": 200,
+            "disassemblePrice": 200000
+        },
+        {
+            "groupid": 1,
+            "id": 1070005,
+            "grade": 5,
+            "requireItemId": 1070004,
+            "requireQty": 2,
+            "requirePrice": 312500,
+            "disassembleItemId": 1070001,
+            "disassembleQty": 400,
+            "disassemblePrice": 250000
+        },
+        {
+            "groupid": 1,
+            "id": 1070006,
+            "grade": 6,
+            "requireItemId": 1070005,
+            "requireQty": 2,
+            "requirePrice": 375000,
+            "disassembleItemId": 1070001,
+            "disassembleQty": 800,
+            "disassemblePrice": 300000
+        },
+        {
+            "groupid": 2,
+            "id": 1140001,
+            "grade": 1,
+            "requireItemId": 0,
+            "requireQty": 0,
+            "requirePrice": 0,
+            "disassembleItemId": 0,
+            "disassembleQty": 0,
+            "disassemblePrice": 0
+        },
+        {
+            "groupid": 2,
+            "id": 1280001,
+            "grade": 2,
+            "requireItemId": 1140001,
+            "requireQty": 35,
+            "requirePrice": 250000,
+            "disassembleItemId": 1140001,
+            "disassembleQty": 35,
+            "disassemblePrice": 200000
+        },
+        {
+            "groupid": 2,
+            "id": 1280002,
+            "grade": 3,
+            "requireItemId": 1280001,
+            "requireQty": 2,
+            "requirePrice": 375000,
+            "disassembleItemId": 1140001,
+            "disassembleQty": 70,
+            "disassemblePrice": 300000
+        },
+        {
+            "groupid": 2,
+            "id": 1280003,
+            "grade": 4,
+            "requireItemId": 1280002,
+            "requireQty": 2,
+            "requirePrice": 500000,
+            "disassembleItemId": 1140001,
+            "disassembleQty": 140,
+            "disassemblePrice": 400000
+        },
+        {
+            "groupid": 2,
+            "id": 1280004,
+            "grade": 5,
+            "requireItemId": 1280003,
+            "requireQty": 2,
+            "requirePrice": 625000,
+            "disassembleItemId": 1140001,
+            "disassembleQty": 280,
+            "disassemblePrice": 500000
+        },
+        {
+            "groupid": 2,
+            "id": 1280005,
+            "grade": 6,
+            "requireItemId": 1280004,
+            "requireQty": 2,
+            "requirePrice": 750000,
+            "disassembleItemId": 1140001,
+            "disassembleQty": 560,
+            "disassemblePrice": 600000
+        },
+        {
+            "groupid": 11,
+            "id": 9601,
+            "grade": 1,
+            "requireItemId": 0,
+            "requireQty": 0,
+            "requirePrice": 0,
+            "disassembleItemId": 0,
+            "disassembleQty": 0,
+            "disassemblePrice": 0
+        },
+        {
+            "groupid": 11,
+            "id": 9602,
+            "grade": 2,
+            "requireItemId": 9601,
+            "requireQty": 2,
+            "requirePrice": 1000,
+            "disassembleItemId": 9601,
+            "disassembleQty": 2,
+            "disassemblePrice": 800
+        },
+        {
+            "groupid": 11,
+            "id": 9603,
+            "grade": 3,
+            "requireItemId": 9602,
+            "requireQty": 2,
+            "requirePrice": 1500,
+            "disassembleItemId": 9601,
+            "disassembleQty": 4,
+            "disassemblePrice": 1200
+        },
+        {
+            "groupid": 11,
+            "id": 9604,
+            "grade": 4,
+            "requireItemId": 9603,
+            "requireQty": 2,
+            "requirePrice": 2000,
+            "disassembleItemId": 9601,
+            "disassembleQty": 8,
+            "disassemblePrice": 1600
+        },
+        {
+            "groupid": 11,
+            "id": 9605,
+            "grade": 5,
+            "requireItemId": 9604,
+            "requireQty": 2,
+            "requirePrice": 2500,
+            "disassembleItemId": 9601,
+            "disassembleQty": 16,
+            "disassemblePrice": 2000
+        },
+        {
+            "groupid": 11,
+            "id": 9606,
+            "grade": 6,
+            "requireItemId": 9605,
+            "requireQty": 2,
+            "requirePrice": 3000,
+            "disassembleItemId": 9601,
+            "disassembleQty": 32,
+            "disassemblePrice": 2400
+        }
+    ]
+}

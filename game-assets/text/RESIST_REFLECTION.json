@@ -1,0 +1,75 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6963987283891636093
+    },
+    "m_Name": "RESIST_REFLECTION",
+    "keys": [
+        0,
+        1,
+        2
+    ],
+    "values": [
+        {
+            "resistReflectionList": [
+                {
+                    "ability": 232,
+                    "addDesc": 1
+                }
+            ]
+        },
+        {
+            "resistReflectionList": [
+                {
+                    "ability": 233,
+                    "addDesc": 1
+                }
+            ]
+        },
+        {
+            "resistReflectionList": [
+                {
+                    "ability": 232,
+                    "addDesc": 0
+                },
+                {
+                    "ability": 233,
+                    "addDesc": 0
+                },
+                {
+                    "ability": 259,
+                    "addDesc": 1
+                },
+                {
+                    "ability": 234,
+                    "addDesc": 0
+                },
+                {
+                    "ability": 235,
+                    "addDesc": 0
+                },
+                {
+                    "ability": 238,
+                    "addDesc": 0
+                },
+                {
+                    "ability": 236,
+                    "addDesc": 0
+                },
+                {
+                    "ability": 237,
+                    "addDesc": 0
+                },
+                {
+                    "ability": 317,
+                    "addDesc": 0
+                }
+            ]
+        }
+    ]
+}

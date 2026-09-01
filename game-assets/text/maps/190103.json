@@ -1,0 +1,75 @@
+[
+    {
+        "level": "Raid_Orollan",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 935190103,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 2
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 210190103,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 2
+                    },
+                    {
+                        "appear": "appear01",
+                        "point": 90,
+                        "mob": 564190103,
+                        "group": 90,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "die": "die01",
+                        "aiprefab": "AI_RaidCorvus_1",
+                        "scale": 1.1
+                    },
+                    {
+                        "appear": "appear02",
+                        "point": 91,
+                        "mob": 566190103,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "delay": "4.5",
+                        "autoregen": "90-1",
+                        "avoidancePriority": 0,
+                        "die": "die01",
+                        "aiprefab": "AI_RaidCorvus_2",
+                        "scale": 1.1
+                    },
+                    {
+                        "appear": "appear02",
+                        "point": 92,
+                        "mob": 567190103,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "delay": "4.5",
+                        "autoregen": "91-1",
+                        "avoidancePriority": 0,
+                        "die": "die02",
+                        "aiprefab": "AI_RaidCorvus_3",
+                        "scale": 1.1,
+                        "keymob": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

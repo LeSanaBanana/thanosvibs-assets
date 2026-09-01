@@ -1,0 +1,58 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3037677310318456176
+    },
+    "m_Name": "EVENT_TIMELINE",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        9998,
+        9999
+    ],
+    "values": [
+        {
+            "EventId": 1,
+            "RootNodeId": 10101,
+            "BackgroundImagePath": "ui/bg/EventTimeline_BG.png",
+            "AchieveGroupId": 22701
+        },
+        {
+            "EventId": 2,
+            "RootNodeId": 20101,
+            "BackgroundImagePath": "ui/bg/EventTimeline_BG.png",
+            "AchieveGroupId": 22702
+        },
+        {
+            "EventId": 3,
+            "RootNodeId": 30101,
+            "BackgroundImagePath": "ui/bg/EventTimeline_BG.png",
+            "AchieveGroupId": 22703
+        },
+        {
+            "EventId": 4,
+            "RootNodeId": 40101,
+            "BackgroundImagePath": "ui/bg/EventTimeline_BG.png",
+            "AchieveGroupId": 22704
+        },
+        {
+            "EventId": 9998,
+            "RootNodeId": 99980101,
+            "BackgroundImagePath": "ui/bg/EventTimeline_BG.png",
+            "AchieveGroupId": 22701
+        },
+        {
+            "EventId": 9999,
+            "RootNodeId": 99990101,
+            "BackgroundImagePath": "ui/bg/EventTimeline_BG.png",
+            "AchieveGroupId": 22701
+        }
+    ]
+}

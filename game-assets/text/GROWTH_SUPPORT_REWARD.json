@@ -1,0 +1,102 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7670640113402247308
+    },
+    "m_Name": "GROWTH_SUPPORT_REWARD",
+    "keys": [
+        10001,
+        10002
+    ],
+    "values": [
+        {
+            "groupId": 10001,
+            "type": 1,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 5000000,
+            "chagneImg": "ui/item/growth_support_gold"
+        },
+        {
+            "groupId": 10001,
+            "type": 1,
+            "rewardType": 300,
+            "rewardValue": 13508,
+            "rewardQty": 1,
+            "chagneImg": "ui/item/growth_support_normal_box"
+        },
+        {
+            "groupId": 10001,
+            "type": 2,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 900,
+            "chagneImg": "ui/item/growth_support_gem"
+        },
+        {
+            "groupId": 10001,
+            "type": 2,
+            "rewardType": 300,
+            "rewardValue": 13509,
+            "rewardQty": 1,
+            "chagneImg": "ui/item/growth_support_special_box"
+        },
+        {
+            "groupId": 10001,
+            "type": 3,
+            "rewardType": 300,
+            "rewardValue": 13507,
+            "rewardQty": 1,
+            "chagneImg": "0"
+        },
+        {
+            "groupId": 10002,
+            "type": 1,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 5000000,
+            "chagneImg": "ui/item/growth_support_gold"
+        },
+        {
+            "groupId": 10002,
+            "type": 1,
+            "rewardType": 300,
+            "rewardValue": 13508,
+            "rewardQty": 1,
+            "chagneImg": "ui/item/growth_support_normal_box"
+        },
+        {
+            "groupId": 10002,
+            "type": 2,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 1200,
+            "chagneImg": "ui/item/growth_support_gem"
+        },
+        {
+            "groupId": 10002,
+            "type": 2,
+            "rewardType": 300,
+            "rewardValue": 13509,
+            "rewardQty": 1,
+            "chagneImg": "ui/item/growth_support_special_box"
+        },
+        {
+            "groupId": 10002,
+            "type": 3,
+            "rewardType": 300,
+            "rewardValue": 13507,
+            "rewardQty": 1,
+            "chagneImg": "0"
+        }
+    ],
+    "counts": [
+        5,
+        5
+    ]
+}

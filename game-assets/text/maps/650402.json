@@ -1,0 +1,405 @@
+[
+    {
+        "level": "base_triskelion_1001_b02",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 2,
+                        "mob": 305650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_001"
+                    },
+                    {
+                        "point": 5,
+                        "mob": 305650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_002"
+                    },
+                    {
+                        "point": 7,
+                        "mob": 305650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_003"
+                    },
+                    {
+                        "point": 9,
+                        "mob": 305650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_004"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 305650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_005"
+                    },
+                    {
+                        "point": 500,
+                        "mob": 496650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_999"
+                    },
+                    {
+                        "point": 501,
+                        "mob": 496650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_999"
+                    },
+                    {
+                        "point": 502,
+                        "mob": 496650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_999"
+                    },
+                    {
+                        "point": 503,
+                        "mob": 496650402,
+                        "group": 1,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_999"
+                    },
+                    {
+                        "point": 300,
+                        "mob": 494650402,
+                        "group": 999,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_gimmick_dummy59_650402_01"
+                    },
+                    {
+                        "point": 301,
+                        "mob": 494650402,
+                        "group": 99,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_gimmick_dummy59_650402_02"
+                    },
+                    {
+                        "point": 996,
+                        "mob": 494650402,
+                        "group": 996,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy59_650402_03"
+                    },
+                    {
+                        "point": 995,
+                        "mob": 494650402,
+                        "group": 995,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy59_650402_cooltime"
+                    },
+                    {
+                        "point": 800,
+                        "mob": 503650402,
+                        "group": 200,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_gate_650402_01"
+                    },
+                    {
+                        "point": 900,
+                        "mob": 493650402,
+                        "group": 900,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "aiprefab": "ai_abn_cocoon650401_01"
+                    },
+                    {
+                        "point": 901,
+                        "mob": 494650402,
+                        "group": 901,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "aiprefab": "ai_deletae_cocoon650401_01"
+                    },
+                    {
+                        "point": 900,
+                        "mob": 304650402,
+                        "group": 900,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "scale": 1.1,
+                        "aiprefab": "ai_abn_cocoon650401_01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "base_triskelion_0101_c02",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 307650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 9,
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 306650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 9,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 305650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 9,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 4,
+                        "mob": 307650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 9,
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 5,
+                        "mob": 306650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 9,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 6,
+                        "mob": 305650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 9,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 7,
+                        "mob": 308650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 12,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_010"
+                    },
+                    {
+                        "point": 8,
+                        "mob": 308650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 12,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_010"
+                    },
+                    {
+                        "point": 9,
+                        "mob": 308650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 12,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_010"
+                    },
+                    {
+                        "point": 10,
+                        "mob": 308650402,
+                        "group": 1,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 12,
+                        "scale": 1.1,
+                        "aiprefab": "ai_650402_010"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 307650402,
+                        "group": 2,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "appear": "appear02",
+                        "autoregen": "1-4",
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 305650402,
+                        "group": 2,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "scale": 1.1,
+                        "appear": "appear02",
+                        "autoregen": "1-4",
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 13,
+                        "mob": 305650402,
+                        "group": 2,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "scale": 1.0,
+                        "appear": "appear02",
+                        "autoregen": "1-4",
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 14,
+                        "mob": 307650402,
+                        "group": 2,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "appear": "appear02",
+                        "autoregen": "1-4",
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 15,
+                        "mob": 305650402,
+                        "group": 2,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "scale": 1.0,
+                        "appear": "appear02",
+                        "autoregen": "1-4",
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 16,
+                        "mob": 305650402,
+                        "group": 2,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "scale": 1.0,
+                        "appear": "appear02",
+                        "autoregen": "1-4",
+                        "aiprefab": "ai_650402_011"
+                    },
+                    {
+                        "point": 17,
+                        "mob": 309650402,
+                        "group": 2,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "appear": "appear01",
+                        "autoregen": "1-4",
+                        "aiprefab": "ai_650402_012"
+                    },
+                    {
+                        "point": 18,
+                        "mob": 309650402,
+                        "group": 2,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 20,
+                        "appear": "appear01",
+                        "autoregen": "1-4",
+                        "aiprefab": "ai_650402_013"
+                    },
+                    {
+                        "point": 999,
+                        "mob": 494650402,
+                        "group": 999,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy59_650402_cooltime_clear"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "base_triskelion_0001_d02",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1211650402,
+                        "group": 1,
+                        "sight": 20,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss_cam": "0,0.7,1",
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_appear": "wait",
+                        "scale": 1.3
+                    },
+                    {
+                        "point": 555,
+                        "mob": 494650402,
+                        "group": 555,
+                        "sight": 180,
+                        "firstattack": 1,
+                        "aiprefab": "ai_650401_dialog01"
+                    }
+                ]
+            }
+        ]
+    }
+]

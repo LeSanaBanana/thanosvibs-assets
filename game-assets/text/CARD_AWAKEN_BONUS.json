@@ -1,0 +1,58 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3939392557802112181
+    },
+    "m_Name": "CARD_AWAKEN_BONUS",
+    "keys": [
+        101,
+        102,
+        201,
+        202,
+        301,
+        302
+    ],
+    "values": [
+        {
+            "awakenbonusid": 101,
+            "awakentype": 1,
+            "awakenqty": 3,
+            "opt": 1200001010
+        },
+        {
+            "awakenbonusid": 102,
+            "awakentype": 1,
+            "awakenqty": 6,
+            "opt": 1200001020
+        },
+        {
+            "awakenbonusid": 201,
+            "awakentype": 2,
+            "awakenqty": 3,
+            "opt": 1200002010
+        },
+        {
+            "awakenbonusid": 202,
+            "awakentype": 2,
+            "awakenqty": 6,
+            "opt": 1200002020
+        },
+        {
+            "awakenbonusid": 301,
+            "awakentype": 3,
+            "awakenqty": 3,
+            "opt": 1200003010
+        },
+        {
+            "awakenbonusid": 302,
+            "awakentype": 3,
+            "awakenqty": 6,
+            "opt": 1200003020
+        }
+    ]
+}

@@ -1,0 +1,674 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7842149305321459998
+    },
+    "m_Name": "BOSS_REWARD_MULTI",
+    "list": [
+        {
+            "id": 10101,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 1,
+            "vip": 0,
+            "rewardTerm": 0,
+            "pickId": 93011,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10102,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 2,
+            "vip": 1,
+            "rewardTerm": 0,
+            "pickId": 93012,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10103,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 3,
+            "vip": 3,
+            "rewardTerm": 0,
+            "pickId": 93013,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10104,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 4,
+            "vip": 5,
+            "rewardTerm": 0,
+            "pickId": 93014,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10105,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 5,
+            "vip": 7,
+            "rewardTerm": 0,
+            "pickId": 93015,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10106,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 6,
+            "vip": 9,
+            "rewardTerm": 0,
+            "pickId": 93016,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10107,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 7,
+            "vip": 12,
+            "rewardTerm": 0,
+            "pickId": 93017,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10108,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 8,
+            "vip": 15,
+            "rewardTerm": 0,
+            "pickId": 93018,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10109,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 9,
+            "vip": 17,
+            "rewardTerm": 0,
+            "pickId": 93019,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10110,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 10,
+            "vip": 20,
+            "rewardTerm": 0,
+            "pickId": 93020,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10111,
+            "grade": 1,
+            "haveHeroMin": 1,
+            "order": 11,
+            "vip": 0,
+            "rewardTerm": 1,
+            "pickId": 1661,
+            "rewardOpenCost": 2
+        },
+        {
+            "id": 10201,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 1,
+            "vip": 0,
+            "rewardTerm": 0,
+            "pickId": 93021,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10202,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 2,
+            "vip": 1,
+            "rewardTerm": 0,
+            "pickId": 93022,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10203,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 3,
+            "vip": 3,
+            "rewardTerm": 0,
+            "pickId": 93023,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10204,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 4,
+            "vip": 5,
+            "rewardTerm": 0,
+            "pickId": 93024,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10205,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 5,
+            "vip": 7,
+            "rewardTerm": 0,
+            "pickId": 93025,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10206,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 6,
+            "vip": 9,
+            "rewardTerm": 0,
+            "pickId": 93026,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10207,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 7,
+            "vip": 12,
+            "rewardTerm": 0,
+            "pickId": 93027,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10208,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 8,
+            "vip": 15,
+            "rewardTerm": 0,
+            "pickId": 93028,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10209,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 9,
+            "vip": 17,
+            "rewardTerm": 0,
+            "pickId": 93029,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10210,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 10,
+            "vip": 20,
+            "rewardTerm": 0,
+            "pickId": 93030,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10211,
+            "grade": 2,
+            "haveHeroMin": 21,
+            "order": 11,
+            "vip": 0,
+            "rewardTerm": 1,
+            "pickId": 1662,
+            "rewardOpenCost": 4
+        },
+        {
+            "id": 10301,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 1,
+            "vip": 0,
+            "rewardTerm": 0,
+            "pickId": 93031,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10302,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 2,
+            "vip": 1,
+            "rewardTerm": 0,
+            "pickId": 93032,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10303,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 3,
+            "vip": 3,
+            "rewardTerm": 0,
+            "pickId": 93033,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10304,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 4,
+            "vip": 5,
+            "rewardTerm": 0,
+            "pickId": 93034,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10305,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 5,
+            "vip": 7,
+            "rewardTerm": 0,
+            "pickId": 93035,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10306,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 6,
+            "vip": 9,
+            "rewardTerm": 0,
+            "pickId": 93036,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10307,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 7,
+            "vip": 12,
+            "rewardTerm": 0,
+            "pickId": 93037,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10308,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 8,
+            "vip": 15,
+            "rewardTerm": 0,
+            "pickId": 93038,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10309,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 9,
+            "vip": 17,
+            "rewardTerm": 0,
+            "pickId": 93039,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10310,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 10,
+            "vip": 20,
+            "rewardTerm": 0,
+            "pickId": 93040,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10311,
+            "grade": 3,
+            "haveHeroMin": 41,
+            "order": 11,
+            "vip": 0,
+            "rewardTerm": 1,
+            "pickId": 1663,
+            "rewardOpenCost": 8
+        },
+        {
+            "id": 10401,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 1,
+            "vip": 0,
+            "rewardTerm": 0,
+            "pickId": 93041,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10402,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 2,
+            "vip": 1,
+            "rewardTerm": 0,
+            "pickId": 93042,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10403,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 3,
+            "vip": 3,
+            "rewardTerm": 0,
+            "pickId": 93043,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10404,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 4,
+            "vip": 5,
+            "rewardTerm": 0,
+            "pickId": 93044,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10405,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 5,
+            "vip": 7,
+            "rewardTerm": 0,
+            "pickId": 93045,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10406,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 6,
+            "vip": 9,
+            "rewardTerm": 0,
+            "pickId": 93046,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10407,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 7,
+            "vip": 12,
+            "rewardTerm": 0,
+            "pickId": 93047,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10408,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 8,
+            "vip": 15,
+            "rewardTerm": 0,
+            "pickId": 93048,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10409,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 9,
+            "vip": 17,
+            "rewardTerm": 0,
+            "pickId": 93049,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10410,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 10,
+            "vip": 20,
+            "rewardTerm": 0,
+            "pickId": 93050,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10411,
+            "grade": 4,
+            "haveHeroMin": 61,
+            "order": 11,
+            "vip": 0,
+            "rewardTerm": 1,
+            "pickId": 1664,
+            "rewardOpenCost": 12
+        },
+        {
+            "id": 10501,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 1,
+            "vip": 0,
+            "rewardTerm": 0,
+            "pickId": 93051,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10502,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 2,
+            "vip": 1,
+            "rewardTerm": 0,
+            "pickId": 93052,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10503,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 3,
+            "vip": 3,
+            "rewardTerm": 0,
+            "pickId": 93053,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10504,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 4,
+            "vip": 5,
+            "rewardTerm": 0,
+            "pickId": 93054,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10505,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 5,
+            "vip": 7,
+            "rewardTerm": 0,
+            "pickId": 93055,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10506,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 6,
+            "vip": 9,
+            "rewardTerm": 0,
+            "pickId": 93056,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10507,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 7,
+            "vip": 12,
+            "rewardTerm": 0,
+            "pickId": 93057,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10508,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 8,
+            "vip": 15,
+            "rewardTerm": 0,
+            "pickId": 93058,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10509,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 9,
+            "vip": 17,
+            "rewardTerm": 0,
+            "pickId": 93059,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10510,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 10,
+            "vip": 20,
+            "rewardTerm": 0,
+            "pickId": 93060,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10511,
+            "grade": 5,
+            "haveHeroMin": 81,
+            "order": 11,
+            "vip": 0,
+            "rewardTerm": 1,
+            "pickId": 1665,
+            "rewardOpenCost": 14
+        },
+        {
+            "id": 10601,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 1,
+            "vip": 0,
+            "rewardTerm": 0,
+            "pickId": 93061,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10602,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 2,
+            "vip": 1,
+            "rewardTerm": 0,
+            "pickId": 93062,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10603,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 3,
+            "vip": 3,
+            "rewardTerm": 0,
+            "pickId": 93063,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10604,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 4,
+            "vip": 5,
+            "rewardTerm": 0,
+            "pickId": 93064,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10605,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 5,
+            "vip": 7,
+            "rewardTerm": 0,
+            "pickId": 93065,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10606,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 6,
+            "vip": 9,
+            "rewardTerm": 0,
+            "pickId": 93066,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10607,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 7,
+            "vip": 12,
+            "rewardTerm": 0,
+            "pickId": 93067,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10608,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 8,
+            "vip": 15,
+            "rewardTerm": 0,
+            "pickId": 93068,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10609,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 9,
+            "vip": 17,
+            "rewardTerm": 0,
+            "pickId": 93069,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10610,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 10,
+            "vip": 20,
+            "rewardTerm": 0,
+            "pickId": 93070,
+            "rewardOpenCost": 16
+        },
+        {
+            "id": 10611,
+            "grade": 6,
+            "haveHeroMin": 101,
+            "order": 11,
+            "vip": 0,
+            "rewardTerm": 1,
+            "pickId": 1666,
+            "rewardOpenCost": 16
+        }
+    ]
+}

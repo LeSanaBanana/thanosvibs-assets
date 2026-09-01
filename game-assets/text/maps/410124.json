@@ -1,0 +1,126 @@
+[
+    {
+        "level": "raid_master_mold_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "uifollow_determine_visible": 1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 777410124,
+                        "group": 1,
+                        "keymob": 1,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "boss_cam_ani": "appear_cam",
+                        "summon": "0:2",
+                        "scale": 1.44,
+                        "die": "skill08-02",
+                        "hidehp": true
+                    },
+                    {
+                        "point": 11,
+                        "mob": 780410124,
+                        "group": 2,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "scale": 1.1,
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 13,
+                        "mob": 780410124,
+                        "group": 2,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "scale": 1.3,
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 15,
+                        "mob": 780410124,
+                        "group": 2,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "scale": 1.0,
+                        "autoregen": 0
+                    },
+                    {
+                        "point": 1,
+                        "mob": 979410124,
+                        "group": 10,
+                        "sight": 150,
+                        "firstattack": 1,
+                        "aiprefab": "ai_mastermold_summon_dummy10",
+                        "autoregen": "2-3"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 979410124,
+                        "group": 11,
+                        "sight": 150,
+                        "firstattack": 1,
+                        "aiprefab": "ai_mastermold_summon_dummy11",
+                        "autoregen": "3-3"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 979410124,
+                        "group": 60,
+                        "sight": 150,
+                        "firstattack": 1,
+                        "aiprefab": "ai_sv_sentinel_cooper_skill"
+                    },
+                    {
+                        "point": 13,
+                        "mob": 780410124,
+                        "group": 6,
+                        "sight": 150,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "scale": 1.5,
+                        "autoregen": "4-3"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 979410124,
+                        "group": 15,
+                        "sight": 150,
+                        "firstattack": 1,
+                        "autoregen": "6-1",
+                        "aiprefab": "ai_mastermold_phase_dummy01"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 979410124,
+                        "group": 20,
+                        "sight": 150,
+                        "firstattack": 1,
+                        "autoregen": "6-1",
+                        "aiprefab": "ai_mastermold_passive01"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 779410124,
+                        "group": 9,
+                        "keymob": 1,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "appear": "appear",
+                        "delay": 2.0,
+                        "scale": 0.85,
+                        "autoregen": "1-1"
+                    }
+                ]
+            }
+        ]
+    }
+]

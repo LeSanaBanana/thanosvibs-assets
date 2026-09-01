@@ -1,0 +1,90 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3624017256552193916
+    },
+    "m_Name": "EVENT_RANK_TOURNAMENT_REWARD",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "rewardId": 101,
+            "rewardGroupId": 1,
+            "tournament": 16,
+            "result": 0,
+            "commonReward": 60001
+        },
+        {
+            "rewardId": 102,
+            "rewardGroupId": 1,
+            "tournament": 16,
+            "result": 1,
+            "commonReward": 60002
+        },
+        {
+            "rewardId": 103,
+            "rewardGroupId": 1,
+            "tournament": 8,
+            "result": 0,
+            "commonReward": 60003
+        },
+        {
+            "rewardId": 104,
+            "rewardGroupId": 1,
+            "tournament": 8,
+            "result": 1,
+            "commonReward": 60004
+        },
+        {
+            "rewardId": 105,
+            "rewardGroupId": 1,
+            "tournament": 4,
+            "result": 0,
+            "commonReward": 60005
+        },
+        {
+            "rewardId": 106,
+            "rewardGroupId": 1,
+            "tournament": 4,
+            "result": 1,
+            "commonReward": 60006
+        },
+        {
+            "rewardId": 107,
+            "rewardGroupId": 1,
+            "tournament": 3,
+            "result": 0,
+            "commonReward": 60007
+        },
+        {
+            "rewardId": 108,
+            "rewardGroupId": 1,
+            "tournament": 3,
+            "result": 1,
+            "commonReward": 60008
+        },
+        {
+            "rewardId": 109,
+            "rewardGroupId": 1,
+            "tournament": 2,
+            "result": 0,
+            "commonReward": 60009
+        },
+        {
+            "rewardId": 110,
+            "rewardGroupId": 1,
+            "tournament": 2,
+            "result": 1,
+            "commonReward": 60010
+        }
+    ],
+    "counts": [
+        10
+    ]
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "level": "event_shadowland_0000_a04",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1290760101,
+                        "group": 2,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss_appear": "skill01",
+                        "boss": 24,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.2,0.5",
+                        "scale": "1.2"
+                    },
+                    {
+                        "point": 2,
+                        "mob": 1226760101,
+                        "group": 3,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss": 24,
+                        "avoidancePriority": 0,
+                        "scale": "1.2",
+                        "aiprefab": "ai_boss_captainAmerica01_S13_760101"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "level": "raid_knowhere_hard",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 936330501,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 1,
+                        "aiprefab": "AI_RaidEbonyMaw_gimmick"
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 936330501,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 1
+                    },
+                    {
+                        "point": 9003,
+                        "mob": 936330501,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 1,
+                        "aiprefab": "AI_RaidEbonyMaw_gimmick"
+                    },
+                    {
+                        "point": 9004,
+                        "mob": 936330501,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 1
+                    },
+                    {
+                        "point": 9005,
+                        "mob": 936330501,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 1,
+                        "aiprefab": "AI_RaidEbonyMaw_gimmick"
+                    },
+                    {
+                        "point": 9006,
+                        "mob": 936330501,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 1
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330501,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate01"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330501,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate02"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330501,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate03"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330501,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate04"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330501,
+                        "group": 95,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate05"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 955330501,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy07_01"
+                    },
+                    {
+                        "appear": "appear",
+                        "point": 90,
+                        "mob": 757330501,
+                        "group": 90,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "scale": 1.1,
+                        "keymob": 1,
+                        "aiprefab": "ai_raidebonymaw_hard"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3370993688965203102
+    },
+    "m_Name": "SWORD_OPTION_FIX",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "values": [
+        {
+            "optionFixQty": 1,
+            "optionFixPrice": 50
+        },
+        {
+            "optionFixQty": 2,
+            "optionFixPrice": 100
+        },
+        {
+            "optionFixQty": 3,
+            "optionFixPrice": 150
+        },
+        {
+            "optionFixQty": 4,
+            "optionFixPrice": 300
+        },
+        {
+            "optionFixQty": 5,
+            "optionFixPrice": 500
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+[
+    {
+        "level": "Event_1st_Anniversary_Party_0101_A01",
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 11,
+                        "mob": 100161401,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "9-3"
+                    },
+                    {
+                        "point": 11,
+                        "patroldist": 4,
+                        "patroltime": "1.0-2.0",
+                        "mob": 168161401,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 12,
+                        "patroldist": 4,
+                        "patroltime": "1.0-2.0",
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 13,
+                        "patroldist": 4,
+                        "patroltime": "1.0-2.0",
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 14,
+                        "patroldist": 4,
+                        "patroltime": "1.0-2.0",
+                        "mob": 168161401,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 15,
+                        "patroldist": 4,
+                        "patroltime": "1.0-2.0",
+                        "mob": 168161401,
+                        "group": 1,
+                        "sight": 7,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear"
+                    },
+                    {
+                        "point": 16,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-2",
+                        "delay": "0.7-0.9",
+                        "trigger": 1
+                    },
+                    {
+                        "point": 17,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-2",
+                        "delay": "0.1-0.2",
+                        "trigger": 1
+                    },
+                    {
+                        "point": 18,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-2",
+                        "delay": "0.1-0.2",
+                        "trigger": 1
+                    },
+                    {
+                        "point": 19,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-2",
+                        "delay": "0.7-0.9",
+                        "trigger": 1
+                    },
+                    {
+                        "point": 20,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-2",
+                        "delay": "0.1-0.2",
+                        "trigger": 1
+                    },
+                    {
+                        "point": 21,
+                        "mob": 168161401,
+                        "group": 2,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-2",
+                        "delay": "0.4-0.9",
+                        "trigger": 11
+                    },
+                    {
+                        "point": 22,
+                        "mob": 168161401,
+                        "group": 2,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-2",
+                        "delay": "0.1-0.3",
+                        "trigger": 11
+                    },
+                    {
+                        "point": 23,
+                        "mob": 168161401,
+                        "group": 2,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-2",
+                        "delay": "0.1-0.3",
+                        "trigger": 11
+                    },
+                    {
+                        "point": 24,
+                        "mob": 167161401,
+                        "group": 2,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-3",
+                        "delay": "0.1-0.3",
+                        "trigger": 11
+                    },
+                    {
+                        "point": 25,
+                        "mob": 167161401,
+                        "group": 2,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-3",
+                        "delay": "0.4-0.9",
+                        "trigger": 11
+                    },
+                    {
+                        "point": 26,
+                        "mob": 168161401,
+                        "group": 2,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-3",
+                        "delay": "0.4-0.9",
+                        "trigger": 11
+                    },
+                    {
+                        "point": 27,
+                        "mob": 168161401,
+                        "group": 2,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "1-3",
+                        "delay": "0.4-0.9",
+                        "trigger": 11
+                    },
+                    {
+                        "point": 28,
+                        "mob": 168161401,
+                        "group": 3,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "2-2"
+                    },
+                    {
+                        "point": 29,
+                        "mob": 168161401,
+                        "group": 3,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "2-2",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 168161401,
+                        "group": 3,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "2-2",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 31,
+                        "mob": 168161401,
+                        "group": 3,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "2-4"
+                    },
+                    {
+                        "point": 32,
+                        "mob": 167161401,
+                        "group": 3,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "2-4",
+                        "delay": "0.4-0.8"
+                    },
+                    {
+                        "point": 33,
+                        "mob": 167161401,
+                        "group": 3,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "2-4",
+                        "delay": "0.4-0.8"
+                    },
+                    {
+                        "point": 34,
+                        "mob": 167161401,
+                        "group": 3,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "2-4",
+                        "delay": "0.1-0.4"
+                    },
+                    {
+                        "point": 35,
+                        "mob": 168161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 36,
+                        "mob": 168161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 37,
+                        "mob": 168161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "3-2",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 38,
+                        "mob": 167161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "3-3",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 39,
+                        "mob": 168161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "3-3",
+                        "trigger": 3
+                    },
+                    {
+                        "point": 40,
+                        "mob": 167161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "3-3",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 41,
+                        "mob": 167161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "4-1",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 42,
+                        "mob": 168161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "4-1",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 43,
+                        "mob": 168161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "4-1",
+                        "delay": "0.1-0.3"
+                    },
+                    {
+                        "point": 44,
+                        "mob": 167161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "4-1",
+                        "trigger": 3
+                    },
+                    {
+                        "point": 45,
+                        "mob": 168161401,
+                        "group": 4,
+                        "sight": 27,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "autoregen": "4-1",
+                        "delay": "0.1-0.3",
+                        "trigger": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "Event_1st_Anniversary_Party_0001_A01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 11,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "3.0-5.0",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 12,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "3.0-5.0",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 13,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "3.0-5.0",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 14,
+                        "mob": 167161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "3.0-5.0",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 15,
+                        "mob": 168161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "8.5-9.5",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 16,
+                        "mob": 168161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "8.5-9.5",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 17,
+                        "mob": 168161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "8.5-9.5",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 18,
+                        "mob": 168161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "8.5-9.5",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 19,
+                        "mob": 168161401,
+                        "group": 1,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "delay": "8.5-9.5",
+                        "trigger": 2
+                    },
+                    {
+                        "point": 99,
+                        "mob": 572161401,
+                        "group": 99,
+                        "sight": 17,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "boss": 3,
+                        "trigger": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6106626761828373251
+    },
+    "m_Name": "ZOMBIE_SURVIVAL_UPGRADE",
+    "keys": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        201,
+        202,
+        203,
+        204,
+        205
+    ],
+    "values": [
+        {
+            "upgradeId": 101,
+            "upgradeType": 1,
+            "abilityGroupId": 0,
+            "noHeroType": 0,
+            "openStage": 1
+        },
+        {
+            "upgradeId": 102,
+            "upgradeType": 1,
+            "abilityGroupId": 0,
+            "noHeroType": 1,
+            "openStage": 1
+        },
+        {
+            "upgradeId": 103,
+            "upgradeType": 1,
+            "abilityGroupId": 0,
+            "noHeroType": 2,
+            "openStage": 1
+        },
+        {
+            "upgradeId": 104,
+            "upgradeType": 1,
+            "abilityGroupId": 0,
+            "noHeroType": 3,
+            "openStage": 1
+        },
+        {
+            "upgradeId": 105,
+            "upgradeType": 1,
+            "abilityGroupId": 0,
+            "noHeroType": 9999,
+            "openStage": 1
+        },
+        {
+            "upgradeId": 201,
+            "upgradeType": 2,
+            "abilityGroupId": 620040001,
+            "noHeroType": 0,
+            "openStage": 6
+        },
+        {
+            "upgradeId": 202,
+            "upgradeType": 2,
+            "abilityGroupId": 620040002,
+            "noHeroType": 0,
+            "openStage": 6
+        },
+        {
+            "upgradeId": 203,
+            "upgradeType": 2,
+            "abilityGroupId": 620040003,
+            "noHeroType": 0,
+            "openStage": 6
+        },
+        {
+            "upgradeId": 204,
+            "upgradeType": 2,
+            "abilityGroupId": 620040005,
+            "noHeroType": 0,
+            "openStage": 6
+        },
+        {
+            "upgradeId": 205,
+            "upgradeType": 2,
+            "abilityGroupId": 620040007,
+            "noHeroType": 0,
+            "openStage": 6
+        }
+    ]
+}

@@ -1,0 +1,3758 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1718222878067989476
+    },
+    "m_Name": "EVENT_BINGO_LINE",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+    ],
+    "values": [
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 100
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 10199007,
+            "rewardQty": 100
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2160,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 100
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1120001,
+            "rewardQty": 100
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 307,
+            "rewardValue": 2244,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 3503,
+            "rewardQty": 100
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1110001,
+            "rewardQty": 100
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 1,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3105,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 300
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 200
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 300
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 200
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3105,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 300
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 200
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 300
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 200
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3105,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2205,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3803,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2270,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 300,
+            "rewardValue": 1078,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2205,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3803,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2270,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 300,
+            "rewardValue": 1078,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3803,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3803,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3803,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3803,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3803,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 3801,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3802,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3803,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 3603,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3604,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2277,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2340,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 120
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 75
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 110
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 15
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 50
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 50
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 15
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 40
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 80
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3703,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 304,
+            "rewardQty": 300
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 80
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 307,
+            "rewardValue": 2340,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3904,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2340,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 120
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 75
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 110
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 80
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3703,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 304,
+            "rewardQty": 300
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 80
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 307,
+            "rewardValue": 2340,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3904,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2340,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 120
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 75
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 110
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 15
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 50
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 50
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 15
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 40
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 80
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3703,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 304,
+            "rewardQty": 300
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 80
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 307,
+            "rewardValue": 2340,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3904,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2340,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 120
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 60
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 75
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 110
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 80
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 3703,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 304,
+            "rewardQty": 300
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 80
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 307,
+            "rewardValue": 2340,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3904,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3204,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 2901,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 2704,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 16146,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 307,
+            "rewardValue": 16027,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 307,
+            "rewardValue": 2265,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 3703,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2451,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 3904,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 3914,
+            "rewardQty": 1
+        }
+    ],
+    "counts": [
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12
+    ]
+}

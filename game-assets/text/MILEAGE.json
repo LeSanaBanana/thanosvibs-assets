@@ -1,0 +1,1294 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 890257298464737413
+    },
+    "m_Name": "MILEAGE",
+    "list": [
+        {
+            "id": 1301,
+            "grade": 1,
+            "gradeQty": 0,
+            "_rewardType": 0,
+            "_rewardValue": 0,
+            "_rewardQty": 0,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1302,
+            "grade": 2,
+            "gradeQty": 5,
+            "_rewardType": 300,
+            "_rewardValue": 1988,
+            "_rewardQty": 1,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1303,
+            "grade": 3,
+            "gradeQty": 15,
+            "_rewardType": 307,
+            "_rewardValue": 2385,
+            "_rewardQty": 1,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1304,
+            "grade": 4,
+            "gradeQty": 35,
+            "_rewardType": 4,
+            "_rewardValue": 0,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1305,
+            "grade": 5,
+            "gradeQty": 65,
+            "_rewardType": 100,
+            "_rewardValue": 1140002,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1306,
+            "grade": 6,
+            "gradeQty": 95,
+            "_rewardType": 100,
+            "_rewardValue": 1140003,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1307,
+            "grade": 7,
+            "gradeQty": 125,
+            "_rewardType": 100,
+            "_rewardValue": 1140001,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1308,
+            "grade": 8,
+            "gradeQty": 155,
+            "_rewardType": 300,
+            "_rewardValue": 13675,
+            "_rewardQty": 1,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1309,
+            "grade": 9,
+            "gradeQty": 185,
+            "_rewardType": 100,
+            "_rewardValue": 9821,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1310,
+            "grade": 10,
+            "gradeQty": 235,
+            "_rewardType": 4,
+            "_rewardValue": 0,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1311,
+            "grade": 11,
+            "gradeQty": 285,
+            "_rewardType": 100,
+            "_rewardValue": 304,
+            "_rewardQty": 1250,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1312,
+            "grade": 12,
+            "gradeQty": 335,
+            "_rewardType": 100,
+            "_rewardValue": 1330001,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1313,
+            "grade": 13,
+            "gradeQty": 385,
+            "_rewardType": 100,
+            "_rewardValue": 1330002,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1314,
+            "grade": 14,
+            "gradeQty": 435,
+            "_rewardType": 100,
+            "_rewardValue": 1330003,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1315,
+            "grade": 15,
+            "gradeQty": 485,
+            "_rewardType": 300,
+            "_rewardValue": 13682,
+            "_rewardQty": 1,
+            "eventGroup": 0,
+            "commonGroup": 3
+        },
+        {
+            "id": 1401,
+            "grade": 1,
+            "gradeQty": 0,
+            "_rewardType": 0,
+            "_rewardValue": 0,
+            "_rewardQty": 0,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1402,
+            "grade": 2,
+            "gradeQty": 5,
+            "_rewardType": 300,
+            "_rewardValue": 1988,
+            "_rewardQty": 1,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1403,
+            "grade": 3,
+            "gradeQty": 15,
+            "_rewardType": 307,
+            "_rewardValue": 2385,
+            "_rewardQty": 1,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1404,
+            "grade": 4,
+            "gradeQty": 35,
+            "_rewardType": 4,
+            "_rewardValue": 0,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1405,
+            "grade": 5,
+            "gradeQty": 65,
+            "_rewardType": 100,
+            "_rewardValue": 1140002,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1406,
+            "grade": 6,
+            "gradeQty": 95,
+            "_rewardType": 100,
+            "_rewardValue": 1140003,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1407,
+            "grade": 7,
+            "gradeQty": 125,
+            "_rewardType": 100,
+            "_rewardValue": 1140001,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1408,
+            "grade": 8,
+            "gradeQty": 155,
+            "_rewardType": 300,
+            "_rewardValue": 13675,
+            "_rewardQty": 1,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1409,
+            "grade": 9,
+            "gradeQty": 185,
+            "_rewardType": 100,
+            "_rewardValue": 9821,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1410,
+            "grade": 10,
+            "gradeQty": 235,
+            "_rewardType": 4,
+            "_rewardValue": 0,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1411,
+            "grade": 11,
+            "gradeQty": 285,
+            "_rewardType": 100,
+            "_rewardValue": 304,
+            "_rewardQty": 1250,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1412,
+            "grade": 12,
+            "gradeQty": 335,
+            "_rewardType": 100,
+            "_rewardValue": 1330001,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1413,
+            "grade": 13,
+            "gradeQty": 385,
+            "_rewardType": 100,
+            "_rewardValue": 1330002,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1414,
+            "grade": 14,
+            "gradeQty": 435,
+            "_rewardType": 100,
+            "_rewardValue": 1330003,
+            "_rewardQty": 300,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 1415,
+            "grade": 15,
+            "gradeQty": 485,
+            "_rewardType": 300,
+            "_rewardValue": 13770,
+            "_rewardQty": 1,
+            "eventGroup": 0,
+            "commonGroup": 4
+        },
+        {
+            "id": 10101,
+            "grade": 1,
+            "gradeQty": 0,
+            "_rewardType": 0,
+            "_rewardValue": 0,
+            "_rewardQty": 0,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10102,
+            "grade": 2,
+            "gradeQty": 5,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10103,
+            "grade": 3,
+            "gradeQty": 15,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10104,
+            "grade": 4,
+            "gradeQty": 35,
+            "_rewardType": 300,
+            "_rewardValue": 1078,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10105,
+            "grade": 5,
+            "gradeQty": 65,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10106,
+            "grade": 6,
+            "gradeQty": 95,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10107,
+            "grade": 7,
+            "gradeQty": 125,
+            "_rewardType": 307,
+            "_rewardValue": 2309,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10108,
+            "grade": 8,
+            "gradeQty": 155,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10109,
+            "grade": 9,
+            "gradeQty": 185,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10110,
+            "grade": 10,
+            "gradeQty": 235,
+            "_rewardType": 300,
+            "_rewardValue": 1778,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10111,
+            "grade": 11,
+            "gradeQty": 285,
+            "_rewardType": 300,
+            "_rewardValue": 13359,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10112,
+            "grade": 12,
+            "gradeQty": 335,
+            "_rewardType": 300,
+            "_rewardValue": 13359,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10113,
+            "grade": 13,
+            "gradeQty": 385,
+            "_rewardType": 300,
+            "_rewardValue": 13359,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10114,
+            "grade": 14,
+            "gradeQty": 435,
+            "_rewardType": 300,
+            "_rewardValue": 13359,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10115,
+            "grade": 15,
+            "gradeQty": 485,
+            "_rewardType": 300,
+            "_rewardValue": 13360,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10116,
+            "grade": 16,
+            "gradeQty": 585,
+            "_rewardType": 300,
+            "_rewardValue": 1789,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10117,
+            "grade": 17,
+            "gradeQty": 685,
+            "_rewardType": 300,
+            "_rewardValue": 1789,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10118,
+            "grade": 18,
+            "gradeQty": 785,
+            "_rewardType": 300,
+            "_rewardValue": 1789,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10119,
+            "grade": 19,
+            "gradeQty": 885,
+            "_rewardType": 300,
+            "_rewardValue": 1789,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10120,
+            "grade": 20,
+            "gradeQty": 1000,
+            "_rewardType": 300,
+            "_rewardValue": 13361,
+            "_rewardQty": 1,
+            "eventGroup": 1,
+            "commonGroup": 0
+        },
+        {
+            "id": 10201,
+            "grade": 1,
+            "gradeQty": 0,
+            "_rewardType": 0,
+            "_rewardValue": 0,
+            "_rewardQty": 0,
+            "eventGroup": 2,
+            "commonGroup": 0
+        },
+        {
+            "id": 10202,
+            "grade": 2,
+            "gradeQty": 5,
+            "_rewardType": 307,
+            "_rewardValue": 2106,
+            "_rewardQty": 1,
+            "eventGroup": 2,
+            "commonGroup": 0
+        },
+        {
+            "id": 10203,
+            "grade": 3,
+            "gradeQty": 15,
+            "_rewardType": 100,
+            "_rewardValue": 14008,
+            "_rewardQty": 1,
+            "eventGroup": 2,
+            "commonGroup": 0
+        },
+        {
+            "id": 10204,
+            "grade": 4,
+            "gradeQty": 35,
+            "_rewardType": 300,
+            "_rewardValue": 1078,
+            "_rewardQty": 1,
+            "eventGroup": 2,
+            "commonGroup": 0
+        },
+        {
+            "id": 10205,
+            "grade": 5,
+            "gradeQty": 65,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 2,
+            "commonGroup": 0
+        },
+        {
+            "id": 10206,
+            "grade": 6,
+            "gradeQty": 95,
+            "_rewardType": 100,
+            "_rewardValue": 208,
+            "_rewardQty": 1,
+            "eventGroup": 2,
+            "commonGroup": 0
+        },
+        {
+            "id": 10301,
+            "grade": 1,
+            "gradeQty": 0,
+            "_rewardType": 0,
+            "_rewardValue": 0,
+            "_rewardQty": 0,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10302,
+            "grade": 2,
+            "gradeQty": 5,
+            "_rewardType": 307,
+            "_rewardValue": 2106,
+            "_rewardQty": 1,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10303,
+            "grade": 3,
+            "gradeQty": 15,
+            "_rewardType": 307,
+            "_rewardValue": 2244,
+            "_rewardQty": 1,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10304,
+            "grade": 4,
+            "gradeQty": 35,
+            "_rewardType": 300,
+            "_rewardValue": 1078,
+            "_rewardQty": 1,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10305,
+            "grade": 5,
+            "gradeQty": 65,
+            "_rewardType": 100,
+            "_rewardValue": 1110001,
+            "_rewardQty": 300,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10306,
+            "grade": 6,
+            "gradeQty": 95,
+            "_rewardType": 100,
+            "_rewardValue": 1120001,
+            "_rewardQty": 300,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10307,
+            "grade": 7,
+            "gradeQty": 125,
+            "_rewardType": 307,
+            "_rewardValue": 2385,
+            "_rewardQty": 1,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10308,
+            "grade": 8,
+            "gradeQty": 155,
+            "_rewardType": 300,
+            "_rewardValue": 13438,
+            "_rewardQty": 1,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10309,
+            "grade": 9,
+            "gradeQty": 185,
+            "_rewardType": 307,
+            "_rewardValue": 2395,
+            "_rewardQty": 1,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10310,
+            "grade": 10,
+            "gradeQty": 235,
+            "_rewardType": 300,
+            "_rewardValue": 13499,
+            "_rewardQty": 1,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10311,
+            "grade": 11,
+            "gradeQty": 285,
+            "_rewardType": 100,
+            "_rewardValue": 9501,
+            "_rewardQty": 300,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10312,
+            "grade": 12,
+            "gradeQty": 335,
+            "_rewardType": 100,
+            "_rewardValue": 414060000,
+            "_rewardQty": 1,
+            "eventGroup": 3,
+            "commonGroup": 0
+        },
+        {
+            "id": 10401,
+            "grade": 1,
+            "gradeQty": 0,
+            "_rewardType": 0,
+            "_rewardValue": 0,
+            "_rewardQty": 0,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10402,
+            "grade": 2,
+            "gradeQty": 5,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10403,
+            "grade": 3,
+            "gradeQty": 15,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10404,
+            "grade": 4,
+            "gradeQty": 35,
+            "_rewardType": 300,
+            "_rewardValue": 1078,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10405,
+            "grade": 5,
+            "gradeQty": 65,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10406,
+            "grade": 6,
+            "gradeQty": 95,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10407,
+            "grade": 7,
+            "gradeQty": 125,
+            "_rewardType": 307,
+            "_rewardValue": 2430,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10408,
+            "grade": 8,
+            "gradeQty": 155,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10409,
+            "grade": 9,
+            "gradeQty": 185,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10410,
+            "grade": 10,
+            "gradeQty": 235,
+            "_rewardType": 300,
+            "_rewardValue": 13496,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10411,
+            "grade": 11,
+            "gradeQty": 285,
+            "_rewardType": 300,
+            "_rewardValue": 13523,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10412,
+            "grade": 12,
+            "gradeQty": 335,
+            "_rewardType": 300,
+            "_rewardValue": 13523,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10413,
+            "grade": 13,
+            "gradeQty": 385,
+            "_rewardType": 300,
+            "_rewardValue": 13523,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10414,
+            "grade": 14,
+            "gradeQty": 435,
+            "_rewardType": 300,
+            "_rewardValue": 13523,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10415,
+            "grade": 15,
+            "gradeQty": 485,
+            "_rewardType": 300,
+            "_rewardValue": 13524,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10416,
+            "grade": 16,
+            "gradeQty": 585,
+            "_rewardType": 300,
+            "_rewardValue": 1789,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10417,
+            "grade": 17,
+            "gradeQty": 685,
+            "_rewardType": 300,
+            "_rewardValue": 1789,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10418,
+            "grade": 18,
+            "gradeQty": 785,
+            "_rewardType": 300,
+            "_rewardValue": 1789,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10419,
+            "grade": 19,
+            "gradeQty": 885,
+            "_rewardType": 300,
+            "_rewardValue": 1789,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10420,
+            "grade": 20,
+            "gradeQty": 1000,
+            "_rewardType": 300,
+            "_rewardValue": 13525,
+            "_rewardQty": 1,
+            "eventGroup": 4,
+            "commonGroup": 0
+        },
+        {
+            "id": 10501,
+            "grade": 1,
+            "gradeQty": 0,
+            "_rewardType": 0,
+            "_rewardValue": 0,
+            "_rewardQty": 0,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10502,
+            "grade": 2,
+            "gradeQty": 5,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10503,
+            "grade": 3,
+            "gradeQty": 15,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10504,
+            "grade": 4,
+            "gradeQty": 35,
+            "_rewardType": 300,
+            "_rewardValue": 1078,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10505,
+            "grade": 5,
+            "gradeQty": 65,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10506,
+            "grade": 6,
+            "gradeQty": 95,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10507,
+            "grade": 7,
+            "gradeQty": 125,
+            "_rewardType": 307,
+            "_rewardValue": 16016,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10508,
+            "grade": 8,
+            "gradeQty": 155,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10509,
+            "grade": 9,
+            "gradeQty": 185,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10510,
+            "grade": 10,
+            "gradeQty": 235,
+            "_rewardType": 300,
+            "_rewardValue": 13642,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10511,
+            "grade": 11,
+            "gradeQty": 285,
+            "_rewardType": 300,
+            "_rewardValue": 13665,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10512,
+            "grade": 12,
+            "gradeQty": 335,
+            "_rewardType": 300,
+            "_rewardValue": 13665,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10513,
+            "grade": 13,
+            "gradeQty": 385,
+            "_rewardType": 300,
+            "_rewardValue": 13665,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10514,
+            "grade": 14,
+            "gradeQty": 435,
+            "_rewardType": 300,
+            "_rewardValue": 13665,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10515,
+            "grade": 15,
+            "gradeQty": 485,
+            "_rewardType": 300,
+            "_rewardValue": 13663,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10516,
+            "grade": 16,
+            "gradeQty": 585,
+            "_rewardType": 300,
+            "_rewardValue": 13591,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10517,
+            "grade": 17,
+            "gradeQty": 685,
+            "_rewardType": 300,
+            "_rewardValue": 13591,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10518,
+            "grade": 18,
+            "gradeQty": 785,
+            "_rewardType": 300,
+            "_rewardValue": 13591,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10519,
+            "grade": 19,
+            "gradeQty": 885,
+            "_rewardType": 300,
+            "_rewardValue": 13591,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10520,
+            "grade": 20,
+            "gradeQty": 1000,
+            "_rewardType": 300,
+            "_rewardValue": 13664,
+            "_rewardQty": 1,
+            "eventGroup": 5,
+            "commonGroup": 0
+        },
+        {
+            "id": 10601,
+            "grade": 1,
+            "gradeQty": 0,
+            "_rewardType": 0,
+            "_rewardValue": 0,
+            "_rewardQty": 0,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10602,
+            "grade": 2,
+            "gradeQty": 5,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10603,
+            "grade": 3,
+            "gradeQty": 15,
+            "_rewardType": 300,
+            "_rewardValue": 1987,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10604,
+            "grade": 4,
+            "gradeQty": 35,
+            "_rewardType": 100,
+            "_rewardValue": 3971,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10605,
+            "grade": 5,
+            "gradeQty": 65,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10606,
+            "grade": 6,
+            "gradeQty": 95,
+            "_rewardType": 300,
+            "_rewardValue": 1777,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10607,
+            "grade": 7,
+            "gradeQty": 125,
+            "_rewardType": 307,
+            "_rewardValue": 16031,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10608,
+            "grade": 8,
+            "gradeQty": 155,
+            "_rewardType": 300,
+            "_rewardValue": 13675,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10609,
+            "grade": 9,
+            "gradeQty": 185,
+            "_rewardType": 300,
+            "_rewardValue": 13675,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10610,
+            "grade": 10,
+            "gradeQty": 235,
+            "_rewardType": 300,
+            "_rewardValue": 13642,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10611,
+            "grade": 11,
+            "gradeQty": 285,
+            "_rewardType": 300,
+            "_rewardValue": 13665,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10612,
+            "grade": 12,
+            "gradeQty": 335,
+            "_rewardType": 300,
+            "_rewardValue": 13665,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10613,
+            "grade": 13,
+            "gradeQty": 385,
+            "_rewardType": 300,
+            "_rewardValue": 13665,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10614,
+            "grade": 14,
+            "gradeQty": 435,
+            "_rewardType": 300,
+            "_rewardValue": 13665,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10615,
+            "grade": 15,
+            "gradeQty": 485,
+            "_rewardType": 300,
+            "_rewardValue": 13663,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10616,
+            "grade": 16,
+            "gradeQty": 585,
+            "_rewardType": 300,
+            "_rewardValue": 13649,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10617,
+            "grade": 17,
+            "gradeQty": 685,
+            "_rewardType": 300,
+            "_rewardValue": 13649,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10618,
+            "grade": 18,
+            "gradeQty": 785,
+            "_rewardType": 300,
+            "_rewardValue": 13649,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10619,
+            "grade": 19,
+            "gradeQty": 885,
+            "_rewardType": 300,
+            "_rewardValue": 13649,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        },
+        {
+            "id": 10620,
+            "grade": 20,
+            "gradeQty": 1000,
+            "_rewardType": 300,
+            "_rewardValue": 13664,
+            "_rewardQty": 1,
+            "eventGroup": 6,
+            "commonGroup": 0
+        }
+    ]
+}

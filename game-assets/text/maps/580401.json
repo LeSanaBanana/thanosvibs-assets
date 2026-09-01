@@ -1,0 +1,33 @@
+[
+    {
+        "level": "raid_knull_hive_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 973580401,
+                        "group": 91,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_story03"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 1115580401,
+                        "group": 1,
+                        "sight": 1000,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 3,
+                        "aiprefab": "ai_sv_carnage01_580401",
+                        "avoidancePriority": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

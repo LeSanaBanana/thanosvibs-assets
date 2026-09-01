@@ -1,0 +1,38 @@
+[
+    {
+        "level": "base_asgard_palace_0000_d01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 227380301,
+                        "group": 2,
+                        "autoregen": "1-20",
+                        "sight": 1,
+                        "firstattack": 1,
+                        "aiprefab": "AI_summon_vil_vikingshielder01"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 762380301,
+                        "group": 1,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "scale": 0.9,
+                        "boss": 3,
+                        "boss_appear": "skill03",
+                        "avoidancePriority": 1,
+                        "boss_cam": "0,0.3,4.5",
+                        "aiprefab": "AI_boss_fenriswolf03_aaraid03"
+                    }
+                ]
+            }
+        ]
+    }
+]

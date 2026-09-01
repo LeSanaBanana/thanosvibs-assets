@@ -1,0 +1,65 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8630860252653119231
+    },
+    "m_Name": "STORY_HIDDEN_REWARD_ACHIEVE",
+    "keys": [
+        100
+    ],
+    "values": [
+        {
+            "rewardId": 1000101,
+            "achieveRewardGroup": 100,
+            "achieveCnt": 1,
+            "order": 1,
+            "rewardType": 300,
+            "rewardValue": 13165,
+            "rewardQty": 1
+        },
+        {
+            "rewardId": 1000102,
+            "achieveRewardGroup": 100,
+            "achieveCnt": 1,
+            "order": 2,
+            "rewardType": 100,
+            "rewardValue": 1270001,
+            "rewardQty": 350
+        },
+        {
+            "rewardId": 1000103,
+            "achieveRewardGroup": 100,
+            "achieveCnt": 1,
+            "order": 3,
+            "rewardType": 100,
+            "rewardValue": 1260001,
+            "rewardQty": 20
+        },
+        {
+            "rewardId": 1000201,
+            "achieveRewardGroup": 100,
+            "achieveCnt": 2,
+            "order": 1,
+            "rewardType": 100,
+            "rewardValue": 1270001,
+            "rewardQty": 400
+        },
+        {
+            "rewardId": 1000202,
+            "achieveRewardGroup": 100,
+            "achieveCnt": 2,
+            "order": 2,
+            "rewardType": 100,
+            "rewardValue": 1260001,
+            "rewardQty": 30
+        }
+    ],
+    "counts": [
+        5
+    ]
+}

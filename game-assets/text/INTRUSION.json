@@ -1,0 +1,506 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7225302099574343266
+    },
+    "m_Name": "INTRUSION",
+    "keys": [
+        10901,
+        10902,
+        10903,
+        10904,
+        10905,
+        10906,
+        10907,
+        10908,
+        11001,
+        11002,
+        11003,
+        11004,
+        11005,
+        11006,
+        11007,
+        11008,
+        11101,
+        11102,
+        11103,
+        11104,
+        11105,
+        11106,
+        11107,
+        11108,
+        11201,
+        11202,
+        11203,
+        11205,
+        11206,
+        11207,
+        11208,
+        11302,
+        11303,
+        11304,
+        11305,
+        11306,
+        11307,
+        11308,
+        280501,
+        280601,
+        340701,
+        390201,
+        390301,
+        390701,
+        420402,
+        420601,
+        420701,
+        480501,
+        480601,
+        480701,
+        520501,
+        520601,
+        520701,
+        590104,
+        590201,
+        590202,
+        590203,
+        590204,
+        590301,
+        590501,
+        590701,
+        162701,
+        162702,
+        162703,
+        640301,
+        640401,
+        640701,
+        750501,
+        750601,
+        750701
+    ],
+    "values": [
+        {
+            "stageId": 10901,
+            "groupIdTeamUp": 109011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 10902,
+            "groupIdTeamUp": 109021,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 10903,
+            "groupIdTeamUp": 109031,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 10904,
+            "groupIdTeamUp": 109041,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 10905,
+            "groupIdTeamUp": 109051,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 10906,
+            "groupIdTeamUp": 109061,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 10907,
+            "groupIdTeamUp": 109071,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 10908,
+            "groupIdTeamUp": 109081,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11001,
+            "groupIdTeamUp": 110011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11002,
+            "groupIdTeamUp": 110021,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11003,
+            "groupIdTeamUp": 110031,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11004,
+            "groupIdTeamUp": 110041,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11005,
+            "groupIdTeamUp": 110051,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11006,
+            "groupIdTeamUp": 110061,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11007,
+            "groupIdTeamUp": 110071,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11008,
+            "groupIdTeamUp": 110081,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11101,
+            "groupIdTeamUp": 111011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11102,
+            "groupIdTeamUp": 111021,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11103,
+            "groupIdTeamUp": 111031,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11104,
+            "groupIdTeamUp": 111041,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11105,
+            "groupIdTeamUp": 111051,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11106,
+            "groupIdTeamUp": 111061,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11107,
+            "groupIdTeamUp": 111071,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11108,
+            "groupIdTeamUp": 111081,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11201,
+            "groupIdTeamUp": 112011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11202,
+            "groupIdTeamUp": 112021,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11203,
+            "groupIdTeamUp": 112031,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11205,
+            "groupIdTeamUp": 112051,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11206,
+            "groupIdTeamUp": 112061,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11207,
+            "groupIdTeamUp": 112071,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11208,
+            "groupIdTeamUp": 112081,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11302,
+            "groupIdTeamUp": 113021,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11303,
+            "groupIdTeamUp": 113031,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11304,
+            "groupIdTeamUp": 113041,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11305,
+            "groupIdTeamUp": 113051,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11306,
+            "groupIdTeamUp": 113061,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11307,
+            "groupIdTeamUp": 113071,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 11308,
+            "groupIdTeamUp": 113081,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 280501,
+            "groupIdTeamUp": 2805011,
+            "groupIdBoss": 0,
+            "dailyLimit": 5
+        },
+        {
+            "stageId": 280601,
+            "groupIdTeamUp": 2806011,
+            "groupIdBoss": 0,
+            "dailyLimit": 5
+        },
+        {
+            "stageId": 340701,
+            "groupIdTeamUp": 3407011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 390201,
+            "groupIdTeamUp": 3902011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 390301,
+            "groupIdTeamUp": 3903011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 390701,
+            "groupIdTeamUp": 3907011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 420402,
+            "groupIdTeamUp": 4204021,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 420601,
+            "groupIdTeamUp": 0,
+            "groupIdBoss": 4206012,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 420701,
+            "groupIdTeamUp": 4207011,
+            "groupIdBoss": 4207012,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 480501,
+            "groupIdTeamUp": 4805011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 480601,
+            "groupIdTeamUp": 4806011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 480701,
+            "groupIdTeamUp": 4807011,
+            "groupIdBoss": 4807012,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 520501,
+            "groupIdTeamUp": 5205011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 520601,
+            "groupIdTeamUp": 5206011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 520701,
+            "groupIdTeamUp": 5207011,
+            "groupIdBoss": 5207012,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 590104,
+            "groupIdTeamUp": 5901041,
+            "groupIdBoss": 0,
+            "dailyLimit": 3
+        },
+        {
+            "stageId": 590201,
+            "groupIdTeamUp": 5902011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 590202,
+            "groupIdTeamUp": 5902021,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 590203,
+            "groupIdTeamUp": 5902031,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 590204,
+            "groupIdTeamUp": 5902041,
+            "groupIdBoss": 0,
+            "dailyLimit": 3
+        },
+        {
+            "stageId": 590301,
+            "groupIdTeamUp": 5903011,
+            "groupIdBoss": 0,
+            "dailyLimit": 2
+        },
+        {
+            "stageId": 590501,
+            "groupIdTeamUp": 5905011,
+            "groupIdBoss": 0,
+            "dailyLimit": 2
+        },
+        {
+            "stageId": 590701,
+            "groupIdTeamUp": 5907011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 162701,
+            "groupIdTeamUp": 1627011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 162702,
+            "groupIdTeamUp": 1627021,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 162703,
+            "groupIdTeamUp": 1627031,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 640301,
+            "groupIdTeamUp": 6403011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 640401,
+            "groupIdTeamUp": 6404011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 640701,
+            "groupIdTeamUp": 6407011,
+            "groupIdBoss": 6407012,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 750501,
+            "groupIdTeamUp": 7505011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 750601,
+            "groupIdTeamUp": 7506011,
+            "groupIdBoss": 0,
+            "dailyLimit": 0
+        },
+        {
+            "stageId": 750701,
+            "groupIdTeamUp": 7507011,
+            "groupIdBoss": 7507012,
+            "dailyLimit": 0
+        }
+    ]
+}

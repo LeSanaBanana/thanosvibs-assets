@@ -1,0 +1,284 @@
+[
+    {
+        "level": "raid_kang",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 11,
+                        "mob": 973331601,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_01"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 973331601,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_02"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 973331601,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_03"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 973331601,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_04"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 1172331601,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "die": "phase2-die",
+                        "boss_appear": "skill01",
+                        "appear": "appear_cam",
+                        "boss_cam_ani": "appear_cam",
+                        "boss": 3,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.5,0.8",
+                        "scale": "1.4",
+                        "autoinvincible": "49:5"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 485331601,
+                        "group": 10,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "ai_boss_kang02_gimmick"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 483331601,
+                        "group": 20,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "aiprefab": "ai_gimmick_dummy51_phase2_dead"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 485331601,
+                        "group": 30,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "ai_boss_kang02_gimmick"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "raid_apocalypse_out_b01_hard",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 100,
+                        "mob": 1173331601,
+                        "group": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "avoidancePriority": 0,
+                        "boss": 4,
+                        "appear": "tp-03",
+                        "die": "phase2-die",
+                        "trigger": 1,
+                        "scale": "1.4"
+                    },
+                    {
+                        "point": 100,
+                        "mob": 483331601,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "ai_gimmick_dummy51_phase2_1_master"
+                    },
+                    {
+                        "point": 100,
+                        "mob": 483331601,
+                        "group": 10,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "aiprefab": "ai_gimmick_dummy51_phase2_dead"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "raid_knowhere_hard",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 91,
+                        "mob": 1174331601,
+                        "group": 1,
+                        "sight": 20,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "avoidancePriority": 0,
+                        "boss": 4,
+                        "appear": "tp-03",
+                        "die": "phase2-die",
+                        "trigger": 1,
+                        "scale": "1.4"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 483331601,
+                        "group": 10,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "aiprefab": "ai_gimmick_dummy51_phase2_dead_2-1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "raid_apocalypse_x_mansion",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 1175331601,
+                        "group": 1,
+                        "sight": 20,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "avoidancePriority": 0,
+                        "appear": "tp-03",
+                        "die": "phase2-die",
+                        "boss": 4,
+                        "trigger": 1,
+                        "scale": "1.4"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 483331601,
+                        "group": 10,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "appear": "appear",
+                        "aiprefab": "ai_gimmick_dummy51_phase2_dead"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "level": "raid_kang",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 11,
+                        "mob": 973331601,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_01"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 973331601,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_02"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 973331601,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_03"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 973331601,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_wait_04"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 1176331601,
+                        "group": 1,
+                        "sight": 20,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "avoidancePriority": 0,
+                        "appear": "appear",
+                        "boss": 5,
+                        "scale": "1.4",
+                        "trigger": 1
+                    },
+                    {
+                        "point": 50,
+                        "mob": 485331601,
+                        "group": 9,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy52_phase3_kang06"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 483331601,
+                        "group": 10,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "aiprefab": "ai_boss_kang02_gimmick"
+                    }
+                ]
+            }
+        ]
+    }
+]

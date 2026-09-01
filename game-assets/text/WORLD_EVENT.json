@@ -1,0 +1,238 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7890479704257920071
+    },
+    "m_Name": "WORLD_EVENT",
+    "list": [
+        {
+            "id": 10101,
+            "day": 1,
+            "startHour": "00:00",
+            "endHour": "05:30",
+            "stageId": 430101,
+            "rewardGroup": 10101
+        },
+        {
+            "id": 10102,
+            "day": 1,
+            "startHour": "06:00",
+            "endHour": "11:30",
+            "stageId": 430101,
+            "rewardGroup": 10102
+        },
+        {
+            "id": 10103,
+            "day": 1,
+            "startHour": "12:00",
+            "endHour": "17:30",
+            "stageId": 430101,
+            "rewardGroup": 10103
+        },
+        {
+            "id": 10104,
+            "day": 1,
+            "startHour": "18:00",
+            "endHour": "23:30",
+            "stageId": 430101,
+            "rewardGroup": 10104
+        },
+        {
+            "id": 10201,
+            "day": 2,
+            "startHour": "00:00",
+            "endHour": "05:30",
+            "stageId": 430101,
+            "rewardGroup": 10201
+        },
+        {
+            "id": 10202,
+            "day": 2,
+            "startHour": "06:00",
+            "endHour": "11:30",
+            "stageId": 430101,
+            "rewardGroup": 10202
+        },
+        {
+            "id": 10203,
+            "day": 2,
+            "startHour": "12:00",
+            "endHour": "17:30",
+            "stageId": 430101,
+            "rewardGroup": 10203
+        },
+        {
+            "id": 10204,
+            "day": 2,
+            "startHour": "18:00",
+            "endHour": "23:30",
+            "stageId": 430101,
+            "rewardGroup": 10204
+        },
+        {
+            "id": 10301,
+            "day": 3,
+            "startHour": "00:00",
+            "endHour": "05:30",
+            "stageId": 430101,
+            "rewardGroup": 10301
+        },
+        {
+            "id": 10302,
+            "day": 3,
+            "startHour": "06:00",
+            "endHour": "11:30",
+            "stageId": 430101,
+            "rewardGroup": 10302
+        },
+        {
+            "id": 10303,
+            "day": 3,
+            "startHour": "12:00",
+            "endHour": "17:30",
+            "stageId": 430101,
+            "rewardGroup": 10303
+        },
+        {
+            "id": 10304,
+            "day": 3,
+            "startHour": "18:00",
+            "endHour": "23:30",
+            "stageId": 430101,
+            "rewardGroup": 10304
+        },
+        {
+            "id": 10401,
+            "day": 4,
+            "startHour": "00:00",
+            "endHour": "05:30",
+            "stageId": 430101,
+            "rewardGroup": 10401
+        },
+        {
+            "id": 10402,
+            "day": 4,
+            "startHour": "06:00",
+            "endHour": "11:30",
+            "stageId": 430101,
+            "rewardGroup": 10402
+        },
+        {
+            "id": 10403,
+            "day": 4,
+            "startHour": "12:00",
+            "endHour": "17:30",
+            "stageId": 430101,
+            "rewardGroup": 10403
+        },
+        {
+            "id": 10404,
+            "day": 4,
+            "startHour": "18:00",
+            "endHour": "23:30",
+            "stageId": 430101,
+            "rewardGroup": 10404
+        },
+        {
+            "id": 10501,
+            "day": 5,
+            "startHour": "00:00",
+            "endHour": "05:30",
+            "stageId": 430101,
+            "rewardGroup": 10501
+        },
+        {
+            "id": 10502,
+            "day": 5,
+            "startHour": "06:00",
+            "endHour": "11:30",
+            "stageId": 430101,
+            "rewardGroup": 10502
+        },
+        {
+            "id": 10503,
+            "day": 5,
+            "startHour": "12:00",
+            "endHour": "17:30",
+            "stageId": 430101,
+            "rewardGroup": 10503
+        },
+        {
+            "id": 10504,
+            "day": 5,
+            "startHour": "18:00",
+            "endHour": "23:30",
+            "stageId": 430101,
+            "rewardGroup": 10504
+        },
+        {
+            "id": 10601,
+            "day": 6,
+            "startHour": "00:00",
+            "endHour": "05:30",
+            "stageId": 430101,
+            "rewardGroup": 10601
+        },
+        {
+            "id": 10602,
+            "day": 6,
+            "startHour": "06:00",
+            "endHour": "11:30",
+            "stageId": 430101,
+            "rewardGroup": 10602
+        },
+        {
+            "id": 10603,
+            "day": 6,
+            "startHour": "12:00",
+            "endHour": "17:30",
+            "stageId": 430101,
+            "rewardGroup": 10603
+        },
+        {
+            "id": 10604,
+            "day": 6,
+            "startHour": "18:00",
+            "endHour": "23:30",
+            "stageId": 430101,
+            "rewardGroup": 10604
+        },
+        {
+            "id": 10701,
+            "day": 7,
+            "startHour": "00:00",
+            "endHour": "05:30",
+            "stageId": 430101,
+            "rewardGroup": 10701
+        },
+        {
+            "id": 10702,
+            "day": 7,
+            "startHour": "06:00",
+            "endHour": "11:30",
+            "stageId": 430101,
+            "rewardGroup": 10702
+        },
+        {
+            "id": 10703,
+            "day": 7,
+            "startHour": "12:00",
+            "endHour": "17:30",
+            "stageId": 430101,
+            "rewardGroup": 10703
+        },
+        {
+            "id": 10704,
+            "day": 7,
+            "startHour": "18:00",
+            "endHour": "23:30",
+            "stageId": 430101,
+            "rewardGroup": 10704
+        }
+    ]
+}

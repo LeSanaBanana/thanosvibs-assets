@@ -1,0 +1,83 @@
+[
+    {
+        "level": "base_doomcastle_in_0001_c01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1214680102,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "trigger": 1,
+                        "scale": 1.1,
+                        "autoinvincible": "10:3",
+                        "boss_cam": "0,0.5,0.2",
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill04-02"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 504680102,
+                        "group": 10,
+                        "sight": 50,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 1,
+                        "mob": 497680102,
+                        "group": 5,
+                        "sight": 50,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 20,
+                        "mob": 504680102,
+                        "group": 20,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy65_680101"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 504680102,
+                        "group": 21,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy65_doom_bot"
+                    },
+                    {
+                        "point": 12,
+                        "mob": 504680102,
+                        "group": 22,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy65_doom_bot"
+                    },
+                    {
+                        "point": 13,
+                        "mob": 504680102,
+                        "group": 23,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy65_doom_bot"
+                    },
+                    {
+                        "point": 14,
+                        "mob": 504680102,
+                        "group": 24,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy65_doom_bot"
+                    }
+                ]
+            }
+        ]
+    }
+]

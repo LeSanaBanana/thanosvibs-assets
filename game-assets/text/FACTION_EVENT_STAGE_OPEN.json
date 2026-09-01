@@ -1,0 +1,2804 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3475410378763434047
+    },
+    "m_Name": "FACTION_EVENT_STAGE_OPEN",
+    "list": [
+        {
+            "stageId": 550911,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 550912,
+            "factionType": 1,
+            "heroGroupId": 8,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550912,
+            "factionType": 1,
+            "heroGroupId": 14,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550912,
+            "factionType": 1,
+            "heroGroupId": 106,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550912,
+            "factionType": 1,
+            "heroGroupId": 177,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550912,
+            "factionType": 1,
+            "heroGroupId": 4,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550912,
+            "factionType": 1,
+            "heroGroupId": 84,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550912,
+            "factionType": 1,
+            "heroGroupId": 204,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550913,
+            "factionType": 1,
+            "heroGroupId": 8,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550913,
+            "factionType": 1,
+            "heroGroupId": 14,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550913,
+            "factionType": 1,
+            "heroGroupId": 106,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550913,
+            "factionType": 1,
+            "heroGroupId": 177,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550913,
+            "factionType": 1,
+            "heroGroupId": 4,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550913,
+            "factionType": 1,
+            "heroGroupId": 84,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550913,
+            "factionType": 1,
+            "heroGroupId": 204,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550921,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 550922,
+            "factionType": 2,
+            "heroGroupId": 3,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550922,
+            "factionType": 2,
+            "heroGroupId": 29,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550922,
+            "factionType": 2,
+            "heroGroupId": 17,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550922,
+            "factionType": 2,
+            "heroGroupId": 37,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550922,
+            "factionType": 2,
+            "heroGroupId": 13,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550922,
+            "factionType": 2,
+            "heroGroupId": 50,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550922,
+            "factionType": 2,
+            "heroGroupId": 45,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 550923,
+            "factionType": 2,
+            "heroGroupId": 3,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550923,
+            "factionType": 2,
+            "heroGroupId": 29,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550923,
+            "factionType": 2,
+            "heroGroupId": 17,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550923,
+            "factionType": 2,
+            "heroGroupId": 37,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550923,
+            "factionType": 2,
+            "heroGroupId": 13,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550923,
+            "factionType": 2,
+            "heroGroupId": 50,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 550923,
+            "factionType": 2,
+            "heroGroupId": 45,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551011,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551012,
+            "factionType": 1,
+            "heroGroupId": 8,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551012,
+            "factionType": 1,
+            "heroGroupId": 14,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551012,
+            "factionType": 1,
+            "heroGroupId": 106,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551012,
+            "factionType": 1,
+            "heroGroupId": 177,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551012,
+            "factionType": 1,
+            "heroGroupId": 4,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551012,
+            "factionType": 1,
+            "heroGroupId": 84,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551012,
+            "factionType": 1,
+            "heroGroupId": 204,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551013,
+            "factionType": 1,
+            "heroGroupId": 8,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551013,
+            "factionType": 1,
+            "heroGroupId": 14,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551013,
+            "factionType": 1,
+            "heroGroupId": 106,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551013,
+            "factionType": 1,
+            "heroGroupId": 177,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551013,
+            "factionType": 1,
+            "heroGroupId": 4,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551013,
+            "factionType": 1,
+            "heroGroupId": 84,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551013,
+            "factionType": 1,
+            "heroGroupId": 204,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551021,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551022,
+            "factionType": 2,
+            "heroGroupId": 3,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551022,
+            "factionType": 2,
+            "heroGroupId": 29,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551022,
+            "factionType": 2,
+            "heroGroupId": 17,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551022,
+            "factionType": 2,
+            "heroGroupId": 37,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551022,
+            "factionType": 2,
+            "heroGroupId": 13,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551022,
+            "factionType": 2,
+            "heroGroupId": 50,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551022,
+            "factionType": 2,
+            "heroGroupId": 45,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551023,
+            "factionType": 2,
+            "heroGroupId": 3,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551023,
+            "factionType": 2,
+            "heroGroupId": 29,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551023,
+            "factionType": 2,
+            "heroGroupId": 17,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551023,
+            "factionType": 2,
+            "heroGroupId": 37,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551023,
+            "factionType": 2,
+            "heroGroupId": 13,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551023,
+            "factionType": 2,
+            "heroGroupId": 50,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551023,
+            "factionType": 2,
+            "heroGroupId": 45,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551111,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551112,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551112,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551112,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551112,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551112,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551113,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551113,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551113,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551113,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551113,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551121,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551122,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551122,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551122,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551122,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551122,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551123,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551123,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551123,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551123,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551123,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551211,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551212,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551212,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551212,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551212,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551212,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551213,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551213,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551213,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551213,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551213,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551221,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551222,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551222,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551222,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551222,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551222,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551223,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551223,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551223,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551223,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551223,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551311,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551312,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551312,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551312,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551312,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551312,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551313,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551313,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551313,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551313,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551313,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551321,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551322,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551322,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551322,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551322,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551322,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551323,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551323,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551323,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551323,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551323,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551411,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551412,
+            "factionType": 1,
+            "heroGroupId": 8,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551412,
+            "factionType": 1,
+            "heroGroupId": 14,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551412,
+            "factionType": 1,
+            "heroGroupId": 106,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551412,
+            "factionType": 1,
+            "heroGroupId": 177,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551412,
+            "factionType": 1,
+            "heroGroupId": 4,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551412,
+            "factionType": 1,
+            "heroGroupId": 92,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551412,
+            "factionType": 1,
+            "heroGroupId": 91,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551413,
+            "factionType": 1,
+            "heroGroupId": 8,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551413,
+            "factionType": 1,
+            "heroGroupId": 14,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551413,
+            "factionType": 1,
+            "heroGroupId": 106,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551413,
+            "factionType": 1,
+            "heroGroupId": 177,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551413,
+            "factionType": 1,
+            "heroGroupId": 4,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551413,
+            "factionType": 1,
+            "heroGroupId": 92,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551413,
+            "factionType": 1,
+            "heroGroupId": 91,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551421,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551422,
+            "factionType": 2,
+            "heroGroupId": 3,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551422,
+            "factionType": 2,
+            "heroGroupId": 29,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551422,
+            "factionType": 2,
+            "heroGroupId": 17,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551422,
+            "factionType": 2,
+            "heroGroupId": 37,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551422,
+            "factionType": 2,
+            "heroGroupId": 13,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551422,
+            "factionType": 2,
+            "heroGroupId": 5,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551422,
+            "factionType": 2,
+            "heroGroupId": 36,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551423,
+            "factionType": 2,
+            "heroGroupId": 3,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551423,
+            "factionType": 2,
+            "heroGroupId": 29,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551423,
+            "factionType": 2,
+            "heroGroupId": 17,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551423,
+            "factionType": 2,
+            "heroGroupId": 37,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551423,
+            "factionType": 2,
+            "heroGroupId": 13,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551423,
+            "factionType": 2,
+            "heroGroupId": 5,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551423,
+            "factionType": 2,
+            "heroGroupId": 36,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551511,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551512,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551512,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551512,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551512,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551512,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551513,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551513,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551513,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551513,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551513,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551521,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551522,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551522,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551522,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551522,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551522,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551523,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551523,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551523,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551523,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551523,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551611,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551612,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551612,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551612,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551612,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551612,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551613,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551613,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551613,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551613,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551613,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551621,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551622,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551622,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551622,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551622,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551622,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551623,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551623,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551623,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551623,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551623,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551711,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551712,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551712,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551712,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551712,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551712,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551713,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551713,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551713,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551713,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551713,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551721,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551722,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551722,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551722,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551722,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551722,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551723,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551723,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551723,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551723,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551723,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551811,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551812,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551812,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551812,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551812,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551812,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551813,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551813,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551813,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551813,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551813,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551821,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551822,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551822,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551822,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551822,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551822,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551823,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551823,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551823,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551823,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551823,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551911,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551912,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551912,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551912,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551912,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551912,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551913,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551913,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551913,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551913,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551913,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551921,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 551922,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551922,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551922,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551922,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551922,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 551923,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551923,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551923,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551923,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 551923,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552011,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 552012,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552012,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552012,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552012,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552012,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552013,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552013,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552013,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552013,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552013,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552021,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 552022,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552022,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552022,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552022,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552022,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552023,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552023,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552023,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552023,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552023,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552111,
+            "factionType": 1,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 552112,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552112,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552112,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552112,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552112,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552113,
+            "factionType": 1,
+            "heroGroupId": 1,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552113,
+            "factionType": 1,
+            "heroGroupId": 10,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552113,
+            "factionType": 1,
+            "heroGroupId": 7,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552113,
+            "factionType": 1,
+            "heroGroupId": 2,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552113,
+            "factionType": 1,
+            "heroGroupId": 26,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552121,
+            "factionType": 2,
+            "heroGroupId": 0,
+            "tier": 0,
+            "grade": 0,
+            "mastery": 0,
+            "lavel": 0
+        },
+        {
+            "stageId": 552122,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552122,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552122,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552122,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552122,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 1,
+            "grade": 1,
+            "mastery": 0,
+            "lavel": 1
+        },
+        {
+            "stageId": 552123,
+            "factionType": 2,
+            "heroGroupId": 188,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552123,
+            "factionType": 2,
+            "heroGroupId": 159,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552123,
+            "factionType": 2,
+            "heroGroupId": 123,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552123,
+            "factionType": 2,
+            "heroGroupId": 128,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        },
+        {
+            "stageId": 552123,
+            "factionType": 2,
+            "heroGroupId": 126,
+            "tier": 2,
+            "grade": 6,
+            "mastery": 6,
+            "lavel": 60
+        }
+    ]
+}

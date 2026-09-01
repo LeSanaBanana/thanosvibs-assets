@@ -1,0 +1,120 @@
+[
+    {
+        "level": "raid_dormammu_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "uifollow_determine_visible": 1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1143410332,
+                        "group": 1,
+                        "keymob": 1,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "boss_cam_ani": "appear_cam",
+                        "die": "die01"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 1144410332,
+                        "group": 2,
+                        "keymob": 1,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "die": "die02",
+                        "appear": "PhaseChange",
+                        "autoregen": "1-1",
+                        "delay": 4,
+                        "aiprefab": "ai_dormammu_3mod"
+                    },
+                    {
+                        "point": 21,
+                        "mob": 463410332,
+                        "group": 10,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_phase_dummy02"
+                    },
+                    {
+                        "point": 22,
+                        "mob": 463410332,
+                        "group": 10,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_phase_dummy02_1"
+                    },
+                    {
+                        "point": 23,
+                        "mob": 463410332,
+                        "group": 10,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_phase_dummy02_2"
+                    },
+                    {
+                        "point": 22,
+                        "mob": 463410332,
+                        "group": 60,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_cooper_skill"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 463410332,
+                        "group": 20,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_substage_shooter"
+                    },
+                    {
+                        "point": 31,
+                        "mob": 463410332,
+                        "group": 21,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_substage_shooter"
+                    },
+                    {
+                        "point": 32,
+                        "mob": 463410332,
+                        "group": 22,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_substage_shooter"
+                    },
+                    {
+                        "point": 33,
+                        "mob": 463410332,
+                        "group": 23,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_substage_shooter"
+                    },
+                    {
+                        "point": 34,
+                        "mob": 463410332,
+                        "group": 24,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_substage_shooter"
+                    },
+                    {
+                        "point": 10,
+                        "mob": 463410332,
+                        "group": 30,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "ai_dormammu_substage_shooting_master"
+                    }
+                ]
+            }
+        ]
+    }
+]

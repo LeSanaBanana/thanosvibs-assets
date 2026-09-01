@@ -1,0 +1,27 @@
+[
+    {
+        "level": "event_villainsiege_citycenter_re_0000_a02",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 526700101,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_hero_hulk01_700101",
+                        "boss_appear": "skill02c"
+                    }
+                ]
+            }
+        ]
+    }
+]

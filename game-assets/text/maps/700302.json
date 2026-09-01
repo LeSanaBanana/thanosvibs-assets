@@ -1,0 +1,27 @@
+[
+    {
+        "level": "arcade_blackpanther_busan_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1103700302,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill03",
+                        "aiprefab": "ai_hero_thor01_S07_700302"
+                    }
+                ]
+            }
+        ]
+    }
+]

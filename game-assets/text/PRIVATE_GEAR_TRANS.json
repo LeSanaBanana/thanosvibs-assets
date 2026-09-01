@@ -1,0 +1,413 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8476639479425320413
+    },
+    "m_Name": "PRIVATE_GEAR_TRANS",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ],
+    "values": [
+        {
+            "privateGearLevel": 1,
+            "transLevel": 1,
+            "prob": 1000000
+        },
+        {
+            "privateGearLevel": 2,
+            "transLevel": 2,
+            "prob": 1000000
+        },
+        {
+            "privateGearLevel": 3,
+            "transLevel": 3,
+            "prob": 650000
+        },
+        {
+            "privateGearLevel": 3,
+            "transLevel": 2,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 4,
+            "transLevel": 4,
+            "prob": 550000
+        },
+        {
+            "privateGearLevel": 4,
+            "transLevel": 3,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 4,
+            "transLevel": 2,
+            "prob": 100000
+        },
+        {
+            "privateGearLevel": 5,
+            "transLevel": 5,
+            "prob": 450000
+        },
+        {
+            "privateGearLevel": 5,
+            "transLevel": 4,
+            "prob": 400000
+        },
+        {
+            "privateGearLevel": 5,
+            "transLevel": 3,
+            "prob": 100000
+        },
+        {
+            "privateGearLevel": 5,
+            "transLevel": 2,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 6,
+            "transLevel": 6,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 6,
+            "transLevel": 5,
+            "prob": 400000
+        },
+        {
+            "privateGearLevel": 6,
+            "transLevel": 4,
+            "prob": 200000
+        },
+        {
+            "privateGearLevel": 6,
+            "transLevel": 3,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 7,
+            "transLevel": 7,
+            "prob": 250000
+        },
+        {
+            "privateGearLevel": 7,
+            "transLevel": 6,
+            "prob": 450000
+        },
+        {
+            "privateGearLevel": 7,
+            "transLevel": 5,
+            "prob": 200000
+        },
+        {
+            "privateGearLevel": 7,
+            "transLevel": 4,
+            "prob": 100000
+        },
+        {
+            "privateGearLevel": 8,
+            "transLevel": 8,
+            "prob": 200000
+        },
+        {
+            "privateGearLevel": 8,
+            "transLevel": 7,
+            "prob": 450000
+        },
+        {
+            "privateGearLevel": 8,
+            "transLevel": 6,
+            "prob": 250000
+        },
+        {
+            "privateGearLevel": 8,
+            "transLevel": 5,
+            "prob": 100000
+        },
+        {
+            "privateGearLevel": 9,
+            "transLevel": 9,
+            "prob": 150000
+        },
+        {
+            "privateGearLevel": 9,
+            "transLevel": 8,
+            "prob": 500000
+        },
+        {
+            "privateGearLevel": 9,
+            "transLevel": 7,
+            "prob": 250000
+        },
+        {
+            "privateGearLevel": 9,
+            "transLevel": 6,
+            "prob": 100000
+        },
+        {
+            "privateGearLevel": 10,
+            "transLevel": 10,
+            "prob": 100000
+        },
+        {
+            "privateGearLevel": 10,
+            "transLevel": 9,
+            "prob": 500000
+        },
+        {
+            "privateGearLevel": 10,
+            "transLevel": 8,
+            "prob": 250000
+        },
+        {
+            "privateGearLevel": 10,
+            "transLevel": 7,
+            "prob": 150000
+        },
+        {
+            "privateGearLevel": 11,
+            "transLevel": 11,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 11,
+            "transLevel": 10,
+            "prob": 550000
+        },
+        {
+            "privateGearLevel": 11,
+            "transLevel": 9,
+            "prob": 250000
+        },
+        {
+            "privateGearLevel": 11,
+            "transLevel": 8,
+            "prob": 150000
+        },
+        {
+            "privateGearLevel": 12,
+            "transLevel": 12,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 12,
+            "transLevel": 11,
+            "prob": 550000
+        },
+        {
+            "privateGearLevel": 12,
+            "transLevel": 10,
+            "prob": 250000
+        },
+        {
+            "privateGearLevel": 12,
+            "transLevel": 9,
+            "prob": 150000
+        },
+        {
+            "privateGearLevel": 13,
+            "transLevel": 13,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 13,
+            "transLevel": 12,
+            "prob": 500000
+        },
+        {
+            "privateGearLevel": 13,
+            "transLevel": 11,
+            "prob": 300000
+        },
+        {
+            "privateGearLevel": 13,
+            "transLevel": 10,
+            "prob": 150000
+        },
+        {
+            "privateGearLevel": 14,
+            "transLevel": 14,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 14,
+            "transLevel": 13,
+            "prob": 500000
+        },
+        {
+            "privateGearLevel": 14,
+            "transLevel": 12,
+            "prob": 300000
+        },
+        {
+            "privateGearLevel": 14,
+            "transLevel": 11,
+            "prob": 150000
+        },
+        {
+            "privateGearLevel": 15,
+            "transLevel": 15,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 15,
+            "transLevel": 14,
+            "prob": 450000
+        },
+        {
+            "privateGearLevel": 15,
+            "transLevel": 13,
+            "prob": 300000
+        },
+        {
+            "privateGearLevel": 15,
+            "transLevel": 12,
+            "prob": 200000
+        },
+        {
+            "privateGearLevel": 16,
+            "transLevel": 16,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 16,
+            "transLevel": 15,
+            "prob": 450000
+        },
+        {
+            "privateGearLevel": 16,
+            "transLevel": 14,
+            "prob": 300000
+        },
+        {
+            "privateGearLevel": 16,
+            "transLevel": 13,
+            "prob": 200000
+        },
+        {
+            "privateGearLevel": 17,
+            "transLevel": 17,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 17,
+            "transLevel": 16,
+            "prob": 400000
+        },
+        {
+            "privateGearLevel": 17,
+            "transLevel": 15,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 17,
+            "transLevel": 14,
+            "prob": 200000
+        },
+        {
+            "privateGearLevel": 18,
+            "transLevel": 18,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 18,
+            "transLevel": 17,
+            "prob": 400000
+        },
+        {
+            "privateGearLevel": 18,
+            "transLevel": 16,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 18,
+            "transLevel": 15,
+            "prob": 200000
+        },
+        {
+            "privateGearLevel": 19,
+            "transLevel": 19,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 19,
+            "transLevel": 18,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 19,
+            "transLevel": 17,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 19,
+            "transLevel": 16,
+            "prob": 250000
+        },
+        {
+            "privateGearLevel": 20,
+            "transLevel": 20,
+            "prob": 50000
+        },
+        {
+            "privateGearLevel": 20,
+            "transLevel": 19,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 20,
+            "transLevel": 18,
+            "prob": 350000
+        },
+        {
+            "privateGearLevel": 20,
+            "transLevel": 17,
+            "prob": 250000
+        }
+    ],
+    "counts": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+    ]
+}

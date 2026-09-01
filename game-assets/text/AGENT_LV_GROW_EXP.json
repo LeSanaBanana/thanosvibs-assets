@@ -1,0 +1,4010 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -997126425866583201
+    },
+    "m_Name": "AGENT_LV_GROW_EXP",
+    "list": [
+        {
+            "growLv": 1,
+            "maxExp": "2100"
+        },
+        {
+            "growLv": 2,
+            "maxExp": "4200"
+        },
+        {
+            "growLv": 3,
+            "maxExp": "6300"
+        },
+        {
+            "growLv": 4,
+            "maxExp": "8400"
+        },
+        {
+            "growLv": 5,
+            "maxExp": "10500"
+        },
+        {
+            "growLv": 6,
+            "maxExp": "12600"
+        },
+        {
+            "growLv": 7,
+            "maxExp": "14700"
+        },
+        {
+            "growLv": 8,
+            "maxExp": "16800"
+        },
+        {
+            "growLv": 9,
+            "maxExp": "18900"
+        },
+        {
+            "growLv": 10,
+            "maxExp": "21000"
+        },
+        {
+            "growLv": 11,
+            "maxExp": "23100"
+        },
+        {
+            "growLv": 12,
+            "maxExp": "25200"
+        },
+        {
+            "growLv": 13,
+            "maxExp": "27300"
+        },
+        {
+            "growLv": 14,
+            "maxExp": "29400"
+        },
+        {
+            "growLv": 15,
+            "maxExp": "31500"
+        },
+        {
+            "growLv": 16,
+            "maxExp": "33600"
+        },
+        {
+            "growLv": 17,
+            "maxExp": "35700"
+        },
+        {
+            "growLv": 18,
+            "maxExp": "37800"
+        },
+        {
+            "growLv": 19,
+            "maxExp": "39900"
+        },
+        {
+            "growLv": 20,
+            "maxExp": "42000"
+        },
+        {
+            "growLv": 21,
+            "maxExp": "44100"
+        },
+        {
+            "growLv": 22,
+            "maxExp": "46200"
+        },
+        {
+            "growLv": 23,
+            "maxExp": "48300"
+        },
+        {
+            "growLv": 24,
+            "maxExp": "50400"
+        },
+        {
+            "growLv": 25,
+            "maxExp": "52500"
+        },
+        {
+            "growLv": 26,
+            "maxExp": "54600"
+        },
+        {
+            "growLv": 27,
+            "maxExp": "56700"
+        },
+        {
+            "growLv": 28,
+            "maxExp": "58800"
+        },
+        {
+            "growLv": 29,
+            "maxExp": "60900"
+        },
+        {
+            "growLv": 30,
+            "maxExp": "63000"
+        },
+        {
+            "growLv": 31,
+            "maxExp": "65100"
+        },
+        {
+            "growLv": 32,
+            "maxExp": "67200"
+        },
+        {
+            "growLv": 33,
+            "maxExp": "69300"
+        },
+        {
+            "growLv": 34,
+            "maxExp": "71400"
+        },
+        {
+            "growLv": 35,
+            "maxExp": "73500"
+        },
+        {
+            "growLv": 36,
+            "maxExp": "75600"
+        },
+        {
+            "growLv": 37,
+            "maxExp": "77700"
+        },
+        {
+            "growLv": 38,
+            "maxExp": "79800"
+        },
+        {
+            "growLv": 39,
+            "maxExp": "81900"
+        },
+        {
+            "growLv": 40,
+            "maxExp": "84000"
+        },
+        {
+            "growLv": 41,
+            "maxExp": "86100"
+        },
+        {
+            "growLv": 42,
+            "maxExp": "88200"
+        },
+        {
+            "growLv": 43,
+            "maxExp": "90300"
+        },
+        {
+            "growLv": 44,
+            "maxExp": "92400"
+        },
+        {
+            "growLv": 45,
+            "maxExp": "94500"
+        },
+        {
+            "growLv": 46,
+            "maxExp": "96600"
+        },
+        {
+            "growLv": 47,
+            "maxExp": "98700"
+        },
+        {
+            "growLv": 48,
+            "maxExp": "100800"
+        },
+        {
+            "growLv": 49,
+            "maxExp": "102900"
+        },
+        {
+            "growLv": 50,
+            "maxExp": "105000"
+        },
+        {
+            "growLv": 51,
+            "maxExp": "107100"
+        },
+        {
+            "growLv": 52,
+            "maxExp": "109200"
+        },
+        {
+            "growLv": 53,
+            "maxExp": "111300"
+        },
+        {
+            "growLv": 54,
+            "maxExp": "113400"
+        },
+        {
+            "growLv": 55,
+            "maxExp": "115500"
+        },
+        {
+            "growLv": 56,
+            "maxExp": "117600"
+        },
+        {
+            "growLv": 57,
+            "maxExp": "119700"
+        },
+        {
+            "growLv": 58,
+            "maxExp": "121800"
+        },
+        {
+            "growLv": 59,
+            "maxExp": "123900"
+        },
+        {
+            "growLv": 60,
+            "maxExp": "126000"
+        },
+        {
+            "growLv": 61,
+            "maxExp": "128100"
+        },
+        {
+            "growLv": 62,
+            "maxExp": "130200"
+        },
+        {
+            "growLv": 63,
+            "maxExp": "132300"
+        },
+        {
+            "growLv": 64,
+            "maxExp": "134400"
+        },
+        {
+            "growLv": 65,
+            "maxExp": "136500"
+        },
+        {
+            "growLv": 66,
+            "maxExp": "138600"
+        },
+        {
+            "growLv": 67,
+            "maxExp": "140700"
+        },
+        {
+            "growLv": 68,
+            "maxExp": "142800"
+        },
+        {
+            "growLv": 69,
+            "maxExp": "144900"
+        },
+        {
+            "growLv": 70,
+            "maxExp": "147000"
+        },
+        {
+            "growLv": 71,
+            "maxExp": "149100"
+        },
+        {
+            "growLv": 72,
+            "maxExp": "151200"
+        },
+        {
+            "growLv": 73,
+            "maxExp": "153300"
+        },
+        {
+            "growLv": 74,
+            "maxExp": "155400"
+        },
+        {
+            "growLv": 75,
+            "maxExp": "157500"
+        },
+        {
+            "growLv": 76,
+            "maxExp": "159600"
+        },
+        {
+            "growLv": 77,
+            "maxExp": "161700"
+        },
+        {
+            "growLv": 78,
+            "maxExp": "163800"
+        },
+        {
+            "growLv": 79,
+            "maxExp": "165900"
+        },
+        {
+            "growLv": 80,
+            "maxExp": "168000"
+        },
+        {
+            "growLv": 81,
+            "maxExp": "170100"
+        },
+        {
+            "growLv": 82,
+            "maxExp": "172200"
+        },
+        {
+            "growLv": 83,
+            "maxExp": "174300"
+        },
+        {
+            "growLv": 84,
+            "maxExp": "176400"
+        },
+        {
+            "growLv": 85,
+            "maxExp": "178500"
+        },
+        {
+            "growLv": 86,
+            "maxExp": "180600"
+        },
+        {
+            "growLv": 87,
+            "maxExp": "182700"
+        },
+        {
+            "growLv": 88,
+            "maxExp": "184800"
+        },
+        {
+            "growLv": 89,
+            "maxExp": "186900"
+        },
+        {
+            "growLv": 90,
+            "maxExp": "189000"
+        },
+        {
+            "growLv": 91,
+            "maxExp": "191100"
+        },
+        {
+            "growLv": 92,
+            "maxExp": "193200"
+        },
+        {
+            "growLv": 93,
+            "maxExp": "195300"
+        },
+        {
+            "growLv": 94,
+            "maxExp": "197400"
+        },
+        {
+            "growLv": 95,
+            "maxExp": "199500"
+        },
+        {
+            "growLv": 96,
+            "maxExp": "201600"
+        },
+        {
+            "growLv": 97,
+            "maxExp": "203700"
+        },
+        {
+            "growLv": 98,
+            "maxExp": "205800"
+        },
+        {
+            "growLv": 99,
+            "maxExp": "207900"
+        },
+        {
+            "growLv": 100,
+            "maxExp": "210000"
+        },
+        {
+            "growLv": 101,
+            "maxExp": "212100"
+        },
+        {
+            "growLv": 102,
+            "maxExp": "214200"
+        },
+        {
+            "growLv": 103,
+            "maxExp": "216300"
+        },
+        {
+            "growLv": 104,
+            "maxExp": "218400"
+        },
+        {
+            "growLv": 105,
+            "maxExp": "220500"
+        },
+        {
+            "growLv": 106,
+            "maxExp": "222600"
+        },
+        {
+            "growLv": 107,
+            "maxExp": "224700"
+        },
+        {
+            "growLv": 108,
+            "maxExp": "226800"
+        },
+        {
+            "growLv": 109,
+            "maxExp": "228900"
+        },
+        {
+            "growLv": 110,
+            "maxExp": "231000"
+        },
+        {
+            "growLv": 111,
+            "maxExp": "233100"
+        },
+        {
+            "growLv": 112,
+            "maxExp": "235200"
+        },
+        {
+            "growLv": 113,
+            "maxExp": "237300"
+        },
+        {
+            "growLv": 114,
+            "maxExp": "239400"
+        },
+        {
+            "growLv": 115,
+            "maxExp": "241500"
+        },
+        {
+            "growLv": 116,
+            "maxExp": "243600"
+        },
+        {
+            "growLv": 117,
+            "maxExp": "245700"
+        },
+        {
+            "growLv": 118,
+            "maxExp": "247800"
+        },
+        {
+            "growLv": 119,
+            "maxExp": "249900"
+        },
+        {
+            "growLv": 120,
+            "maxExp": "252000"
+        },
+        {
+            "growLv": 121,
+            "maxExp": "254100"
+        },
+        {
+            "growLv": 122,
+            "maxExp": "256200"
+        },
+        {
+            "growLv": 123,
+            "maxExp": "258300"
+        },
+        {
+            "growLv": 124,
+            "maxExp": "260400"
+        },
+        {
+            "growLv": 125,
+            "maxExp": "262500"
+        },
+        {
+            "growLv": 126,
+            "maxExp": "264600"
+        },
+        {
+            "growLv": 127,
+            "maxExp": "266700"
+        },
+        {
+            "growLv": 128,
+            "maxExp": "268800"
+        },
+        {
+            "growLv": 129,
+            "maxExp": "270900"
+        },
+        {
+            "growLv": 130,
+            "maxExp": "273000"
+        },
+        {
+            "growLv": 131,
+            "maxExp": "275100"
+        },
+        {
+            "growLv": 132,
+            "maxExp": "277200"
+        },
+        {
+            "growLv": 133,
+            "maxExp": "279300"
+        },
+        {
+            "growLv": 134,
+            "maxExp": "281400"
+        },
+        {
+            "growLv": 135,
+            "maxExp": "283500"
+        },
+        {
+            "growLv": 136,
+            "maxExp": "285600"
+        },
+        {
+            "growLv": 137,
+            "maxExp": "287700"
+        },
+        {
+            "growLv": 138,
+            "maxExp": "289800"
+        },
+        {
+            "growLv": 139,
+            "maxExp": "291900"
+        },
+        {
+            "growLv": 140,
+            "maxExp": "294000"
+        },
+        {
+            "growLv": 141,
+            "maxExp": "296100"
+        },
+        {
+            "growLv": 142,
+            "maxExp": "298200"
+        },
+        {
+            "growLv": 143,
+            "maxExp": "300300"
+        },
+        {
+            "growLv": 144,
+            "maxExp": "302400"
+        },
+        {
+            "growLv": 145,
+            "maxExp": "304500"
+        },
+        {
+            "growLv": 146,
+            "maxExp": "306600"
+        },
+        {
+            "growLv": 147,
+            "maxExp": "308700"
+        },
+        {
+            "growLv": 148,
+            "maxExp": "310800"
+        },
+        {
+            "growLv": 149,
+            "maxExp": "312900"
+        },
+        {
+            "growLv": 150,
+            "maxExp": "315000"
+        },
+        {
+            "growLv": 151,
+            "maxExp": "317100"
+        },
+        {
+            "growLv": 152,
+            "maxExp": "319200"
+        },
+        {
+            "growLv": 153,
+            "maxExp": "321300"
+        },
+        {
+            "growLv": 154,
+            "maxExp": "323400"
+        },
+        {
+            "growLv": 155,
+            "maxExp": "325500"
+        },
+        {
+            "growLv": 156,
+            "maxExp": "327600"
+        },
+        {
+            "growLv": 157,
+            "maxExp": "329700"
+        },
+        {
+            "growLv": 158,
+            "maxExp": "331800"
+        },
+        {
+            "growLv": 159,
+            "maxExp": "333900"
+        },
+        {
+            "growLv": 160,
+            "maxExp": "336000"
+        },
+        {
+            "growLv": 161,
+            "maxExp": "338100"
+        },
+        {
+            "growLv": 162,
+            "maxExp": "340200"
+        },
+        {
+            "growLv": 163,
+            "maxExp": "342300"
+        },
+        {
+            "growLv": 164,
+            "maxExp": "344400"
+        },
+        {
+            "growLv": 165,
+            "maxExp": "346500"
+        },
+        {
+            "growLv": 166,
+            "maxExp": "348600"
+        },
+        {
+            "growLv": 167,
+            "maxExp": "350700"
+        },
+        {
+            "growLv": 168,
+            "maxExp": "352800"
+        },
+        {
+            "growLv": 169,
+            "maxExp": "354900"
+        },
+        {
+            "growLv": 170,
+            "maxExp": "357000"
+        },
+        {
+            "growLv": 171,
+            "maxExp": "359100"
+        },
+        {
+            "growLv": 172,
+            "maxExp": "361200"
+        },
+        {
+            "growLv": 173,
+            "maxExp": "363300"
+        },
+        {
+            "growLv": 174,
+            "maxExp": "365400"
+        },
+        {
+            "growLv": 175,
+            "maxExp": "367500"
+        },
+        {
+            "growLv": 176,
+            "maxExp": "369600"
+        },
+        {
+            "growLv": 177,
+            "maxExp": "371700"
+        },
+        {
+            "growLv": 178,
+            "maxExp": "373800"
+        },
+        {
+            "growLv": 179,
+            "maxExp": "375900"
+        },
+        {
+            "growLv": 180,
+            "maxExp": "378000"
+        },
+        {
+            "growLv": 181,
+            "maxExp": "380100"
+        },
+        {
+            "growLv": 182,
+            "maxExp": "382200"
+        },
+        {
+            "growLv": 183,
+            "maxExp": "384300"
+        },
+        {
+            "growLv": 184,
+            "maxExp": "386400"
+        },
+        {
+            "growLv": 185,
+            "maxExp": "388500"
+        },
+        {
+            "growLv": 186,
+            "maxExp": "390600"
+        },
+        {
+            "growLv": 187,
+            "maxExp": "392700"
+        },
+        {
+            "growLv": 188,
+            "maxExp": "394800"
+        },
+        {
+            "growLv": 189,
+            "maxExp": "396900"
+        },
+        {
+            "growLv": 190,
+            "maxExp": "399000"
+        },
+        {
+            "growLv": 191,
+            "maxExp": "401100"
+        },
+        {
+            "growLv": 192,
+            "maxExp": "403200"
+        },
+        {
+            "growLv": 193,
+            "maxExp": "405300"
+        },
+        {
+            "growLv": 194,
+            "maxExp": "407400"
+        },
+        {
+            "growLv": 195,
+            "maxExp": "409500"
+        },
+        {
+            "growLv": 196,
+            "maxExp": "411600"
+        },
+        {
+            "growLv": 197,
+            "maxExp": "413700"
+        },
+        {
+            "growLv": 198,
+            "maxExp": "415800"
+        },
+        {
+            "growLv": 199,
+            "maxExp": "417900"
+        },
+        {
+            "growLv": 200,
+            "maxExp": "420000"
+        },
+        {
+            "growLv": 201,
+            "maxExp": "422100"
+        },
+        {
+            "growLv": 202,
+            "maxExp": "424200"
+        },
+        {
+            "growLv": 203,
+            "maxExp": "426300"
+        },
+        {
+            "growLv": 204,
+            "maxExp": "428400"
+        },
+        {
+            "growLv": 205,
+            "maxExp": "430500"
+        },
+        {
+            "growLv": 206,
+            "maxExp": "432600"
+        },
+        {
+            "growLv": 207,
+            "maxExp": "434700"
+        },
+        {
+            "growLv": 208,
+            "maxExp": "436800"
+        },
+        {
+            "growLv": 209,
+            "maxExp": "438900"
+        },
+        {
+            "growLv": 210,
+            "maxExp": "441000"
+        },
+        {
+            "growLv": 211,
+            "maxExp": "443100"
+        },
+        {
+            "growLv": 212,
+            "maxExp": "445200"
+        },
+        {
+            "growLv": 213,
+            "maxExp": "447300"
+        },
+        {
+            "growLv": 214,
+            "maxExp": "449400"
+        },
+        {
+            "growLv": 215,
+            "maxExp": "451500"
+        },
+        {
+            "growLv": 216,
+            "maxExp": "453600"
+        },
+        {
+            "growLv": 217,
+            "maxExp": "455700"
+        },
+        {
+            "growLv": 218,
+            "maxExp": "457800"
+        },
+        {
+            "growLv": 219,
+            "maxExp": "459900"
+        },
+        {
+            "growLv": 220,
+            "maxExp": "462000"
+        },
+        {
+            "growLv": 221,
+            "maxExp": "464100"
+        },
+        {
+            "growLv": 222,
+            "maxExp": "466200"
+        },
+        {
+            "growLv": 223,
+            "maxExp": "468300"
+        },
+        {
+            "growLv": 224,
+            "maxExp": "470400"
+        },
+        {
+            "growLv": 225,
+            "maxExp": "472500"
+        },
+        {
+            "growLv": 226,
+            "maxExp": "474600"
+        },
+        {
+            "growLv": 227,
+            "maxExp": "476700"
+        },
+        {
+            "growLv": 228,
+            "maxExp": "478800"
+        },
+        {
+            "growLv": 229,
+            "maxExp": "480900"
+        },
+        {
+            "growLv": 230,
+            "maxExp": "483000"
+        },
+        {
+            "growLv": 231,
+            "maxExp": "485100"
+        },
+        {
+            "growLv": 232,
+            "maxExp": "487200"
+        },
+        {
+            "growLv": 233,
+            "maxExp": "489300"
+        },
+        {
+            "growLv": 234,
+            "maxExp": "491400"
+        },
+        {
+            "growLv": 235,
+            "maxExp": "493500"
+        },
+        {
+            "growLv": 236,
+            "maxExp": "495600"
+        },
+        {
+            "growLv": 237,
+            "maxExp": "497700"
+        },
+        {
+            "growLv": 238,
+            "maxExp": "499800"
+        },
+        {
+            "growLv": 239,
+            "maxExp": "501900"
+        },
+        {
+            "growLv": 240,
+            "maxExp": "504000"
+        },
+        {
+            "growLv": 241,
+            "maxExp": "506100"
+        },
+        {
+            "growLv": 242,
+            "maxExp": "508200"
+        },
+        {
+            "growLv": 243,
+            "maxExp": "510300"
+        },
+        {
+            "growLv": 244,
+            "maxExp": "512400"
+        },
+        {
+            "growLv": 245,
+            "maxExp": "514500"
+        },
+        {
+            "growLv": 246,
+            "maxExp": "516600"
+        },
+        {
+            "growLv": 247,
+            "maxExp": "518700"
+        },
+        {
+            "growLv": 248,
+            "maxExp": "520800"
+        },
+        {
+            "growLv": 249,
+            "maxExp": "522900"
+        },
+        {
+            "growLv": 250,
+            "maxExp": "525000"
+        },
+        {
+            "growLv": 251,
+            "maxExp": "527100"
+        },
+        {
+            "growLv": 252,
+            "maxExp": "529200"
+        },
+        {
+            "growLv": 253,
+            "maxExp": "531300"
+        },
+        {
+            "growLv": 254,
+            "maxExp": "533400"
+        },
+        {
+            "growLv": 255,
+            "maxExp": "535500"
+        },
+        {
+            "growLv": 256,
+            "maxExp": "537600"
+        },
+        {
+            "growLv": 257,
+            "maxExp": "539700"
+        },
+        {
+            "growLv": 258,
+            "maxExp": "541800"
+        },
+        {
+            "growLv": 259,
+            "maxExp": "543900"
+        },
+        {
+            "growLv": 260,
+            "maxExp": "546000"
+        },
+        {
+            "growLv": 261,
+            "maxExp": "548100"
+        },
+        {
+            "growLv": 262,
+            "maxExp": "550200"
+        },
+        {
+            "growLv": 263,
+            "maxExp": "552300"
+        },
+        {
+            "growLv": 264,
+            "maxExp": "554400"
+        },
+        {
+            "growLv": 265,
+            "maxExp": "556500"
+        },
+        {
+            "growLv": 266,
+            "maxExp": "558600"
+        },
+        {
+            "growLv": 267,
+            "maxExp": "560700"
+        },
+        {
+            "growLv": 268,
+            "maxExp": "562800"
+        },
+        {
+            "growLv": 269,
+            "maxExp": "564900"
+        },
+        {
+            "growLv": 270,
+            "maxExp": "567000"
+        },
+        {
+            "growLv": 271,
+            "maxExp": "569100"
+        },
+        {
+            "growLv": 272,
+            "maxExp": "571200"
+        },
+        {
+            "growLv": 273,
+            "maxExp": "573300"
+        },
+        {
+            "growLv": 274,
+            "maxExp": "575400"
+        },
+        {
+            "growLv": 275,
+            "maxExp": "577500"
+        },
+        {
+            "growLv": 276,
+            "maxExp": "579600"
+        },
+        {
+            "growLv": 277,
+            "maxExp": "581700"
+        },
+        {
+            "growLv": 278,
+            "maxExp": "583800"
+        },
+        {
+            "growLv": 279,
+            "maxExp": "585900"
+        },
+        {
+            "growLv": 280,
+            "maxExp": "588000"
+        },
+        {
+            "growLv": 281,
+            "maxExp": "590100"
+        },
+        {
+            "growLv": 282,
+            "maxExp": "592200"
+        },
+        {
+            "growLv": 283,
+            "maxExp": "594300"
+        },
+        {
+            "growLv": 284,
+            "maxExp": "596400"
+        },
+        {
+            "growLv": 285,
+            "maxExp": "598500"
+        },
+        {
+            "growLv": 286,
+            "maxExp": "600600"
+        },
+        {
+            "growLv": 287,
+            "maxExp": "602700"
+        },
+        {
+            "growLv": 288,
+            "maxExp": "604800"
+        },
+        {
+            "growLv": 289,
+            "maxExp": "606900"
+        },
+        {
+            "growLv": 290,
+            "maxExp": "609000"
+        },
+        {
+            "growLv": 291,
+            "maxExp": "611100"
+        },
+        {
+            "growLv": 292,
+            "maxExp": "613200"
+        },
+        {
+            "growLv": 293,
+            "maxExp": "615300"
+        },
+        {
+            "growLv": 294,
+            "maxExp": "617400"
+        },
+        {
+            "growLv": 295,
+            "maxExp": "619500"
+        },
+        {
+            "growLv": 296,
+            "maxExp": "621600"
+        },
+        {
+            "growLv": 297,
+            "maxExp": "623700"
+        },
+        {
+            "growLv": 298,
+            "maxExp": "625800"
+        },
+        {
+            "growLv": 299,
+            "maxExp": "627900"
+        },
+        {
+            "growLv": 300,
+            "maxExp": "630000"
+        },
+        {
+            "growLv": 301,
+            "maxExp": "632100"
+        },
+        {
+            "growLv": 302,
+            "maxExp": "634200"
+        },
+        {
+            "growLv": 303,
+            "maxExp": "636300"
+        },
+        {
+            "growLv": 304,
+            "maxExp": "638400"
+        },
+        {
+            "growLv": 305,
+            "maxExp": "640500"
+        },
+        {
+            "growLv": 306,
+            "maxExp": "642600"
+        },
+        {
+            "growLv": 307,
+            "maxExp": "644700"
+        },
+        {
+            "growLv": 308,
+            "maxExp": "646800"
+        },
+        {
+            "growLv": 309,
+            "maxExp": "648900"
+        },
+        {
+            "growLv": 310,
+            "maxExp": "651000"
+        },
+        {
+            "growLv": 311,
+            "maxExp": "653100"
+        },
+        {
+            "growLv": 312,
+            "maxExp": "655200"
+        },
+        {
+            "growLv": 313,
+            "maxExp": "657300"
+        },
+        {
+            "growLv": 314,
+            "maxExp": "659400"
+        },
+        {
+            "growLv": 315,
+            "maxExp": "661500"
+        },
+        {
+            "growLv": 316,
+            "maxExp": "663600"
+        },
+        {
+            "growLv": 317,
+            "maxExp": "665700"
+        },
+        {
+            "growLv": 318,
+            "maxExp": "667800"
+        },
+        {
+            "growLv": 319,
+            "maxExp": "669900"
+        },
+        {
+            "growLv": 320,
+            "maxExp": "672000"
+        },
+        {
+            "growLv": 321,
+            "maxExp": "674100"
+        },
+        {
+            "growLv": 322,
+            "maxExp": "676200"
+        },
+        {
+            "growLv": 323,
+            "maxExp": "678300"
+        },
+        {
+            "growLv": 324,
+            "maxExp": "680400"
+        },
+        {
+            "growLv": 325,
+            "maxExp": "682500"
+        },
+        {
+            "growLv": 326,
+            "maxExp": "684600"
+        },
+        {
+            "growLv": 327,
+            "maxExp": "686700"
+        },
+        {
+            "growLv": 328,
+            "maxExp": "688800"
+        },
+        {
+            "growLv": 329,
+            "maxExp": "690900"
+        },
+        {
+            "growLv": 330,
+            "maxExp": "693000"
+        },
+        {
+            "growLv": 331,
+            "maxExp": "695100"
+        },
+        {
+            "growLv": 332,
+            "maxExp": "697200"
+        },
+        {
+            "growLv": 333,
+            "maxExp": "699300"
+        },
+        {
+            "growLv": 334,
+            "maxExp": "701400"
+        },
+        {
+            "growLv": 335,
+            "maxExp": "703500"
+        },
+        {
+            "growLv": 336,
+            "maxExp": "705600"
+        },
+        {
+            "growLv": 337,
+            "maxExp": "707700"
+        },
+        {
+            "growLv": 338,
+            "maxExp": "709800"
+        },
+        {
+            "growLv": 339,
+            "maxExp": "711900"
+        },
+        {
+            "growLv": 340,
+            "maxExp": "714000"
+        },
+        {
+            "growLv": 341,
+            "maxExp": "716100"
+        },
+        {
+            "growLv": 342,
+            "maxExp": "718200"
+        },
+        {
+            "growLv": 343,
+            "maxExp": "720300"
+        },
+        {
+            "growLv": 344,
+            "maxExp": "722400"
+        },
+        {
+            "growLv": 345,
+            "maxExp": "724500"
+        },
+        {
+            "growLv": 346,
+            "maxExp": "726600"
+        },
+        {
+            "growLv": 347,
+            "maxExp": "728700"
+        },
+        {
+            "growLv": 348,
+            "maxExp": "730800"
+        },
+        {
+            "growLv": 349,
+            "maxExp": "732900"
+        },
+        {
+            "growLv": 350,
+            "maxExp": "735000"
+        },
+        {
+            "growLv": 351,
+            "maxExp": "737100"
+        },
+        {
+            "growLv": 352,
+            "maxExp": "739200"
+        },
+        {
+            "growLv": 353,
+            "maxExp": "741300"
+        },
+        {
+            "growLv": 354,
+            "maxExp": "743400"
+        },
+        {
+            "growLv": 355,
+            "maxExp": "745500"
+        },
+        {
+            "growLv": 356,
+            "maxExp": "747600"
+        },
+        {
+            "growLv": 357,
+            "maxExp": "749700"
+        },
+        {
+            "growLv": 358,
+            "maxExp": "751800"
+        },
+        {
+            "growLv": 359,
+            "maxExp": "753900"
+        },
+        {
+            "growLv": 360,
+            "maxExp": "756000"
+        },
+        {
+            "growLv": 361,
+            "maxExp": "758100"
+        },
+        {
+            "growLv": 362,
+            "maxExp": "760200"
+        },
+        {
+            "growLv": 363,
+            "maxExp": "762300"
+        },
+        {
+            "growLv": 364,
+            "maxExp": "764400"
+        },
+        {
+            "growLv": 365,
+            "maxExp": "766500"
+        },
+        {
+            "growLv": 366,
+            "maxExp": "768600"
+        },
+        {
+            "growLv": 367,
+            "maxExp": "770700"
+        },
+        {
+            "growLv": 368,
+            "maxExp": "772800"
+        },
+        {
+            "growLv": 369,
+            "maxExp": "774900"
+        },
+        {
+            "growLv": 370,
+            "maxExp": "777000"
+        },
+        {
+            "growLv": 371,
+            "maxExp": "779100"
+        },
+        {
+            "growLv": 372,
+            "maxExp": "781200"
+        },
+        {
+            "growLv": 373,
+            "maxExp": "783300"
+        },
+        {
+            "growLv": 374,
+            "maxExp": "785400"
+        },
+        {
+            "growLv": 375,
+            "maxExp": "787500"
+        },
+        {
+            "growLv": 376,
+            "maxExp": "789600"
+        },
+        {
+            "growLv": 377,
+            "maxExp": "791700"
+        },
+        {
+            "growLv": 378,
+            "maxExp": "793800"
+        },
+        {
+            "growLv": 379,
+            "maxExp": "795900"
+        },
+        {
+            "growLv": 380,
+            "maxExp": "798000"
+        },
+        {
+            "growLv": 381,
+            "maxExp": "800100"
+        },
+        {
+            "growLv": 382,
+            "maxExp": "802200"
+        },
+        {
+            "growLv": 383,
+            "maxExp": "804300"
+        },
+        {
+            "growLv": 384,
+            "maxExp": "806400"
+        },
+        {
+            "growLv": 385,
+            "maxExp": "808500"
+        },
+        {
+            "growLv": 386,
+            "maxExp": "810600"
+        },
+        {
+            "growLv": 387,
+            "maxExp": "812700"
+        },
+        {
+            "growLv": 388,
+            "maxExp": "814800"
+        },
+        {
+            "growLv": 389,
+            "maxExp": "816900"
+        },
+        {
+            "growLv": 390,
+            "maxExp": "819000"
+        },
+        {
+            "growLv": 391,
+            "maxExp": "821100"
+        },
+        {
+            "growLv": 392,
+            "maxExp": "823200"
+        },
+        {
+            "growLv": 393,
+            "maxExp": "825300"
+        },
+        {
+            "growLv": 394,
+            "maxExp": "827400"
+        },
+        {
+            "growLv": 395,
+            "maxExp": "829500"
+        },
+        {
+            "growLv": 396,
+            "maxExp": "831600"
+        },
+        {
+            "growLv": 397,
+            "maxExp": "833700"
+        },
+        {
+            "growLv": 398,
+            "maxExp": "835800"
+        },
+        {
+            "growLv": 399,
+            "maxExp": "837900"
+        },
+        {
+            "growLv": 400,
+            "maxExp": "840000"
+        },
+        {
+            "growLv": 401,
+            "maxExp": "842100"
+        },
+        {
+            "growLv": 402,
+            "maxExp": "844200"
+        },
+        {
+            "growLv": 403,
+            "maxExp": "846300"
+        },
+        {
+            "growLv": 404,
+            "maxExp": "848400"
+        },
+        {
+            "growLv": 405,
+            "maxExp": "850500"
+        },
+        {
+            "growLv": 406,
+            "maxExp": "852600"
+        },
+        {
+            "growLv": 407,
+            "maxExp": "854700"
+        },
+        {
+            "growLv": 408,
+            "maxExp": "856800"
+        },
+        {
+            "growLv": 409,
+            "maxExp": "858900"
+        },
+        {
+            "growLv": 410,
+            "maxExp": "861000"
+        },
+        {
+            "growLv": 411,
+            "maxExp": "863100"
+        },
+        {
+            "growLv": 412,
+            "maxExp": "865200"
+        },
+        {
+            "growLv": 413,
+            "maxExp": "867300"
+        },
+        {
+            "growLv": 414,
+            "maxExp": "869400"
+        },
+        {
+            "growLv": 415,
+            "maxExp": "871500"
+        },
+        {
+            "growLv": 416,
+            "maxExp": "873600"
+        },
+        {
+            "growLv": 417,
+            "maxExp": "875700"
+        },
+        {
+            "growLv": 418,
+            "maxExp": "877800"
+        },
+        {
+            "growLv": 419,
+            "maxExp": "879900"
+        },
+        {
+            "growLv": 420,
+            "maxExp": "882000"
+        },
+        {
+            "growLv": 421,
+            "maxExp": "884100"
+        },
+        {
+            "growLv": 422,
+            "maxExp": "886200"
+        },
+        {
+            "growLv": 423,
+            "maxExp": "888300"
+        },
+        {
+            "growLv": 424,
+            "maxExp": "890400"
+        },
+        {
+            "growLv": 425,
+            "maxExp": "892500"
+        },
+        {
+            "growLv": 426,
+            "maxExp": "894600"
+        },
+        {
+            "growLv": 427,
+            "maxExp": "896700"
+        },
+        {
+            "growLv": 428,
+            "maxExp": "898800"
+        },
+        {
+            "growLv": 429,
+            "maxExp": "900900"
+        },
+        {
+            "growLv": 430,
+            "maxExp": "903000"
+        },
+        {
+            "growLv": 431,
+            "maxExp": "905100"
+        },
+        {
+            "growLv": 432,
+            "maxExp": "907200"
+        },
+        {
+            "growLv": 433,
+            "maxExp": "909300"
+        },
+        {
+            "growLv": 434,
+            "maxExp": "911400"
+        },
+        {
+            "growLv": 435,
+            "maxExp": "913500"
+        },
+        {
+            "growLv": 436,
+            "maxExp": "915600"
+        },
+        {
+            "growLv": 437,
+            "maxExp": "917700"
+        },
+        {
+            "growLv": 438,
+            "maxExp": "919800"
+        },
+        {
+            "growLv": 439,
+            "maxExp": "921900"
+        },
+        {
+            "growLv": 440,
+            "maxExp": "924000"
+        },
+        {
+            "growLv": 441,
+            "maxExp": "926100"
+        },
+        {
+            "growLv": 442,
+            "maxExp": "928200"
+        },
+        {
+            "growLv": 443,
+            "maxExp": "930300"
+        },
+        {
+            "growLv": 444,
+            "maxExp": "932400"
+        },
+        {
+            "growLv": 445,
+            "maxExp": "934500"
+        },
+        {
+            "growLv": 446,
+            "maxExp": "936600"
+        },
+        {
+            "growLv": 447,
+            "maxExp": "938700"
+        },
+        {
+            "growLv": 448,
+            "maxExp": "940800"
+        },
+        {
+            "growLv": 449,
+            "maxExp": "942900"
+        },
+        {
+            "growLv": 450,
+            "maxExp": "945000"
+        },
+        {
+            "growLv": 451,
+            "maxExp": "947100"
+        },
+        {
+            "growLv": 452,
+            "maxExp": "949200"
+        },
+        {
+            "growLv": 453,
+            "maxExp": "951300"
+        },
+        {
+            "growLv": 454,
+            "maxExp": "953400"
+        },
+        {
+            "growLv": 455,
+            "maxExp": "955500"
+        },
+        {
+            "growLv": 456,
+            "maxExp": "957600"
+        },
+        {
+            "growLv": 457,
+            "maxExp": "959700"
+        },
+        {
+            "growLv": 458,
+            "maxExp": "961800"
+        },
+        {
+            "growLv": 459,
+            "maxExp": "963900"
+        },
+        {
+            "growLv": 460,
+            "maxExp": "966000"
+        },
+        {
+            "growLv": 461,
+            "maxExp": "968100"
+        },
+        {
+            "growLv": 462,
+            "maxExp": "970200"
+        },
+        {
+            "growLv": 463,
+            "maxExp": "972300"
+        },
+        {
+            "growLv": 464,
+            "maxExp": "974400"
+        },
+        {
+            "growLv": 465,
+            "maxExp": "976500"
+        },
+        {
+            "growLv": 466,
+            "maxExp": "978600"
+        },
+        {
+            "growLv": 467,
+            "maxExp": "980700"
+        },
+        {
+            "growLv": 468,
+            "maxExp": "982800"
+        },
+        {
+            "growLv": 469,
+            "maxExp": "984900"
+        },
+        {
+            "growLv": 470,
+            "maxExp": "987000"
+        },
+        {
+            "growLv": 471,
+            "maxExp": "989100"
+        },
+        {
+            "growLv": 472,
+            "maxExp": "991200"
+        },
+        {
+            "growLv": 473,
+            "maxExp": "993300"
+        },
+        {
+            "growLv": 474,
+            "maxExp": "995400"
+        },
+        {
+            "growLv": 475,
+            "maxExp": "997500"
+        },
+        {
+            "growLv": 476,
+            "maxExp": "999600"
+        },
+        {
+            "growLv": 477,
+            "maxExp": "1001700"
+        },
+        {
+            "growLv": 478,
+            "maxExp": "1003800"
+        },
+        {
+            "growLv": 479,
+            "maxExp": "1005900"
+        },
+        {
+            "growLv": 480,
+            "maxExp": "1008000"
+        },
+        {
+            "growLv": 481,
+            "maxExp": "1010100"
+        },
+        {
+            "growLv": 482,
+            "maxExp": "1012200"
+        },
+        {
+            "growLv": 483,
+            "maxExp": "1014300"
+        },
+        {
+            "growLv": 484,
+            "maxExp": "1016400"
+        },
+        {
+            "growLv": 485,
+            "maxExp": "1018500"
+        },
+        {
+            "growLv": 486,
+            "maxExp": "1020600"
+        },
+        {
+            "growLv": 487,
+            "maxExp": "1022700"
+        },
+        {
+            "growLv": 488,
+            "maxExp": "1024800"
+        },
+        {
+            "growLv": 489,
+            "maxExp": "1026900"
+        },
+        {
+            "growLv": 490,
+            "maxExp": "1029000"
+        },
+        {
+            "growLv": 491,
+            "maxExp": "1031100"
+        },
+        {
+            "growLv": 492,
+            "maxExp": "1033200"
+        },
+        {
+            "growLv": 493,
+            "maxExp": "1035300"
+        },
+        {
+            "growLv": 494,
+            "maxExp": "1037400"
+        },
+        {
+            "growLv": 495,
+            "maxExp": "1039500"
+        },
+        {
+            "growLv": 496,
+            "maxExp": "1041600"
+        },
+        {
+            "growLv": 497,
+            "maxExp": "1043700"
+        },
+        {
+            "growLv": 498,
+            "maxExp": "1045800"
+        },
+        {
+            "growLv": 499,
+            "maxExp": "1047900"
+        },
+        {
+            "growLv": 500,
+            "maxExp": "1050000"
+        },
+        {
+            "growLv": 501,
+            "maxExp": "1052100"
+        },
+        {
+            "growLv": 502,
+            "maxExp": "1054200"
+        },
+        {
+            "growLv": 503,
+            "maxExp": "1056300"
+        },
+        {
+            "growLv": 504,
+            "maxExp": "1058400"
+        },
+        {
+            "growLv": 505,
+            "maxExp": "1060500"
+        },
+        {
+            "growLv": 506,
+            "maxExp": "1062600"
+        },
+        {
+            "growLv": 507,
+            "maxExp": "1064700"
+        },
+        {
+            "growLv": 508,
+            "maxExp": "1066800"
+        },
+        {
+            "growLv": 509,
+            "maxExp": "1068900"
+        },
+        {
+            "growLv": 510,
+            "maxExp": "1071000"
+        },
+        {
+            "growLv": 511,
+            "maxExp": "1073100"
+        },
+        {
+            "growLv": 512,
+            "maxExp": "1075200"
+        },
+        {
+            "growLv": 513,
+            "maxExp": "1077300"
+        },
+        {
+            "growLv": 514,
+            "maxExp": "1079400"
+        },
+        {
+            "growLv": 515,
+            "maxExp": "1081500"
+        },
+        {
+            "growLv": 516,
+            "maxExp": "1083600"
+        },
+        {
+            "growLv": 517,
+            "maxExp": "1085700"
+        },
+        {
+            "growLv": 518,
+            "maxExp": "1087800"
+        },
+        {
+            "growLv": 519,
+            "maxExp": "1089900"
+        },
+        {
+            "growLv": 520,
+            "maxExp": "1092000"
+        },
+        {
+            "growLv": 521,
+            "maxExp": "1094100"
+        },
+        {
+            "growLv": 522,
+            "maxExp": "1096200"
+        },
+        {
+            "growLv": 523,
+            "maxExp": "1098300"
+        },
+        {
+            "growLv": 524,
+            "maxExp": "1100400"
+        },
+        {
+            "growLv": 525,
+            "maxExp": "1102500"
+        },
+        {
+            "growLv": 526,
+            "maxExp": "1104600"
+        },
+        {
+            "growLv": 527,
+            "maxExp": "1106700"
+        },
+        {
+            "growLv": 528,
+            "maxExp": "1108800"
+        },
+        {
+            "growLv": 529,
+            "maxExp": "1110900"
+        },
+        {
+            "growLv": 530,
+            "maxExp": "1113000"
+        },
+        {
+            "growLv": 531,
+            "maxExp": "1115100"
+        },
+        {
+            "growLv": 532,
+            "maxExp": "1117200"
+        },
+        {
+            "growLv": 533,
+            "maxExp": "1119300"
+        },
+        {
+            "growLv": 534,
+            "maxExp": "1121400"
+        },
+        {
+            "growLv": 535,
+            "maxExp": "1123500"
+        },
+        {
+            "growLv": 536,
+            "maxExp": "1125600"
+        },
+        {
+            "growLv": 537,
+            "maxExp": "1127700"
+        },
+        {
+            "growLv": 538,
+            "maxExp": "1129800"
+        },
+        {
+            "growLv": 539,
+            "maxExp": "1131900"
+        },
+        {
+            "growLv": 540,
+            "maxExp": "1134000"
+        },
+        {
+            "growLv": 541,
+            "maxExp": "1136100"
+        },
+        {
+            "growLv": 542,
+            "maxExp": "1138200"
+        },
+        {
+            "growLv": 543,
+            "maxExp": "1140300"
+        },
+        {
+            "growLv": 544,
+            "maxExp": "1142400"
+        },
+        {
+            "growLv": 545,
+            "maxExp": "1144500"
+        },
+        {
+            "growLv": 546,
+            "maxExp": "1146600"
+        },
+        {
+            "growLv": 547,
+            "maxExp": "1148700"
+        },
+        {
+            "growLv": 548,
+            "maxExp": "1150800"
+        },
+        {
+            "growLv": 549,
+            "maxExp": "1152900"
+        },
+        {
+            "growLv": 550,
+            "maxExp": "1155000"
+        },
+        {
+            "growLv": 551,
+            "maxExp": "1157100"
+        },
+        {
+            "growLv": 552,
+            "maxExp": "1159200"
+        },
+        {
+            "growLv": 553,
+            "maxExp": "1161300"
+        },
+        {
+            "growLv": 554,
+            "maxExp": "1163400"
+        },
+        {
+            "growLv": 555,
+            "maxExp": "1165500"
+        },
+        {
+            "growLv": 556,
+            "maxExp": "1167600"
+        },
+        {
+            "growLv": 557,
+            "maxExp": "1169700"
+        },
+        {
+            "growLv": 558,
+            "maxExp": "1171800"
+        },
+        {
+            "growLv": 559,
+            "maxExp": "1173900"
+        },
+        {
+            "growLv": 560,
+            "maxExp": "1176000"
+        },
+        {
+            "growLv": 561,
+            "maxExp": "1178100"
+        },
+        {
+            "growLv": 562,
+            "maxExp": "1180200"
+        },
+        {
+            "growLv": 563,
+            "maxExp": "1182300"
+        },
+        {
+            "growLv": 564,
+            "maxExp": "1184400"
+        },
+        {
+            "growLv": 565,
+            "maxExp": "1186500"
+        },
+        {
+            "growLv": 566,
+            "maxExp": "1188600"
+        },
+        {
+            "growLv": 567,
+            "maxExp": "1190700"
+        },
+        {
+            "growLv": 568,
+            "maxExp": "1192800"
+        },
+        {
+            "growLv": 569,
+            "maxExp": "1194900"
+        },
+        {
+            "growLv": 570,
+            "maxExp": "1197000"
+        },
+        {
+            "growLv": 571,
+            "maxExp": "1199100"
+        },
+        {
+            "growLv": 572,
+            "maxExp": "1201200"
+        },
+        {
+            "growLv": 573,
+            "maxExp": "1203300"
+        },
+        {
+            "growLv": 574,
+            "maxExp": "1205400"
+        },
+        {
+            "growLv": 575,
+            "maxExp": "1207500"
+        },
+        {
+            "growLv": 576,
+            "maxExp": "1209600"
+        },
+        {
+            "growLv": 577,
+            "maxExp": "1211700"
+        },
+        {
+            "growLv": 578,
+            "maxExp": "1213800"
+        },
+        {
+            "growLv": 579,
+            "maxExp": "1215900"
+        },
+        {
+            "growLv": 580,
+            "maxExp": "1218000"
+        },
+        {
+            "growLv": 581,
+            "maxExp": "1220100"
+        },
+        {
+            "growLv": 582,
+            "maxExp": "1222200"
+        },
+        {
+            "growLv": 583,
+            "maxExp": "1224300"
+        },
+        {
+            "growLv": 584,
+            "maxExp": "1226400"
+        },
+        {
+            "growLv": 585,
+            "maxExp": "1228500"
+        },
+        {
+            "growLv": 586,
+            "maxExp": "1230600"
+        },
+        {
+            "growLv": 587,
+            "maxExp": "1232700"
+        },
+        {
+            "growLv": 588,
+            "maxExp": "1234800"
+        },
+        {
+            "growLv": 589,
+            "maxExp": "1236900"
+        },
+        {
+            "growLv": 590,
+            "maxExp": "1239000"
+        },
+        {
+            "growLv": 591,
+            "maxExp": "1241100"
+        },
+        {
+            "growLv": 592,
+            "maxExp": "1243200"
+        },
+        {
+            "growLv": 593,
+            "maxExp": "1245300"
+        },
+        {
+            "growLv": 594,
+            "maxExp": "1247400"
+        },
+        {
+            "growLv": 595,
+            "maxExp": "1249500"
+        },
+        {
+            "growLv": 596,
+            "maxExp": "1251600"
+        },
+        {
+            "growLv": 597,
+            "maxExp": "1253700"
+        },
+        {
+            "growLv": 598,
+            "maxExp": "1255800"
+        },
+        {
+            "growLv": 599,
+            "maxExp": "1257900"
+        },
+        {
+            "growLv": 600,
+            "maxExp": "1260000"
+        },
+        {
+            "growLv": 601,
+            "maxExp": "1262100"
+        },
+        {
+            "growLv": 602,
+            "maxExp": "1264200"
+        },
+        {
+            "growLv": 603,
+            "maxExp": "1266300"
+        },
+        {
+            "growLv": 604,
+            "maxExp": "1268400"
+        },
+        {
+            "growLv": 605,
+            "maxExp": "1270500"
+        },
+        {
+            "growLv": 606,
+            "maxExp": "1272600"
+        },
+        {
+            "growLv": 607,
+            "maxExp": "1274700"
+        },
+        {
+            "growLv": 608,
+            "maxExp": "1276800"
+        },
+        {
+            "growLv": 609,
+            "maxExp": "1278900"
+        },
+        {
+            "growLv": 610,
+            "maxExp": "1281000"
+        },
+        {
+            "growLv": 611,
+            "maxExp": "1283100"
+        },
+        {
+            "growLv": 612,
+            "maxExp": "1285200"
+        },
+        {
+            "growLv": 613,
+            "maxExp": "1287300"
+        },
+        {
+            "growLv": 614,
+            "maxExp": "1289400"
+        },
+        {
+            "growLv": 615,
+            "maxExp": "1291500"
+        },
+        {
+            "growLv": 616,
+            "maxExp": "1293600"
+        },
+        {
+            "growLv": 617,
+            "maxExp": "1295700"
+        },
+        {
+            "growLv": 618,
+            "maxExp": "1297800"
+        },
+        {
+            "growLv": 619,
+            "maxExp": "1299900"
+        },
+        {
+            "growLv": 620,
+            "maxExp": "1302000"
+        },
+        {
+            "growLv": 621,
+            "maxExp": "1304100"
+        },
+        {
+            "growLv": 622,
+            "maxExp": "1306200"
+        },
+        {
+            "growLv": 623,
+            "maxExp": "1308300"
+        },
+        {
+            "growLv": 624,
+            "maxExp": "1310400"
+        },
+        {
+            "growLv": 625,
+            "maxExp": "1312500"
+        },
+        {
+            "growLv": 626,
+            "maxExp": "1314600"
+        },
+        {
+            "growLv": 627,
+            "maxExp": "1316700"
+        },
+        {
+            "growLv": 628,
+            "maxExp": "1318800"
+        },
+        {
+            "growLv": 629,
+            "maxExp": "1320900"
+        },
+        {
+            "growLv": 630,
+            "maxExp": "1323000"
+        },
+        {
+            "growLv": 631,
+            "maxExp": "1325100"
+        },
+        {
+            "growLv": 632,
+            "maxExp": "1327200"
+        },
+        {
+            "growLv": 633,
+            "maxExp": "1329300"
+        },
+        {
+            "growLv": 634,
+            "maxExp": "1331400"
+        },
+        {
+            "growLv": 635,
+            "maxExp": "1333500"
+        },
+        {
+            "growLv": 636,
+            "maxExp": "1335600"
+        },
+        {
+            "growLv": 637,
+            "maxExp": "1337700"
+        },
+        {
+            "growLv": 638,
+            "maxExp": "1339800"
+        },
+        {
+            "growLv": 639,
+            "maxExp": "1341900"
+        },
+        {
+            "growLv": 640,
+            "maxExp": "1344000"
+        },
+        {
+            "growLv": 641,
+            "maxExp": "1346100"
+        },
+        {
+            "growLv": 642,
+            "maxExp": "1348200"
+        },
+        {
+            "growLv": 643,
+            "maxExp": "1350300"
+        },
+        {
+            "growLv": 644,
+            "maxExp": "1352400"
+        },
+        {
+            "growLv": 645,
+            "maxExp": "1354500"
+        },
+        {
+            "growLv": 646,
+            "maxExp": "1356600"
+        },
+        {
+            "growLv": 647,
+            "maxExp": "1358700"
+        },
+        {
+            "growLv": 648,
+            "maxExp": "1360800"
+        },
+        {
+            "growLv": 649,
+            "maxExp": "1362900"
+        },
+        {
+            "growLv": 650,
+            "maxExp": "1365000"
+        },
+        {
+            "growLv": 651,
+            "maxExp": "1367100"
+        },
+        {
+            "growLv": 652,
+            "maxExp": "1369200"
+        },
+        {
+            "growLv": 653,
+            "maxExp": "1371300"
+        },
+        {
+            "growLv": 654,
+            "maxExp": "1373400"
+        },
+        {
+            "growLv": 655,
+            "maxExp": "1375500"
+        },
+        {
+            "growLv": 656,
+            "maxExp": "1377600"
+        },
+        {
+            "growLv": 657,
+            "maxExp": "1379700"
+        },
+        {
+            "growLv": 658,
+            "maxExp": "1381800"
+        },
+        {
+            "growLv": 659,
+            "maxExp": "1383900"
+        },
+        {
+            "growLv": 660,
+            "maxExp": "1386000"
+        },
+        {
+            "growLv": 661,
+            "maxExp": "1388100"
+        },
+        {
+            "growLv": 662,
+            "maxExp": "1390200"
+        },
+        {
+            "growLv": 663,
+            "maxExp": "1392300"
+        },
+        {
+            "growLv": 664,
+            "maxExp": "1394400"
+        },
+        {
+            "growLv": 665,
+            "maxExp": "1396500"
+        },
+        {
+            "growLv": 666,
+            "maxExp": "1398600"
+        },
+        {
+            "growLv": 667,
+            "maxExp": "1400700"
+        },
+        {
+            "growLv": 668,
+            "maxExp": "1402800"
+        },
+        {
+            "growLv": 669,
+            "maxExp": "1404900"
+        },
+        {
+            "growLv": 670,
+            "maxExp": "1407000"
+        },
+        {
+            "growLv": 671,
+            "maxExp": "1409100"
+        },
+        {
+            "growLv": 672,
+            "maxExp": "1411200"
+        },
+        {
+            "growLv": 673,
+            "maxExp": "1413300"
+        },
+        {
+            "growLv": 674,
+            "maxExp": "1415400"
+        },
+        {
+            "growLv": 675,
+            "maxExp": "1417500"
+        },
+        {
+            "growLv": 676,
+            "maxExp": "1419600"
+        },
+        {
+            "growLv": 677,
+            "maxExp": "1421700"
+        },
+        {
+            "growLv": 678,
+            "maxExp": "1423800"
+        },
+        {
+            "growLv": 679,
+            "maxExp": "1425900"
+        },
+        {
+            "growLv": 680,
+            "maxExp": "1428000"
+        },
+        {
+            "growLv": 681,
+            "maxExp": "1430100"
+        },
+        {
+            "growLv": 682,
+            "maxExp": "1432200"
+        },
+        {
+            "growLv": 683,
+            "maxExp": "1434300"
+        },
+        {
+            "growLv": 684,
+            "maxExp": "1436400"
+        },
+        {
+            "growLv": 685,
+            "maxExp": "1438500"
+        },
+        {
+            "growLv": 686,
+            "maxExp": "1440600"
+        },
+        {
+            "growLv": 687,
+            "maxExp": "1442700"
+        },
+        {
+            "growLv": 688,
+            "maxExp": "1444800"
+        },
+        {
+            "growLv": 689,
+            "maxExp": "1446900"
+        },
+        {
+            "growLv": 690,
+            "maxExp": "1449000"
+        },
+        {
+            "growLv": 691,
+            "maxExp": "1451100"
+        },
+        {
+            "growLv": 692,
+            "maxExp": "1453200"
+        },
+        {
+            "growLv": 693,
+            "maxExp": "1455300"
+        },
+        {
+            "growLv": 694,
+            "maxExp": "1457400"
+        },
+        {
+            "growLv": 695,
+            "maxExp": "1459500"
+        },
+        {
+            "growLv": 696,
+            "maxExp": "1461600"
+        },
+        {
+            "growLv": 697,
+            "maxExp": "1463700"
+        },
+        {
+            "growLv": 698,
+            "maxExp": "1465800"
+        },
+        {
+            "growLv": 699,
+            "maxExp": "1467900"
+        },
+        {
+            "growLv": 700,
+            "maxExp": "1470000"
+        },
+        {
+            "growLv": 701,
+            "maxExp": "1472100"
+        },
+        {
+            "growLv": 702,
+            "maxExp": "1474200"
+        },
+        {
+            "growLv": 703,
+            "maxExp": "1476300"
+        },
+        {
+            "growLv": 704,
+            "maxExp": "1478400"
+        },
+        {
+            "growLv": 705,
+            "maxExp": "1480500"
+        },
+        {
+            "growLv": 706,
+            "maxExp": "1482600"
+        },
+        {
+            "growLv": 707,
+            "maxExp": "1484700"
+        },
+        {
+            "growLv": 708,
+            "maxExp": "1486800"
+        },
+        {
+            "growLv": 709,
+            "maxExp": "1488900"
+        },
+        {
+            "growLv": 710,
+            "maxExp": "1491000"
+        },
+        {
+            "growLv": 711,
+            "maxExp": "1493100"
+        },
+        {
+            "growLv": 712,
+            "maxExp": "1495200"
+        },
+        {
+            "growLv": 713,
+            "maxExp": "1497300"
+        },
+        {
+            "growLv": 714,
+            "maxExp": "1499400"
+        },
+        {
+            "growLv": 715,
+            "maxExp": "1501500"
+        },
+        {
+            "growLv": 716,
+            "maxExp": "1503600"
+        },
+        {
+            "growLv": 717,
+            "maxExp": "1505700"
+        },
+        {
+            "growLv": 718,
+            "maxExp": "1507800"
+        },
+        {
+            "growLv": 719,
+            "maxExp": "1509900"
+        },
+        {
+            "growLv": 720,
+            "maxExp": "1512000"
+        },
+        {
+            "growLv": 721,
+            "maxExp": "1514100"
+        },
+        {
+            "growLv": 722,
+            "maxExp": "1516200"
+        },
+        {
+            "growLv": 723,
+            "maxExp": "1518300"
+        },
+        {
+            "growLv": 724,
+            "maxExp": "1520400"
+        },
+        {
+            "growLv": 725,
+            "maxExp": "1522500"
+        },
+        {
+            "growLv": 726,
+            "maxExp": "1524600"
+        },
+        {
+            "growLv": 727,
+            "maxExp": "1526700"
+        },
+        {
+            "growLv": 728,
+            "maxExp": "1528800"
+        },
+        {
+            "growLv": 729,
+            "maxExp": "1530900"
+        },
+        {
+            "growLv": 730,
+            "maxExp": "1533000"
+        },
+        {
+            "growLv": 731,
+            "maxExp": "1535100"
+        },
+        {
+            "growLv": 732,
+            "maxExp": "1537200"
+        },
+        {
+            "growLv": 733,
+            "maxExp": "1539300"
+        },
+        {
+            "growLv": 734,
+            "maxExp": "1541400"
+        },
+        {
+            "growLv": 735,
+            "maxExp": "1543500"
+        },
+        {
+            "growLv": 736,
+            "maxExp": "1545600"
+        },
+        {
+            "growLv": 737,
+            "maxExp": "1547700"
+        },
+        {
+            "growLv": 738,
+            "maxExp": "1549800"
+        },
+        {
+            "growLv": 739,
+            "maxExp": "1551900"
+        },
+        {
+            "growLv": 740,
+            "maxExp": "1554000"
+        },
+        {
+            "growLv": 741,
+            "maxExp": "1556100"
+        },
+        {
+            "growLv": 742,
+            "maxExp": "1558200"
+        },
+        {
+            "growLv": 743,
+            "maxExp": "1560300"
+        },
+        {
+            "growLv": 744,
+            "maxExp": "1562400"
+        },
+        {
+            "growLv": 745,
+            "maxExp": "1564500"
+        },
+        {
+            "growLv": 746,
+            "maxExp": "1566600"
+        },
+        {
+            "growLv": 747,
+            "maxExp": "1568700"
+        },
+        {
+            "growLv": 748,
+            "maxExp": "1570800"
+        },
+        {
+            "growLv": 749,
+            "maxExp": "1572900"
+        },
+        {
+            "growLv": 750,
+            "maxExp": "1575000"
+        },
+        {
+            "growLv": 751,
+            "maxExp": "1577100"
+        },
+        {
+            "growLv": 752,
+            "maxExp": "1579200"
+        },
+        {
+            "growLv": 753,
+            "maxExp": "1581300"
+        },
+        {
+            "growLv": 754,
+            "maxExp": "1583400"
+        },
+        {
+            "growLv": 755,
+            "maxExp": "1585500"
+        },
+        {
+            "growLv": 756,
+            "maxExp": "1587600"
+        },
+        {
+            "growLv": 757,
+            "maxExp": "1589700"
+        },
+        {
+            "growLv": 758,
+            "maxExp": "1591800"
+        },
+        {
+            "growLv": 759,
+            "maxExp": "1593900"
+        },
+        {
+            "growLv": 760,
+            "maxExp": "1596000"
+        },
+        {
+            "growLv": 761,
+            "maxExp": "1598100"
+        },
+        {
+            "growLv": 762,
+            "maxExp": "1600200"
+        },
+        {
+            "growLv": 763,
+            "maxExp": "1602300"
+        },
+        {
+            "growLv": 764,
+            "maxExp": "1604400"
+        },
+        {
+            "growLv": 765,
+            "maxExp": "1606500"
+        },
+        {
+            "growLv": 766,
+            "maxExp": "1608600"
+        },
+        {
+            "growLv": 767,
+            "maxExp": "1610700"
+        },
+        {
+            "growLv": 768,
+            "maxExp": "1612800"
+        },
+        {
+            "growLv": 769,
+            "maxExp": "1614900"
+        },
+        {
+            "growLv": 770,
+            "maxExp": "1617000"
+        },
+        {
+            "growLv": 771,
+            "maxExp": "1619100"
+        },
+        {
+            "growLv": 772,
+            "maxExp": "1621200"
+        },
+        {
+            "growLv": 773,
+            "maxExp": "1623300"
+        },
+        {
+            "growLv": 774,
+            "maxExp": "1625400"
+        },
+        {
+            "growLv": 775,
+            "maxExp": "1627500"
+        },
+        {
+            "growLv": 776,
+            "maxExp": "1629600"
+        },
+        {
+            "growLv": 777,
+            "maxExp": "1631700"
+        },
+        {
+            "growLv": 778,
+            "maxExp": "1633800"
+        },
+        {
+            "growLv": 779,
+            "maxExp": "1635900"
+        },
+        {
+            "growLv": 780,
+            "maxExp": "1638000"
+        },
+        {
+            "growLv": 781,
+            "maxExp": "1640100"
+        },
+        {
+            "growLv": 782,
+            "maxExp": "1642200"
+        },
+        {
+            "growLv": 783,
+            "maxExp": "1644300"
+        },
+        {
+            "growLv": 784,
+            "maxExp": "1646400"
+        },
+        {
+            "growLv": 785,
+            "maxExp": "1648500"
+        },
+        {
+            "growLv": 786,
+            "maxExp": "1650600"
+        },
+        {
+            "growLv": 787,
+            "maxExp": "1652700"
+        },
+        {
+            "growLv": 788,
+            "maxExp": "1654800"
+        },
+        {
+            "growLv": 789,
+            "maxExp": "1656900"
+        },
+        {
+            "growLv": 790,
+            "maxExp": "1659000"
+        },
+        {
+            "growLv": 791,
+            "maxExp": "1661100"
+        },
+        {
+            "growLv": 792,
+            "maxExp": "1663200"
+        },
+        {
+            "growLv": 793,
+            "maxExp": "1665300"
+        },
+        {
+            "growLv": 794,
+            "maxExp": "1667400"
+        },
+        {
+            "growLv": 795,
+            "maxExp": "1669500"
+        },
+        {
+            "growLv": 796,
+            "maxExp": "1671600"
+        },
+        {
+            "growLv": 797,
+            "maxExp": "1673700"
+        },
+        {
+            "growLv": 798,
+            "maxExp": "1675800"
+        },
+        {
+            "growLv": 799,
+            "maxExp": "1677900"
+        },
+        {
+            "growLv": 800,
+            "maxExp": "1680000"
+        },
+        {
+            "growLv": 801,
+            "maxExp": "1682100"
+        },
+        {
+            "growLv": 802,
+            "maxExp": "1684200"
+        },
+        {
+            "growLv": 803,
+            "maxExp": "1686300"
+        },
+        {
+            "growLv": 804,
+            "maxExp": "1688400"
+        },
+        {
+            "growLv": 805,
+            "maxExp": "1690500"
+        },
+        {
+            "growLv": 806,
+            "maxExp": "1692600"
+        },
+        {
+            "growLv": 807,
+            "maxExp": "1694700"
+        },
+        {
+            "growLv": 808,
+            "maxExp": "1696800"
+        },
+        {
+            "growLv": 809,
+            "maxExp": "1698900"
+        },
+        {
+            "growLv": 810,
+            "maxExp": "1701000"
+        },
+        {
+            "growLv": 811,
+            "maxExp": "1703100"
+        },
+        {
+            "growLv": 812,
+            "maxExp": "1705200"
+        },
+        {
+            "growLv": 813,
+            "maxExp": "1707300"
+        },
+        {
+            "growLv": 814,
+            "maxExp": "1709400"
+        },
+        {
+            "growLv": 815,
+            "maxExp": "1711500"
+        },
+        {
+            "growLv": 816,
+            "maxExp": "1713600"
+        },
+        {
+            "growLv": 817,
+            "maxExp": "1715700"
+        },
+        {
+            "growLv": 818,
+            "maxExp": "1717800"
+        },
+        {
+            "growLv": 819,
+            "maxExp": "1719900"
+        },
+        {
+            "growLv": 820,
+            "maxExp": "1722000"
+        },
+        {
+            "growLv": 821,
+            "maxExp": "1724100"
+        },
+        {
+            "growLv": 822,
+            "maxExp": "1726200"
+        },
+        {
+            "growLv": 823,
+            "maxExp": "1728300"
+        },
+        {
+            "growLv": 824,
+            "maxExp": "1730400"
+        },
+        {
+            "growLv": 825,
+            "maxExp": "1732500"
+        },
+        {
+            "growLv": 826,
+            "maxExp": "1734600"
+        },
+        {
+            "growLv": 827,
+            "maxExp": "1736700"
+        },
+        {
+            "growLv": 828,
+            "maxExp": "1738800"
+        },
+        {
+            "growLv": 829,
+            "maxExp": "1740900"
+        },
+        {
+            "growLv": 830,
+            "maxExp": "1743000"
+        },
+        {
+            "growLv": 831,
+            "maxExp": "1745100"
+        },
+        {
+            "growLv": 832,
+            "maxExp": "1747200"
+        },
+        {
+            "growLv": 833,
+            "maxExp": "1749300"
+        },
+        {
+            "growLv": 834,
+            "maxExp": "1751400"
+        },
+        {
+            "growLv": 835,
+            "maxExp": "1753500"
+        },
+        {
+            "growLv": 836,
+            "maxExp": "1755600"
+        },
+        {
+            "growLv": 837,
+            "maxExp": "1757700"
+        },
+        {
+            "growLv": 838,
+            "maxExp": "1759800"
+        },
+        {
+            "growLv": 839,
+            "maxExp": "1761900"
+        },
+        {
+            "growLv": 840,
+            "maxExp": "1764000"
+        },
+        {
+            "growLv": 841,
+            "maxExp": "1766100"
+        },
+        {
+            "growLv": 842,
+            "maxExp": "1768200"
+        },
+        {
+            "growLv": 843,
+            "maxExp": "1770300"
+        },
+        {
+            "growLv": 844,
+            "maxExp": "1772400"
+        },
+        {
+            "growLv": 845,
+            "maxExp": "1774500"
+        },
+        {
+            "growLv": 846,
+            "maxExp": "1776600"
+        },
+        {
+            "growLv": 847,
+            "maxExp": "1778700"
+        },
+        {
+            "growLv": 848,
+            "maxExp": "1780800"
+        },
+        {
+            "growLv": 849,
+            "maxExp": "1782900"
+        },
+        {
+            "growLv": 850,
+            "maxExp": "1785000"
+        },
+        {
+            "growLv": 851,
+            "maxExp": "1787100"
+        },
+        {
+            "growLv": 852,
+            "maxExp": "1789200"
+        },
+        {
+            "growLv": 853,
+            "maxExp": "1791300"
+        },
+        {
+            "growLv": 854,
+            "maxExp": "1793400"
+        },
+        {
+            "growLv": 855,
+            "maxExp": "1795500"
+        },
+        {
+            "growLv": 856,
+            "maxExp": "1797600"
+        },
+        {
+            "growLv": 857,
+            "maxExp": "1799700"
+        },
+        {
+            "growLv": 858,
+            "maxExp": "1801800"
+        },
+        {
+            "growLv": 859,
+            "maxExp": "1803900"
+        },
+        {
+            "growLv": 860,
+            "maxExp": "1806000"
+        },
+        {
+            "growLv": 861,
+            "maxExp": "1808100"
+        },
+        {
+            "growLv": 862,
+            "maxExp": "1810200"
+        },
+        {
+            "growLv": 863,
+            "maxExp": "1812300"
+        },
+        {
+            "growLv": 864,
+            "maxExp": "1814400"
+        },
+        {
+            "growLv": 865,
+            "maxExp": "1816500"
+        },
+        {
+            "growLv": 866,
+            "maxExp": "1818600"
+        },
+        {
+            "growLv": 867,
+            "maxExp": "1820700"
+        },
+        {
+            "growLv": 868,
+            "maxExp": "1822800"
+        },
+        {
+            "growLv": 869,
+            "maxExp": "1824900"
+        },
+        {
+            "growLv": 870,
+            "maxExp": "1827000"
+        },
+        {
+            "growLv": 871,
+            "maxExp": "1829100"
+        },
+        {
+            "growLv": 872,
+            "maxExp": "1831200"
+        },
+        {
+            "growLv": 873,
+            "maxExp": "1833300"
+        },
+        {
+            "growLv": 874,
+            "maxExp": "1835400"
+        },
+        {
+            "growLv": 875,
+            "maxExp": "1837500"
+        },
+        {
+            "growLv": 876,
+            "maxExp": "1839600"
+        },
+        {
+            "growLv": 877,
+            "maxExp": "1841700"
+        },
+        {
+            "growLv": 878,
+            "maxExp": "1843800"
+        },
+        {
+            "growLv": 879,
+            "maxExp": "1845900"
+        },
+        {
+            "growLv": 880,
+            "maxExp": "1848000"
+        },
+        {
+            "growLv": 881,
+            "maxExp": "1850100"
+        },
+        {
+            "growLv": 882,
+            "maxExp": "1852200"
+        },
+        {
+            "growLv": 883,
+            "maxExp": "1854300"
+        },
+        {
+            "growLv": 884,
+            "maxExp": "1856400"
+        },
+        {
+            "growLv": 885,
+            "maxExp": "1858500"
+        },
+        {
+            "growLv": 886,
+            "maxExp": "1860600"
+        },
+        {
+            "growLv": 887,
+            "maxExp": "1862700"
+        },
+        {
+            "growLv": 888,
+            "maxExp": "1864800"
+        },
+        {
+            "growLv": 889,
+            "maxExp": "1866900"
+        },
+        {
+            "growLv": 890,
+            "maxExp": "1869000"
+        },
+        {
+            "growLv": 891,
+            "maxExp": "1871100"
+        },
+        {
+            "growLv": 892,
+            "maxExp": "1873200"
+        },
+        {
+            "growLv": 893,
+            "maxExp": "1875300"
+        },
+        {
+            "growLv": 894,
+            "maxExp": "1877400"
+        },
+        {
+            "growLv": 895,
+            "maxExp": "1879500"
+        },
+        {
+            "growLv": 896,
+            "maxExp": "1881600"
+        },
+        {
+            "growLv": 897,
+            "maxExp": "1883700"
+        },
+        {
+            "growLv": 898,
+            "maxExp": "1885800"
+        },
+        {
+            "growLv": 899,
+            "maxExp": "1887900"
+        },
+        {
+            "growLv": 900,
+            "maxExp": "1890000"
+        },
+        {
+            "growLv": 901,
+            "maxExp": "1892100"
+        },
+        {
+            "growLv": 902,
+            "maxExp": "1894200"
+        },
+        {
+            "growLv": 903,
+            "maxExp": "1896300"
+        },
+        {
+            "growLv": 904,
+            "maxExp": "1898400"
+        },
+        {
+            "growLv": 905,
+            "maxExp": "1900500"
+        },
+        {
+            "growLv": 906,
+            "maxExp": "1902600"
+        },
+        {
+            "growLv": 907,
+            "maxExp": "1904700"
+        },
+        {
+            "growLv": 908,
+            "maxExp": "1906800"
+        },
+        {
+            "growLv": 909,
+            "maxExp": "1908900"
+        },
+        {
+            "growLv": 910,
+            "maxExp": "1911000"
+        },
+        {
+            "growLv": 911,
+            "maxExp": "1913100"
+        },
+        {
+            "growLv": 912,
+            "maxExp": "1915200"
+        },
+        {
+            "growLv": 913,
+            "maxExp": "1917300"
+        },
+        {
+            "growLv": 914,
+            "maxExp": "1919400"
+        },
+        {
+            "growLv": 915,
+            "maxExp": "1921500"
+        },
+        {
+            "growLv": 916,
+            "maxExp": "1923600"
+        },
+        {
+            "growLv": 917,
+            "maxExp": "1925700"
+        },
+        {
+            "growLv": 918,
+            "maxExp": "1927800"
+        },
+        {
+            "growLv": 919,
+            "maxExp": "1929900"
+        },
+        {
+            "growLv": 920,
+            "maxExp": "1932000"
+        },
+        {
+            "growLv": 921,
+            "maxExp": "1934100"
+        },
+        {
+            "growLv": 922,
+            "maxExp": "1936200"
+        },
+        {
+            "growLv": 923,
+            "maxExp": "1938300"
+        },
+        {
+            "growLv": 924,
+            "maxExp": "1940400"
+        },
+        {
+            "growLv": 925,
+            "maxExp": "1942500"
+        },
+        {
+            "growLv": 926,
+            "maxExp": "1944600"
+        },
+        {
+            "growLv": 927,
+            "maxExp": "1946700"
+        },
+        {
+            "growLv": 928,
+            "maxExp": "1948800"
+        },
+        {
+            "growLv": 929,
+            "maxExp": "1950900"
+        },
+        {
+            "growLv": 930,
+            "maxExp": "1953000"
+        },
+        {
+            "growLv": 931,
+            "maxExp": "1955100"
+        },
+        {
+            "growLv": 932,
+            "maxExp": "1957200"
+        },
+        {
+            "growLv": 933,
+            "maxExp": "1959300"
+        },
+        {
+            "growLv": 934,
+            "maxExp": "1961400"
+        },
+        {
+            "growLv": 935,
+            "maxExp": "1963500"
+        },
+        {
+            "growLv": 936,
+            "maxExp": "1965600"
+        },
+        {
+            "growLv": 937,
+            "maxExp": "1967700"
+        },
+        {
+            "growLv": 938,
+            "maxExp": "1969800"
+        },
+        {
+            "growLv": 939,
+            "maxExp": "1971900"
+        },
+        {
+            "growLv": 940,
+            "maxExp": "1974000"
+        },
+        {
+            "growLv": 941,
+            "maxExp": "1976100"
+        },
+        {
+            "growLv": 942,
+            "maxExp": "1978200"
+        },
+        {
+            "growLv": 943,
+            "maxExp": "1980300"
+        },
+        {
+            "growLv": 944,
+            "maxExp": "1982400"
+        },
+        {
+            "growLv": 945,
+            "maxExp": "1984500"
+        },
+        {
+            "growLv": 946,
+            "maxExp": "1986600"
+        },
+        {
+            "growLv": 947,
+            "maxExp": "1988700"
+        },
+        {
+            "growLv": 948,
+            "maxExp": "1990800"
+        },
+        {
+            "growLv": 949,
+            "maxExp": "1992900"
+        },
+        {
+            "growLv": 950,
+            "maxExp": "1995000"
+        },
+        {
+            "growLv": 951,
+            "maxExp": "1997100"
+        },
+        {
+            "growLv": 952,
+            "maxExp": "1999200"
+        },
+        {
+            "growLv": 953,
+            "maxExp": "2001300"
+        },
+        {
+            "growLv": 954,
+            "maxExp": "2003400"
+        },
+        {
+            "growLv": 955,
+            "maxExp": "2005500"
+        },
+        {
+            "growLv": 956,
+            "maxExp": "2007600"
+        },
+        {
+            "growLv": 957,
+            "maxExp": "2009700"
+        },
+        {
+            "growLv": 958,
+            "maxExp": "2011800"
+        },
+        {
+            "growLv": 959,
+            "maxExp": "2013900"
+        },
+        {
+            "growLv": 960,
+            "maxExp": "2016000"
+        },
+        {
+            "growLv": 961,
+            "maxExp": "2018100"
+        },
+        {
+            "growLv": 962,
+            "maxExp": "2020200"
+        },
+        {
+            "growLv": 963,
+            "maxExp": "2022300"
+        },
+        {
+            "growLv": 964,
+            "maxExp": "2024400"
+        },
+        {
+            "growLv": 965,
+            "maxExp": "2026500"
+        },
+        {
+            "growLv": 966,
+            "maxExp": "2028600"
+        },
+        {
+            "growLv": 967,
+            "maxExp": "2030700"
+        },
+        {
+            "growLv": 968,
+            "maxExp": "2032800"
+        },
+        {
+            "growLv": 969,
+            "maxExp": "2034900"
+        },
+        {
+            "growLv": 970,
+            "maxExp": "2037000"
+        },
+        {
+            "growLv": 971,
+            "maxExp": "2039100"
+        },
+        {
+            "growLv": 972,
+            "maxExp": "2041200"
+        },
+        {
+            "growLv": 973,
+            "maxExp": "2043300"
+        },
+        {
+            "growLv": 974,
+            "maxExp": "2045400"
+        },
+        {
+            "growLv": 975,
+            "maxExp": "2047500"
+        },
+        {
+            "growLv": 976,
+            "maxExp": "2049600"
+        },
+        {
+            "growLv": 977,
+            "maxExp": "2051700"
+        },
+        {
+            "growLv": 978,
+            "maxExp": "2053800"
+        },
+        {
+            "growLv": 979,
+            "maxExp": "2055900"
+        },
+        {
+            "growLv": 980,
+            "maxExp": "2058000"
+        },
+        {
+            "growLv": 981,
+            "maxExp": "2060100"
+        },
+        {
+            "growLv": 982,
+            "maxExp": "2062200"
+        },
+        {
+            "growLv": 983,
+            "maxExp": "2064300"
+        },
+        {
+            "growLv": 984,
+            "maxExp": "2066400"
+        },
+        {
+            "growLv": 985,
+            "maxExp": "2068500"
+        },
+        {
+            "growLv": 986,
+            "maxExp": "2070600"
+        },
+        {
+            "growLv": 987,
+            "maxExp": "2072700"
+        },
+        {
+            "growLv": 988,
+            "maxExp": "2074800"
+        },
+        {
+            "growLv": 989,
+            "maxExp": "2076900"
+        },
+        {
+            "growLv": 990,
+            "maxExp": "2079000"
+        },
+        {
+            "growLv": 991,
+            "maxExp": "2081100"
+        },
+        {
+            "growLv": 992,
+            "maxExp": "2083200"
+        },
+        {
+            "growLv": 993,
+            "maxExp": "2085300"
+        },
+        {
+            "growLv": 994,
+            "maxExp": "2087400"
+        },
+        {
+            "growLv": 995,
+            "maxExp": "2089500"
+        },
+        {
+            "growLv": 996,
+            "maxExp": "2091600"
+        },
+        {
+            "growLv": 997,
+            "maxExp": "2093700"
+        },
+        {
+            "growLv": 998,
+            "maxExp": "2095800"
+        },
+        {
+            "growLv": 999,
+            "maxExp": "2097900"
+        }
+    ]
+}

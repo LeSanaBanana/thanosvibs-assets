@@ -1,0 +1,50 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2389370250584599059
+    },
+    "m_Name": "STORY_COMPOSE",
+    "list": [
+        {
+            "themeId": 1,
+            "difficulty": 1,
+            "randomType": 1,
+            "materialQty": 2,
+            "composePrice": 10000,
+            "unlockStage": 490803,
+            "resultQty": 1
+        },
+        {
+            "themeId": 1,
+            "difficulty": 2,
+            "randomType": 1,
+            "materialQty": 2,
+            "composePrice": 30000,
+            "unlockStage": 500803,
+            "resultQty": 1
+        },
+        {
+            "themeId": 1,
+            "difficulty": 1,
+            "randomType": 2,
+            "materialQty": 8,
+            "composePrice": 15000,
+            "unlockStage": 490803,
+            "resultQty": 1
+        },
+        {
+            "themeId": 1,
+            "difficulty": 2,
+            "randomType": 2,
+            "materialQty": 8,
+            "composePrice": 35000,
+            "unlockStage": 500803,
+            "resultQty": 1
+        }
+    ]
+}

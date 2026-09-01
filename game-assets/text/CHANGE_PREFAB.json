@@ -1,0 +1,54 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2089131411659070860
+    },
+    "m_Name": "CHANGE_PREFAB",
+    "keys": [
+        "arcade_spiderman2_venezia_a01",
+        "arcade_blackpanther2_temple_a01",
+        "arcade_blackpanther2_temple_a02"
+    ],
+    "values": [
+        {
+            "bgPrefab": "arcade_spiderman2_venezia_a01",
+            "targetPrefab": "effect/Heroes/dust08.prefab",
+            "replacePrefab": "effect/Heroes06/water_walk01.prefab"
+        },
+        {
+            "bgPrefab": "arcade_spiderman2_venezia_a01",
+            "targetPrefab": "effect/Heroes/dust02.prefab",
+            "replacePrefab": "effect/Heroes06/Water_die01.prefab"
+        },
+        {
+            "bgPrefab": "arcade_blackpanther2_temple_a01",
+            "targetPrefab": "effect/Heroes/dust08.prefab",
+            "replacePrefab": "effect/Heroes06/water_walk01.prefab"
+        },
+        {
+            "bgPrefab": "arcade_blackpanther2_temple_a01",
+            "targetPrefab": "effect/Heroes/dust02.prefab",
+            "replacePrefab": "effect/Heroes06/Water_die01.prefab"
+        },
+        {
+            "bgPrefab": "arcade_blackpanther2_temple_a02",
+            "targetPrefab": "effect/Heroes/dust08.prefab",
+            "replacePrefab": "effect/Heroes06/water_walk01.prefab"
+        },
+        {
+            "bgPrefab": "arcade_blackpanther2_temple_a02",
+            "targetPrefab": "effect/Heroes/dust02.prefab",
+            "replacePrefab": "effect/Heroes06/Water_die01.prefab"
+        }
+    ],
+    "counts": [
+        2,
+        2,
+        2
+    ]
+}

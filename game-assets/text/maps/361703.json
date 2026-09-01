@@ -1,0 +1,26 @@
+[
+    {
+        "level": "arcade_shangchi_wenwu_hideout_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1131361703,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 8,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill03",
+                        "aiprefab": "ai_boss_wenwu02_normal"
+                    }
+                ]
+            }
+        ]
+    }
+]

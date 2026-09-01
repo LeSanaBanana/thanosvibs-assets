@@ -1,0 +1,404 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4573950477548688538
+    },
+    "m_Name": "DOMINATION_APPROACH",
+    "list": [
+        {
+            "areaId": 1,
+            "approachAreaId": 2,
+            "leagueType": 1
+        },
+        {
+            "areaId": 1,
+            "approachAreaId": 3,
+            "leagueType": 1
+        },
+        {
+            "areaId": 1,
+            "approachAreaId": 4,
+            "leagueType": 1
+        },
+        {
+            "areaId": 2,
+            "approachAreaId": 1,
+            "leagueType": 1
+        },
+        {
+            "areaId": 2,
+            "approachAreaId": 3,
+            "leagueType": 1
+        },
+        {
+            "areaId": 3,
+            "approachAreaId": 1,
+            "leagueType": 1
+        },
+        {
+            "areaId": 3,
+            "approachAreaId": 2,
+            "leagueType": 1
+        },
+        {
+            "areaId": 3,
+            "approachAreaId": 6,
+            "leagueType": 1
+        },
+        {
+            "areaId": 4,
+            "approachAreaId": 1,
+            "leagueType": 1
+        },
+        {
+            "areaId": 4,
+            "approachAreaId": 5,
+            "leagueType": 1
+        },
+        {
+            "areaId": 4,
+            "approachAreaId": 7,
+            "leagueType": 1
+        },
+        {
+            "areaId": 5,
+            "approachAreaId": 4,
+            "leagueType": 1
+        },
+        {
+            "areaId": 5,
+            "approachAreaId": 6,
+            "leagueType": 1
+        },
+        {
+            "areaId": 5,
+            "approachAreaId": 8,
+            "leagueType": 1
+        },
+        {
+            "areaId": 6,
+            "approachAreaId": 3,
+            "leagueType": 1
+        },
+        {
+            "areaId": 6,
+            "approachAreaId": 5,
+            "leagueType": 1
+        },
+        {
+            "areaId": 6,
+            "approachAreaId": 9,
+            "leagueType": 1
+        },
+        {
+            "areaId": 7,
+            "approachAreaId": 4,
+            "leagueType": 1
+        },
+        {
+            "areaId": 7,
+            "approachAreaId": 10,
+            "leagueType": 1
+        },
+        {
+            "areaId": 7,
+            "approachAreaId": 11,
+            "leagueType": 1
+        },
+        {
+            "areaId": 8,
+            "approachAreaId": 5,
+            "leagueType": 1
+        },
+        {
+            "areaId": 8,
+            "approachAreaId": 11,
+            "leagueType": 1
+        },
+        {
+            "areaId": 8,
+            "approachAreaId": 12,
+            "leagueType": 1
+        },
+        {
+            "areaId": 9,
+            "approachAreaId": 6,
+            "leagueType": 1
+        },
+        {
+            "areaId": 9,
+            "approachAreaId": 12,
+            "leagueType": 1
+        },
+        {
+            "areaId": 9,
+            "approachAreaId": 13,
+            "leagueType": 1
+        },
+        {
+            "areaId": 10,
+            "approachAreaId": 7,
+            "leagueType": 1
+        },
+        {
+            "areaId": 10,
+            "approachAreaId": 11,
+            "leagueType": 1
+        },
+        {
+            "areaId": 11,
+            "approachAreaId": 7,
+            "leagueType": 1
+        },
+        {
+            "areaId": 11,
+            "approachAreaId": 8,
+            "leagueType": 1
+        },
+        {
+            "areaId": 11,
+            "approachAreaId": 10,
+            "leagueType": 1
+        },
+        {
+            "areaId": 12,
+            "approachAreaId": 8,
+            "leagueType": 1
+        },
+        {
+            "areaId": 12,
+            "approachAreaId": 9,
+            "leagueType": 1
+        },
+        {
+            "areaId": 12,
+            "approachAreaId": 13,
+            "leagueType": 1
+        },
+        {
+            "areaId": 13,
+            "approachAreaId": 9,
+            "leagueType": 1
+        },
+        {
+            "areaId": 13,
+            "approachAreaId": 12,
+            "leagueType": 1
+        },
+        {
+            "areaId": 1,
+            "approachAreaId": 2,
+            "leagueType": 2
+        },
+        {
+            "areaId": 1,
+            "approachAreaId": 3,
+            "leagueType": 2
+        },
+        {
+            "areaId": 1,
+            "approachAreaId": 4,
+            "leagueType": 2
+        },
+        {
+            "areaId": 2,
+            "approachAreaId": 1,
+            "leagueType": 2
+        },
+        {
+            "areaId": 2,
+            "approachAreaId": 3,
+            "leagueType": 2
+        },
+        {
+            "areaId": 3,
+            "approachAreaId": 1,
+            "leagueType": 2
+        },
+        {
+            "areaId": 3,
+            "approachAreaId": 2,
+            "leagueType": 2
+        },
+        {
+            "areaId": 3,
+            "approachAreaId": 6,
+            "leagueType": 2
+        },
+        {
+            "areaId": 4,
+            "approachAreaId": 1,
+            "leagueType": 2
+        },
+        {
+            "areaId": 4,
+            "approachAreaId": 5,
+            "leagueType": 2
+        },
+        {
+            "areaId": 4,
+            "approachAreaId": 7,
+            "leagueType": 2
+        },
+        {
+            "areaId": 4,
+            "approachAreaId": 14,
+            "leagueType": 2
+        },
+        {
+            "areaId": 5,
+            "approachAreaId": 4,
+            "leagueType": 2
+        },
+        {
+            "areaId": 5,
+            "approachAreaId": 6,
+            "leagueType": 2
+        },
+        {
+            "areaId": 5,
+            "approachAreaId": 8,
+            "leagueType": 2
+        },
+        {
+            "areaId": 6,
+            "approachAreaId": 3,
+            "leagueType": 2
+        },
+        {
+            "areaId": 6,
+            "approachAreaId": 5,
+            "leagueType": 2
+        },
+        {
+            "areaId": 6,
+            "approachAreaId": 9,
+            "leagueType": 2
+        },
+        {
+            "areaId": 6,
+            "approachAreaId": 15,
+            "leagueType": 2
+        },
+        {
+            "areaId": 7,
+            "approachAreaId": 4,
+            "leagueType": 2
+        },
+        {
+            "areaId": 7,
+            "approachAreaId": 10,
+            "leagueType": 2
+        },
+        {
+            "areaId": 7,
+            "approachAreaId": 11,
+            "leagueType": 2
+        },
+        {
+            "areaId": 8,
+            "approachAreaId": 5,
+            "leagueType": 2
+        },
+        {
+            "areaId": 8,
+            "approachAreaId": 11,
+            "leagueType": 2
+        },
+        {
+            "areaId": 8,
+            "approachAreaId": 12,
+            "leagueType": 2
+        },
+        {
+            "areaId": 8,
+            "approachAreaId": 16,
+            "leagueType": 2
+        },
+        {
+            "areaId": 9,
+            "approachAreaId": 6,
+            "leagueType": 2
+        },
+        {
+            "areaId": 9,
+            "approachAreaId": 12,
+            "leagueType": 2
+        },
+        {
+            "areaId": 9,
+            "approachAreaId": 13,
+            "leagueType": 2
+        },
+        {
+            "areaId": 10,
+            "approachAreaId": 7,
+            "leagueType": 2
+        },
+        {
+            "areaId": 10,
+            "approachAreaId": 11,
+            "leagueType": 2
+        },
+        {
+            "areaId": 11,
+            "approachAreaId": 7,
+            "leagueType": 2
+        },
+        {
+            "areaId": 11,
+            "approachAreaId": 8,
+            "leagueType": 2
+        },
+        {
+            "areaId": 11,
+            "approachAreaId": 10,
+            "leagueType": 2
+        },
+        {
+            "areaId": 12,
+            "approachAreaId": 8,
+            "leagueType": 2
+        },
+        {
+            "areaId": 12,
+            "approachAreaId": 9,
+            "leagueType": 2
+        },
+        {
+            "areaId": 12,
+            "approachAreaId": 13,
+            "leagueType": 2
+        },
+        {
+            "areaId": 13,
+            "approachAreaId": 9,
+            "leagueType": 2
+        },
+        {
+            "areaId": 13,
+            "approachAreaId": 12,
+            "leagueType": 2
+        },
+        {
+            "areaId": 14,
+            "approachAreaId": 4,
+            "leagueType": 2
+        },
+        {
+            "areaId": 15,
+            "approachAreaId": 6,
+            "leagueType": 2
+        },
+        {
+            "areaId": 16,
+            "approachAreaId": 8,
+            "leagueType": 2
+        }
+    ]
+}

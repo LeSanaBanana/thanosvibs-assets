@@ -1,0 +1,3401 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6796279088801728573
+    },
+    "m_Name": "UNIFORM_COLLECTION",
+    "keys": [
+        1010,
+        1020,
+        1030,
+        2010,
+        3010,
+        4010,
+        4020,
+        5010,
+        6010,
+        7010,
+        8010,
+        9010,
+        9020,
+        10010,
+        10020,
+        10030,
+        10040,
+        11010,
+        12010,
+        13010,
+        14010,
+        15010,
+        16010,
+        17010,
+        18010,
+        19010,
+        20010,
+        21010,
+        22010,
+        23010,
+        24010,
+        25010,
+        26010,
+        27010,
+        28010,
+        29010,
+        30010,
+        31010,
+        32010,
+        33010,
+        34010,
+        35010,
+        36010,
+        37010,
+        38010,
+        39010,
+        40010,
+        41010,
+        42010,
+        43010,
+        44010,
+        45010,
+        46010,
+        47010,
+        48010,
+        49010,
+        50010,
+        51010,
+        52010,
+        53010,
+        54010,
+        55010,
+        56010,
+        57010,
+        58010,
+        59010,
+        60010,
+        61010,
+        62010,
+        63010,
+        64010,
+        65010,
+        66010,
+        67010,
+        68010,
+        69010,
+        70010,
+        71010,
+        72010,
+        73010,
+        74010,
+        75010,
+        76010,
+        77010,
+        78010,
+        79010,
+        80010
+    ],
+    "values": [
+        {
+            "id": 1011,
+            "themeId": 1,
+            "groupId": 1010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 200,
+            "logoPath": "uniformTitle_avengersIW",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10260075,
+                10160074,
+                10160069,
+                10160073,
+                10160077
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260075
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160074
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160069
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160073
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160077
+                }
+            ]
+        },
+        {
+            "id": 1021,
+            "themeId": 1,
+            "groupId": 1020,
+            "rewardType": 307,
+            "rewardValue": 2196,
+            "rewardQty": 1,
+            "logoPath": "uniformTitle_avengersIW",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10660001,
+                10360031,
+                10460007,
+                10460027,
+                10260045,
+                10160140
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360031
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460007
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460027
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260045
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160140
+                }
+            ]
+        },
+        {
+            "id": 1031,
+            "themeId": 1,
+            "groupId": 1030,
+            "rewardType": 300,
+            "rewardValue": 1110,
+            "rewardQty": 1,
+            "logoPath": "uniformTitle_avengersIW",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10460003,
+                10560010,
+                10260028,
+                10460008,
+                10360005,
+                10360011,
+                10360036
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460003
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560010
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260028
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460008
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360005
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360011
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360036
+                }
+            ]
+        },
+        {
+            "id": 2011,
+            "themeId": 2,
+            "groupId": 2010,
+            "rewardType": 100,
+            "rewardValue": 1110001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_apocalypse",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160125,
+                10160127,
+                10160123,
+                10160128,
+                1014146
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160125
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160127
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160123
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160128
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1014146
+                }
+            ]
+        },
+        {
+            "id": 3011,
+            "themeId": 3,
+            "groupId": 3010,
+            "rewardType": 300,
+            "rewardValue": 1110,
+            "rewardQty": 1,
+            "logoPath": "uniformTitle_ragnarok",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360008,
+                10260014,
+                10360002,
+                10160106,
+                1014446
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360008
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260014
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360002
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160106
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1014446
+                }
+            ]
+        },
+        {
+            "id": 4011,
+            "themeId": 4,
+            "groupId": 4010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_civilWar",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10460001,
+                10160031,
+                10260030,
+                10260049,
+                10260023
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160031
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260030
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260049
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260023
+                }
+            ]
+        },
+        {
+            "id": 4021,
+            "themeId": 4,
+            "groupId": 4020,
+            "rewardType": 307,
+            "rewardValue": 2196,
+            "rewardQty": 1,
+            "logoPath": "uniformTitle_civilWar",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10360003,
+                10360010,
+                10160037,
+                10360027,
+                10360007
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360003
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360010
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160037
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360027
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360007
+                }
+            ]
+        },
+        {
+            "id": 5011,
+            "themeId": 5,
+            "groupId": 5010,
+            "rewardType": 307,
+            "rewardValue": 2196,
+            "rewardQty": 1,
+            "logoPath": "uniformTitle_doctorStrange",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160028,
+                10160092,
+                10160094,
+                10160091,
+                1009336
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160028
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160092
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160094
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160091
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1009336
+                }
+            ]
+        },
+        {
+            "id": 6011,
+            "themeId": 6,
+            "groupId": 6010,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_gog2",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260036,
+                10260005,
+                10260011,
+                10260012,
+                10260046,
+                1002236,
+                1012036
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260036
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260005
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260011
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260012
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260046
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1002236
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1012036
+                }
+            ]
+        },
+        {
+            "id": 7011,
+            "themeId": 7,
+            "groupId": 7010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_monsters",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260063,
+                10160068,
+                10160119,
+                10160109,
+                10160110,
+                10000071
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260063
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160068
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160119
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160109
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160110
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 10000071
+                }
+            ]
+        },
+        {
+            "id": 8011,
+            "themeId": 8,
+            "groupId": 8010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_captainMarvel",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360026,
+                10260048,
+                10160186,
+                10160185,
+                1018736
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360026
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260048
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160186
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160185
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1018736
+                }
+            ]
+        },
+        {
+            "id": 9011,
+            "themeId": 9,
+            "groupId": 9010,
+            "rewardType": 100,
+            "rewardValue": 1110001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_xforce",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10360125,
+                10160159,
+                10160151,
+                1018836,
+                1016536
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360125
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160159
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160151
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1018836
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1016536
+                }
+            ]
+        },
+        {
+            "id": 9021,
+            "themeId": 9,
+            "groupId": 9020,
+            "rewardType": 100,
+            "rewardValue": 1120001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_xforce",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10160164,
+                10160174,
+                10160158,
+                10160142,
+                1016636,
+                1016746
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160164
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160174
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160158
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160142
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1016636
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1016746
+                }
+            ]
+        },
+        {
+            "id": 10011,
+            "themeId": 10,
+            "groupId": 10010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_avengersEG",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10460026,
+                10560027,
+                10260047,
+                10460005,
+                10460049,
+                1019136
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460026
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560027
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260047
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460005
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460049
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1019136
+                }
+            ]
+        },
+        {
+            "id": 10021,
+            "themeId": 10,
+            "groupId": 10020,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_avengersEG",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10760001,
+                10560003,
+                10560007,
+                10460023,
+                10460002,
+                10660008,
+                10360075
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560003
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560007
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460023
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460002
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660008
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360075
+                }
+            ]
+        },
+        {
+            "id": 10031,
+            "themeId": 10,
+            "groupId": 10030,
+            "rewardType": 307,
+            "rewardValue": 2196,
+            "rewardQty": 1,
+            "logoPath": "uniformTitle_avengersEG",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10660003,
+                10660027,
+                10360047,
+                10560005,
+                10560002
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660003
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660027
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360047
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560005
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560002
+                }
+            ]
+        },
+        {
+            "id": 10041,
+            "themeId": 10,
+            "groupId": 10040,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_avengersEG",
+            "hasSubMenu": 1,
+            "uniformIdList": [
+                10860001,
+                10660007,
+                10560049,
+                10560008
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10860001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660007
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560049
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560008
+                }
+            ]
+        },
+        {
+            "id": 11011,
+            "themeId": 11,
+            "groupId": 11010,
+            "rewardType": 100,
+            "rewardValue": 1100001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_disassembled",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160126,
+                10160124,
+                10160167,
+                10260127,
+                1019236,
+                1019346,
+                1019446
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160126
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160124
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160167
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260127
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1019236
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1019346
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1019446
+                }
+            ]
+        },
+        {
+            "id": 12011,
+            "themeId": 12,
+            "groupId": 12010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_farfromhome",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10660010,
+                10160134,
+                1019536,
+                1019636
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660010
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160134
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1019536
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1019636
+                }
+            ]
+        },
+        {
+            "id": 13011,
+            "themeId": 13,
+            "groupId": 13010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_futurefoundation",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160179,
+                10160180,
+                10160181,
+                10160182,
+                1019946
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160179
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160180
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160181
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160182
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1019946
+                }
+            ]
+        },
+        {
+            "id": 14011,
+            "themeId": 14,
+            "groupId": 14010,
+            "rewardType": 100,
+            "rewardValue": 1120001,
+            "rewardQty": 300,
+            "logoPath": "0",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360123,
+                10160157,
+                10260158,
+                10260160,
+                10160198
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360123
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160157
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260158
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260160
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160198
+                }
+            ]
+        },
+        {
+            "id": 15011,
+            "themeId": 15,
+            "groupId": 15010,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_agentsofatlas",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160178,
+                10160176,
+                10260153,
+                1020536,
+                1020636
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160178
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160176
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260153
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1020536
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1020636
+                }
+            ]
+        },
+        {
+            "id": 16011,
+            "themeId": 16,
+            "groupId": 16010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_uncannyavengers",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260140,
+                10260139,
+                10260128,
+                10160190,
+                10260029
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260140
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260139
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260128
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160190
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260029
+                }
+            ]
+        },
+        {
+            "id": 17011,
+            "themeId": 17,
+            "groupId": 17010,
+            "rewardType": 100,
+            "rewardValue": 1120001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_mercsformoney",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260164,
+                10260142,
+                10160165,
+                1020736,
+                1020836,
+                1020936
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260164
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260142
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160165
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1020736
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1020836
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1020936
+                }
+            ]
+        },
+        {
+            "id": 18011,
+            "themeId": 18,
+            "groupId": 18010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_3099",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10960001,
+                10760003,
+                10760007
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10960001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760003
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760007
+                }
+            ]
+        },
+        {
+            "id": 19011,
+            "themeId": 19,
+            "groupId": 19010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_secretEmpire",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                11060001,
+                10260015,
+                10260017,
+                10260078,
+                1021436,
+                1021526,
+                1021646
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 11060001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260015
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260017
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260078
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1021436
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1021526
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1021646
+                }
+            ]
+        },
+        {
+            "id": 20011,
+            "themeId": 20,
+            "groupId": 20010,
+            "rewardType": 100,
+            "rewardValue": 1120001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_houseofx",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260129,
+                10260124,
+                10460125,
+                10160175,
+                1021746,
+                1021846,
+                1021936
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260129
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260124
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460125
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160175
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1021746
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1021846
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1021936
+                }
+            ]
+        },
+        {
+            "id": 21011,
+            "themeId": 21,
+            "groupId": 21010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_bw",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10860007,
+                10260221,
+                10160220,
+                10160216
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10860007
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260221
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160220
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160216
+                }
+            ]
+        },
+        {
+            "id": 22011,
+            "themeId": 22,
+            "groupId": 22010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_gog",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460036,
+                10560032,
+                1022246,
+                1022346,
+                1022426,
+                1022546,
+                1022646
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460036
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560032
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1022246
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1022346
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1022426
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1022546
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1022646
+                }
+            ]
+        },
+        {
+            "id": 23011,
+            "themeId": 23,
+            "groupId": 23010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_immortalHulk",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10660002,
+                10360055,
+                10260068,
+                1022736,
+                1022836
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660002
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360055
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260068
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1022736
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1022836
+                }
+            ]
+        },
+        {
+            "id": 24011,
+            "themeId": 24,
+            "groupId": 24010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_Inhumans",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360038,
+                10260109,
+                10260070,
+                1023036
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360038
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260109
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260070
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023036
+                }
+            ]
+        },
+        {
+            "id": 25011,
+            "themeId": 25,
+            "groupId": 25010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_damnation",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360028,
+                10160116,
+                10260079,
+                10260006,
+                1023146,
+                1023236
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360028
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160116
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260079
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260006
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023146
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023236
+                }
+            ]
+        },
+        {
+            "id": 26011,
+            "themeId": 26,
+            "groupId": 26010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_symbiote",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360042,
+                10260065,
+                10260066,
+                1023336,
+                1023436
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360042
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260065
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260066
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023336
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023436
+                }
+            ]
+        },
+        {
+            "id": 27011,
+            "themeId": 27,
+            "groupId": 27010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_darkavengers",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260018,
+                10260044,
+                1023836,
+                1023646,
+                1023936,
+                1023746
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260018
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260044
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023836
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023646
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023936
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1023746
+                }
+            ]
+        },
+        {
+            "id": 28011,
+            "themeId": 28,
+            "groupId": 28010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_thor",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10760008,
+                10460014,
+                10160144
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760008
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460014
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160144
+                }
+            ]
+        },
+        {
+            "id": 29011,
+            "themeId": 29,
+            "groupId": 29010,
+            "rewardType": 700,
+            "rewardValue": 10560164,
+            "rewardQty": 1,
+            "logoPath": "uniformtitle_dawnofx",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460142,
+                10460164,
+                10160173,
+                10260151,
+                10360128,
+                10260174
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460142
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460164
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160173
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260151
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360128
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260174
+                }
+            ]
+        },
+        {
+            "id": 30011,
+            "themeId": 30,
+            "groupId": 30010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_defenders",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360016,
+                10160064,
+                10360034,
+                10460035
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360016
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160064
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360034
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460035
+                }
+            ]
+        },
+        {
+            "id": 31011,
+            "themeId": 31,
+            "groupId": 31010,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 300,
+            "logoPath": "uniformtitle_marveluniverse",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160217,
+                10860003,
+                10260179,
+                10260180,
+                10260181,
+                10260182,
+                1024446
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160217
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10860003
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260179
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260180
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260181
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260182
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1024446
+                }
+            ]
+        },
+        {
+            "id": 32011,
+            "themeId": 32,
+            "groupId": 32010,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 150,
+            "logoPath": "uniformtitle_blackorder",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260069,
+                10260073,
+                10260074,
+                10260077,
+                10160076
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260069
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260073
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260074
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260077
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160076
+                }
+            ]
+        },
+        {
+            "id": 33011,
+            "themeId": 33,
+            "groupId": 33010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_fws",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460030,
+                10460031,
+                10160214
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460030
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460031
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160214
+                }
+            ]
+        },
+        {
+            "id": 34011,
+            "themeId": 34,
+            "groupId": 34010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1500000,
+            "logoPath": "uniformtitle_ultimates",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360037,
+                10160146,
+                10560026,
+                10160147,
+                10160149,
+                1024736
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360037
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160146
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560026
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160147
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160149
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1024736
+                }
+            ]
+        },
+        {
+            "id": 35011,
+            "themeId": 35,
+            "groupId": 35010,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 300,
+            "logoPath": "uniformtitle_3099",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160183,
+                10760027,
+                10160191,
+                10360045
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160183
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760027
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160191
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360045
+                }
+            ]
+        },
+        {
+            "id": 36011,
+            "themeId": 36,
+            "groupId": 36010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_agentsofatlas",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160089,
+                10160205,
+                10160200,
+                10160206
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160089
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160205
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160200
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160206
+                }
+            ]
+        },
+        {
+            "id": 37011,
+            "themeId": 37,
+            "groupId": 37010,
+            "rewardType": 100,
+            "rewardValue": 1110001,
+            "rewardQty": 300,
+            "logoPath": "uniformtitle_enterthephoenix",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                11160001,
+                10560125,
+                10260080
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 11160001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560125
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260080
+                }
+            ]
+        },
+        {
+            "id": 38011,
+            "themeId": 38,
+            "groupId": 38010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformtitle_eternals",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160242,
+                10160243,
+                10160250,
+                10160245,
+                10160246,
+                10160251
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160242
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160243
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160250
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160245
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160246
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160251
+                }
+            ]
+        },
+        {
+            "id": 39011,
+            "themeId": 39,
+            "groupId": 39010,
+            "rewardType": 100,
+            "rewardValue": 1110001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_hellfiregala",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360160,
+                10260167,
+                10160219,
+                10360158
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360160
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260167
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160219
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360158
+                }
+            ]
+        },
+        {
+            "id": 40011,
+            "themeId": 40,
+            "groupId": 40010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformtitle_infinitywars",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360012,
+                10260022,
+                10160152,
+                10460075,
+                10460013
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360012
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260022
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160152
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460075
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460013
+                }
+            ]
+        },
+        {
+            "id": 41011,
+            "themeId": 41,
+            "groupId": 41010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_hawkeye",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10560023,
+                10160107,
+                10160252
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560023
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160107
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160252
+                }
+            ]
+        },
+        {
+            "id": 42011,
+            "themeId": 42,
+            "groupId": 42010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_doctorstrange2mcu",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460028,
+                10560140,
+                10260147,
+                10260092
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460028
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560140
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260147
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260092
+                }
+            ]
+        },
+        {
+            "id": 43011,
+            "themeId": 43,
+            "groupId": 43010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_avengersforever",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10960003,
+                10160117,
+                10360006,
+                11060007
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10960003
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160117
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360006
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 11060007
+                }
+            ]
+        },
+        {
+            "id": 44011,
+            "themeId": 44,
+            "groupId": 44010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_loveandthunder",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10860008,
+                10160071,
+                10260144
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10860008
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160071
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260144
+                }
+            ]
+        },
+        {
+            "id": 45011,
+            "themeId": 45,
+            "groupId": 45010,
+            "rewardType": 100,
+            "rewardValue": 1100001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_fearitself",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10760002,
+                10160189,
+                10160138,
+                10160137
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760002
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160189
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160138
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160137
+                }
+            ]
+        },
+        {
+            "id": 46011,
+            "themeId": 46,
+            "groupId": 46010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_symbiote",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460042,
+                10160234,
+                10260121,
+                1025436
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460042
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160234
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260121
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1025436
+                }
+            ]
+        },
+        {
+            "id": 47011,
+            "themeId": 47,
+            "groupId": 47010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1500000,
+            "logoPath": "uniformTitle_blackpantherwf",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260154,
+                10160108,
+                10260198,
+                1025536
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260154
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160108
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260198
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1025536
+                }
+            ]
+        },
+        {
+            "id": 48011,
+            "themeId": 48,
+            "groupId": 48010,
+            "rewardType": 100,
+            "rewardValue": 1120001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_xmen",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360124,
+                10460123,
+                10360127,
+                10260159,
+                1025646
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360124
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460123
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360127
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260159
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1025646
+                }
+            ]
+        },
+        {
+            "id": 49011,
+            "themeId": 49,
+            "groupId": 49010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1500000,
+            "logoPath": "uniformTitle_warriorsofthesky",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160210,
+                10160213,
+                10160212,
+                10160211
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160210
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160213
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160212
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160211
+                }
+            ]
+        },
+        {
+            "id": 50011,
+            "themeId": 50,
+            "groupId": 50010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformtitle_quantumania",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10660049,
+                10360051,
+                10360019,
+                1025736
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660049
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360051
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360019
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1025736
+                }
+            ]
+        },
+        {
+            "id": 51011,
+            "themeId": 51,
+            "groupId": 51010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "0",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160132,
+                10460018,
+                10460017
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160132
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460018
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460017
+                }
+            ]
+        },
+        {
+            "id": 52011,
+            "themeId": 52,
+            "groupId": 52010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_gog3",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10560036,
+                10660005,
+                10160120,
+                10560011,
+                10460012,
+                10260152
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560036
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660005
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160120
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560011
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460012
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260152
+                }
+            ]
+        },
+        {
+            "id": 53011,
+            "themeId": 53,
+            "groupId": 53010,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 300,
+            "logoPath": "uniformtitle_spiderverse",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460065,
+                10260136,
+                10160233,
+                10360066,
+                1025836
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460065
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260136
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160233
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360066
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1025836
+                }
+            ]
+        },
+        {
+            "id": 54011,
+            "themeId": 54,
+            "groupId": 54010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1500000,
+            "logoPath": "uniformTitle_TWOTR",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260105,
+                10360039,
+                10260020,
+                10260041
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260105
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360039
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260020
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260041
+                }
+            ]
+        },
+        {
+            "id": 55011,
+            "themeId": 55,
+            "groupId": 55010,
+            "rewardType": 100,
+            "rewardValue": 1120001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_xforcevol2",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10560142,
+                10160168,
+                10260165,
+                1026036
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560142
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160168
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260165
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1026036
+                }
+            ]
+        },
+        {
+            "id": 56011,
+            "themeId": 56,
+            "groupId": 56010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000,
+            "logoPath": "uniformTitle_midnightsuns",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10560028,
+                10160204,
+                10260053,
+                1026136
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560028
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160204
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260053
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1026136
+                }
+            ]
+        },
+        {
+            "id": 57011,
+            "themeId": 57,
+            "groupId": 57010,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 300,
+            "logoPath": "uniformTitle_themarvels",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10660026,
+                10460070,
+                10160247,
+                10260185
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660026
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460070
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160247
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260185
+                }
+            ]
+        },
+        {
+            "id": 58011,
+            "themeId": 58,
+            "groupId": 58010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformtitle_whatif",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360106,
+                10160248,
+                10460047,
+                1026336
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360106
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160248
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460047
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1026336
+                }
+            ]
+        },
+        {
+            "id": 59011,
+            "themeId": 59,
+            "groupId": 59010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 200,
+            "logoPath": "uniformTitle_annihilators",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160222,
+                10160226,
+                10360048,
+                10260199,
+                1026836,
+                1026936
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160222
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160226
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360048
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260199
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1026836
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1026936
+                }
+            ]
+        },
+        {
+            "id": 60011,
+            "themeId": 60,
+            "groupId": 60010,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 180,
+            "logoPath": "0",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160235,
+                10860002,
+                10960008,
+                10160150
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160235
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10860002
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10960008
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160150
+                }
+            ]
+        },
+        {
+            "id": 61011,
+            "themeId": 61,
+            "groupId": 61010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 200,
+            "logoPath": "uniformTitle_falloffantasticfour",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360179,
+                10360180,
+                10360181,
+                10360182,
+                1027136,
+                1027236
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360179
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360180
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360181
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360182
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1027136
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1027236
+                }
+            ]
+        },
+        {
+            "id": 62011,
+            "themeId": 62,
+            "groupId": 62010,
+            "rewardType": 100,
+            "rewardValue": 1110001,
+            "rewardQty": 360,
+            "logoPath": "uniformTitle_deadpoolandwolverine",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10860164,
+                10760164,
+                10760125,
+                1027336
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10860164
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760164
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760125
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1027336
+                }
+            ]
+        },
+        {
+            "id": 63011,
+            "themeId": 63,
+            "groupId": 63010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1800000,
+            "logoPath": "0",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                11060003,
+                10460045,
+                10860027,
+                10260191
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 11060003
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460045
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10860027
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260191
+                }
+            ]
+        },
+        {
+            "id": 64011,
+            "themeId": 64,
+            "groupId": 64010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1800000,
+            "logoPath": "uniformtitle_whatif",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10560030,
+                10660028,
+                11360001,
+                10360092,
+                1027436
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560030
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660028
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 11360001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360092
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1027436
+                }
+            ]
+        },
+        {
+            "id": 65011,
+            "themeId": 65,
+            "groupId": 65010,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 180,
+            "logoPath": "0",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                11160010,
+                10560042,
+                10360121,
+                1027536
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 11160010
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560042
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360121
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1027536
+                }
+            ]
+        },
+        {
+            "id": 66011,
+            "themeId": 66,
+            "groupId": 66010,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 180,
+            "logoPath": "uniformtitle_wastelanders",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10660023,
+                10360044,
+                10660036,
+                10560012
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660023
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360044
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660036
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560012
+                }
+            ]
+        },
+        {
+            "id": 67011,
+            "themeId": 67,
+            "groupId": 67010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1800000,
+            "logoPath": "uniformtitle_captainamericabravenewworld",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10660030,
+                10360025,
+                1027736
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660030
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360025
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1027736
+                }
+            ]
+        },
+        {
+            "id": 68011,
+            "themeId": 68,
+            "groupId": 68010,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300,
+            "logoPath": "uniformtitle_daredevilbornagain",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460016,
+                10160083,
+                10760032,
+                10360043
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460016
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160083
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760032
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360043
+                }
+            ]
+        },
+        {
+            "id": 69011,
+            "themeId": 69,
+            "groupId": 69010,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 240,
+            "logoPath": "uniformtitle_mcuthunderbolts",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360221,
+                10260220,
+                10260235,
+                10260216,
+                10260162,
+                10660031,
+                1027836
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360221
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260220
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260235
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260216
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260162
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660031
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1027836
+                }
+            ]
+        },
+        {
+            "id": 70011,
+            "themeId": 70,
+            "groupId": 70010,
+            "rewardType": 100,
+            "rewardValue": 1110001,
+            "rewardQty": 360,
+            "logoPath": "uniformtitle_mcuxmen97",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460126,
+                10460127,
+                10560123,
+                10160193,
+                1027936
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460126
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460127
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560123
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160193
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1027936
+                }
+            ]
+        },
+        {
+            "id": 71011,
+            "themeId": 71,
+            "groupId": 71010,
+            "rewardType": 100,
+            "rewardValue": 9832,
+            "rewardQty": 100,
+            "logoPath": "uniformtitle_mcufantastic4",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10460179,
+                10460180,
+                10460181,
+                10460182,
+                1028146
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460179
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460180
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460181
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460182
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1028146
+                }
+            ]
+        },
+        {
+            "id": 72011,
+            "themeId": 72,
+            "groupId": 72010,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 180,
+            "logoPath": "uniformtitle_savageavengers",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10560004,
+                10260189,
+                10260204,
+                1028236
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560004
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260189
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260204
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1028236
+                }
+            ]
+        },
+        {
+            "id": 73011,
+            "themeId": 73,
+            "groupId": 73010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1800000,
+            "logoPath": "uniformtitle_mcumarvelzombies",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10260089,
+                10560070,
+                10760026,
+                10760140
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260089
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560070
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760026
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760140
+                }
+            ]
+        },
+        {
+            "id": 74011,
+            "themeId": 74,
+            "groupId": 74010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1800000,
+            "logoPath": "uniformtitle_youngavengers",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10860014,
+                10260107,
+                10360147,
+                1028836
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10860014
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260107
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360147
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1028836
+                }
+            ]
+        },
+        {
+            "id": 75011,
+            "themeId": 75,
+            "groupId": 75010,
+            "rewardType": 100,
+            "rewardValue": 9831,
+            "rewardQty": 300,
+            "logoPath": "0",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10560013,
+                10460029,
+                10260021,
+                10260175
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560013
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460029
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260021
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260175
+                }
+            ]
+        },
+        {
+            "id": 76011,
+            "themeId": 76,
+            "groupId": 76010,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 180,
+            "logoPath": "uniformTitle_uncannyxmen",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160256,
+                10160203,
+                10160229,
+                1028946
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160256
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160203
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160229
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1028946
+                }
+            ]
+        },
+        {
+            "id": 77011,
+            "themeId": 77,
+            "groupId": 77010,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 180,
+            "logoPath": "uniformtitle_marvelrivals",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                11460001,
+                10660042,
+                10560153,
+                10460079,
+                1029046
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 11460001
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10660042
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10560153
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460079
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1029046
+                }
+            ]
+        },
+        {
+            "id": 78011,
+            "themeId": 78,
+            "groupId": 78010,
+            "rewardType": 100,
+            "rewardValue": 9832,
+            "rewardQty": 100,
+            "logoPath": "0",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160253,
+                10360105,
+                10360144,
+                10460009,
+                10360178
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160253
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360105
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360144
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460009
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360178
+                }
+            ]
+        },
+        {
+            "id": 79011,
+            "themeId": 79,
+            "groupId": 79010,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 180,
+            "logoPath": "uniformtitle_mcuxmen97",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10360141,
+                10460129,
+                10160194,
+                1029136
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360141
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10460129
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160194
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1029136
+                }
+            ]
+        },
+        {
+            "id": 80011,
+            "themeId": 80,
+            "groupId": 80010,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1800000,
+            "logoPath": "uniformtitle_spidermanbrandnewday",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                11260010,
+                10960002,
+                10160236
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 11260010
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10960002
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160236
+                }
+            ]
+        }
+    ]
+}

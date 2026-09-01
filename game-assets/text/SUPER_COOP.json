@@ -1,0 +1,528 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5609564813912083014
+    },
+    "m_Name": "SUPER_COOP",
+    "keys": [
+        1,
+        2,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+    ],
+    "values": [
+        {
+            "id": 10101,
+            "groupId": 1,
+            "stepId": 1,
+            "stageGroupId": 10110,
+            "periodTime": 86400
+        },
+        {
+            "id": 10102,
+            "groupId": 1,
+            "stepId": 2,
+            "stageGroupId": 10120,
+            "periodTime": 86400
+        },
+        {
+            "id": 10103,
+            "groupId": 1,
+            "stepId": 3,
+            "stageGroupId": 10130,
+            "periodTime": 86400
+        },
+        {
+            "id": 10104,
+            "groupId": 1,
+            "stepId": 4,
+            "stageGroupId": 10140,
+            "periodTime": 86400
+        },
+        {
+            "id": 10105,
+            "groupId": 1,
+            "stepId": 5,
+            "stageGroupId": 10150,
+            "periodTime": 86400
+        },
+        {
+            "id": 10106,
+            "groupId": 1,
+            "stepId": 6,
+            "stageGroupId": 10160,
+            "periodTime": 86400
+        },
+        {
+            "id": 10107,
+            "groupId": 1,
+            "stepId": 7,
+            "stageGroupId": 10170,
+            "periodTime": 86400
+        },
+        {
+            "id": 10201,
+            "groupId": 2,
+            "stepId": 1,
+            "stageGroupId": 10210,
+            "periodTime": 86400
+        },
+        {
+            "id": 10202,
+            "groupId": 2,
+            "stepId": 2,
+            "stageGroupId": 10220,
+            "periodTime": 86400
+        },
+        {
+            "id": 10203,
+            "groupId": 2,
+            "stepId": 3,
+            "stageGroupId": 10230,
+            "periodTime": 86400
+        },
+        {
+            "id": 10204,
+            "groupId": 2,
+            "stepId": 4,
+            "stageGroupId": 10240,
+            "periodTime": 86400
+        },
+        {
+            "id": 10205,
+            "groupId": 2,
+            "stepId": 5,
+            "stageGroupId": 10250,
+            "periodTime": 86400
+        },
+        {
+            "id": 10206,
+            "groupId": 2,
+            "stepId": 6,
+            "stageGroupId": 10260,
+            "periodTime": 86400
+        },
+        {
+            "id": 10207,
+            "groupId": 2,
+            "stepId": 7,
+            "stageGroupId": 10270,
+            "periodTime": 86400
+        },
+        {
+            "id": 11101,
+            "groupId": 11,
+            "stepId": 1,
+            "stageGroupId": 11110,
+            "periodTime": 600
+        },
+        {
+            "id": 11102,
+            "groupId": 11,
+            "stepId": 2,
+            "stageGroupId": 11120,
+            "periodTime": 600
+        },
+        {
+            "id": 11103,
+            "groupId": 11,
+            "stepId": 3,
+            "stageGroupId": 11130,
+            "periodTime": 600
+        },
+        {
+            "id": 11104,
+            "groupId": 11,
+            "stepId": 4,
+            "stageGroupId": 11140,
+            "periodTime": 600
+        },
+        {
+            "id": 11105,
+            "groupId": 11,
+            "stepId": 5,
+            "stageGroupId": 11150,
+            "periodTime": 600
+        },
+        {
+            "id": 11106,
+            "groupId": 11,
+            "stepId": 6,
+            "stageGroupId": 11160,
+            "periodTime": 600
+        },
+        {
+            "id": 11107,
+            "groupId": 11,
+            "stepId": 7,
+            "stageGroupId": 11170,
+            "periodTime": 600
+        },
+        {
+            "id": 11201,
+            "groupId": 12,
+            "stepId": 1,
+            "stageGroupId": 11210,
+            "periodTime": 600
+        },
+        {
+            "id": 11202,
+            "groupId": 12,
+            "stepId": 2,
+            "stageGroupId": 11220,
+            "periodTime": 600
+        },
+        {
+            "id": 11203,
+            "groupId": 12,
+            "stepId": 3,
+            "stageGroupId": 11230,
+            "periodTime": 600
+        },
+        {
+            "id": 11204,
+            "groupId": 12,
+            "stepId": 4,
+            "stageGroupId": 11240,
+            "periodTime": 600
+        },
+        {
+            "id": 11205,
+            "groupId": 12,
+            "stepId": 5,
+            "stageGroupId": 11250,
+            "periodTime": 600
+        },
+        {
+            "id": 11206,
+            "groupId": 12,
+            "stepId": 6,
+            "stageGroupId": 11260,
+            "periodTime": 600
+        },
+        {
+            "id": 11207,
+            "groupId": 12,
+            "stepId": 7,
+            "stageGroupId": 11270,
+            "periodTime": 600
+        },
+        {
+            "id": 11301,
+            "groupId": 13,
+            "stepId": 1,
+            "stageGroupId": 11310,
+            "periodTime": 600
+        },
+        {
+            "id": 11302,
+            "groupId": 13,
+            "stepId": 2,
+            "stageGroupId": 11320,
+            "periodTime": 600
+        },
+        {
+            "id": 11303,
+            "groupId": 13,
+            "stepId": 3,
+            "stageGroupId": 11330,
+            "periodTime": 600
+        },
+        {
+            "id": 11304,
+            "groupId": 13,
+            "stepId": 4,
+            "stageGroupId": 11340,
+            "periodTime": 600
+        },
+        {
+            "id": 11305,
+            "groupId": 13,
+            "stepId": 5,
+            "stageGroupId": 11350,
+            "periodTime": 600
+        },
+        {
+            "id": 11306,
+            "groupId": 13,
+            "stepId": 6,
+            "stageGroupId": 11360,
+            "periodTime": 600
+        },
+        {
+            "id": 11307,
+            "groupId": 13,
+            "stepId": 7,
+            "stageGroupId": 11370,
+            "periodTime": 600
+        },
+        {
+            "id": 11401,
+            "groupId": 14,
+            "stepId": 1,
+            "stageGroupId": 11410,
+            "periodTime": 600
+        },
+        {
+            "id": 11402,
+            "groupId": 14,
+            "stepId": 2,
+            "stageGroupId": 11420,
+            "periodTime": 600
+        },
+        {
+            "id": 11403,
+            "groupId": 14,
+            "stepId": 3,
+            "stageGroupId": 11430,
+            "periodTime": 600
+        },
+        {
+            "id": 11404,
+            "groupId": 14,
+            "stepId": 4,
+            "stageGroupId": 11440,
+            "periodTime": 600
+        },
+        {
+            "id": 11405,
+            "groupId": 14,
+            "stepId": 5,
+            "stageGroupId": 11450,
+            "periodTime": 600
+        },
+        {
+            "id": 11406,
+            "groupId": 14,
+            "stepId": 6,
+            "stageGroupId": 11460,
+            "periodTime": 600
+        },
+        {
+            "id": 11407,
+            "groupId": 14,
+            "stepId": 7,
+            "stageGroupId": 11470,
+            "periodTime": 600
+        },
+        {
+            "id": 11501,
+            "groupId": 15,
+            "stepId": 1,
+            "stageGroupId": 11510,
+            "periodTime": 600
+        },
+        {
+            "id": 11502,
+            "groupId": 15,
+            "stepId": 2,
+            "stageGroupId": 11520,
+            "periodTime": 600
+        },
+        {
+            "id": 11503,
+            "groupId": 15,
+            "stepId": 3,
+            "stageGroupId": 11530,
+            "periodTime": 600
+        },
+        {
+            "id": 11504,
+            "groupId": 15,
+            "stepId": 4,
+            "stageGroupId": 11540,
+            "periodTime": 600
+        },
+        {
+            "id": 11505,
+            "groupId": 15,
+            "stepId": 5,
+            "stageGroupId": 11550,
+            "periodTime": 600
+        },
+        {
+            "id": 11506,
+            "groupId": 15,
+            "stepId": 6,
+            "stageGroupId": 11560,
+            "periodTime": 600
+        },
+        {
+            "id": 11507,
+            "groupId": 15,
+            "stepId": 7,
+            "stageGroupId": 11570,
+            "periodTime": 600
+        },
+        {
+            "id": 11601,
+            "groupId": 16,
+            "stepId": 1,
+            "stageGroupId": 11610,
+            "periodTime": 600
+        },
+        {
+            "id": 11602,
+            "groupId": 16,
+            "stepId": 2,
+            "stageGroupId": 11620,
+            "periodTime": 600
+        },
+        {
+            "id": 11603,
+            "groupId": 16,
+            "stepId": 3,
+            "stageGroupId": 11630,
+            "periodTime": 600
+        },
+        {
+            "id": 11604,
+            "groupId": 16,
+            "stepId": 4,
+            "stageGroupId": 11640,
+            "periodTime": 600
+        },
+        {
+            "id": 11605,
+            "groupId": 16,
+            "stepId": 5,
+            "stageGroupId": 11650,
+            "periodTime": 600
+        },
+        {
+            "id": 11606,
+            "groupId": 16,
+            "stepId": 6,
+            "stageGroupId": 11660,
+            "periodTime": 600
+        },
+        {
+            "id": 11607,
+            "groupId": 16,
+            "stepId": 7,
+            "stageGroupId": 11670,
+            "periodTime": 600
+        },
+        {
+            "id": 11701,
+            "groupId": 17,
+            "stepId": 1,
+            "stageGroupId": 11710,
+            "periodTime": 600
+        },
+        {
+            "id": 11702,
+            "groupId": 17,
+            "stepId": 2,
+            "stageGroupId": 11720,
+            "periodTime": 600
+        },
+        {
+            "id": 11703,
+            "groupId": 17,
+            "stepId": 3,
+            "stageGroupId": 11730,
+            "periodTime": 600
+        },
+        {
+            "id": 11704,
+            "groupId": 17,
+            "stepId": 4,
+            "stageGroupId": 11740,
+            "periodTime": 600
+        },
+        {
+            "id": 11705,
+            "groupId": 17,
+            "stepId": 5,
+            "stageGroupId": 11750,
+            "periodTime": 600
+        },
+        {
+            "id": 11706,
+            "groupId": 17,
+            "stepId": 6,
+            "stageGroupId": 11760,
+            "periodTime": 600
+        },
+        {
+            "id": 11707,
+            "groupId": 17,
+            "stepId": 7,
+            "stageGroupId": 11770,
+            "periodTime": 600
+        },
+        {
+            "id": 11801,
+            "groupId": 18,
+            "stepId": 1,
+            "stageGroupId": 11810,
+            "periodTime": 600
+        },
+        {
+            "id": 11802,
+            "groupId": 18,
+            "stepId": 2,
+            "stageGroupId": 11820,
+            "periodTime": 600
+        },
+        {
+            "id": 11803,
+            "groupId": 18,
+            "stepId": 3,
+            "stageGroupId": 11830,
+            "periodTime": 600
+        },
+        {
+            "id": 11804,
+            "groupId": 18,
+            "stepId": 4,
+            "stageGroupId": 11840,
+            "periodTime": 600
+        },
+        {
+            "id": 11805,
+            "groupId": 18,
+            "stepId": 5,
+            "stageGroupId": 11850,
+            "periodTime": 600
+        },
+        {
+            "id": 11806,
+            "groupId": 18,
+            "stepId": 6,
+            "stageGroupId": 11860,
+            "periodTime": 600
+        },
+        {
+            "id": 11807,
+            "groupId": 18,
+            "stepId": 7,
+            "stageGroupId": 11870,
+            "periodTime": 600
+        }
+    ],
+    "counts": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+    ]
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "level": "base_asgard_street_0000_h01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 761380204,
+                        "group": 1,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "avoidancePriority": 1,
+                        "boss_appear": "skill02",
+                        "boss_cam": "0, 2, 2",
+                        "aiprefab": "AI_boss_mdigardserpent03_aaraid02"
+                    }
+                ]
+            }
+        ]
+    }
+]

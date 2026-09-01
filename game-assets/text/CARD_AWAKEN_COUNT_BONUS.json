@@ -1,0 +1,30 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8879747582054870513
+    },
+    "m_Name": "CARD_AWAKEN_COUNT_BONUS",
+    "keys": [
+        101,
+        102
+    ],
+    "values": [
+        {
+            "id": 101,
+            "count": 3,
+            "option": 124,
+            "value": 100
+        },
+        {
+            "id": 102,
+            "count": 6,
+            "option": 124,
+            "value": 200
+        }
+    ]
+}

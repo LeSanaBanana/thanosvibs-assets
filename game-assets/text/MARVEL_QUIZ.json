@@ -1,0 +1,6892 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8581092524855222639
+    },
+    "m_Name": "MARVEL_QUIZ",
+    "keys": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029,
+        1030,
+        1031,
+        1032,
+        1033,
+        1034,
+        1035,
+        1036,
+        1037,
+        1038,
+        1039,
+        1040,
+        1041,
+        1042,
+        1043,
+        1044,
+        1045,
+        1046,
+        1047,
+        1048,
+        1049,
+        1050,
+        1051,
+        1052,
+        1053,
+        1054,
+        1055,
+        1056,
+        1057,
+        1058,
+        1059,
+        1060,
+        1061,
+        1062,
+        1063,
+        1064,
+        1065,
+        1066,
+        1067,
+        1068,
+        1069,
+        1070,
+        1071,
+        1072,
+        1073,
+        1074,
+        1075,
+        1076,
+        1077,
+        1078,
+        1079,
+        1080,
+        1081,
+        1082,
+        1083,
+        1084,
+        1085,
+        1086,
+        1087,
+        1088,
+        1089,
+        1090,
+        1091,
+        1092,
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1098,
+        1099,
+        1100,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105,
+        1106,
+        1107,
+        1108,
+        1109,
+        1110,
+        1111,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1117,
+        1118,
+        1119,
+        1120,
+        1121,
+        1122,
+        1123,
+        1124,
+        1125,
+        1126,
+        1127,
+        1128,
+        1129,
+        1130,
+        1131,
+        1132,
+        1133,
+        1134,
+        1135,
+        1136,
+        1137,
+        1138,
+        1139,
+        1140,
+        1141,
+        1142,
+        1143,
+        1144,
+        1145,
+        1146,
+        1147,
+        1148,
+        1149,
+        1150,
+        1151,
+        1152,
+        1153,
+        1154,
+        1155,
+        1156,
+        1157,
+        1158,
+        1159,
+        1160,
+        1161,
+        1162,
+        1163,
+        1164,
+        1165,
+        1166,
+        1167,
+        1168,
+        1169,
+        1170,
+        1171,
+        1172,
+        1173,
+        1174,
+        1175,
+        1176,
+        1177,
+        1178,
+        1179,
+        1180,
+        1181,
+        1182,
+        1183,
+        1184,
+        1185,
+        1186,
+        1187,
+        1188,
+        1189,
+        1190,
+        1191
+    ],
+    "values": [
+        {
+            "quizId": 1001,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004001
+        },
+        {
+            "quizId": 1002,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1002001
+        },
+        {
+            "quizId": 1003,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1001002
+        },
+        {
+            "quizId": 1004,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004003
+        },
+        {
+            "quizId": 1005,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1001005
+        },
+        {
+            "quizId": 1006,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1002003
+        },
+        {
+            "quizId": 1007,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004004
+        },
+        {
+            "quizId": 1008,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004005
+        },
+        {
+            "quizId": 1009,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004002
+        },
+        {
+            "quizId": 1010,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1003004
+        },
+        {
+            "quizId": 1011,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004008
+        },
+        {
+            "quizId": 1012,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004009
+        },
+        {
+            "quizId": 1013,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004014
+        },
+        {
+            "quizId": 1014,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1003011
+        },
+        {
+            "quizId": 1015,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1003010
+        },
+        {
+            "quizId": 1016,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004015
+        },
+        {
+            "quizId": 1017,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004018
+        },
+        {
+            "quizId": 1018,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004017
+        },
+        {
+            "quizId": 1019,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1020,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1021,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006001
+        },
+        {
+            "quizId": 1022,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006002
+        },
+        {
+            "quizId": 1023,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006003
+        },
+        {
+            "quizId": 1024,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006004
+        },
+        {
+            "quizId": 1025,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006005
+        },
+        {
+            "quizId": 1026,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006006
+        },
+        {
+            "quizId": 1027,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006007
+        },
+        {
+            "quizId": 1028,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006009
+        },
+        {
+            "quizId": 1029,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006010
+        },
+        {
+            "quizId": 1030,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006011
+        },
+        {
+            "quizId": 1031,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006012
+        },
+        {
+            "quizId": 1032,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006013
+        },
+        {
+            "quizId": 1033,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006014
+        },
+        {
+            "quizId": 1034,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005006
+        },
+        {
+            "quizId": 1035,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1036,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1037,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1038,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1039,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1040,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1041,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1042,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1043,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1044,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1045,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1046,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1047,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1048,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1049,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1050,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1051,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1052,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1053,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1054,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1055,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1056,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1002008
+        },
+        {
+            "quizId": 1057,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005013
+        },
+        {
+            "quizId": 1058,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005019
+        },
+        {
+            "quizId": 1059,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005020
+        },
+        {
+            "quizId": 1060,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006019
+        },
+        {
+            "quizId": 1061,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006020
+        },
+        {
+            "quizId": 1062,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006022
+        },
+        {
+            "quizId": 1063,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006015
+        },
+        {
+            "quizId": 1064,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1065,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1066,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1067,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005003
+        },
+        {
+            "quizId": 1068,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1069,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1070,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1071,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1072,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1073,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1074,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1075,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1076,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1077,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1078,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1079,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1080,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1081,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1082,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1083,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1084,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1085,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1086,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1087,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005009
+        },
+        {
+            "quizId": 1088,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005027
+        },
+        {
+            "quizId": 1089,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005012
+        },
+        {
+            "quizId": 1090,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005016
+        },
+        {
+            "quizId": 1091,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1092,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005025
+        },
+        {
+            "quizId": 1093,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1094,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1095,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1096,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1097,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1098,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1099,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1100,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1101,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1102,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1103,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1104,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1105,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1106,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1107,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1108,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1109,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1110,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1111,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006024
+        },
+        {
+            "quizId": 1112,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005029
+        },
+        {
+            "quizId": 1113,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1002020
+        },
+        {
+            "quizId": 1114,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1002021
+        },
+        {
+            "quizId": 1115,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1002019
+        },
+        {
+            "quizId": 1116,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004012
+        },
+        {
+            "quizId": 1117,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004011
+        },
+        {
+            "quizId": 1118,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1119,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1120,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1121,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1122,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1123,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1124,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1125,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1126,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1127,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1128,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1129,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1130,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1131,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1132,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1133,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1134,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1135,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1136,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005030
+        },
+        {
+            "quizId": 1137,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005015
+        },
+        {
+            "quizId": 1138,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005020
+        },
+        {
+            "quizId": 1139,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005028
+        },
+        {
+            "quizId": 1140,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1003019
+        },
+        {
+            "quizId": 1141,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004038
+        },
+        {
+            "quizId": 1142,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004031
+        },
+        {
+            "quizId": 1143,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1144,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1145,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1146,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1147,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1148,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1149,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1150,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1151,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1152,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1153,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1154,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1155,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1156,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1157,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1158,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1159,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1160,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006001
+        },
+        {
+            "quizId": 1161,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1001006
+        },
+        {
+            "quizId": 1162,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005023
+        },
+        {
+            "quizId": 1163,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005003
+        },
+        {
+            "quizId": 1164,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005011
+        },
+        {
+            "quizId": 1165,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006044
+        },
+        {
+            "quizId": 1166,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1002022
+        },
+        {
+            "quizId": 1167,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1168,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1169,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1170,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1171,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1172,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1173,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1174,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1175,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1176,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1177,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1178,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1179,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1180,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1181,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1182,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1183,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1184,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1005005
+        },
+        {
+            "quizId": 1185,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1003014
+        },
+        {
+            "quizId": 1186,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006043
+        },
+        {
+            "quizId": 1187,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1004032
+        },
+        {
+            "quizId": 1188,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1189,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 4,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1190,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006029
+        },
+        {
+            "quizId": 1191,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 2,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 1006021
+        }
+    ]
+}

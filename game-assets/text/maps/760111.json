@@ -1,0 +1,94 @@
+[
+    {
+        "level": "event_shadowland_0000_a04",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 210,
+                        "mob": 1284760111,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss_appear": "skillcast",
+                        "boss": 3,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.8,1.7",
+                        "scale": "1.4",
+                        "aiprefab": "ai_boss_apocalypse02_S01_331701"
+                    },
+                    {
+                        "point": 244,
+                        "mob": 538760111,
+                        "group": 21,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse01_S01_331701_03"
+                    },
+                    {
+                        "point": 245,
+                        "mob": 538760111,
+                        "group": 22,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse01_S01_331701_04"
+                    },
+                    {
+                        "point": 246,
+                        "mob": 538760111,
+                        "group": 23,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse01_S01_331701_05"
+                    },
+                    {
+                        "point": 247,
+                        "mob": 538760111,
+                        "group": 24,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse01_S01_331701_02"
+                    },
+                    {
+                        "point": 249,
+                        "mob": 538760111,
+                        "group": 25,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse01_S01_331701_06"
+                    },
+                    {
+                        "point": 250,
+                        "mob": 538760111,
+                        "group": 26,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse01_S01_331701_01"
+                    },
+                    {
+                        "point": 251,
+                        "mob": 538760111,
+                        "group": 27,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse01_S01_331701_08"
+                    },
+                    {
+                        "point": 252,
+                        "mob": 538760111,
+                        "group": 28,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse01_S01_331701_07"
+                    }
+                ]
+            }
+        ]
+    }
+]

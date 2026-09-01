@@ -1,0 +1,52 @@
+[
+    {
+        "level": "event_shadowland_0000_a04",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 210,
+                        "mob": 1286760114,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss_appear": "dialog_laugh",
+                        "boss": 3,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,1.3,1.8",
+                        "scale": "1.2",
+                        "aiprefab": "ai_boss_greengoblin01_760114"
+                    },
+                    {
+                        "point": 244,
+                        "mob": 328760114,
+                        "group": 3,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "boss": 6,
+                        "avoidancePriority": 0,
+                        "scale": "1.0",
+                        "aiprefab": "ai_gimmick_spinblade03_01_760114"
+                    },
+                    {
+                        "point": 261,
+                        "mob": 328760114,
+                        "group": 3,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "boss": 6,
+                        "avoidancePriority": 0,
+                        "scale": "1.0",
+                        "aiprefab": "ai_gimmick_spinblade03_02_760114"
+                    }
+                ]
+            }
+        ]
+    }
+]

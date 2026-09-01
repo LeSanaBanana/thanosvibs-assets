@@ -1,0 +1,92 @@
+[
+    {
+        "level": "raid_mephisto_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 973198103,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate01"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973198103,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate02"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973198103,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate03"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973198103,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate04"
+                    },
+                    {
+                        "appear": "appear_cam",
+                        "point": 1,
+                        "mob": 1161198103,
+                        "group": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_raidmephisto01_legend",
+                        "boss_cam_ani": "appear_cam",
+                        "boss_cam": "0,0,0",
+                        "keymob": 1,
+                        "havepoint": 2
+                    },
+                    {
+                        "appear": "skillmad_get",
+                        "point": 2,
+                        "mob": 1162198103,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "delay": "2.0",
+                        "autoregen": "1-1",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_raidmephisto02_legend",
+                        "keymob": 1,
+                        "havepoint": 2,
+                        "switch": 3
+                    },
+                    {
+                        "appear": "appear",
+                        "point": 2,
+                        "mob": 1163198103,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "delay": "0",
+                        "autoregen": "2-1",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_raidmephisto03_legend",
+                        "keymob": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

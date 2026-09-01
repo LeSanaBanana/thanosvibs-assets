@@ -1,0 +1,388 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3502580225635337842
+    },
+    "m_Name": "ACADEMY_STEP_MISSION",
+    "list": [
+        {
+            "missionId": 101,
+            "missionType": 1,
+            "step": 1,
+            "nextId": 102,
+            "completeScore": 3,
+            "rewardType": 200,
+            "rewardValue": 1008206,
+            "rewardQty": 1,
+            "rewardMain": 1
+        },
+        {
+            "missionId": 102,
+            "missionType": 1,
+            "step": 2,
+            "nextId": 103,
+            "completeScore": 3,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 103,
+            "missionType": 1,
+            "step": 3,
+            "nextId": 104,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 104,
+            "missionType": 1,
+            "step": 4,
+            "nextId": 105,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 105,
+            "missionType": 1,
+            "step": 5,
+            "nextId": 106,
+            "completeScore": 5,
+            "rewardType": 200,
+            "rewardValue": 1008226,
+            "rewardQty": 1,
+            "rewardMain": 1
+        },
+        {
+            "missionId": 106,
+            "missionType": 1,
+            "step": 6,
+            "nextId": 107,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 107,
+            "missionType": 1,
+            "step": 7,
+            "nextId": 108,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 108,
+            "missionType": 1,
+            "step": 8,
+            "nextId": 109,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 109,
+            "missionType": 1,
+            "step": 9,
+            "nextId": 110,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 110,
+            "missionType": 1,
+            "step": 10,
+            "nextId": 111,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 111,
+            "missionType": 1,
+            "step": 11,
+            "nextId": 112,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 112,
+            "missionType": 1,
+            "step": 12,
+            "nextId": 113,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 113,
+            "missionType": 1,
+            "step": 13,
+            "nextId": 114,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 114,
+            "missionType": 1,
+            "step": 14,
+            "nextId": 115,
+            "completeScore": 10,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 115,
+            "missionType": 1,
+            "step": 15,
+            "nextId": 116,
+            "completeScore": 10,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 116,
+            "missionType": 1,
+            "step": 16,
+            "nextId": 201,
+            "completeScore": 10,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 60,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 117,
+            "missionType": 1,
+            "step": 1,
+            "nextId": 118,
+            "completeScore": 3,
+            "rewardType": 200,
+            "rewardValue": 1008206,
+            "rewardQty": 1,
+            "rewardMain": 1
+        },
+        {
+            "missionId": 118,
+            "missionType": 1,
+            "step": 2,
+            "nextId": 119,
+            "completeScore": 3,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 5,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 119,
+            "missionType": 1,
+            "step": 3,
+            "nextId": 120,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 120,
+            "missionType": 1,
+            "step": 4,
+            "nextId": 121,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 121,
+            "missionType": 1,
+            "step": 5,
+            "nextId": 122,
+            "completeScore": 5,
+            "rewardType": 200,
+            "rewardValue": 1008226,
+            "rewardQty": 1,
+            "rewardMain": 1
+        },
+        {
+            "missionId": 122,
+            "missionType": 1,
+            "step": 6,
+            "nextId": 123,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 123,
+            "missionType": 1,
+            "step": 7,
+            "nextId": 124,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 124,
+            "missionType": 1,
+            "step": 8,
+            "nextId": 125,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 125,
+            "missionType": 1,
+            "step": 9,
+            "nextId": 126,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 126,
+            "missionType": 1,
+            "step": 10,
+            "nextId": 127,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 127,
+            "missionType": 1,
+            "step": 11,
+            "nextId": 128,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 128,
+            "missionType": 1,
+            "step": 12,
+            "nextId": 129,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 129,
+            "missionType": 1,
+            "step": 13,
+            "nextId": 130,
+            "completeScore": 5,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 10,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 130,
+            "missionType": 1,
+            "step": 14,
+            "nextId": 131,
+            "completeScore": 10,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 20,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 131,
+            "missionType": 1,
+            "step": 15,
+            "nextId": 132,
+            "completeScore": 10,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 20,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 132,
+            "missionType": 1,
+            "step": 16,
+            "nextId": 202,
+            "completeScore": 10,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 20,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 201,
+            "missionType": 2,
+            "step": 1,
+            "nextId": 201,
+            "completeScore": 20,
+            "rewardType": 300,
+            "rewardValue": 1865,
+            "rewardQty": 1,
+            "rewardMain": 0
+        },
+        {
+            "missionId": 202,
+            "missionType": 2,
+            "step": 1,
+            "nextId": 202,
+            "completeScore": 20,
+            "rewardType": 300,
+            "rewardValue": 1865,
+            "rewardQty": 1,
+            "rewardMain": 0
+        }
+    ]
+}

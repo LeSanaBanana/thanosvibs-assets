@@ -1,0 +1,422 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3195601181524141001
+    },
+    "m_Name": "TEAM_BATTLE_ARENA_RANK_BADGE",
+    "list": [
+        {
+            "id": 1,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium01"
+        },
+        {
+            "id": 2,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium02"
+        },
+        {
+            "id": 3,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium02"
+        },
+        {
+            "id": 4,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium03"
+        },
+        {
+            "id": 5,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium03"
+        },
+        {
+            "id": 6,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium04"
+        },
+        {
+            "id": 7,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium04"
+        },
+        {
+            "id": 8,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium05"
+        },
+        {
+            "id": 9,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 5,
+            "badgeIcon": "teambattlearena_badgeVibranium06"
+        },
+        {
+            "id": 10,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum01"
+        },
+        {
+            "id": 11,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum02"
+        },
+        {
+            "id": 12,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum02"
+        },
+        {
+            "id": 13,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum03"
+        },
+        {
+            "id": 14,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum03"
+        },
+        {
+            "id": 15,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum04"
+        },
+        {
+            "id": 16,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum04"
+        },
+        {
+            "id": 17,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum05"
+        },
+        {
+            "id": 18,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 4,
+            "badgeIcon": "teambattlearena_badgePlatinum06"
+        },
+        {
+            "id": 19,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold01"
+        },
+        {
+            "id": 20,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold02"
+        },
+        {
+            "id": 21,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold02"
+        },
+        {
+            "id": 22,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold03"
+        },
+        {
+            "id": 23,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold03"
+        },
+        {
+            "id": 24,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold04"
+        },
+        {
+            "id": 25,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold04"
+        },
+        {
+            "id": 26,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold05"
+        },
+        {
+            "id": 27,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 3,
+            "badgeIcon": "teambattlearena_badgeGold06"
+        },
+        {
+            "id": 28,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver01"
+        },
+        {
+            "id": 29,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver02"
+        },
+        {
+            "id": 30,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver02"
+        },
+        {
+            "id": 31,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver03"
+        },
+        {
+            "id": 32,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver03"
+        },
+        {
+            "id": 33,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver04"
+        },
+        {
+            "id": 34,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver04"
+        },
+        {
+            "id": 35,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver05"
+        },
+        {
+            "id": 36,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 2,
+            "badgeIcon": "teambattlearena_badgeSliver06"
+        },
+        {
+            "id": 37,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze01"
+        },
+        {
+            "id": 38,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 10,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze02"
+        },
+        {
+            "id": 39,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 50,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze02"
+        },
+        {
+            "id": 40,
+            "rankType": 1,
+            "rankMin": 51,
+            "rankMax": 100,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze03"
+        },
+        {
+            "id": 41,
+            "rankType": 2,
+            "rankMin": 0,
+            "rankMax": 199,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze03"
+        },
+        {
+            "id": 42,
+            "rankType": 2,
+            "rankMin": 200,
+            "rankMax": 1099,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze04"
+        },
+        {
+            "id": 43,
+            "rankType": 2,
+            "rankMin": 1100,
+            "rankMax": 3099,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze04"
+        },
+        {
+            "id": 44,
+            "rankType": 2,
+            "rankMin": 3100,
+            "rankMax": 5099,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze05"
+        },
+        {
+            "id": 45,
+            "rankType": 2,
+            "rankMin": 5100,
+            "rankMax": 10000,
+            "leagueId": 1,
+            "badgeIcon": "teambattlearena_badgeBronze06"
+        },
+        {
+            "id": 46,
+            "rankType": 1,
+            "rankMin": 0,
+            "rankMax": 1,
+            "leagueId": 6,
+            "badgeIcon": "teambattlearena_badgeChallenger01"
+        },
+        {
+            "id": 47,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 5,
+            "leagueId": 6,
+            "badgeIcon": "teambattlearena_badgeChallenger02"
+        },
+        {
+            "id": 48,
+            "rankType": 1,
+            "rankMin": 6,
+            "rankMax": 10,
+            "leagueId": 6,
+            "badgeIcon": "teambattlearena_badgeChallenger03"
+        },
+        {
+            "id": 49,
+            "rankType": 1,
+            "rankMin": 11,
+            "rankMax": 20,
+            "leagueId": 6,
+            "badgeIcon": "teambattlearena_badgeChallenger04"
+        },
+        {
+            "id": 50,
+            "rankType": 1,
+            "rankMin": 21,
+            "rankMax": 30,
+            "leagueId": 6,
+            "badgeIcon": "teambattlearena_badgeChallenger05"
+        },
+        {
+            "id": 51,
+            "rankType": 1,
+            "rankMin": 31,
+            "rankMax": 50,
+            "leagueId": 6,
+            "badgeIcon": "teambattlearena_badgeChallenger06"
+        }
+    ]
+}

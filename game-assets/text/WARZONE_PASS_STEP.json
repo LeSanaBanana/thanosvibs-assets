@@ -1,0 +1,616 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6583109327279004894
+    },
+    "m_Name": "WARZONE_PASS_STEP",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+    ],
+    "values": [
+        {
+            "Step": 1,
+            "PassPoint": 0,
+            "BuyStepPrice": 0
+        },
+        {
+            "Step": 2,
+            "PassPoint": 100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 3,
+            "PassPoint": 200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 4,
+            "PassPoint": 300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 5,
+            "PassPoint": 400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 6,
+            "PassPoint": 500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 7,
+            "PassPoint": 600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 8,
+            "PassPoint": 700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 9,
+            "PassPoint": 800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 10,
+            "PassPoint": 900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 11,
+            "PassPoint": 1000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 12,
+            "PassPoint": 1100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 13,
+            "PassPoint": 1200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 14,
+            "PassPoint": 1300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 15,
+            "PassPoint": 1400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 16,
+            "PassPoint": 1500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 17,
+            "PassPoint": 1600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 18,
+            "PassPoint": 1700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 19,
+            "PassPoint": 1800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 20,
+            "PassPoint": 1900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 21,
+            "PassPoint": 2000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 22,
+            "PassPoint": 2100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 23,
+            "PassPoint": 2200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 24,
+            "PassPoint": 2300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 25,
+            "PassPoint": 2400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 26,
+            "PassPoint": 2500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 27,
+            "PassPoint": 2600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 28,
+            "PassPoint": 2700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 29,
+            "PassPoint": 2800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 30,
+            "PassPoint": 2900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 31,
+            "PassPoint": 3000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 32,
+            "PassPoint": 3100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 33,
+            "PassPoint": 3200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 34,
+            "PassPoint": 3300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 35,
+            "PassPoint": 3400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 36,
+            "PassPoint": 3500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 37,
+            "PassPoint": 3600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 38,
+            "PassPoint": 3700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 39,
+            "PassPoint": 3800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 40,
+            "PassPoint": 3900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 41,
+            "PassPoint": 4000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 42,
+            "PassPoint": 4100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 43,
+            "PassPoint": 4200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 44,
+            "PassPoint": 4300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 45,
+            "PassPoint": 4400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 46,
+            "PassPoint": 4500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 47,
+            "PassPoint": 4600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 48,
+            "PassPoint": 4700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 49,
+            "PassPoint": 4800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 50,
+            "PassPoint": 4900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 51,
+            "PassPoint": 5000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 52,
+            "PassPoint": 5100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 53,
+            "PassPoint": 5200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 54,
+            "PassPoint": 5300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 55,
+            "PassPoint": 5400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 56,
+            "PassPoint": 5500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 57,
+            "PassPoint": 5600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 58,
+            "PassPoint": 5700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 59,
+            "PassPoint": 5800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 60,
+            "PassPoint": 5900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 61,
+            "PassPoint": 6000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 62,
+            "PassPoint": 6100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 63,
+            "PassPoint": 6200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 64,
+            "PassPoint": 6300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 65,
+            "PassPoint": 6400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 66,
+            "PassPoint": 6500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 67,
+            "PassPoint": 6600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 68,
+            "PassPoint": 6700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 69,
+            "PassPoint": 6800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 70,
+            "PassPoint": 6900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 71,
+            "PassPoint": 7000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 72,
+            "PassPoint": 7100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 73,
+            "PassPoint": 7200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 74,
+            "PassPoint": 7300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 75,
+            "PassPoint": 7400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 76,
+            "PassPoint": 7500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 77,
+            "PassPoint": 7600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 78,
+            "PassPoint": 7700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 79,
+            "PassPoint": 7800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 80,
+            "PassPoint": 7900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 81,
+            "PassPoint": 8000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 82,
+            "PassPoint": 8100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 83,
+            "PassPoint": 8200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 84,
+            "PassPoint": 8300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 85,
+            "PassPoint": 8400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 86,
+            "PassPoint": 8500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 87,
+            "PassPoint": 8600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 88,
+            "PassPoint": 8700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 89,
+            "PassPoint": 8800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 90,
+            "PassPoint": 8900,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 91,
+            "PassPoint": 9000,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 92,
+            "PassPoint": 9100,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 93,
+            "PassPoint": 9200,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 94,
+            "PassPoint": 9300,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 95,
+            "PassPoint": 9400,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 96,
+            "PassPoint": 9500,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 97,
+            "PassPoint": 9600,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 98,
+            "PassPoint": 9700,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 99,
+            "PassPoint": 9800,
+            "BuyStepPrice": 200
+        },
+        {
+            "Step": 100,
+            "PassPoint": 9900,
+            "BuyStepPrice": 200
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2475928465779283141
+    },
+    "m_Name": "BURNING_POINT",
+    "list": [
+        {
+            "pointMin": 1,
+            "grade": 1,
+            "heroExp": 0.5,
+            "bonusGold": 0.15000000596046448,
+            "discountEnergy": 0.4000000059604645,
+            "bonusShieldExp": 1.0,
+            "bonusRandomItemPickId": 0,
+            "termBurningGroup": 0
+        },
+        {
+            "pointMin": 101,
+            "grade": 2,
+            "heroExp": 1.0,
+            "bonusGold": 0.5,
+            "discountEnergy": 0.5,
+            "bonusShieldExp": 2.0,
+            "bonusRandomItemPickId": 1156,
+            "termBurningGroup": 0
+        },
+        {
+            "pointMin": 1,
+            "grade": 1,
+            "heroExp": 0.75,
+            "bonusGold": 0.25,
+            "discountEnergy": 0.5,
+            "bonusShieldExp": 1.5,
+            "bonusRandomItemPickId": 0,
+            "termBurningGroup": 1
+        },
+        {
+            "pointMin": 101,
+            "grade": 2,
+            "heroExp": 1.25,
+            "bonusGold": 0.6000000238418579,
+            "discountEnergy": 0.6000000238418579,
+            "bonusShieldExp": 2.5,
+            "bonusRandomItemPickId": 1156,
+            "termBurningGroup": 1
+        }
+    ]
+}

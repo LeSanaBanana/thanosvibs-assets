@@ -1,0 +1,39 @@
+[
+    {
+        "level": "base_jotunnheim_0000_c01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "succ_cam": "0, -160, 0",
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 157380202,
+                        "group": 2,
+                        "autoregen": "1-20",
+                        "sight": 1,
+                        "firstattack": 1,
+                        "aiprefab": "AI_FrostGiantRaider01Summon_001"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 760380202,
+                        "group": 1,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "scale": 0.95,
+                        "boss": 3,
+                        "avoidancePriority": 1,
+                        "boss_appear": "skill04",
+                        "boss_cam": "0,2,1.5",
+                        "aiprefab": "AI_boss_ymir03_aaraid02"
+                    }
+                ]
+            }
+        ]
+    }
+]

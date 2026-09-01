@@ -1,0 +1,101 @@
+[
+    {
+        "level": "base_munitionsfactory_0001_c01",
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 3,
+                        "mob": 163160401,
+                        "group": 1,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "switch": 105
+                    },
+                    {
+                        "point": 1,
+                        "mob": 582160401,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 2,
+                        "aiprefab": "AI_SB_redskull01_S01_001",
+                        "appear": "appear",
+                        "autoregen": "1-1"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 163160401,
+                        "group": 3,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "switch": 101,
+                        "autoregen": "2-1"
+                    },
+                    {
+                        "point": 20,
+                        "mob": 580160401,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 2,
+                        "aiprefab": "AI_SB_crossbones01_001",
+                        "appear": "appear",
+                        "autoregen": "3-1"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 163160401,
+                        "group": 5,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "switch": 102,
+                        "autoregen": "4-1"
+                    },
+                    {
+                        "point": 30,
+                        "mob": 583160401,
+                        "group": 6,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 2,
+                        "aiprefab": "AI_SB_sin01_001",
+                        "appear": "appear",
+                        "delay": "0.3-0.6",
+                        "autoregen": "5-1"
+                    },
+                    {
+                        "point": 3,
+                        "mob": 163160401,
+                        "group": 7,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "appear": "appear",
+                        "autoregen": "6-1"
+                    },
+                    {
+                        "point": 7,
+                        "mob": 581160401,
+                        "group": 8,
+                        "sight": 50,
+                        "boss": 4,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "aiprefab": "AI_SB_modok02_001",
+                        "appear": "appear",
+                        "boss_cam": "0,0.2,2.3",
+                        "autoregen": "7-1"
+                    }
+                ]
+            }
+        ]
+    }
+]

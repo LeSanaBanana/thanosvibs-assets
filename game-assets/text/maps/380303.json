@@ -1,0 +1,29 @@
+[
+    {
+        "level": "base_muspelheim_0000_f01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 759380303,
+                        "group": 1,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "scale": 0.9,
+                        "boss": 3,
+                        "boss_appear": "skill04",
+                        "avoidancePriority": 1,
+                        "boss_cam": "0,1.5,2.1",
+                        "aiprefab": "AI_boss_surtur03_aaraid03"
+                    }
+                ]
+            }
+        ]
+    }
+]

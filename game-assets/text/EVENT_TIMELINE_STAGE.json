@@ -1,0 +1,236 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6575212946055351043
+    },
+    "m_Name": "EVENT_TIMELINE_STAGE",
+    "keys": [
+        700101,
+        700102,
+        700103,
+        700104,
+        700105,
+        700201,
+        700202,
+        700203,
+        700204,
+        700205,
+        700301,
+        700302,
+        700303,
+        700304,
+        700305,
+        700401,
+        700402,
+        700403,
+        700404,
+        700405
+    ],
+    "values": [
+        {
+            "StageId": 700101,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                30,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700102,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                31,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700103,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                277,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700104,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700105,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                30,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700201,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                220,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700202,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 0,
+            "RequiredHeroGroupId": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700203,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 0,
+            "RequiredHeroGroupId": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700204,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                31,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700205,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 0,
+            "RequiredHeroGroupId": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700301,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                181,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700302,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 0,
+            "RequiredHeroGroupId": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700303,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                182,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700304,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                179,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700305,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 0,
+            "RequiredHeroGroupId": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700401,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                10,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700402,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 2,
+            "RequiredHeroGroupId": [
+                10,
+                66,
+                0
+            ]
+        },
+        {
+            "StageId": 700403,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 1,
+            "RequiredHeroGroupId": [
+                10,
+                0,
+                0
+            ]
+        },
+        {
+            "StageId": 700404,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 2,
+            "RequiredHeroGroupId": [
+                10,
+                65,
+                0
+            ]
+        },
+        {
+            "StageId": 700405,
+            "RequiredHeroQty": 3,
+            "AssignedHeroQty": 2,
+            "RequiredHeroGroupId": [
+                10,
+                28,
+                0
+            ]
+        }
+    ]
+}

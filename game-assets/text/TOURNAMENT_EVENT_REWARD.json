@@ -1,0 +1,789 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2908454737478487848
+    },
+    "m_Name": "TOURNAMENT_EVENT_REWARD",
+    "list": [
+        {
+            "groupId": 1,
+            "id": 1,
+            "rankType": 1,
+            "rankMin": 1,
+            "rankMax": 1,
+            "voteMin": 0.0,
+            "voteMax": 0.0,
+            "rewards": [
+                {
+                    "Type": 300,
+                    "value": 1088,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 300,
+                    "value": 1088,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 10000000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 2,
+            "rankType": 1,
+            "rankMin": 2,
+            "rankMax": 2,
+            "voteMin": 0.0,
+            "voteMax": 0.0,
+            "rewards": [
+                {
+                    "Type": 300,
+                    "value": 1089,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 300,
+                    "value": 1088,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 7000000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 3,
+            "rankType": 1,
+            "rankMin": 3,
+            "rankMax": 3,
+            "voteMin": 0.0,
+            "voteMax": 0.0,
+            "rewards": [
+                {
+                    "Type": 300,
+                    "value": 1090,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 300,
+                    "value": 1089,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 5000000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 4,
+            "rankType": 1,
+            "rankMin": 4,
+            "rankMax": 8,
+            "voteMin": 0.0,
+            "voteMax": 0.0,
+            "rewards": [
+                {
+                    "Type": 300,
+                    "value": 1090,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 300,
+                    "value": 1090,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 3000000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 5,
+            "rankType": 1,
+            "rankMin": 9,
+            "rankMax": 16,
+            "voteMin": 0.0,
+            "voteMax": 0.0,
+            "rewards": [
+                {
+                    "Type": 300,
+                    "value": 1090,
+                    "qty": 1,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 2000000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 6,
+            "rankType": 2,
+            "rankMin": 1,
+            "rankMax": 1,
+            "voteMin": 0.0,
+            "voteMax": 0.0,
+            "rewards": [
+                {
+                    "Type": 4,
+                    "value": 0,
+                    "qty": 5500,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 7,
+            "rankType": 3,
+            "rankMin": 1,
+            "rankMax": 1,
+            "voteMin": 0.0,
+            "voteMax": 0.10000000149011612,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 1000000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1020005,
+                    "qty": 500,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1070001,
+                    "qty": 500,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 8,
+            "rankType": 3,
+            "rankMin": 1,
+            "rankMax": 1,
+            "voteMin": 0.10999999940395355,
+            "voteMax": 3.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 700000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 9,
+            "rankType": 3,
+            "rankMin": 1,
+            "rankMax": 1,
+            "voteMin": 3.009999990463257,
+            "voteMax": 10.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 500000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 10,
+            "rankType": 3,
+            "rankMin": 1,
+            "rankMax": 1,
+            "voteMin": 10.010000228881836,
+            "voteMax": 40.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 300000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 11,
+            "rankType": 3,
+            "rankMin": 1,
+            "rankMax": 1,
+            "voteMin": 40.0099983215332,
+            "voteMax": 100.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 200000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 12,
+            "rankType": 3,
+            "rankMin": 2,
+            "rankMax": 2,
+            "voteMin": 0.0,
+            "voteMax": 0.10000000149011612,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 800000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1020005,
+                    "qty": 300,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1070001,
+                    "qty": 300,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 13,
+            "rankType": 3,
+            "rankMin": 2,
+            "rankMax": 2,
+            "voteMin": 0.10999999940395355,
+            "voteMax": 3.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 600000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 14,
+            "rankType": 3,
+            "rankMin": 2,
+            "rankMax": 2,
+            "voteMin": 3.009999990463257,
+            "voteMax": 10.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 300000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 15,
+            "rankType": 3,
+            "rankMin": 2,
+            "rankMax": 2,
+            "voteMin": 10.010000228881836,
+            "voteMax": 30.000001907348633,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 200000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 16,
+            "rankType": 3,
+            "rankMin": 2,
+            "rankMax": 2,
+            "voteMin": 30.010000228881836,
+            "voteMax": 100.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 150000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 17,
+            "rankType": 3,
+            "rankMin": 3,
+            "rankMax": 3,
+            "voteMin": 0.0,
+            "voteMax": 0.10000000149011612,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 500000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1020005,
+                    "qty": 100,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                },
+                {
+                    "Type": 100,
+                    "value": 1070001,
+                    "qty": 100,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 18,
+            "rankType": 3,
+            "rankMin": 3,
+            "rankMax": 3,
+            "voteMin": 0.10999999940395355,
+            "voteMax": 3.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 300000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 19,
+            "rankType": 3,
+            "rankMin": 3,
+            "rankMax": 3,
+            "voteMin": 3.009999990463257,
+            "voteMax": 10.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 100000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 20,
+            "rankType": 3,
+            "rankMin": 3,
+            "rankMax": 3,
+            "voteMin": 10.010000228881836,
+            "voteMax": 30.000001907348633,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 70000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 21,
+            "rankType": 3,
+            "rankMin": 3,
+            "rankMax": 3,
+            "voteMin": 30.010000228881836,
+            "voteMax": 100.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 50000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 22,
+            "rankType": 3,
+            "rankMin": 4,
+            "rankMax": 8,
+            "voteMin": 0.0,
+            "voteMax": 3.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 100000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 23,
+            "rankType": 3,
+            "rankMin": 4,
+            "rankMax": 8,
+            "voteMin": 3.009999990463257,
+            "voteMax": 10.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 70000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 24,
+            "rankType": 3,
+            "rankMin": 4,
+            "rankMax": 8,
+            "voteMin": 10.010000228881836,
+            "voteMax": 50.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 50000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 25,
+            "rankType": 3,
+            "rankMin": 4,
+            "rankMax": 8,
+            "voteMin": 50.01000213623047,
+            "voteMax": 100.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 30000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 26,
+            "rankType": 3,
+            "rankMin": 9,
+            "rankMax": 16,
+            "voteMin": 0.0,
+            "voteMax": 10.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 50000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 27,
+            "rankType": 3,
+            "rankMin": 9,
+            "rankMax": 16,
+            "voteMin": 10.010000228881836,
+            "voteMax": 40.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 30000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 28,
+            "rankType": 3,
+            "rankMin": 9,
+            "rankMax": 16,
+            "voteMin": 40.0099983215332,
+            "voteMax": 100.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 20000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 29,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "voteMin": 1.0,
+            "voteMax": 5.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 100000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 30,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "voteMin": 5.009999752044678,
+            "voteMax": 15.000000953674316,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 300000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 31,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "voteMin": 15.00999927520752,
+            "voteMax": 40.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 500000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        },
+        {
+            "groupId": 1,
+            "id": 32,
+            "rankType": 4,
+            "rankMin": 0,
+            "rankMax": 0,
+            "voteMin": 40.0099983215332,
+            "voteMax": 100.0,
+            "rewards": [
+                {
+                    "Type": 3,
+                    "value": 0,
+                    "qty": 700000,
+                    "highlightCount": 0,
+                    "jackpot": 0,
+                    "isn": 0,
+                    "vipLevel": 0
+                }
+            ]
+        }
+    ]
+}

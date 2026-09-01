@@ -1,0 +1,44 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5468882900226242201
+    },
+    "m_Name": "FACTION_EVENT_STAGE_POINT",
+    "list": [
+        {
+            "enterType": 1,
+            "difficulty": 1,
+            "stagePoint": 50
+        },
+        {
+            "enterType": 1,
+            "difficulty": 2,
+            "stagePoint": 100
+        },
+        {
+            "enterType": 1,
+            "difficulty": 3,
+            "stagePoint": 200
+        },
+        {
+            "enterType": 2,
+            "difficulty": 1,
+            "stagePoint": 100
+        },
+        {
+            "enterType": 2,
+            "difficulty": 2,
+            "stagePoint": 200
+        },
+        {
+            "enterType": 2,
+            "difficulty": 3,
+            "stagePoint": 300
+        }
+    ]
+}

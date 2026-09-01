@@ -1,0 +1,714 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -69234866663973000
+    },
+    "m_Name": "EMBLEM_REWARD_SLOT",
+    "keys": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        3001,
+        3002,
+        3003,
+        3004,
+        3005,
+        3006,
+        4001,
+        4002,
+        4003,
+        4004,
+        4005,
+        4006
+    ],
+    "values": [
+        {
+            "slotId": 1001,
+            "slotGroupId": 1,
+            "level": 1,
+            "prob": 6500,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 25
+        },
+        {
+            "slotId": 1001,
+            "slotGroupId": 1,
+            "level": 1,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 20
+        },
+        {
+            "slotId": 1001,
+            "slotGroupId": 1,
+            "level": 1,
+            "prob": 500,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 15
+        },
+        {
+            "slotId": 1002,
+            "slotGroupId": 1,
+            "level": 2,
+            "prob": 6200,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 1002,
+            "slotGroupId": 1,
+            "level": 2,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 25
+        },
+        {
+            "slotId": 1002,
+            "slotGroupId": 1,
+            "level": 2,
+            "prob": 800,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 18
+        },
+        {
+            "slotId": 1003,
+            "slotGroupId": 1,
+            "level": 3,
+            "prob": 5800,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 35
+        },
+        {
+            "slotId": 1003,
+            "slotGroupId": 1,
+            "level": 3,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 1003,
+            "slotGroupId": 1,
+            "level": 3,
+            "prob": 1200,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 21
+        },
+        {
+            "slotId": 1004,
+            "slotGroupId": 1,
+            "level": 4,
+            "prob": 5400,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 40
+        },
+        {
+            "slotId": 1004,
+            "slotGroupId": 1,
+            "level": 4,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 35
+        },
+        {
+            "slotId": 1004,
+            "slotGroupId": 1,
+            "level": 4,
+            "prob": 1600,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 24
+        },
+        {
+            "slotId": 1005,
+            "slotGroupId": 1,
+            "level": 5,
+            "prob": 5000,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 45
+        },
+        {
+            "slotId": 1005,
+            "slotGroupId": 1,
+            "level": 5,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 40
+        },
+        {
+            "slotId": 1005,
+            "slotGroupId": 1,
+            "level": 5,
+            "prob": 2000,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 27
+        },
+        {
+            "slotId": 1006,
+            "slotGroupId": 1,
+            "level": 6,
+            "prob": 4500,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 50
+        },
+        {
+            "slotId": 1006,
+            "slotGroupId": 1,
+            "level": 6,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 45
+        },
+        {
+            "slotId": 1006,
+            "slotGroupId": 1,
+            "level": 6,
+            "prob": 2500,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 2001,
+            "slotGroupId": 2,
+            "level": 1,
+            "prob": 6500,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 25
+        },
+        {
+            "slotId": 2001,
+            "slotGroupId": 2,
+            "level": 1,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 20
+        },
+        {
+            "slotId": 2001,
+            "slotGroupId": 2,
+            "level": 1,
+            "prob": 500,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 15
+        },
+        {
+            "slotId": 2002,
+            "slotGroupId": 2,
+            "level": 2,
+            "prob": 6200,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 2002,
+            "slotGroupId": 2,
+            "level": 2,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 25
+        },
+        {
+            "slotId": 2002,
+            "slotGroupId": 2,
+            "level": 2,
+            "prob": 800,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 18
+        },
+        {
+            "slotId": 2003,
+            "slotGroupId": 2,
+            "level": 3,
+            "prob": 5800,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 35
+        },
+        {
+            "slotId": 2003,
+            "slotGroupId": 2,
+            "level": 3,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 2003,
+            "slotGroupId": 2,
+            "level": 3,
+            "prob": 1200,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 21
+        },
+        {
+            "slotId": 2004,
+            "slotGroupId": 2,
+            "level": 4,
+            "prob": 5400,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 40
+        },
+        {
+            "slotId": 2004,
+            "slotGroupId": 2,
+            "level": 4,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 35
+        },
+        {
+            "slotId": 2004,
+            "slotGroupId": 2,
+            "level": 4,
+            "prob": 1600,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 24
+        },
+        {
+            "slotId": 2005,
+            "slotGroupId": 2,
+            "level": 5,
+            "prob": 5000,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 45
+        },
+        {
+            "slotId": 2005,
+            "slotGroupId": 2,
+            "level": 5,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 40
+        },
+        {
+            "slotId": 2005,
+            "slotGroupId": 2,
+            "level": 5,
+            "prob": 2000,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 27
+        },
+        {
+            "slotId": 2006,
+            "slotGroupId": 2,
+            "level": 6,
+            "prob": 4500,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 50
+        },
+        {
+            "slotId": 2006,
+            "slotGroupId": 2,
+            "level": 6,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 45
+        },
+        {
+            "slotId": 2006,
+            "slotGroupId": 2,
+            "level": 6,
+            "prob": 2500,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 3001,
+            "slotGroupId": 3,
+            "level": 1,
+            "prob": 6500,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 25
+        },
+        {
+            "slotId": 3001,
+            "slotGroupId": 3,
+            "level": 1,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 20
+        },
+        {
+            "slotId": 3001,
+            "slotGroupId": 3,
+            "level": 1,
+            "prob": 500,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 15
+        },
+        {
+            "slotId": 3002,
+            "slotGroupId": 3,
+            "level": 2,
+            "prob": 6200,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 3002,
+            "slotGroupId": 3,
+            "level": 2,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 25
+        },
+        {
+            "slotId": 3002,
+            "slotGroupId": 3,
+            "level": 2,
+            "prob": 800,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 18
+        },
+        {
+            "slotId": 3003,
+            "slotGroupId": 3,
+            "level": 3,
+            "prob": 5800,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 35
+        },
+        {
+            "slotId": 3003,
+            "slotGroupId": 3,
+            "level": 3,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 3003,
+            "slotGroupId": 3,
+            "level": 3,
+            "prob": 1200,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 21
+        },
+        {
+            "slotId": 3004,
+            "slotGroupId": 3,
+            "level": 4,
+            "prob": 5400,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 40
+        },
+        {
+            "slotId": 3004,
+            "slotGroupId": 3,
+            "level": 4,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 35
+        },
+        {
+            "slotId": 3004,
+            "slotGroupId": 3,
+            "level": 4,
+            "prob": 1600,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 24
+        },
+        {
+            "slotId": 3005,
+            "slotGroupId": 3,
+            "level": 5,
+            "prob": 5000,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 45
+        },
+        {
+            "slotId": 3005,
+            "slotGroupId": 3,
+            "level": 5,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 40
+        },
+        {
+            "slotId": 3005,
+            "slotGroupId": 3,
+            "level": 5,
+            "prob": 2000,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 27
+        },
+        {
+            "slotId": 3006,
+            "slotGroupId": 3,
+            "level": 6,
+            "prob": 4500,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 50
+        },
+        {
+            "slotId": 3006,
+            "slotGroupId": 3,
+            "level": 6,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 45
+        },
+        {
+            "slotId": 3006,
+            "slotGroupId": 3,
+            "level": 6,
+            "prob": 2500,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 4001,
+            "slotGroupId": 4,
+            "level": 1,
+            "prob": 6500,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 25
+        },
+        {
+            "slotId": 4001,
+            "slotGroupId": 4,
+            "level": 1,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 20
+        },
+        {
+            "slotId": 4001,
+            "slotGroupId": 4,
+            "level": 1,
+            "prob": 500,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 15
+        },
+        {
+            "slotId": 4002,
+            "slotGroupId": 4,
+            "level": 2,
+            "prob": 6200,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 4002,
+            "slotGroupId": 4,
+            "level": 2,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 25
+        },
+        {
+            "slotId": 4002,
+            "slotGroupId": 4,
+            "level": 2,
+            "prob": 800,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 18
+        },
+        {
+            "slotId": 4003,
+            "slotGroupId": 4,
+            "level": 3,
+            "prob": 5800,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 35
+        },
+        {
+            "slotId": 4003,
+            "slotGroupId": 4,
+            "level": 3,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 30
+        },
+        {
+            "slotId": 4003,
+            "slotGroupId": 4,
+            "level": 3,
+            "prob": 1200,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 21
+        },
+        {
+            "slotId": 4004,
+            "slotGroupId": 4,
+            "level": 4,
+            "prob": 5400,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 40
+        },
+        {
+            "slotId": 4004,
+            "slotGroupId": 4,
+            "level": 4,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 35
+        },
+        {
+            "slotId": 4004,
+            "slotGroupId": 4,
+            "level": 4,
+            "prob": 1600,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 24
+        },
+        {
+            "slotId": 4005,
+            "slotGroupId": 4,
+            "level": 5,
+            "prob": 5000,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 45
+        },
+        {
+            "slotId": 4005,
+            "slotGroupId": 4,
+            "level": 5,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 40
+        },
+        {
+            "slotId": 4005,
+            "slotGroupId": 4,
+            "level": 5,
+            "prob": 2000,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 27
+        },
+        {
+            "slotId": 4006,
+            "slotGroupId": 4,
+            "level": 6,
+            "prob": 4500,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 50
+        },
+        {
+            "slotId": 4006,
+            "slotGroupId": 4,
+            "level": 6,
+            "prob": 3000,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 45
+        },
+        {
+            "slotId": 4006,
+            "slotGroupId": 4,
+            "level": 6,
+            "prob": 2500,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 30
+        }
+    ],
+    "counts": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+    ]
+}

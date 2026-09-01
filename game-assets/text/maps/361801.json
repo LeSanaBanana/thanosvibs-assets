@@ -1,0 +1,42 @@
+[
+    {
+        "level": "arcade_shangchi_citycenter_re_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "onlyCinematicLevel": 1,
+        "detail": [
+            {
+                "round": []
+            }
+        ]
+    },
+    {
+        "level": "arcade_shangchi_citycenter_re_a02",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "succ_cam": "0,-90,0",
+        "succ_cam_pos": "0,0,0",
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1130361801,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 15,
+                        "boss": 3,
+                        "aiprefab": "ai_boss_wenwu01_ex",
+                        "boss_cam": "0,0,0",
+                        "appear": "appear",
+                        "boss_appear": "skill05",
+                        "avoidancePriority": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

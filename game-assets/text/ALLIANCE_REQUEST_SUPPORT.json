@@ -1,0 +1,2734 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8505313520668226681
+    },
+    "m_Name": "ALLIANCE_REQUEST_SUPPORT",
+    "list": [
+        {
+            "id": 10001,
+            "category": 1,
+            "requestItemId": 1020001,
+            "requestItemCount": 100,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10002,
+            "category": 1,
+            "requestItemId": 1020002,
+            "requestItemCount": 100,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10003,
+            "category": 1,
+            "requestItemId": 1020003,
+            "requestItemCount": 100,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10004,
+            "category": 1,
+            "requestItemId": 1020004,
+            "requestItemCount": 100,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10005,
+            "category": 1,
+            "requestItemId": 1070001,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10006,
+            "category": 1,
+            "requestItemId": 1020005,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10007,
+            "category": 1,
+            "requestItemId": 1100001,
+            "requestItemCount": 100,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10008,
+            "category": 1,
+            "requestItemId": 1110001,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10009,
+            "category": 1,
+            "requestItemId": 1120001,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10010,
+            "category": 1,
+            "requestItemId": 10199001,
+            "requestItemCount": 500,
+            "supportItemCount": 100,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10011,
+            "category": 1,
+            "requestItemId": 10199002,
+            "requestItemCount": 500,
+            "supportItemCount": 100,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10012,
+            "category": 1,
+            "requestItemId": 1200001,
+            "requestItemCount": 60,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 10013,
+            "category": 1,
+            "requestItemId": 1200002,
+            "requestItemCount": 60,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20001,
+            "category": 2,
+            "requestItemId": 1000001,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20002,
+            "category": 2,
+            "requestItemId": 1000003,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20003,
+            "category": 2,
+            "requestItemId": 1000004,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20004,
+            "category": 2,
+            "requestItemId": 1000006,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20005,
+            "category": 2,
+            "requestItemId": 1000007,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20006,
+            "category": 2,
+            "requestItemId": 1000008,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20007,
+            "category": 2,
+            "requestItemId": 1000010,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20008,
+            "category": 2,
+            "requestItemId": 1000011,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20009,
+            "category": 2,
+            "requestItemId": 1000013,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20010,
+            "category": 2,
+            "requestItemId": 1000014,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20011,
+            "category": 2,
+            "requestItemId": 1000015,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20012,
+            "category": 2,
+            "requestItemId": 1000016,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20013,
+            "category": 2,
+            "requestItemId": 1000017,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20014,
+            "category": 2,
+            "requestItemId": 1000018,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20015,
+            "category": 2,
+            "requestItemId": 1000019,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20016,
+            "category": 2,
+            "requestItemId": 1000020,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20017,
+            "category": 2,
+            "requestItemId": 1000022,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20018,
+            "category": 2,
+            "requestItemId": 1000023,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20019,
+            "category": 2,
+            "requestItemId": 1000024,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20020,
+            "category": 2,
+            "requestItemId": 1000026,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20021,
+            "category": 2,
+            "requestItemId": 1000027,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20022,
+            "category": 2,
+            "requestItemId": 1000029,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20023,
+            "category": 2,
+            "requestItemId": 1000030,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20024,
+            "category": 2,
+            "requestItemId": 1000031,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20025,
+            "category": 2,
+            "requestItemId": 1000032,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20026,
+            "category": 2,
+            "requestItemId": 1000033,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20027,
+            "category": 2,
+            "requestItemId": 1000034,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20028,
+            "category": 2,
+            "requestItemId": 1000035,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20029,
+            "category": 2,
+            "requestItemId": 1000037,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20030,
+            "category": 2,
+            "requestItemId": 1000038,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20031,
+            "category": 2,
+            "requestItemId": 1000040,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20032,
+            "category": 2,
+            "requestItemId": 1000042,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20033,
+            "category": 2,
+            "requestItemId": 1000043,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20034,
+            "category": 2,
+            "requestItemId": 1000044,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20035,
+            "category": 2,
+            "requestItemId": 1000046,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20036,
+            "category": 2,
+            "requestItemId": 1000047,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20037,
+            "category": 2,
+            "requestItemId": 1000048,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20038,
+            "category": 2,
+            "requestItemId": 1000049,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20039,
+            "category": 2,
+            "requestItemId": 1000050,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20040,
+            "category": 2,
+            "requestItemId": 1000051,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20041,
+            "category": 2,
+            "requestItemId": 1000052,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20042,
+            "category": 2,
+            "requestItemId": 1000056,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20043,
+            "category": 2,
+            "requestItemId": 1000057,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20044,
+            "category": 2,
+            "requestItemId": 1000058,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20045,
+            "category": 2,
+            "requestItemId": 1000059,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20046,
+            "category": 2,
+            "requestItemId": 1000061,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20047,
+            "category": 2,
+            "requestItemId": 1000083,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20048,
+            "category": 2,
+            "requestItemId": 1000084,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20049,
+            "category": 2,
+            "requestItemId": 1000085,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20050,
+            "category": 2,
+            "requestItemId": 1000086,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20051,
+            "category": 2,
+            "requestItemId": 1000087,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20052,
+            "category": 2,
+            "requestItemId": 1000091,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20053,
+            "category": 2,
+            "requestItemId": 1000092,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20054,
+            "category": 2,
+            "requestItemId": 1000093,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20055,
+            "category": 2,
+            "requestItemId": 1000094,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20056,
+            "category": 2,
+            "requestItemId": 1000096,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20057,
+            "category": 2,
+            "requestItemId": 1000098,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20058,
+            "category": 2,
+            "requestItemId": 1000102,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20059,
+            "category": 2,
+            "requestItemId": 1000103,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20060,
+            "category": 2,
+            "requestItemId": 1000104,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20061,
+            "category": 2,
+            "requestItemId": 1000106,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20062,
+            "category": 2,
+            "requestItemId": 1000110,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20063,
+            "category": 2,
+            "requestItemId": 1000111,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20064,
+            "category": 2,
+            "requestItemId": 1000112,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20065,
+            "category": 2,
+            "requestItemId": 1000114,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20066,
+            "category": 2,
+            "requestItemId": 1000115,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20067,
+            "category": 2,
+            "requestItemId": 1000130,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20068,
+            "category": 2,
+            "requestItemId": 1000131,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20069,
+            "category": 2,
+            "requestItemId": 1000132,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20070,
+            "category": 2,
+            "requestItemId": 1000133,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20071,
+            "category": 2,
+            "requestItemId": 1000134,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 20072,
+            "category": 2,
+            "requestItemId": 1000147,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30001,
+            "category": 1,
+            "requestItemId": 1020001,
+            "requestItemCount": 200,
+            "supportItemCount": 40,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30002,
+            "category": 1,
+            "requestItemId": 1020002,
+            "requestItemCount": 200,
+            "supportItemCount": 40,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30003,
+            "category": 1,
+            "requestItemId": 1020003,
+            "requestItemCount": 200,
+            "supportItemCount": 40,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30004,
+            "category": 1,
+            "requestItemId": 1020004,
+            "requestItemCount": 200,
+            "supportItemCount": 40,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30005,
+            "category": 1,
+            "requestItemId": 1070001,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30006,
+            "category": 1,
+            "requestItemId": 1020005,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30007,
+            "category": 1,
+            "requestItemId": 1100001,
+            "requestItemCount": 200,
+            "supportItemCount": 40,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30008,
+            "category": 1,
+            "requestItemId": 1110001,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30009,
+            "category": 1,
+            "requestItemId": 1120001,
+            "requestItemCount": 50,
+            "supportItemCount": 10,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30010,
+            "category": 1,
+            "requestItemId": 10199001,
+            "requestItemCount": 1000,
+            "supportItemCount": 200,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30011,
+            "category": 1,
+            "requestItemId": 10199002,
+            "requestItemCount": 1000,
+            "supportItemCount": 200,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30012,
+            "category": 1,
+            "requestItemId": 1200001,
+            "requestItemCount": 100,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 30013,
+            "category": 1,
+            "requestItemId": 1200002,
+            "requestItemCount": 100,
+            "supportItemCount": 20,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40001,
+            "category": 2,
+            "requestItemId": 1000001,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40002,
+            "category": 2,
+            "requestItemId": 1000003,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40003,
+            "category": 2,
+            "requestItemId": 1000004,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40004,
+            "category": 2,
+            "requestItemId": 1000006,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40005,
+            "category": 2,
+            "requestItemId": 1000007,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40006,
+            "category": 2,
+            "requestItemId": 1000008,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40007,
+            "category": 2,
+            "requestItemId": 1000010,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40008,
+            "category": 2,
+            "requestItemId": 1000011,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40009,
+            "category": 2,
+            "requestItemId": 1000013,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40010,
+            "category": 2,
+            "requestItemId": 1000014,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40011,
+            "category": 2,
+            "requestItemId": 1000015,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40012,
+            "category": 2,
+            "requestItemId": 1000016,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40013,
+            "category": 2,
+            "requestItemId": 1000017,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40014,
+            "category": 2,
+            "requestItemId": 1000018,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40015,
+            "category": 2,
+            "requestItemId": 1000019,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40016,
+            "category": 2,
+            "requestItemId": 1000020,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40017,
+            "category": 2,
+            "requestItemId": 1000022,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40018,
+            "category": 2,
+            "requestItemId": 1000023,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40019,
+            "category": 2,
+            "requestItemId": 1000024,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40020,
+            "category": 2,
+            "requestItemId": 1000026,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40021,
+            "category": 2,
+            "requestItemId": 1000027,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40022,
+            "category": 2,
+            "requestItemId": 1000029,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40023,
+            "category": 2,
+            "requestItemId": 1000030,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40024,
+            "category": 2,
+            "requestItemId": 1000031,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40025,
+            "category": 2,
+            "requestItemId": 1000032,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40026,
+            "category": 2,
+            "requestItemId": 1000033,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40027,
+            "category": 2,
+            "requestItemId": 1000034,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40028,
+            "category": 2,
+            "requestItemId": 1000035,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40029,
+            "category": 2,
+            "requestItemId": 1000037,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40030,
+            "category": 2,
+            "requestItemId": 1000038,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40031,
+            "category": 2,
+            "requestItemId": 1000040,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40032,
+            "category": 2,
+            "requestItemId": 1000042,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40033,
+            "category": 2,
+            "requestItemId": 1000043,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40034,
+            "category": 2,
+            "requestItemId": 1000044,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40035,
+            "category": 2,
+            "requestItemId": 1000046,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40036,
+            "category": 2,
+            "requestItemId": 1000047,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40037,
+            "category": 2,
+            "requestItemId": 1000048,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40038,
+            "category": 2,
+            "requestItemId": 1000049,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40039,
+            "category": 2,
+            "requestItemId": 1000050,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40040,
+            "category": 2,
+            "requestItemId": 1000051,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40041,
+            "category": 2,
+            "requestItemId": 1000052,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40042,
+            "category": 2,
+            "requestItemId": 1000056,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40043,
+            "category": 2,
+            "requestItemId": 1000057,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40044,
+            "category": 2,
+            "requestItemId": 1000058,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40045,
+            "category": 2,
+            "requestItemId": 1000059,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40046,
+            "category": 2,
+            "requestItemId": 1000061,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40047,
+            "category": 2,
+            "requestItemId": 1000083,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40048,
+            "category": 2,
+            "requestItemId": 1000084,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40049,
+            "category": 2,
+            "requestItemId": 1000085,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40050,
+            "category": 2,
+            "requestItemId": 1000086,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40051,
+            "category": 2,
+            "requestItemId": 1000087,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40052,
+            "category": 2,
+            "requestItemId": 1000091,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40053,
+            "category": 2,
+            "requestItemId": 1000092,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40054,
+            "category": 2,
+            "requestItemId": 1000093,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40055,
+            "category": 2,
+            "requestItemId": 1000094,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40056,
+            "category": 2,
+            "requestItemId": 1000096,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40057,
+            "category": 2,
+            "requestItemId": 1000098,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40058,
+            "category": 2,
+            "requestItemId": 1000102,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40059,
+            "category": 2,
+            "requestItemId": 1000103,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40060,
+            "category": 2,
+            "requestItemId": 1000104,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40061,
+            "category": 2,
+            "requestItemId": 1000106,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40062,
+            "category": 2,
+            "requestItemId": 1000110,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40063,
+            "category": 2,
+            "requestItemId": 1000111,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40064,
+            "category": 2,
+            "requestItemId": 1000112,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40065,
+            "category": 2,
+            "requestItemId": 1000114,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40066,
+            "category": 2,
+            "requestItemId": 1000115,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40067,
+            "category": 2,
+            "requestItemId": 1000130,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40068,
+            "category": 2,
+            "requestItemId": 1000131,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40069,
+            "category": 2,
+            "requestItemId": 1000132,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40070,
+            "category": 2,
+            "requestItemId": 1000133,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40071,
+            "category": 2,
+            "requestItemId": 1000134,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        },
+        {
+            "id": 40072,
+            "category": 2,
+            "requestItemId": 1000147,
+            "requestItemCount": 75,
+            "supportItemCount": 15,
+            "supportRewardItem": {
+                "Type": 100,
+                "value": 23,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,428 @@
+[
+    {
+        "level": "event_shadowland_0000_a01",
+        "lightIndex": 2,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 205,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02"
+                    },
+                    {
+                        "point": 4,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-1"
+                    },
+                    {
+                        "point": 241,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-2"
+                    },
+                    {
+                        "point": 220,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-3"
+                    },
+                    {
+                        "point": 221,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-3"
+                    },
+                    {
+                        "point": 222,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-5"
+                    },
+                    {
+                        "point": 223,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-5"
+                    },
+                    {
+                        "point": 224,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-7"
+                    },
+                    {
+                        "point": 225,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-7"
+                    },
+                    {
+                        "point": 226,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-9"
+                    },
+                    {
+                        "point": 227,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-9"
+                    },
+                    {
+                        "point": 228,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-9"
+                    },
+                    {
+                        "point": 229,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-12"
+                    },
+                    {
+                        "point": 230,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-12"
+                    },
+                    {
+                        "point": 231,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-12"
+                    },
+                    {
+                        "point": 232,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-15"
+                    },
+                    {
+                        "point": 233,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-15"
+                    },
+                    {
+                        "point": 234,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-15"
+                    },
+                    {
+                        "point": 220,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-18"
+                    },
+                    {
+                        "point": 222,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-18"
+                    },
+                    {
+                        "point": 221,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-20"
+                    },
+                    {
+                        "point": 223,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-20"
+                    },
+                    {
+                        "point": 225,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-20"
+                    },
+                    {
+                        "point": 222,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-23"
+                    },
+                    {
+                        "point": 224,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "10.0",
+                        "autoregen": "2-23"
+                    },
+                    {
+                        "point": 226,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-25"
+                    },
+                    {
+                        "point": 228,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-25"
+                    },
+                    {
+                        "point": 230,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-25"
+                    },
+                    {
+                        "point": 227,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-28"
+                    },
+                    {
+                        "point": 229,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-28"
+                    },
+                    {
+                        "point": 231,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-28"
+                    },
+                    {
+                        "point": 221,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-31"
+                    },
+                    {
+                        "point": 224,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-31"
+                    },
+                    {
+                        "point": 227,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-31"
+                    },
+                    {
+                        "point": 222,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-34"
+                    },
+                    {
+                        "point": 225,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-34"
+                    },
+                    {
+                        "point": 228,
+                        "mob": 941252422,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "buff": "202",
+                        "aiprefab": "AI_Shadow_Gimmick_02",
+                        "delay": "15.0",
+                        "autoregen": "2-34"
+                    },
+                    {
+                        "point": 200,
+                        "mob": 604252422,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 20,
+                        "keymob": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

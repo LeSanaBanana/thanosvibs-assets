@@ -1,0 +1,77 @@
+[
+    {
+        "level": "raid_shibuya_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "succ_cam_pos": "0,0,-6",
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 35,
+                        "mob": 973331301,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_331301_01"
+                    },
+                    {
+                        "point": 35,
+                        "mob": 973331301,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_331301_02"
+                    },
+                    {
+                        "point": 35,
+                        "mob": 973331301,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_331301_03"
+                    },
+                    {
+                        "point": 35,
+                        "mob": 973331301,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_331301_04"
+                    },
+                    {
+                        "point": 35,
+                        "mob": 461331301,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy37_cam",
+                        "switch": 1
+                    },
+                    {
+                        "point": 35,
+                        "mob": 461331301,
+                        "group": 31,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy37_camfix"
+                    },
+                    {
+                        "appear": "vision_appear",
+                        "point": 90,
+                        "mob": 1141331301,
+                        "group": 1,
+                        "sight": 10,
+                        "firstattack": 1,
+                        "autoinvincible": "24:5",
+                        "keymob": 1,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "trigger": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

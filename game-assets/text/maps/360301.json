@@ -1,0 +1,51 @@
+[
+    {
+        "level": "arcade_blackpanther_busan_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 737360301,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 50,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill02_appear",
+                        "die": "disappear"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 241360301,
+                        "group": 10,
+                        "autoregen": 99
+                    },
+                    {
+                        "point": 1,
+                        "mob": 242360301,
+                        "group": 10,
+                        "autoregen": 99
+                    },
+                    {
+                        "point": 2,
+                        "mob": 738360301,
+                        "group": 2,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 50,
+                        "boss": 4,
+                        "avoidancePriority": 0,
+                        "delay": "4.5",
+                        "autoregen": "1-1",
+                        "appear": "appear"
+                    }
+                ]
+            }
+        ]
+    }
+]

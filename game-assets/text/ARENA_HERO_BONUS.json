@@ -1,0 +1,1426 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4355754114840608182
+    },
+    "m_Name": "ARENA_HERO_BONUS",
+    "keys": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "values": [
+        {
+            "index": 1,
+            "heroType": 0,
+            "ownCount": 1,
+            "abilityId": 11,
+            "abilityParam": 0.009999999776482582
+        },
+        {
+            "index": 2,
+            "heroType": 0,
+            "ownCount": 2,
+            "abilityId": 11,
+            "abilityParam": 0.019999999552965164
+        },
+        {
+            "index": 3,
+            "heroType": 0,
+            "ownCount": 3,
+            "abilityId": 11,
+            "abilityParam": 0.029999999329447746
+        },
+        {
+            "index": 4,
+            "heroType": 0,
+            "ownCount": 4,
+            "abilityId": 11,
+            "abilityParam": 0.03999999910593033
+        },
+        {
+            "index": 5,
+            "heroType": 0,
+            "ownCount": 5,
+            "abilityId": 11,
+            "abilityParam": 0.05000000074505806
+        },
+        {
+            "index": 6,
+            "heroType": 0,
+            "ownCount": 6,
+            "abilityId": 11,
+            "abilityParam": 0.05999999865889549
+        },
+        {
+            "index": 7,
+            "heroType": 0,
+            "ownCount": 7,
+            "abilityId": 11,
+            "abilityParam": 0.07000000029802322
+        },
+        {
+            "index": 8,
+            "heroType": 0,
+            "ownCount": 8,
+            "abilityId": 11,
+            "abilityParam": 0.07999999821186066
+        },
+        {
+            "index": 9,
+            "heroType": 0,
+            "ownCount": 9,
+            "abilityId": 11,
+            "abilityParam": 0.09000000357627869
+        },
+        {
+            "index": 10,
+            "heroType": 0,
+            "ownCount": 10,
+            "abilityId": 11,
+            "abilityParam": 0.10000000149011612
+        },
+        {
+            "index": 11,
+            "heroType": 0,
+            "ownCount": 11,
+            "abilityId": 11,
+            "abilityParam": 0.10999999940395355
+        },
+        {
+            "index": 12,
+            "heroType": 0,
+            "ownCount": 12,
+            "abilityId": 11,
+            "abilityParam": 0.11999999731779099
+        },
+        {
+            "index": 13,
+            "heroType": 0,
+            "ownCount": 13,
+            "abilityId": 11,
+            "abilityParam": 0.12999999523162842
+        },
+        {
+            "index": 14,
+            "heroType": 0,
+            "ownCount": 14,
+            "abilityId": 11,
+            "abilityParam": 0.14000000059604645
+        },
+        {
+            "index": 15,
+            "heroType": 0,
+            "ownCount": 15,
+            "abilityId": 11,
+            "abilityParam": 0.15000000596046448
+        },
+        {
+            "index": 16,
+            "heroType": 0,
+            "ownCount": 16,
+            "abilityId": 11,
+            "abilityParam": 0.1599999964237213
+        },
+        {
+            "index": 17,
+            "heroType": 0,
+            "ownCount": 17,
+            "abilityId": 11,
+            "abilityParam": 0.17000000178813934
+        },
+        {
+            "index": 18,
+            "heroType": 0,
+            "ownCount": 18,
+            "abilityId": 11,
+            "abilityParam": 0.18000000715255737
+        },
+        {
+            "index": 19,
+            "heroType": 0,
+            "ownCount": 19,
+            "abilityId": 11,
+            "abilityParam": 0.1899999976158142
+        },
+        {
+            "index": 20,
+            "heroType": 0,
+            "ownCount": 20,
+            "abilityId": 11,
+            "abilityParam": 0.20000000298023224
+        },
+        {
+            "index": 21,
+            "heroType": 0,
+            "ownCount": 21,
+            "abilityId": 11,
+            "abilityParam": 0.20999999344348907
+        },
+        {
+            "index": 22,
+            "heroType": 0,
+            "ownCount": 22,
+            "abilityId": 11,
+            "abilityParam": 0.2199999988079071
+        },
+        {
+            "index": 23,
+            "heroType": 0,
+            "ownCount": 23,
+            "abilityId": 11,
+            "abilityParam": 0.23000000417232513
+        },
+        {
+            "index": 24,
+            "heroType": 0,
+            "ownCount": 24,
+            "abilityId": 11,
+            "abilityParam": 0.23999999463558197
+        },
+        {
+            "index": 25,
+            "heroType": 0,
+            "ownCount": 25,
+            "abilityId": 11,
+            "abilityParam": 0.25
+        },
+        {
+            "index": 26,
+            "heroType": 0,
+            "ownCount": 26,
+            "abilityId": 11,
+            "abilityParam": 0.25999999046325684
+        },
+        {
+            "index": 27,
+            "heroType": 0,
+            "ownCount": 27,
+            "abilityId": 11,
+            "abilityParam": 0.27000001072883606
+        },
+        {
+            "index": 28,
+            "heroType": 0,
+            "ownCount": 28,
+            "abilityId": 11,
+            "abilityParam": 0.2800000011920929
+        },
+        {
+            "index": 29,
+            "heroType": 0,
+            "ownCount": 29,
+            "abilityId": 11,
+            "abilityParam": 0.28999999165534973
+        },
+        {
+            "index": 30,
+            "heroType": 0,
+            "ownCount": 30,
+            "abilityId": 11,
+            "abilityParam": 0.30000001192092896
+        },
+        {
+            "index": 31,
+            "heroType": 0,
+            "ownCount": 31,
+            "abilityId": 11,
+            "abilityParam": 0.3100000023841858
+        },
+        {
+            "index": 32,
+            "heroType": 0,
+            "ownCount": 32,
+            "abilityId": 11,
+            "abilityParam": 0.3199999928474426
+        },
+        {
+            "index": 33,
+            "heroType": 0,
+            "ownCount": 33,
+            "abilityId": 11,
+            "abilityParam": 0.33000001311302185
+        },
+        {
+            "index": 34,
+            "heroType": 0,
+            "ownCount": 34,
+            "abilityId": 11,
+            "abilityParam": 0.3400000035762787
+        },
+        {
+            "index": 35,
+            "heroType": 0,
+            "ownCount": 35,
+            "abilityId": 11,
+            "abilityParam": 0.3499999940395355
+        },
+        {
+            "index": 36,
+            "heroType": 0,
+            "ownCount": 36,
+            "abilityId": 11,
+            "abilityParam": 0.36000001430511475
+        },
+        {
+            "index": 37,
+            "heroType": 0,
+            "ownCount": 37,
+            "abilityId": 11,
+            "abilityParam": 0.3700000047683716
+        },
+        {
+            "index": 38,
+            "heroType": 0,
+            "ownCount": 38,
+            "abilityId": 11,
+            "abilityParam": 0.3799999952316284
+        },
+        {
+            "index": 39,
+            "heroType": 0,
+            "ownCount": 39,
+            "abilityId": 11,
+            "abilityParam": 0.38999998569488525
+        },
+        {
+            "index": 40,
+            "heroType": 0,
+            "ownCount": 40,
+            "abilityId": 11,
+            "abilityParam": 0.4000000059604645
+        },
+        {
+            "index": 41,
+            "heroType": 0,
+            "ownCount": 41,
+            "abilityId": 11,
+            "abilityParam": 0.4099999964237213
+        },
+        {
+            "index": 42,
+            "heroType": 0,
+            "ownCount": 42,
+            "abilityId": 11,
+            "abilityParam": 0.41999998688697815
+        },
+        {
+            "index": 43,
+            "heroType": 0,
+            "ownCount": 43,
+            "abilityId": 11,
+            "abilityParam": 0.4300000071525574
+        },
+        {
+            "index": 44,
+            "heroType": 0,
+            "ownCount": 44,
+            "abilityId": 11,
+            "abilityParam": 0.4399999976158142
+        },
+        {
+            "index": 45,
+            "heroType": 0,
+            "ownCount": 45,
+            "abilityId": 11,
+            "abilityParam": 0.44999998807907104
+        },
+        {
+            "index": 46,
+            "heroType": 0,
+            "ownCount": 46,
+            "abilityId": 11,
+            "abilityParam": 0.46000000834465027
+        },
+        {
+            "index": 47,
+            "heroType": 0,
+            "ownCount": 47,
+            "abilityId": 11,
+            "abilityParam": 0.4699999988079071
+        },
+        {
+            "index": 48,
+            "heroType": 0,
+            "ownCount": 48,
+            "abilityId": 11,
+            "abilityParam": 0.47999998927116394
+        },
+        {
+            "index": 49,
+            "heroType": 0,
+            "ownCount": 49,
+            "abilityId": 11,
+            "abilityParam": 0.49000000953674316
+        },
+        {
+            "index": 50,
+            "heroType": 0,
+            "ownCount": 50,
+            "abilityId": 11,
+            "abilityParam": 0.5
+        },
+        {
+            "index": 51,
+            "heroType": 1,
+            "ownCount": 1,
+            "abilityId": 9,
+            "abilityParam": 0.009999999776482582
+        },
+        {
+            "index": 52,
+            "heroType": 1,
+            "ownCount": 2,
+            "abilityId": 9,
+            "abilityParam": 0.019999999552965164
+        },
+        {
+            "index": 53,
+            "heroType": 1,
+            "ownCount": 3,
+            "abilityId": 9,
+            "abilityParam": 0.029999999329447746
+        },
+        {
+            "index": 54,
+            "heroType": 1,
+            "ownCount": 4,
+            "abilityId": 9,
+            "abilityParam": 0.03999999910593033
+        },
+        {
+            "index": 55,
+            "heroType": 1,
+            "ownCount": 5,
+            "abilityId": 9,
+            "abilityParam": 0.05000000074505806
+        },
+        {
+            "index": 56,
+            "heroType": 1,
+            "ownCount": 6,
+            "abilityId": 9,
+            "abilityParam": 0.05999999865889549
+        },
+        {
+            "index": 57,
+            "heroType": 1,
+            "ownCount": 7,
+            "abilityId": 9,
+            "abilityParam": 0.07000000029802322
+        },
+        {
+            "index": 58,
+            "heroType": 1,
+            "ownCount": 8,
+            "abilityId": 9,
+            "abilityParam": 0.07999999821186066
+        },
+        {
+            "index": 59,
+            "heroType": 1,
+            "ownCount": 9,
+            "abilityId": 9,
+            "abilityParam": 0.09000000357627869
+        },
+        {
+            "index": 60,
+            "heroType": 1,
+            "ownCount": 10,
+            "abilityId": 9,
+            "abilityParam": 0.10000000149011612
+        },
+        {
+            "index": 61,
+            "heroType": 1,
+            "ownCount": 11,
+            "abilityId": 9,
+            "abilityParam": 0.10999999940395355
+        },
+        {
+            "index": 62,
+            "heroType": 1,
+            "ownCount": 12,
+            "abilityId": 9,
+            "abilityParam": 0.11999999731779099
+        },
+        {
+            "index": 63,
+            "heroType": 1,
+            "ownCount": 13,
+            "abilityId": 9,
+            "abilityParam": 0.12999999523162842
+        },
+        {
+            "index": 64,
+            "heroType": 1,
+            "ownCount": 14,
+            "abilityId": 9,
+            "abilityParam": 0.14000000059604645
+        },
+        {
+            "index": 65,
+            "heroType": 1,
+            "ownCount": 15,
+            "abilityId": 9,
+            "abilityParam": 0.15000000596046448
+        },
+        {
+            "index": 66,
+            "heroType": 1,
+            "ownCount": 16,
+            "abilityId": 9,
+            "abilityParam": 0.1599999964237213
+        },
+        {
+            "index": 67,
+            "heroType": 1,
+            "ownCount": 17,
+            "abilityId": 9,
+            "abilityParam": 0.17000000178813934
+        },
+        {
+            "index": 68,
+            "heroType": 1,
+            "ownCount": 18,
+            "abilityId": 9,
+            "abilityParam": 0.18000000715255737
+        },
+        {
+            "index": 69,
+            "heroType": 1,
+            "ownCount": 19,
+            "abilityId": 9,
+            "abilityParam": 0.1899999976158142
+        },
+        {
+            "index": 70,
+            "heroType": 1,
+            "ownCount": 20,
+            "abilityId": 9,
+            "abilityParam": 0.20000000298023224
+        },
+        {
+            "index": 71,
+            "heroType": 1,
+            "ownCount": 21,
+            "abilityId": 9,
+            "abilityParam": 0.20999999344348907
+        },
+        {
+            "index": 72,
+            "heroType": 1,
+            "ownCount": 22,
+            "abilityId": 9,
+            "abilityParam": 0.2199999988079071
+        },
+        {
+            "index": 73,
+            "heroType": 1,
+            "ownCount": 23,
+            "abilityId": 9,
+            "abilityParam": 0.23000000417232513
+        },
+        {
+            "index": 74,
+            "heroType": 1,
+            "ownCount": 24,
+            "abilityId": 9,
+            "abilityParam": 0.23999999463558197
+        },
+        {
+            "index": 75,
+            "heroType": 1,
+            "ownCount": 25,
+            "abilityId": 9,
+            "abilityParam": 0.25
+        },
+        {
+            "index": 76,
+            "heroType": 1,
+            "ownCount": 26,
+            "abilityId": 9,
+            "abilityParam": 0.25999999046325684
+        },
+        {
+            "index": 77,
+            "heroType": 1,
+            "ownCount": 27,
+            "abilityId": 9,
+            "abilityParam": 0.27000001072883606
+        },
+        {
+            "index": 78,
+            "heroType": 1,
+            "ownCount": 28,
+            "abilityId": 9,
+            "abilityParam": 0.2800000011920929
+        },
+        {
+            "index": 79,
+            "heroType": 1,
+            "ownCount": 29,
+            "abilityId": 9,
+            "abilityParam": 0.28999999165534973
+        },
+        {
+            "index": 80,
+            "heroType": 1,
+            "ownCount": 30,
+            "abilityId": 9,
+            "abilityParam": 0.30000001192092896
+        },
+        {
+            "index": 81,
+            "heroType": 1,
+            "ownCount": 31,
+            "abilityId": 9,
+            "abilityParam": 0.3100000023841858
+        },
+        {
+            "index": 82,
+            "heroType": 1,
+            "ownCount": 32,
+            "abilityId": 9,
+            "abilityParam": 0.3199999928474426
+        },
+        {
+            "index": 83,
+            "heroType": 1,
+            "ownCount": 33,
+            "abilityId": 9,
+            "abilityParam": 0.33000001311302185
+        },
+        {
+            "index": 84,
+            "heroType": 1,
+            "ownCount": 34,
+            "abilityId": 9,
+            "abilityParam": 0.3400000035762787
+        },
+        {
+            "index": 85,
+            "heroType": 1,
+            "ownCount": 35,
+            "abilityId": 9,
+            "abilityParam": 0.3499999940395355
+        },
+        {
+            "index": 86,
+            "heroType": 1,
+            "ownCount": 36,
+            "abilityId": 9,
+            "abilityParam": 0.36000001430511475
+        },
+        {
+            "index": 87,
+            "heroType": 1,
+            "ownCount": 37,
+            "abilityId": 9,
+            "abilityParam": 0.3700000047683716
+        },
+        {
+            "index": 88,
+            "heroType": 1,
+            "ownCount": 38,
+            "abilityId": 9,
+            "abilityParam": 0.3799999952316284
+        },
+        {
+            "index": 89,
+            "heroType": 1,
+            "ownCount": 39,
+            "abilityId": 9,
+            "abilityParam": 0.38999998569488525
+        },
+        {
+            "index": 90,
+            "heroType": 1,
+            "ownCount": 40,
+            "abilityId": 9,
+            "abilityParam": 0.4000000059604645
+        },
+        {
+            "index": 91,
+            "heroType": 1,
+            "ownCount": 41,
+            "abilityId": 9,
+            "abilityParam": 0.4099999964237213
+        },
+        {
+            "index": 92,
+            "heroType": 1,
+            "ownCount": 42,
+            "abilityId": 9,
+            "abilityParam": 0.41999998688697815
+        },
+        {
+            "index": 93,
+            "heroType": 1,
+            "ownCount": 43,
+            "abilityId": 9,
+            "abilityParam": 0.4300000071525574
+        },
+        {
+            "index": 94,
+            "heroType": 1,
+            "ownCount": 44,
+            "abilityId": 9,
+            "abilityParam": 0.4399999976158142
+        },
+        {
+            "index": 95,
+            "heroType": 1,
+            "ownCount": 45,
+            "abilityId": 9,
+            "abilityParam": 0.44999998807907104
+        },
+        {
+            "index": 96,
+            "heroType": 1,
+            "ownCount": 46,
+            "abilityId": 9,
+            "abilityParam": 0.46000000834465027
+        },
+        {
+            "index": 97,
+            "heroType": 1,
+            "ownCount": 47,
+            "abilityId": 9,
+            "abilityParam": 0.4699999988079071
+        },
+        {
+            "index": 98,
+            "heroType": 1,
+            "ownCount": 48,
+            "abilityId": 9,
+            "abilityParam": 0.47999998927116394
+        },
+        {
+            "index": 99,
+            "heroType": 1,
+            "ownCount": 49,
+            "abilityId": 9,
+            "abilityParam": 0.49000000953674316
+        },
+        {
+            "index": 100,
+            "heroType": 1,
+            "ownCount": 50,
+            "abilityId": 9,
+            "abilityParam": 0.5
+        },
+        {
+            "index": 101,
+            "heroType": 2,
+            "ownCount": 1,
+            "abilityId": 10,
+            "abilityParam": 0.009999999776482582
+        },
+        {
+            "index": 102,
+            "heroType": 2,
+            "ownCount": 2,
+            "abilityId": 10,
+            "abilityParam": 0.019999999552965164
+        },
+        {
+            "index": 103,
+            "heroType": 2,
+            "ownCount": 3,
+            "abilityId": 10,
+            "abilityParam": 0.029999999329447746
+        },
+        {
+            "index": 104,
+            "heroType": 2,
+            "ownCount": 4,
+            "abilityId": 10,
+            "abilityParam": 0.03999999910593033
+        },
+        {
+            "index": 105,
+            "heroType": 2,
+            "ownCount": 5,
+            "abilityId": 10,
+            "abilityParam": 0.05000000074505806
+        },
+        {
+            "index": 106,
+            "heroType": 2,
+            "ownCount": 6,
+            "abilityId": 10,
+            "abilityParam": 0.05999999865889549
+        },
+        {
+            "index": 107,
+            "heroType": 2,
+            "ownCount": 7,
+            "abilityId": 10,
+            "abilityParam": 0.07000000029802322
+        },
+        {
+            "index": 108,
+            "heroType": 2,
+            "ownCount": 8,
+            "abilityId": 10,
+            "abilityParam": 0.07999999821186066
+        },
+        {
+            "index": 109,
+            "heroType": 2,
+            "ownCount": 9,
+            "abilityId": 10,
+            "abilityParam": 0.09000000357627869
+        },
+        {
+            "index": 110,
+            "heroType": 2,
+            "ownCount": 10,
+            "abilityId": 10,
+            "abilityParam": 0.10000000149011612
+        },
+        {
+            "index": 111,
+            "heroType": 2,
+            "ownCount": 11,
+            "abilityId": 10,
+            "abilityParam": 0.10999999940395355
+        },
+        {
+            "index": 112,
+            "heroType": 2,
+            "ownCount": 12,
+            "abilityId": 10,
+            "abilityParam": 0.11999999731779099
+        },
+        {
+            "index": 113,
+            "heroType": 2,
+            "ownCount": 13,
+            "abilityId": 10,
+            "abilityParam": 0.12999999523162842
+        },
+        {
+            "index": 114,
+            "heroType": 2,
+            "ownCount": 14,
+            "abilityId": 10,
+            "abilityParam": 0.14000000059604645
+        },
+        {
+            "index": 115,
+            "heroType": 2,
+            "ownCount": 15,
+            "abilityId": 10,
+            "abilityParam": 0.15000000596046448
+        },
+        {
+            "index": 116,
+            "heroType": 2,
+            "ownCount": 16,
+            "abilityId": 10,
+            "abilityParam": 0.1599999964237213
+        },
+        {
+            "index": 117,
+            "heroType": 2,
+            "ownCount": 17,
+            "abilityId": 10,
+            "abilityParam": 0.17000000178813934
+        },
+        {
+            "index": 118,
+            "heroType": 2,
+            "ownCount": 18,
+            "abilityId": 10,
+            "abilityParam": 0.18000000715255737
+        },
+        {
+            "index": 119,
+            "heroType": 2,
+            "ownCount": 19,
+            "abilityId": 10,
+            "abilityParam": 0.1899999976158142
+        },
+        {
+            "index": 120,
+            "heroType": 2,
+            "ownCount": 20,
+            "abilityId": 10,
+            "abilityParam": 0.20000000298023224
+        },
+        {
+            "index": 121,
+            "heroType": 2,
+            "ownCount": 21,
+            "abilityId": 10,
+            "abilityParam": 0.20999999344348907
+        },
+        {
+            "index": 122,
+            "heroType": 2,
+            "ownCount": 22,
+            "abilityId": 10,
+            "abilityParam": 0.2199999988079071
+        },
+        {
+            "index": 123,
+            "heroType": 2,
+            "ownCount": 23,
+            "abilityId": 10,
+            "abilityParam": 0.23000000417232513
+        },
+        {
+            "index": 124,
+            "heroType": 2,
+            "ownCount": 24,
+            "abilityId": 10,
+            "abilityParam": 0.23999999463558197
+        },
+        {
+            "index": 125,
+            "heroType": 2,
+            "ownCount": 25,
+            "abilityId": 10,
+            "abilityParam": 0.25
+        },
+        {
+            "index": 126,
+            "heroType": 2,
+            "ownCount": 26,
+            "abilityId": 10,
+            "abilityParam": 0.25999999046325684
+        },
+        {
+            "index": 127,
+            "heroType": 2,
+            "ownCount": 27,
+            "abilityId": 10,
+            "abilityParam": 0.27000001072883606
+        },
+        {
+            "index": 128,
+            "heroType": 2,
+            "ownCount": 28,
+            "abilityId": 10,
+            "abilityParam": 0.2800000011920929
+        },
+        {
+            "index": 129,
+            "heroType": 2,
+            "ownCount": 29,
+            "abilityId": 10,
+            "abilityParam": 0.28999999165534973
+        },
+        {
+            "index": 130,
+            "heroType": 2,
+            "ownCount": 30,
+            "abilityId": 10,
+            "abilityParam": 0.30000001192092896
+        },
+        {
+            "index": 131,
+            "heroType": 2,
+            "ownCount": 31,
+            "abilityId": 10,
+            "abilityParam": 0.3100000023841858
+        },
+        {
+            "index": 132,
+            "heroType": 2,
+            "ownCount": 32,
+            "abilityId": 10,
+            "abilityParam": 0.3199999928474426
+        },
+        {
+            "index": 133,
+            "heroType": 2,
+            "ownCount": 33,
+            "abilityId": 10,
+            "abilityParam": 0.33000001311302185
+        },
+        {
+            "index": 134,
+            "heroType": 2,
+            "ownCount": 34,
+            "abilityId": 10,
+            "abilityParam": 0.3400000035762787
+        },
+        {
+            "index": 135,
+            "heroType": 2,
+            "ownCount": 35,
+            "abilityId": 10,
+            "abilityParam": 0.3499999940395355
+        },
+        {
+            "index": 136,
+            "heroType": 2,
+            "ownCount": 36,
+            "abilityId": 10,
+            "abilityParam": 0.36000001430511475
+        },
+        {
+            "index": 137,
+            "heroType": 2,
+            "ownCount": 37,
+            "abilityId": 10,
+            "abilityParam": 0.3700000047683716
+        },
+        {
+            "index": 138,
+            "heroType": 2,
+            "ownCount": 38,
+            "abilityId": 10,
+            "abilityParam": 0.3799999952316284
+        },
+        {
+            "index": 139,
+            "heroType": 2,
+            "ownCount": 39,
+            "abilityId": 10,
+            "abilityParam": 0.38999998569488525
+        },
+        {
+            "index": 140,
+            "heroType": 2,
+            "ownCount": 40,
+            "abilityId": 10,
+            "abilityParam": 0.4000000059604645
+        },
+        {
+            "index": 141,
+            "heroType": 2,
+            "ownCount": 41,
+            "abilityId": 10,
+            "abilityParam": 0.4099999964237213
+        },
+        {
+            "index": 142,
+            "heroType": 2,
+            "ownCount": 42,
+            "abilityId": 10,
+            "abilityParam": 0.41999998688697815
+        },
+        {
+            "index": 143,
+            "heroType": 2,
+            "ownCount": 43,
+            "abilityId": 10,
+            "abilityParam": 0.4300000071525574
+        },
+        {
+            "index": 144,
+            "heroType": 2,
+            "ownCount": 44,
+            "abilityId": 10,
+            "abilityParam": 0.4399999976158142
+        },
+        {
+            "index": 145,
+            "heroType": 2,
+            "ownCount": 45,
+            "abilityId": 10,
+            "abilityParam": 0.44999998807907104
+        },
+        {
+            "index": 146,
+            "heroType": 2,
+            "ownCount": 46,
+            "abilityId": 10,
+            "abilityParam": 0.46000000834465027
+        },
+        {
+            "index": 147,
+            "heroType": 2,
+            "ownCount": 47,
+            "abilityId": 10,
+            "abilityParam": 0.4699999988079071
+        },
+        {
+            "index": 148,
+            "heroType": 2,
+            "ownCount": 48,
+            "abilityId": 10,
+            "abilityParam": 0.47999998927116394
+        },
+        {
+            "index": 149,
+            "heroType": 2,
+            "ownCount": 49,
+            "abilityId": 10,
+            "abilityParam": 0.49000000953674316
+        },
+        {
+            "index": 150,
+            "heroType": 2,
+            "ownCount": 50,
+            "abilityId": 10,
+            "abilityParam": 0.5
+        },
+        {
+            "index": 151,
+            "heroType": 3,
+            "ownCount": 1,
+            "abilityId": 20,
+            "abilityParam": 0.009999999776482582
+        },
+        {
+            "index": 152,
+            "heroType": 3,
+            "ownCount": 2,
+            "abilityId": 20,
+            "abilityParam": 0.019999999552965164
+        },
+        {
+            "index": 153,
+            "heroType": 3,
+            "ownCount": 3,
+            "abilityId": 20,
+            "abilityParam": 0.029999999329447746
+        },
+        {
+            "index": 154,
+            "heroType": 3,
+            "ownCount": 4,
+            "abilityId": 20,
+            "abilityParam": 0.03999999910593033
+        },
+        {
+            "index": 155,
+            "heroType": 3,
+            "ownCount": 5,
+            "abilityId": 20,
+            "abilityParam": 0.05000000074505806
+        },
+        {
+            "index": 156,
+            "heroType": 3,
+            "ownCount": 6,
+            "abilityId": 20,
+            "abilityParam": 0.05999999865889549
+        },
+        {
+            "index": 157,
+            "heroType": 3,
+            "ownCount": 7,
+            "abilityId": 20,
+            "abilityParam": 0.07000000029802322
+        },
+        {
+            "index": 158,
+            "heroType": 3,
+            "ownCount": 8,
+            "abilityId": 20,
+            "abilityParam": 0.07999999821186066
+        },
+        {
+            "index": 159,
+            "heroType": 3,
+            "ownCount": 9,
+            "abilityId": 20,
+            "abilityParam": 0.09000000357627869
+        },
+        {
+            "index": 160,
+            "heroType": 3,
+            "ownCount": 10,
+            "abilityId": 20,
+            "abilityParam": 0.10000000149011612
+        },
+        {
+            "index": 161,
+            "heroType": 3,
+            "ownCount": 11,
+            "abilityId": 20,
+            "abilityParam": 0.10999999940395355
+        },
+        {
+            "index": 162,
+            "heroType": 3,
+            "ownCount": 12,
+            "abilityId": 20,
+            "abilityParam": 0.11999999731779099
+        },
+        {
+            "index": 163,
+            "heroType": 3,
+            "ownCount": 13,
+            "abilityId": 20,
+            "abilityParam": 0.12999999523162842
+        },
+        {
+            "index": 164,
+            "heroType": 3,
+            "ownCount": 14,
+            "abilityId": 20,
+            "abilityParam": 0.14000000059604645
+        },
+        {
+            "index": 165,
+            "heroType": 3,
+            "ownCount": 15,
+            "abilityId": 20,
+            "abilityParam": 0.15000000596046448
+        },
+        {
+            "index": 166,
+            "heroType": 3,
+            "ownCount": 16,
+            "abilityId": 20,
+            "abilityParam": 0.1599999964237213
+        },
+        {
+            "index": 167,
+            "heroType": 3,
+            "ownCount": 17,
+            "abilityId": 20,
+            "abilityParam": 0.17000000178813934
+        },
+        {
+            "index": 168,
+            "heroType": 3,
+            "ownCount": 18,
+            "abilityId": 20,
+            "abilityParam": 0.18000000715255737
+        },
+        {
+            "index": 169,
+            "heroType": 3,
+            "ownCount": 19,
+            "abilityId": 20,
+            "abilityParam": 0.1899999976158142
+        },
+        {
+            "index": 170,
+            "heroType": 3,
+            "ownCount": 20,
+            "abilityId": 20,
+            "abilityParam": 0.20000000298023224
+        },
+        {
+            "index": 171,
+            "heroType": 3,
+            "ownCount": 21,
+            "abilityId": 20,
+            "abilityParam": 0.20999999344348907
+        },
+        {
+            "index": 172,
+            "heroType": 3,
+            "ownCount": 22,
+            "abilityId": 20,
+            "abilityParam": 0.2199999988079071
+        },
+        {
+            "index": 173,
+            "heroType": 3,
+            "ownCount": 23,
+            "abilityId": 20,
+            "abilityParam": 0.23000000417232513
+        },
+        {
+            "index": 174,
+            "heroType": 3,
+            "ownCount": 24,
+            "abilityId": 20,
+            "abilityParam": 0.23999999463558197
+        },
+        {
+            "index": 175,
+            "heroType": 3,
+            "ownCount": 25,
+            "abilityId": 20,
+            "abilityParam": 0.25
+        },
+        {
+            "index": 176,
+            "heroType": 3,
+            "ownCount": 26,
+            "abilityId": 20,
+            "abilityParam": 0.25999999046325684
+        },
+        {
+            "index": 177,
+            "heroType": 3,
+            "ownCount": 27,
+            "abilityId": 20,
+            "abilityParam": 0.27000001072883606
+        },
+        {
+            "index": 178,
+            "heroType": 3,
+            "ownCount": 28,
+            "abilityId": 20,
+            "abilityParam": 0.2800000011920929
+        },
+        {
+            "index": 179,
+            "heroType": 3,
+            "ownCount": 29,
+            "abilityId": 20,
+            "abilityParam": 0.28999999165534973
+        },
+        {
+            "index": 180,
+            "heroType": 3,
+            "ownCount": 30,
+            "abilityId": 20,
+            "abilityParam": 0.30000001192092896
+        },
+        {
+            "index": 181,
+            "heroType": 3,
+            "ownCount": 31,
+            "abilityId": 20,
+            "abilityParam": 0.3100000023841858
+        },
+        {
+            "index": 182,
+            "heroType": 3,
+            "ownCount": 32,
+            "abilityId": 20,
+            "abilityParam": 0.3199999928474426
+        },
+        {
+            "index": 183,
+            "heroType": 3,
+            "ownCount": 33,
+            "abilityId": 20,
+            "abilityParam": 0.33000001311302185
+        },
+        {
+            "index": 184,
+            "heroType": 3,
+            "ownCount": 34,
+            "abilityId": 20,
+            "abilityParam": 0.3400000035762787
+        },
+        {
+            "index": 185,
+            "heroType": 3,
+            "ownCount": 35,
+            "abilityId": 20,
+            "abilityParam": 0.3499999940395355
+        },
+        {
+            "index": 186,
+            "heroType": 3,
+            "ownCount": 36,
+            "abilityId": 20,
+            "abilityParam": 0.36000001430511475
+        },
+        {
+            "index": 187,
+            "heroType": 3,
+            "ownCount": 37,
+            "abilityId": 20,
+            "abilityParam": 0.3700000047683716
+        },
+        {
+            "index": 188,
+            "heroType": 3,
+            "ownCount": 38,
+            "abilityId": 20,
+            "abilityParam": 0.3799999952316284
+        },
+        {
+            "index": 189,
+            "heroType": 3,
+            "ownCount": 39,
+            "abilityId": 20,
+            "abilityParam": 0.38999998569488525
+        },
+        {
+            "index": 190,
+            "heroType": 3,
+            "ownCount": 40,
+            "abilityId": 20,
+            "abilityParam": 0.4000000059604645
+        },
+        {
+            "index": 191,
+            "heroType": 3,
+            "ownCount": 41,
+            "abilityId": 20,
+            "abilityParam": 0.4099999964237213
+        },
+        {
+            "index": 192,
+            "heroType": 3,
+            "ownCount": 42,
+            "abilityId": 20,
+            "abilityParam": 0.41999998688697815
+        },
+        {
+            "index": 193,
+            "heroType": 3,
+            "ownCount": 43,
+            "abilityId": 20,
+            "abilityParam": 0.4300000071525574
+        },
+        {
+            "index": 194,
+            "heroType": 3,
+            "ownCount": 44,
+            "abilityId": 20,
+            "abilityParam": 0.4399999976158142
+        },
+        {
+            "index": 195,
+            "heroType": 3,
+            "ownCount": 45,
+            "abilityId": 20,
+            "abilityParam": 0.44999998807907104
+        },
+        {
+            "index": 196,
+            "heroType": 3,
+            "ownCount": 46,
+            "abilityId": 20,
+            "abilityParam": 0.46000000834465027
+        },
+        {
+            "index": 197,
+            "heroType": 3,
+            "ownCount": 47,
+            "abilityId": 20,
+            "abilityParam": 0.4699999988079071
+        },
+        {
+            "index": 198,
+            "heroType": 3,
+            "ownCount": 48,
+            "abilityId": 20,
+            "abilityParam": 0.47999998927116394
+        },
+        {
+            "index": 199,
+            "heroType": 3,
+            "ownCount": 49,
+            "abilityId": 20,
+            "abilityParam": 0.49000000953674316
+        },
+        {
+            "index": 200,
+            "heroType": 3,
+            "ownCount": 50,
+            "abilityId": 20,
+            "abilityParam": 0.5
+        }
+    ],
+    "counts": [
+        50,
+        50,
+        50,
+        50
+    ]
+}

@@ -1,0 +1,666 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -631661391179466207
+    },
+    "m_Name": "EVENT_DICE_BOARD",
+    "keys": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "values": [
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 1,
+            "BoardType": 1,
+            "RewardType": 0,
+            "RewardValue": 0,
+            "RewardQty": 0,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_midtown"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 2,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 150000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 3,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1070001,
+            "RewardQty": 60,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 4,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1020005,
+            "RewardQty": 40,
+            "BoardImage": "Survival_background_grade_3",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 5,
+            "BoardType": 3,
+            "RewardType": 100,
+            "RewardValue": 281,
+            "RewardQty": 1,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_harlem"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 6,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 150000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 7,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1110001,
+            "RewardQty": 60,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 8,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1120001,
+            "RewardQty": 40,
+            "BoardImage": "Survival_background_grade_3",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 9,
+            "BoardType": 3,
+            "RewardType": 100,
+            "RewardValue": 281,
+            "RewardQty": 1,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_harlem"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 10,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 35,
+            "BoardImage": "Survival_background_grade_4",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 11,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1070001,
+            "RewardQty": 60,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 12,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 35,
+            "BoardImage": "Survival_background_grade_4",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 13,
+            "BoardType": 4,
+            "RewardType": 0,
+            "RewardValue": 0,
+            "RewardQty": 0,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_stark_tower"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 14,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140001,
+            "RewardQty": 20,
+            "BoardImage": "Survival_background_grade_5",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 15,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1110001,
+            "RewardQty": 60,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 1,
+            "DiceBoardId": 16,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1330002,
+            "RewardQty": 15,
+            "BoardImage": "Survival_background_grade_6",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 1,
+            "BoardType": 1,
+            "RewardType": 0,
+            "RewardValue": 0,
+            "RewardQty": 0,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_midtown"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 2,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 3,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1070001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 4,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1020005,
+            "RewardQty": 30,
+            "BoardImage": "Survival_background_grade_3",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 5,
+            "BoardType": 3,
+            "RewardType": 100,
+            "RewardValue": 286,
+            "RewardQty": 1,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_harlem"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 6,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 7,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1110001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 8,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1120001,
+            "RewardQty": 30,
+            "BoardImage": "Survival_background_grade_3",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 9,
+            "BoardType": 3,
+            "RewardType": 100,
+            "RewardValue": 286,
+            "RewardQty": 1,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_harlem"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 10,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 11,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1070001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 12,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 25,
+            "BoardImage": "Survival_background_grade_4",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 13,
+            "BoardType": 4,
+            "RewardType": 0,
+            "RewardValue": 0,
+            "RewardQty": 0,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_stark_tower"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 14,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 15,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1110001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 2,
+            "DiceBoardId": 16,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 25,
+            "BoardImage": "Survival_background_grade_4",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 1,
+            "BoardType": 1,
+            "RewardType": 0,
+            "RewardValue": 0,
+            "RewardQty": 0,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_midtown"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 2,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 3,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1070001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 4,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1020005,
+            "RewardQty": 30,
+            "BoardImage": "Survival_background_grade_3",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 5,
+            "BoardType": 3,
+            "RewardType": 100,
+            "RewardValue": 296,
+            "RewardQty": 1,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_harlem"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 6,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 7,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1110001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 8,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1120001,
+            "RewardQty": 30,
+            "BoardImage": "Survival_background_grade_3",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 9,
+            "BoardType": 3,
+            "RewardType": 100,
+            "RewardValue": 296,
+            "RewardQty": 1,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_harlem"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 10,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 11,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1070001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 12,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 25,
+            "BoardImage": "Survival_background_grade_4",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 13,
+            "BoardType": 4,
+            "RewardType": 0,
+            "RewardValue": 0,
+            "RewardQty": 0,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_stark_tower"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 14,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 15,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1110001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 3,
+            "DiceBoardId": 16,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 25,
+            "BoardImage": "Survival_background_grade_4",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 1,
+            "BoardType": 1,
+            "RewardType": 0,
+            "RewardValue": 0,
+            "RewardQty": 0,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_midtown"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 2,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 3,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1070001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 4,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1020005,
+            "RewardQty": 30,
+            "BoardImage": "Survival_background_grade_3",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 5,
+            "BoardType": 3,
+            "RewardType": 100,
+            "RewardValue": 422,
+            "RewardQty": 1,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_harlem"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 6,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 7,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1110001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 8,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1120001,
+            "RewardQty": 30,
+            "BoardImage": "Survival_background_grade_3",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 9,
+            "BoardType": 3,
+            "RewardType": 100,
+            "RewardValue": 422,
+            "RewardQty": 1,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_harlem"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 10,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 11,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1070001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 12,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 25,
+            "BoardImage": "Survival_background_grade_4",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 13,
+            "BoardType": 4,
+            "RewardType": 0,
+            "RewardValue": 0,
+            "RewardQty": 0,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "Survival_landmark_stark_tower"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 14,
+            "BoardType": 2,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 50000,
+            "BoardImage": "Survival_background_grade_1",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 15,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1110001,
+            "RewardQty": 50,
+            "BoardImage": "Survival_background_grade_2",
+            "IconSpriteName": "0"
+        },
+        {
+            "BoardGroupId": 4,
+            "DiceBoardId": 16,
+            "BoardType": 2,
+            "RewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 25,
+            "BoardImage": "Survival_background_grade_4",
+            "IconSpriteName": "0"
+        }
+    ],
+    "counts": [
+        16,
+        16,
+        16,
+        16
+    ]
+}

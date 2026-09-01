@@ -1,0 +1,306 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6864590623634581698
+    },
+    "m_Name": "WEEKLY_PASS_REWARD",
+    "keys": [
+        1001,
+        2001,
+        3001,
+        4001
+    ],
+    "values": [
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 1,
+            "Point": 0,
+            "FreeRewardGroupId": 80001,
+            "PremiumRewardGroupId": 80011
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 2,
+            "Point": 100,
+            "FreeRewardGroupId": 80002,
+            "PremiumRewardGroupId": 80012
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 3,
+            "Point": 200,
+            "FreeRewardGroupId": 80003,
+            "PremiumRewardGroupId": 80013
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 4,
+            "Point": 300,
+            "FreeRewardGroupId": 0,
+            "PremiumRewardGroupId": 80014
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 5,
+            "Point": 400,
+            "FreeRewardGroupId": 80005,
+            "PremiumRewardGroupId": 80015
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 6,
+            "Point": 500,
+            "FreeRewardGroupId": 80006,
+            "PremiumRewardGroupId": 80016
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 7,
+            "Point": 600,
+            "FreeRewardGroupId": 0,
+            "PremiumRewardGroupId": 80017
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 8,
+            "Point": 700,
+            "FreeRewardGroupId": 80008,
+            "PremiumRewardGroupId": 80018
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 9,
+            "Point": 800,
+            "FreeRewardGroupId": 80009,
+            "PremiumRewardGroupId": 80019
+        },
+        {
+            "PassRewardGroupId": 1001,
+            "Step": 10,
+            "Point": 900,
+            "FreeRewardGroupId": 80010,
+            "PremiumRewardGroupId": 80020
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 1,
+            "Point": 0,
+            "FreeRewardGroupId": 80021,
+            "PremiumRewardGroupId": 80031
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 2,
+            "Point": 100,
+            "FreeRewardGroupId": 80022,
+            "PremiumRewardGroupId": 80032
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 3,
+            "Point": 200,
+            "FreeRewardGroupId": 80023,
+            "PremiumRewardGroupId": 80033
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 4,
+            "Point": 300,
+            "FreeRewardGroupId": 0,
+            "PremiumRewardGroupId": 80034
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 5,
+            "Point": 400,
+            "FreeRewardGroupId": 80025,
+            "PremiumRewardGroupId": 80035
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 6,
+            "Point": 500,
+            "FreeRewardGroupId": 80026,
+            "PremiumRewardGroupId": 80036
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 7,
+            "Point": 600,
+            "FreeRewardGroupId": 0,
+            "PremiumRewardGroupId": 80037
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 8,
+            "Point": 700,
+            "FreeRewardGroupId": 80028,
+            "PremiumRewardGroupId": 80038
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 9,
+            "Point": 800,
+            "FreeRewardGroupId": 80029,
+            "PremiumRewardGroupId": 80039
+        },
+        {
+            "PassRewardGroupId": 2001,
+            "Step": 10,
+            "Point": 900,
+            "FreeRewardGroupId": 80030,
+            "PremiumRewardGroupId": 80040
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 1,
+            "Point": 0,
+            "FreeRewardGroupId": 80041,
+            "PremiumRewardGroupId": 80051
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 2,
+            "Point": 100,
+            "FreeRewardGroupId": 80042,
+            "PremiumRewardGroupId": 80052
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 3,
+            "Point": 200,
+            "FreeRewardGroupId": 80043,
+            "PremiumRewardGroupId": 80053
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 4,
+            "Point": 300,
+            "FreeRewardGroupId": 0,
+            "PremiumRewardGroupId": 80054
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 5,
+            "Point": 400,
+            "FreeRewardGroupId": 80045,
+            "PremiumRewardGroupId": 80055
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 6,
+            "Point": 500,
+            "FreeRewardGroupId": 80046,
+            "PremiumRewardGroupId": 80056
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 7,
+            "Point": 600,
+            "FreeRewardGroupId": 0,
+            "PremiumRewardGroupId": 80057
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 8,
+            "Point": 700,
+            "FreeRewardGroupId": 80048,
+            "PremiumRewardGroupId": 80058
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 9,
+            "Point": 800,
+            "FreeRewardGroupId": 80049,
+            "PremiumRewardGroupId": 80059
+        },
+        {
+            "PassRewardGroupId": 3001,
+            "Step": 10,
+            "Point": 900,
+            "FreeRewardGroupId": 80050,
+            "PremiumRewardGroupId": 80060
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 1,
+            "Point": 0,
+            "FreeRewardGroupId": 80061,
+            "PremiumRewardGroupId": 80071
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 2,
+            "Point": 100,
+            "FreeRewardGroupId": 80062,
+            "PremiumRewardGroupId": 80072
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 3,
+            "Point": 200,
+            "FreeRewardGroupId": 80063,
+            "PremiumRewardGroupId": 80073
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 4,
+            "Point": 300,
+            "FreeRewardGroupId": 0,
+            "PremiumRewardGroupId": 80074
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 5,
+            "Point": 400,
+            "FreeRewardGroupId": 80065,
+            "PremiumRewardGroupId": 80075
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 6,
+            "Point": 500,
+            "FreeRewardGroupId": 80066,
+            "PremiumRewardGroupId": 80076
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 7,
+            "Point": 600,
+            "FreeRewardGroupId": 0,
+            "PremiumRewardGroupId": 80077
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 8,
+            "Point": 700,
+            "FreeRewardGroupId": 80068,
+            "PremiumRewardGroupId": 80078
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 9,
+            "Point": 800,
+            "FreeRewardGroupId": 80069,
+            "PremiumRewardGroupId": 80079
+        },
+        {
+            "PassRewardGroupId": 4001,
+            "Step": 10,
+            "Point": 900,
+            "FreeRewardGroupId": 80070,
+            "PremiumRewardGroupId": 80080
+        }
+    ],
+    "counts": [
+        10,
+        10,
+        10,
+        10
+    ]
+}

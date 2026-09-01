@@ -1,0 +1,528 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -976959688660929688
+    },
+    "m_Name": "SUPER_COOP_QUEST_REWARD",
+    "keys": [
+        1,
+        2,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+    ],
+    "values": [
+        {
+            "groupId": 1,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1113,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 1,
+            "completeQuest": 2,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 50
+        },
+        {
+            "groupId": 1,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1114,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 1,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 1,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1115,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 1,
+            "completeQuest": 6,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 100
+        },
+        {
+            "groupId": 1,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 2,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1116,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 2,
+            "completeQuest": 2,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "groupId": 2,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1117,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 2,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 2,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1118,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 2,
+            "completeQuest": 6,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 500000
+        },
+        {
+            "groupId": 2,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 11,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1113,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 11,
+            "completeQuest": 2,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 50
+        },
+        {
+            "groupId": 11,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1114,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 11,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 11,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1115,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 11,
+            "completeQuest": 6,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 100
+        },
+        {
+            "groupId": 11,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 12,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1116,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 12,
+            "completeQuest": 2,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "groupId": 12,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1117,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 12,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 12,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1118,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 12,
+            "completeQuest": 6,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 500000
+        },
+        {
+            "groupId": 12,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 13,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1113,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 13,
+            "completeQuest": 2,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 50
+        },
+        {
+            "groupId": 13,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1114,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 13,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 13,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1115,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 13,
+            "completeQuest": 6,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 100
+        },
+        {
+            "groupId": 13,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 14,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1116,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 14,
+            "completeQuest": 2,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "groupId": 14,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1117,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 14,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 14,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1118,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 14,
+            "completeQuest": 6,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 500000
+        },
+        {
+            "groupId": 14,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 15,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1113,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 15,
+            "completeQuest": 2,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 50
+        },
+        {
+            "groupId": 15,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1114,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 15,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 15,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1115,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 15,
+            "completeQuest": 6,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 100
+        },
+        {
+            "groupId": 15,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 16,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1116,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 16,
+            "completeQuest": 2,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "groupId": 16,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1117,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 16,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 16,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1118,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 16,
+            "completeQuest": 6,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 500000
+        },
+        {
+            "groupId": 16,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 17,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1113,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 17,
+            "completeQuest": 2,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 50
+        },
+        {
+            "groupId": 17,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1114,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 17,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 17,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1115,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 17,
+            "completeQuest": 6,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 100
+        },
+        {
+            "groupId": 17,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 18,
+            "completeQuest": 1,
+            "rewardType": 300,
+            "rewardValue": 1116,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 18,
+            "completeQuest": 2,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "groupId": 18,
+            "completeQuest": 3,
+            "rewardType": 300,
+            "rewardValue": 1117,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 18,
+            "completeQuest": 4,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "groupId": 18,
+            "completeQuest": 5,
+            "rewardType": 300,
+            "rewardValue": 1118,
+            "rewardQty": 1
+        },
+        {
+            "groupId": 18,
+            "completeQuest": 6,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 500000
+        },
+        {
+            "groupId": 18,
+            "completeQuest": 7,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1
+        }
+    ],
+    "counts": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3368872954008526093
+    },
+    "m_Name": "NEXT_DAY_MISSION",
+    "keys": [
+        35064010,
+        35064020,
+        35064030,
+        35064040,
+        35065010
+    ],
+    "values": [
+        {
+            "missionId": 35064010,
+            "apply": 1,
+            "missionGroupId": 22004,
+            "order": 4,
+            "icon": "nextDayMission_worldboss",
+            "unlockType": 0,
+            "unlockValue": 0,
+            "achieveType": 1,
+            "value1": 0,
+            "value2": 0,
+            "completeValue": 1,
+            "rewardGroupId": 1,
+            "sceneId": 49,
+            "sceneOpt": 0
+        },
+        {
+            "missionId": 35064020,
+            "apply": 1,
+            "missionGroupId": 22004,
+            "order": 3,
+            "icon": "nextDayMission_worldboss",
+            "unlockType": 1,
+            "unlockValue": 15,
+            "achieveType": 1,
+            "value1": 0,
+            "value2": 0,
+            "completeValue": 1,
+            "rewardGroupId": 2,
+            "sceneId": 49,
+            "sceneOpt": 0
+        },
+        {
+            "missionId": 35064030,
+            "apply": 1,
+            "missionGroupId": 22004,
+            "order": 2,
+            "icon": "nextDayMission_worldboss",
+            "unlockType": 2,
+            "unlockValue": 15,
+            "achieveType": 1,
+            "value1": 0,
+            "value2": 0,
+            "completeValue": 1,
+            "rewardGroupId": 3,
+            "sceneId": 49,
+            "sceneOpt": 0
+        },
+        {
+            "missionId": 35064040,
+            "apply": 0,
+            "missionGroupId": 22004,
+            "order": 1,
+            "icon": "nextDayMission_worldboss",
+            "unlockType": 3,
+            "unlockValue": 15,
+            "achieveType": 1,
+            "value1": 0,
+            "value2": 0,
+            "completeValue": 1,
+            "rewardGroupId": 3,
+            "sceneId": 49,
+            "sceneOpt": 0
+        },
+        {
+            "missionId": 35065010,
+            "apply": 1,
+            "missionGroupId": 22005,
+            "order": 1,
+            "icon": "nextDayMission_coop",
+            "unlockType": 2,
+            "unlockValue": 15,
+            "achieveType": 2,
+            "value1": 0,
+            "value2": 0,
+            "completeValue": 1,
+            "rewardGroupId": 4,
+            "sceneId": 104,
+            "sceneOpt": 0
+        }
+    ]
+}

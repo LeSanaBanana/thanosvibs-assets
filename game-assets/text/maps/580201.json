@@ -1,0 +1,32 @@
+[
+    {
+        "level": "base_arctic_re_c01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 973580201,
+                        "group": 91,
+                        "sight": 100,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate_story04"
+                    },
+                    {
+                        "point": 1,
+                        "mob": 1087580201,
+                        "group": 1,
+                        "sight": 1000,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 3,
+                        "aiprefab": "ai_sv_redskull01_S02_580201"
+                    }
+                ]
+            }
+        ]
+    }
+]

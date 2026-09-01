@@ -1,0 +1,28 @@
+[
+    {
+        "level": "arcade_blackpanther2_wakanda_a01",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1154362201,
+                        "group": 2,
+                        "sight": 20,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "delay": 0.1,
+                        "appear": "appear",
+                        "boss": 3,
+                        "avoidancePriority": 1,
+                        "boss_appear": "skill05d",
+                        "trigger": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

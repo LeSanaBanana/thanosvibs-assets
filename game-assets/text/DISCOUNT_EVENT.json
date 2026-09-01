@@ -1,0 +1,82 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2996495761378479295
+    },
+    "m_Name": "DISCOUNT_EVENT",
+    "keys": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "values": [
+        {
+            "eventId": 1,
+            "growGroupId": 101,
+            "step": 0,
+            "growTier": 3,
+            "discountId": 101
+        },
+        {
+            "eventId": 1,
+            "growGroupId": 102,
+            "step": 1,
+            "growTier": 4,
+            "discountId": 102
+        },
+        {
+            "eventId": 2,
+            "growGroupId": 101,
+            "step": 0,
+            "growTier": 3,
+            "discountId": 103
+        },
+        {
+            "eventId": 2,
+            "growGroupId": 102,
+            "step": 1,
+            "growTier": 4,
+            "discountId": 104
+        },
+        {
+            "eventId": 3,
+            "growGroupId": 101,
+            "step": 0,
+            "growTier": 3,
+            "discountId": 105
+        },
+        {
+            "eventId": 3,
+            "growGroupId": 102,
+            "step": 1,
+            "growTier": 4,
+            "discountId": 106
+        },
+        {
+            "eventId": 4,
+            "growGroupId": 101,
+            "step": 0,
+            "growTier": 3,
+            "discountId": 107
+        },
+        {
+            "eventId": 4,
+            "growGroupId": 102,
+            "step": 1,
+            "growTier": 4,
+            "discountId": 108
+        }
+    ],
+    "counts": [
+        2,
+        2,
+        2,
+        2
+    ]
+}

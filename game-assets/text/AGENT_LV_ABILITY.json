@@ -1,0 +1,58 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2941560208232522713
+    },
+    "m_Name": "AGENT_LV_ABILITY",
+    "keys": [
+        11020,
+        11021,
+        11022,
+        11023,
+        11024,
+        11025
+    ],
+    "values": [
+        {
+            "id": 1001,
+            "abilityId": 11020,
+            "addParam": 1,
+            "maxLv": 0
+        },
+        {
+            "id": 1002,
+            "abilityId": 11021,
+            "addParam": 3,
+            "maxLv": 0
+        },
+        {
+            "id": 1003,
+            "abilityId": 11022,
+            "addParam": 2,
+            "maxLv": 0
+        },
+        {
+            "id": 1004,
+            "abilityId": 11023,
+            "addParam": 20,
+            "maxLv": 100
+        },
+        {
+            "id": 1005,
+            "abilityId": 11024,
+            "addParam": 100,
+            "maxLv": 100
+        },
+        {
+            "id": 1006,
+            "abilityId": 11025,
+            "addParam": 30,
+            "maxLv": 100
+        }
+    ]
+}

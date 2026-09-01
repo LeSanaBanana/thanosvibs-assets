@@ -1,0 +1,738 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7721254656544196385
+    },
+    "m_Name": "ITEM_MIX",
+    "keys": [
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207
+    ],
+    "values": [
+        {
+            "id": 1,
+            "type": 200,
+            "grade": 1,
+            "price": 5000,
+            "randomPickId": 2000002,
+            "awakenqty": 0
+        },
+        {
+            "id": 2,
+            "type": 200,
+            "grade": 2,
+            "price": 9000,
+            "randomPickId": 2000003,
+            "awakenqty": 0
+        },
+        {
+            "id": 3,
+            "type": 200,
+            "grade": 3,
+            "price": 21000,
+            "randomPickId": 2000004,
+            "awakenqty": 0
+        },
+        {
+            "id": 4,
+            "type": 200,
+            "grade": 4,
+            "price": 53000,
+            "randomPickId": 2000005,
+            "awakenqty": 0
+        },
+        {
+            "id": 5,
+            "type": 200,
+            "grade": 5,
+            "price": 92000,
+            "randomPickId": 2000006,
+            "awakenqty": 0
+        },
+        {
+            "id": 6,
+            "type": 200,
+            "grade": 6,
+            "price": 126000,
+            "randomPickId": 2000007,
+            "awakenqty": 1
+        },
+        {
+            "id": 7,
+            "type": 200,
+            "grade": 7,
+            "price": 167000,
+            "randomPickId": 2000008,
+            "awakenqty": 2
+        },
+        {
+            "id": 8,
+            "type": 200,
+            "grade": 8,
+            "price": 209000,
+            "randomPickId": 2000009,
+            "awakenqty": 3
+        },
+        {
+            "id": 9,
+            "type": 200,
+            "grade": 9,
+            "price": 251000,
+            "randomPickId": 2000010,
+            "awakenqty": 4
+        },
+        {
+            "id": 10,
+            "type": 200,
+            "grade": 10,
+            "price": 292000,
+            "randomPickId": 2000011,
+            "awakenqty": 5
+        },
+        {
+            "id": 11,
+            "type": 200,
+            "grade": 11,
+            "price": 334000,
+            "randomPickId": 2000012,
+            "awakenqty": 6
+        },
+        {
+            "id": 12,
+            "type": 201,
+            "grade": 1,
+            "price": 5000,
+            "randomPickId": 2010002,
+            "awakenqty": 0
+        },
+        {
+            "id": 13,
+            "type": 201,
+            "grade": 2,
+            "price": 9000,
+            "randomPickId": 2010003,
+            "awakenqty": 0
+        },
+        {
+            "id": 14,
+            "type": 201,
+            "grade": 3,
+            "price": 21000,
+            "randomPickId": 2010004,
+            "awakenqty": 0
+        },
+        {
+            "id": 15,
+            "type": 201,
+            "grade": 4,
+            "price": 53000,
+            "randomPickId": 2010005,
+            "awakenqty": 0
+        },
+        {
+            "id": 16,
+            "type": 201,
+            "grade": 5,
+            "price": 92000,
+            "randomPickId": 2010006,
+            "awakenqty": 0
+        },
+        {
+            "id": 17,
+            "type": 201,
+            "grade": 6,
+            "price": 126000,
+            "randomPickId": 2010007,
+            "awakenqty": 1
+        },
+        {
+            "id": 18,
+            "type": 201,
+            "grade": 7,
+            "price": 167000,
+            "randomPickId": 2010008,
+            "awakenqty": 2
+        },
+        {
+            "id": 19,
+            "type": 201,
+            "grade": 8,
+            "price": 209000,
+            "randomPickId": 2010009,
+            "awakenqty": 3
+        },
+        {
+            "id": 20,
+            "type": 201,
+            "grade": 9,
+            "price": 251000,
+            "randomPickId": 2010010,
+            "awakenqty": 4
+        },
+        {
+            "id": 21,
+            "type": 201,
+            "grade": 10,
+            "price": 292000,
+            "randomPickId": 2010011,
+            "awakenqty": 5
+        },
+        {
+            "id": 22,
+            "type": 201,
+            "grade": 11,
+            "price": 334000,
+            "randomPickId": 2010012,
+            "awakenqty": 6
+        },
+        {
+            "id": 23,
+            "type": 202,
+            "grade": 1,
+            "price": 5000,
+            "randomPickId": 2020002,
+            "awakenqty": 0
+        },
+        {
+            "id": 24,
+            "type": 202,
+            "grade": 2,
+            "price": 9000,
+            "randomPickId": 2020003,
+            "awakenqty": 0
+        },
+        {
+            "id": 25,
+            "type": 202,
+            "grade": 3,
+            "price": 21000,
+            "randomPickId": 2020004,
+            "awakenqty": 0
+        },
+        {
+            "id": 26,
+            "type": 202,
+            "grade": 4,
+            "price": 53000,
+            "randomPickId": 2020005,
+            "awakenqty": 0
+        },
+        {
+            "id": 27,
+            "type": 202,
+            "grade": 5,
+            "price": 92000,
+            "randomPickId": 2020006,
+            "awakenqty": 0
+        },
+        {
+            "id": 28,
+            "type": 202,
+            "grade": 6,
+            "price": 126000,
+            "randomPickId": 2020007,
+            "awakenqty": 1
+        },
+        {
+            "id": 29,
+            "type": 202,
+            "grade": 7,
+            "price": 167000,
+            "randomPickId": 2020008,
+            "awakenqty": 2
+        },
+        {
+            "id": 30,
+            "type": 202,
+            "grade": 8,
+            "price": 209000,
+            "randomPickId": 2020009,
+            "awakenqty": 3
+        },
+        {
+            "id": 31,
+            "type": 202,
+            "grade": 9,
+            "price": 251000,
+            "randomPickId": 2020010,
+            "awakenqty": 4
+        },
+        {
+            "id": 32,
+            "type": 202,
+            "grade": 10,
+            "price": 292000,
+            "randomPickId": 2020011,
+            "awakenqty": 5
+        },
+        {
+            "id": 33,
+            "type": 202,
+            "grade": 11,
+            "price": 334000,
+            "randomPickId": 2020012,
+            "awakenqty": 6
+        },
+        {
+            "id": 34,
+            "type": 203,
+            "grade": 1,
+            "price": 5000,
+            "randomPickId": 2030002,
+            "awakenqty": 0
+        },
+        {
+            "id": 35,
+            "type": 203,
+            "grade": 2,
+            "price": 9000,
+            "randomPickId": 2030003,
+            "awakenqty": 0
+        },
+        {
+            "id": 36,
+            "type": 203,
+            "grade": 3,
+            "price": 21000,
+            "randomPickId": 2030004,
+            "awakenqty": 0
+        },
+        {
+            "id": 37,
+            "type": 203,
+            "grade": 4,
+            "price": 53000,
+            "randomPickId": 2030005,
+            "awakenqty": 0
+        },
+        {
+            "id": 38,
+            "type": 203,
+            "grade": 5,
+            "price": 92000,
+            "randomPickId": 2030006,
+            "awakenqty": 0
+        },
+        {
+            "id": 39,
+            "type": 203,
+            "grade": 6,
+            "price": 126000,
+            "randomPickId": 2030007,
+            "awakenqty": 1
+        },
+        {
+            "id": 40,
+            "type": 203,
+            "grade": 7,
+            "price": 167000,
+            "randomPickId": 2030008,
+            "awakenqty": 2
+        },
+        {
+            "id": 41,
+            "type": 203,
+            "grade": 8,
+            "price": 209000,
+            "randomPickId": 2030009,
+            "awakenqty": 3
+        },
+        {
+            "id": 42,
+            "type": 203,
+            "grade": 9,
+            "price": 251000,
+            "randomPickId": 2030010,
+            "awakenqty": 4
+        },
+        {
+            "id": 43,
+            "type": 203,
+            "grade": 10,
+            "price": 292000,
+            "randomPickId": 2030011,
+            "awakenqty": 5
+        },
+        {
+            "id": 44,
+            "type": 203,
+            "grade": 11,
+            "price": 334000,
+            "randomPickId": 2030012,
+            "awakenqty": 6
+        },
+        {
+            "id": 45,
+            "type": 204,
+            "grade": 1,
+            "price": 5000,
+            "randomPickId": 2040002,
+            "awakenqty": 0
+        },
+        {
+            "id": 46,
+            "type": 204,
+            "grade": 2,
+            "price": 9000,
+            "randomPickId": 2040003,
+            "awakenqty": 0
+        },
+        {
+            "id": 47,
+            "type": 204,
+            "grade": 3,
+            "price": 21000,
+            "randomPickId": 2040004,
+            "awakenqty": 0
+        },
+        {
+            "id": 48,
+            "type": 204,
+            "grade": 4,
+            "price": 53000,
+            "randomPickId": 2040005,
+            "awakenqty": 0
+        },
+        {
+            "id": 49,
+            "type": 204,
+            "grade": 5,
+            "price": 92000,
+            "randomPickId": 2040006,
+            "awakenqty": 0
+        },
+        {
+            "id": 50,
+            "type": 204,
+            "grade": 6,
+            "price": 126000,
+            "randomPickId": 2040007,
+            "awakenqty": 1
+        },
+        {
+            "id": 51,
+            "type": 204,
+            "grade": 7,
+            "price": 167000,
+            "randomPickId": 2040008,
+            "awakenqty": 2
+        },
+        {
+            "id": 52,
+            "type": 204,
+            "grade": 8,
+            "price": 209000,
+            "randomPickId": 2040009,
+            "awakenqty": 3
+        },
+        {
+            "id": 53,
+            "type": 204,
+            "grade": 9,
+            "price": 251000,
+            "randomPickId": 2040010,
+            "awakenqty": 4
+        },
+        {
+            "id": 54,
+            "type": 204,
+            "grade": 10,
+            "price": 292000,
+            "randomPickId": 2040011,
+            "awakenqty": 5
+        },
+        {
+            "id": 55,
+            "type": 204,
+            "grade": 11,
+            "price": 334000,
+            "randomPickId": 2040012,
+            "awakenqty": 6
+        },
+        {
+            "id": 56,
+            "type": 205,
+            "grade": 1,
+            "price": 5000,
+            "randomPickId": 2050002,
+            "awakenqty": 0
+        },
+        {
+            "id": 57,
+            "type": 205,
+            "grade": 2,
+            "price": 9000,
+            "randomPickId": 2050003,
+            "awakenqty": 0
+        },
+        {
+            "id": 58,
+            "type": 205,
+            "grade": 3,
+            "price": 21000,
+            "randomPickId": 2050004,
+            "awakenqty": 0
+        },
+        {
+            "id": 59,
+            "type": 205,
+            "grade": 4,
+            "price": 53000,
+            "randomPickId": 2050005,
+            "awakenqty": 0
+        },
+        {
+            "id": 60,
+            "type": 205,
+            "grade": 5,
+            "price": 92000,
+            "randomPickId": 2050006,
+            "awakenqty": 0
+        },
+        {
+            "id": 61,
+            "type": 205,
+            "grade": 6,
+            "price": 126000,
+            "randomPickId": 2050007,
+            "awakenqty": 1
+        },
+        {
+            "id": 62,
+            "type": 205,
+            "grade": 7,
+            "price": 167000,
+            "randomPickId": 2050008,
+            "awakenqty": 2
+        },
+        {
+            "id": 63,
+            "type": 205,
+            "grade": 8,
+            "price": 209000,
+            "randomPickId": 2050009,
+            "awakenqty": 3
+        },
+        {
+            "id": 64,
+            "type": 205,
+            "grade": 9,
+            "price": 251000,
+            "randomPickId": 2050010,
+            "awakenqty": 4
+        },
+        {
+            "id": 65,
+            "type": 205,
+            "grade": 10,
+            "price": 292000,
+            "randomPickId": 2050011,
+            "awakenqty": 5
+        },
+        {
+            "id": 66,
+            "type": 205,
+            "grade": 11,
+            "price": 334000,
+            "randomPickId": 2050012,
+            "awakenqty": 6
+        },
+        {
+            "id": 67,
+            "type": 206,
+            "grade": 1,
+            "price": 5000,
+            "randomPickId": 2060002,
+            "awakenqty": 0
+        },
+        {
+            "id": 68,
+            "type": 206,
+            "grade": 2,
+            "price": 9000,
+            "randomPickId": 2060003,
+            "awakenqty": 0
+        },
+        {
+            "id": 69,
+            "type": 206,
+            "grade": 3,
+            "price": 21000,
+            "randomPickId": 2060004,
+            "awakenqty": 0
+        },
+        {
+            "id": 70,
+            "type": 206,
+            "grade": 4,
+            "price": 53000,
+            "randomPickId": 2060005,
+            "awakenqty": 0
+        },
+        {
+            "id": 71,
+            "type": 206,
+            "grade": 5,
+            "price": 92000,
+            "randomPickId": 2060006,
+            "awakenqty": 0
+        },
+        {
+            "id": 72,
+            "type": 206,
+            "grade": 6,
+            "price": 126000,
+            "randomPickId": 2060007,
+            "awakenqty": 1
+        },
+        {
+            "id": 73,
+            "type": 206,
+            "grade": 7,
+            "price": 167000,
+            "randomPickId": 2060008,
+            "awakenqty": 2
+        },
+        {
+            "id": 74,
+            "type": 206,
+            "grade": 8,
+            "price": 209000,
+            "randomPickId": 2060009,
+            "awakenqty": 3
+        },
+        {
+            "id": 75,
+            "type": 206,
+            "grade": 9,
+            "price": 251000,
+            "randomPickId": 2060010,
+            "awakenqty": 4
+        },
+        {
+            "id": 76,
+            "type": 206,
+            "grade": 10,
+            "price": 292000,
+            "randomPickId": 2060011,
+            "awakenqty": 5
+        },
+        {
+            "id": 77,
+            "type": 206,
+            "grade": 11,
+            "price": 334000,
+            "randomPickId": 2060012,
+            "awakenqty": 6
+        },
+        {
+            "id": 78,
+            "type": 207,
+            "grade": 1,
+            "price": 5000,
+            "randomPickId": 2070002,
+            "awakenqty": 0
+        },
+        {
+            "id": 79,
+            "type": 207,
+            "grade": 2,
+            "price": 9000,
+            "randomPickId": 2070003,
+            "awakenqty": 0
+        },
+        {
+            "id": 80,
+            "type": 207,
+            "grade": 3,
+            "price": 21000,
+            "randomPickId": 2070004,
+            "awakenqty": 0
+        },
+        {
+            "id": 81,
+            "type": 207,
+            "grade": 4,
+            "price": 53000,
+            "randomPickId": 2070005,
+            "awakenqty": 0
+        },
+        {
+            "id": 82,
+            "type": 207,
+            "grade": 5,
+            "price": 92000,
+            "randomPickId": 2070006,
+            "awakenqty": 0
+        },
+        {
+            "id": 83,
+            "type": 207,
+            "grade": 6,
+            "price": 126000,
+            "randomPickId": 2070007,
+            "awakenqty": 1
+        },
+        {
+            "id": 84,
+            "type": 207,
+            "grade": 7,
+            "price": 167000,
+            "randomPickId": 2070008,
+            "awakenqty": 2
+        },
+        {
+            "id": 85,
+            "type": 207,
+            "grade": 8,
+            "price": 209000,
+            "randomPickId": 2070009,
+            "awakenqty": 3
+        },
+        {
+            "id": 86,
+            "type": 207,
+            "grade": 9,
+            "price": 251000,
+            "randomPickId": 2070010,
+            "awakenqty": 4
+        },
+        {
+            "id": 87,
+            "type": 207,
+            "grade": 10,
+            "price": 292000,
+            "randomPickId": 2070011,
+            "awakenqty": 5
+        },
+        {
+            "id": 88,
+            "type": 207,
+            "grade": 11,
+            "price": 334000,
+            "randomPickId": 2070012,
+            "awakenqty": 6
+        }
+    ],
+    "counts": [
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11
+    ]
+}

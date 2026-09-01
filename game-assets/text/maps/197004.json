@@ -1,0 +1,77 @@
+[
+    {
+        "level": "Raid_Attilan",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 937197004,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidSuperGiant_Summon"
+                    },
+                    {
+                        "point": 21,
+                        "mob": 938190104,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidSuperGiant_Sentry01"
+                    },
+                    {
+                        "point": 23,
+                        "mob": 938190104,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidSuperGiant_Sentry02"
+                    },
+                    {
+                        "point": 20,
+                        "mob": 938190104,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidSuperGiant_Sentry01"
+                    },
+                    {
+                        "point": 22,
+                        "mob": 938190104,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidSuperGiant_Sentry02"
+                    },
+                    {
+                        "point": 24,
+                        "mob": 938190104,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidSuperGiant_Sentry03"
+                    },
+                    {
+                        "appear": "appear",
+                        "point": 90,
+                        "mob": 568197004,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidSuperGiant_beginner",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.39,0.74",
+                        "scale": "1.1"
+                    }
+                ]
+            }
+        ]
+    }
+]

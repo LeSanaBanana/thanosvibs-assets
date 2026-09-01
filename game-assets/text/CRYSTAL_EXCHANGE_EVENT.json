@@ -1,0 +1,25 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8050944288453943505
+    },
+    "m_Name": "CRYSTAL_EXCHANGE_EVENT",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "EventId": 1,
+            "CrystalQty": 1000000000,
+            "TicketMinValue": 60,
+            "TicketMaxValue": 100,
+            "PriceItemId": 396,
+            "GetTicketMaxCount": 50
+        }
+    ]
+}

@@ -1,0 +1,2123 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5413621779238352051
+    },
+    "m_Name": "LOADING_TIP",
+    "list": [
+        {
+            "group": 0,
+            "condition": 0,
+            "value": 0,
+            "assetList": [
+                {
+                    "textNo": 1,
+                    "background": "loading_bg_19"
+                }
+            ]
+        },
+        {
+            "group": 1,
+            "condition": 1,
+            "value": 490101,
+            "assetList": [
+                {
+                    "textNo": 49,
+                    "background": "loading_bg_16"
+                },
+                {
+                    "textNo": 35,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 47,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 3,
+                    "background": "loading_bg_26"
+                },
+                {
+                    "textNo": 6,
+                    "background": "loading_bg_19"
+                },
+                {
+                    "textNo": 4,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 34,
+                    "background": "loading_bg_26"
+                }
+            ]
+        },
+        {
+            "group": 2,
+            "condition": 1,
+            "value": 490102,
+            "assetList": [
+                {
+                    "textNo": 2,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 6,
+                    "background": "loading_bg_19"
+                },
+                {
+                    "textNo": 15,
+                    "background": "loading_bg_24"
+                },
+                {
+                    "textNo": 34,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 35,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 37,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 38,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 39,
+                    "background": "loading_bg_24"
+                },
+                {
+                    "textNo": 40,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 41,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 42,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 43,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 47,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 46,
+                    "background": "loading_bg_24"
+                },
+                {
+                    "textNo": 49,
+                    "background": "loading_bg_16"
+                }
+            ]
+        },
+        {
+            "group": 3,
+            "condition": 1,
+            "value": 490201,
+            "assetList": [
+                {
+                    "textNo": 2,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 3,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 4,
+                    "background": "loading_bg_26"
+                },
+                {
+                    "textNo": 5,
+                    "background": "loading_bg_24"
+                },
+                {
+                    "textNo": 6,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 7,
+                    "background": "loading_bg_19"
+                },
+                {
+                    "textNo": 8,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 9,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 10,
+                    "background": "loading_bg_19"
+                },
+                {
+                    "textNo": 11,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 12,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 13,
+                    "background": "loading_bg_24"
+                },
+                {
+                    "textNo": 14,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 15,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 16,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 29,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 31,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 38,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 39,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 34,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 35,
+                    "background": "loading_bg_24"
+                },
+                {
+                    "textNo": 37,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 38,
+                    "background": "loading_bg_19"
+                },
+                {
+                    "textNo": 39,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 40,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 41,
+                    "background": "loading_bg_27"
+                },
+                {
+                    "textNo": 42,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 43,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 45,
+                    "background": "loading_bg_27"
+                },
+                {
+                    "textNo": 46,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 47,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 45,
+                    "background": "loading_bg_24"
+                },
+                {
+                    "textNo": 46,
+                    "background": "loading_bg_16"
+                },
+                {
+                    "textNo": 55,
+                    "background": "loading_bg_21"
+                }
+            ]
+        },
+        {
+            "group": 4,
+            "condition": 1,
+            "value": 490401,
+            "assetList": [
+                {
+                    "textNo": 6,
+                    "background": "loading_bg_27"
+                },
+                {
+                    "textNo": 16,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 17,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 18,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 20,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 21,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 22,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 23,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 24,
+                    "background": "loading_bg_19"
+                },
+                {
+                    "textNo": 25,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 26,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 27,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 28,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 29,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 31,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 40,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 46,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 34,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 35,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 37,
+                    "background": "loading_bg_24"
+                },
+                {
+                    "textNo": 38,
+                    "background": "loading_bg_20"
+                },
+                {
+                    "textNo": 39,
+                    "background": "loading_bg_21"
+                },
+                {
+                    "textNo": 40,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 41,
+                    "background": "loading_bg_26"
+                },
+                {
+                    "textNo": 42,
+                    "background": "loading_bg_25"
+                },
+                {
+                    "textNo": 45,
+                    "background": "loading_bg_26"
+                },
+                {
+                    "textNo": 46,
+                    "background": "loading_bg_18"
+                },
+                {
+                    "textNo": 47,
+                    "background": "loading_bg_23"
+                },
+                {
+                    "textNo": 45,
+                    "background": "loading_bg_22"
+                },
+                {
+                    "textNo": 49,
+                    "background": "loading_bg_16"
+                },
+                {
+                    "textNo": 55,
+                    "background": "loading_bg_21"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410111,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410112,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410113,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410114,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410112,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410113,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410114,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410121,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410122,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410123,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410124,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410122,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410123,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410124,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410131,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410132,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410133,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410134,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410132,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410133,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 5,
+            "condition": 2,
+            "value": 410134,
+            "assetList": [
+                {
+                    "textNo": 50,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 51,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 52,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 53,
+                    "background": "loading_bg_17"
+                },
+                {
+                    "textNo": 54,
+                    "background": "loading_bg_17"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901001,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901002,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901003,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901004,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901005,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901006,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901007,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901008,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901009,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901010,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901011,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901012,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901013,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901014,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901015,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901016,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901017,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901018,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901019,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901020,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901021,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901022,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901023,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901024,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901025,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901026,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901027,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901028,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901029,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901030,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901031,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901032,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901033,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901034,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901035,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901036,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901037,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901038,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901039,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901040,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901041,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901042,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901043,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901044,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901045,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901046,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901047,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901048,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901049,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901050,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901051,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901052,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901053,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901054,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901055,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901056,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901057,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901058,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901059,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901060,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901061,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901062,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901063,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901064,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901065,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901066,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901067,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901068,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901069,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901070,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901071,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901072,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901073,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901074,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901075,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901076,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901077,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901078,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901079,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901080,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901081,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901082,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901083,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901084,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901085,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901086,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901087,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901088,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901089,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901090,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901091,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901092,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901093,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901094,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901095,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901096,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901097,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901098,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901099,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 6,
+            "condition": 2,
+            "value": 6901100,
+            "assetList": [
+                {
+                    "textNo": 56,
+                    "background": "loading_bg_28"
+                }
+            ]
+        },
+        {
+            "group": 7,
+            "condition": 2,
+            "value": 700101,
+            "assetList": [
+                {
+                    "textNo": 57,
+                    "background": "loading_bg_24"
+                }
+            ]
+        },
+        {
+            "group": 7,
+            "condition": 2,
+            "value": 700102,
+            "assetList": [
+                {
+                    "textNo": 57,
+                    "background": "loading_bg_24"
+                }
+            ]
+        },
+        {
+            "group": 7,
+            "condition": 2,
+            "value": 700103,
+            "assetList": [
+                {
+                    "textNo": 57,
+                    "background": "loading_bg_24"
+                }
+            ]
+        },
+        {
+            "group": 7,
+            "condition": 2,
+            "value": 700104,
+            "assetList": [
+                {
+                    "textNo": 57,
+                    "background": "loading_bg_24"
+                }
+            ]
+        },
+        {
+            "group": 7,
+            "condition": 2,
+            "value": 700105,
+            "assetList": [
+                {
+                    "textNo": 57,
+                    "background": "loading_bg_24"
+                }
+            ]
+        }
+    ]
+}

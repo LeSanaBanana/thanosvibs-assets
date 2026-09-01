@@ -1,0 +1,28 @@
+[
+    {
+        "level": "arcade_thor_rainbowbridge_a01",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": -1,
+        "succ_cam": "0,-90,0",
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 720360203,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 50,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0,0.4",
+                        "boss_appear": "skill04",
+                        "boss_cam_rot": "-17,0,0"
+                    }
+                ]
+            }
+        ]
+    }
+]

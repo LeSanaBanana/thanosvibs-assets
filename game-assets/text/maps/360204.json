@@ -1,0 +1,41 @@
+[
+    {
+        "level": "arcade_thor_rainbowbridge_a01",
+        "lightIndex": 1,
+        "startpoint": 1,
+        "endpoint": -1,
+        "succ_cam": "0,-90,0",
+        "far": 250,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 721360204,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 50,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill03",
+                        "boss_cam": "0,0.3,0.5",
+                        "boss_cam_rot": "-15,0,0"
+                    },
+                    {
+                        "point": 90,
+                        "mob": 227360204,
+                        "group": 10,
+                        "autoregen": 99
+                    },
+                    {
+                        "point": 90,
+                        "mob": 228360204,
+                        "group": 10,
+                        "autoregen": 99
+                    }
+                ]
+            }
+        ]
+    }
+]

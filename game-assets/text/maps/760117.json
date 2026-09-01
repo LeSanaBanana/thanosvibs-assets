@@ -1,0 +1,80 @@
+[
+    {
+        "level": "event_shadowland_0000_a04",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 278,
+                        "mob": 1311760117,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss_appear": "heal_event",
+                        "boss": 3,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.8,1.7",
+                        "aiprefab": "ai_boss_deadpool02_S08_760120_boss",
+                        "autoinvincible": "5:5"
+                    },
+                    {
+                        "point": 210,
+                        "mob": 543760117,
+                        "group": 3,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "avoidancePriority": 0,
+                        "scale": "1.0",
+                        "aiprefab": "ai_gimmick_dummy84_760120_mod"
+                    },
+                    {
+                        "point": 290,
+                        "mob": 543760117,
+                        "group": 4,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "avoidancePriority": 0,
+                        "scale": "1.0",
+                        "aiprefab": "ai_gimmick_dummy84_760120_01"
+                    },
+                    {
+                        "point": 275,
+                        "mob": 543760117,
+                        "group": 4,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "avoidancePriority": 0,
+                        "scale": "1.0",
+                        "aiprefab": "ai_gimmick_dummy84_760120_02"
+                    },
+                    {
+                        "point": 276,
+                        "mob": 543760117,
+                        "group": 4,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "avoidancePriority": 0,
+                        "scale": "1.0",
+                        "aiprefab": "ai_gimmick_dummy84_760120_03"
+                    },
+                    {
+                        "point": 291,
+                        "mob": 543760117,
+                        "group": 4,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "avoidancePriority": 0,
+                        "scale": "1.0",
+                        "aiprefab": "ai_gimmick_dummy84_760120_04"
+                    }
+                ]
+            }
+        ]
+    }
+]

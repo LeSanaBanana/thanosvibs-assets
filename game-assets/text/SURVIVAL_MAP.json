@@ -1,0 +1,74 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6792990798835430575
+    },
+    "m_Name": "SURVIVAL_MAP",
+    "list": [
+        {
+            "mapId": 2801,
+            "mapGroupId": 28,
+            "mapLevel": 1,
+            "mapRows": 20,
+            "mapColumns": 20,
+            "heroQty": 12,
+            "heroTier": 0,
+            "heroLevel": 0,
+            "rewardPickId": 0,
+            "figureStartIndex": 1,
+            "startEndDistantMin": 11,
+            "unlockLevelCost": 0,
+            "mapImg": "Survival_bg_futurefight",
+            "mapThumbnail": "Survival_map_thumbnail_1",
+            "rewardType": 300,
+            "rewardValue": 13495,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "mapId": 2802,
+            "mapGroupId": 28,
+            "mapLevel": 2,
+            "mapRows": 20,
+            "mapColumns": 20,
+            "heroQty": 12,
+            "heroTier": 2,
+            "heroLevel": 60,
+            "rewardPickId": 0,
+            "figureStartIndex": 1,
+            "startEndDistantMin": 11,
+            "unlockLevelCost": 0,
+            "mapImg": "Survival_bg_futurefight",
+            "mapThumbnail": "Survival_map_thumbnail_1",
+            "rewardType": 300,
+            "rewardValue": 13495,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "mapId": 2803,
+            "mapGroupId": 28,
+            "mapLevel": 3,
+            "mapRows": 20,
+            "mapColumns": 20,
+            "heroQty": 12,
+            "heroTier": 3,
+            "heroLevel": 70,
+            "rewardPickId": 0,
+            "figureStartIndex": 1,
+            "startEndDistantMin": 11,
+            "unlockLevelCost": 0,
+            "mapImg": "Survival_bg_futurefight",
+            "mapThumbnail": "Survival_map_thumbnail_1",
+            "rewardType": 300,
+            "rewardValue": 13495,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        }
+    ]
+}

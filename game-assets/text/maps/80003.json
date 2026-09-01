@@ -1,0 +1,26 @@
+[
+    {
+        "level": "arcade_infinitywar_titan_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 752360503,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_test1",
+                        "keymob": 1,
+                        "boss": 4,
+                        "avoidancePriority": 0,
+                        "scale": "1.4"
+                    }
+                ]
+            }
+        ]
+    }
+]

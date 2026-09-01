@@ -1,0 +1,299 @@
+[
+    {
+        "level": "raid_apocalypse_x_mansion",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 945190204,
+                        "group": 90,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "aiprefab": "AI_gimmick_summon_apocalypse02"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973331001,
+                        "group": 95,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate05"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973331001,
+                        "group": 97,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate07"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973331001,
+                        "group": 98,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate08"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973331001,
+                        "group": 96,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate06"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973331001,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate09"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse01",
+                        "delay": "10-15"
+                    },
+                    {
+                        "point": 92,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse02",
+                        "delay": "20-30"
+                    },
+                    {
+                        "point": 93,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse03",
+                        "delay": "30-40"
+                    },
+                    {
+                        "point": 94,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse04",
+                        "delay": "35-50"
+                    },
+                    {
+                        "point": 95,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-4",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse05",
+                        "delay": "50-60"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse01",
+                        "delay": "10-15"
+                    },
+                    {
+                        "point": 92,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse02",
+                        "delay": "20-30"
+                    },
+                    {
+                        "point": 93,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse03",
+                        "delay": "30-40"
+                    },
+                    {
+                        "point": 94,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse04",
+                        "delay": "35-50"
+                    },
+                    {
+                        "point": 95,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse05",
+                        "delay": "50-60"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-12",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse01",
+                        "delay": "10-15"
+                    },
+                    {
+                        "point": 92,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-12",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse02",
+                        "delay": "20-30"
+                    },
+                    {
+                        "point": 93,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-12",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse03",
+                        "delay": "30-40"
+                    },
+                    {
+                        "point": 94,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-12",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse04",
+                        "delay": "35-50"
+                    },
+                    {
+                        "point": 95,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-12",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse05",
+                        "delay": "50-60"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-16",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse01",
+                        "delay": "10-15"
+                    },
+                    {
+                        "point": 92,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-16",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse02",
+                        "delay": "20-30"
+                    },
+                    {
+                        "point": 93,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-16",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse03",
+                        "delay": "30-40"
+                    },
+                    {
+                        "point": 94,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-16",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse04",
+                        "delay": "35-50"
+                    },
+                    {
+                        "point": 95,
+                        "mob": 405331001,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-16",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse05",
+                        "delay": "50-60"
+                    },
+                    {
+                        "point": 90,
+                        "mob": 821331001,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_raidapocalypse02",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "scale": "1.1",
+                        "appear": "appear",
+                        "boss_cam": "0.0,0.29,1.17"
+                    }
+                ]
+            }
+        ]
+    }
+]

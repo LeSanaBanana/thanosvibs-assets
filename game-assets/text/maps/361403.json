@@ -1,0 +1,27 @@
+[
+    {
+        "level": "arcade_spiderman2_praha_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 201,
+                        "mob": 812361403,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill03",
+                        "boss_cam": "0,0.2,0",
+                        "aiprefab": "ai_legendarymoltenman01"
+                    }
+                ]
+            }
+        ]
+    }
+]

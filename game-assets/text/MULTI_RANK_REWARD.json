@@ -1,0 +1,86 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1142411697111053093
+    },
+    "m_Name": "MULTI_RANK_REWARD",
+    "list": [
+        {
+            "rewardId": 1,
+            "type": 1,
+            "rewardRankMin": 1,
+            "rewardRankMax": 1,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 500000
+        },
+        {
+            "rewardId": 2,
+            "type": 1,
+            "rewardRankMin": 2,
+            "rewardRankMax": 2,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 400000
+        },
+        {
+            "rewardId": 3,
+            "type": 1,
+            "rewardRankMin": 3,
+            "rewardRankMax": 3,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 300000
+        },
+        {
+            "rewardId": 4,
+            "type": 2,
+            "rewardRankMin": 0,
+            "rewardRankMax": 199,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "rewardId": 5,
+            "type": 2,
+            "rewardRankMin": 200,
+            "rewardRankMax": 1099,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 200000
+        },
+        {
+            "rewardId": 6,
+            "type": 2,
+            "rewardRankMin": 1100,
+            "rewardRankMax": 3099,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 150000
+        },
+        {
+            "rewardId": 7,
+            "type": 2,
+            "rewardRankMin": 3100,
+            "rewardRankMax": 5099,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 100000
+        },
+        {
+            "rewardId": 8,
+            "type": 2,
+            "rewardRankMin": 5100,
+            "rewardRankMax": 10000,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 50000
+        }
+    ]
+}

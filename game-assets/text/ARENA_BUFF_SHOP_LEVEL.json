@@ -1,0 +1,50 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 940582145674344307
+    },
+    "m_Name": "ARENA_BUFF_SHOP_LEVEL",
+    "list": [
+        {
+            "buffShopLevel": 2,
+            "buffShopPrice": 500
+        },
+        {
+            "buffShopLevel": 3,
+            "buffShopPrice": 1000
+        },
+        {
+            "buffShopLevel": 4,
+            "buffShopPrice": 2000
+        },
+        {
+            "buffShopLevel": 5,
+            "buffShopPrice": 3000
+        },
+        {
+            "buffShopLevel": 6,
+            "buffShopPrice": 5000
+        },
+        {
+            "buffShopLevel": 7,
+            "buffShopPrice": 7000
+        },
+        {
+            "buffShopLevel": 8,
+            "buffShopPrice": 10000
+        },
+        {
+            "buffShopLevel": 9,
+            "buffShopPrice": 15000
+        },
+        {
+            "buffShopLevel": 10,
+            "buffShopPrice": 20000
+        }
+    ]
+}

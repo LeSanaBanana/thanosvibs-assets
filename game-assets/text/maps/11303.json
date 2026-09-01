@@ -1,0 +1,106 @@
+[
+    {
+        "level": "base_triskelion_0101_c01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9000,
+                        "mob": 96411303,
+                        "group": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 96411303,
+                        "group": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 96411303,
+                        "group": 1,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9003,
+                        "mob": 96411303,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9004,
+                        "mob": 96411303,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9005,
+                        "mob": 96411303,
+                        "group": 2,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9006,
+                        "mob": 96411303,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9007,
+                        "mob": 96411303,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9008,
+                        "mob": 96411303,
+                        "group": 3,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 9009,
+                        "mob": 96411303,
+                        "group": 4,
+                        "sight": 50,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_sentrygun_s05"
+                    },
+                    {
+                        "point": 13,
+                        "mob": 72411303,
+                        "group": 5,
+                        "boss": 3,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 10,
+                        "boss_cam": "0,-0.17,0.34",
+                        "trigger": 11,
+                        "boss_appear": "skill01"
+                    }
+                ]
+            }
+        ]
+    }
+]

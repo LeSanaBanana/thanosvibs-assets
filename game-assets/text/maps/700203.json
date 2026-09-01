@@ -1,0 +1,29 @@
+[
+    {
+        "level": "base_triskelion_0001_d02",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1247700203,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "scale": 1.3,
+                        "firstattack": 1,
+                        "sight": 15,
+                        "trigger": 1,
+                        "boss_cam": "0.0,0.1,0.6",
+                        "avoidancePriority": 0,
+                        "boss_appear": "wait_start",
+                        "aiprefab": "ai_boss_spiderman01_S01_700203"
+                    }
+                ]
+            }
+        ]
+    }
+]

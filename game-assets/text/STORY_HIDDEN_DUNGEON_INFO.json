@@ -1,0 +1,452 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1254799538665142012
+    },
+    "m_Name": "STORY_HIDDEN_DUNGEON_INFO",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "values": [
+        {
+            "id": 101,
+            "hiddenDungeonId": 1,
+            "grade": 1,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 101
+        },
+        {
+            "id": 102,
+            "hiddenDungeonId": 1,
+            "grade": 2,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 102
+        },
+        {
+            "id": 103,
+            "hiddenDungeonId": 1,
+            "grade": 3,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 103
+        },
+        {
+            "id": 104,
+            "hiddenDungeonId": 1,
+            "grade": 4,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 104
+        },
+        {
+            "id": 105,
+            "hiddenDungeonId": 1,
+            "grade": 5,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 105
+        },
+        {
+            "id": 106,
+            "hiddenDungeonId": 1,
+            "grade": 6,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 106
+        },
+        {
+            "id": 201,
+            "hiddenDungeonId": 2,
+            "grade": 1,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 201
+        },
+        {
+            "id": 202,
+            "hiddenDungeonId": 2,
+            "grade": 2,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 202
+        },
+        {
+            "id": 203,
+            "hiddenDungeonId": 2,
+            "grade": 3,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 203
+        },
+        {
+            "id": 204,
+            "hiddenDungeonId": 2,
+            "grade": 4,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 204
+        },
+        {
+            "id": 205,
+            "hiddenDungeonId": 2,
+            "grade": 5,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 205
+        },
+        {
+            "id": 206,
+            "hiddenDungeonId": 2,
+            "grade": 6,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 206
+        },
+        {
+            "id": 301,
+            "hiddenDungeonId": 3,
+            "grade": 1,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 301
+        },
+        {
+            "id": 302,
+            "hiddenDungeonId": 3,
+            "grade": 2,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 302
+        },
+        {
+            "id": 303,
+            "hiddenDungeonId": 3,
+            "grade": 3,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 303
+        },
+        {
+            "id": 304,
+            "hiddenDungeonId": 3,
+            "grade": 4,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 304
+        },
+        {
+            "id": 305,
+            "hiddenDungeonId": 3,
+            "grade": 5,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 305
+        },
+        {
+            "id": 306,
+            "hiddenDungeonId": 3,
+            "grade": 6,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 306
+        },
+        {
+            "id": 401,
+            "hiddenDungeonId": 4,
+            "grade": 1,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 401
+        },
+        {
+            "id": 402,
+            "hiddenDungeonId": 4,
+            "grade": 2,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 402
+        },
+        {
+            "id": 403,
+            "hiddenDungeonId": 4,
+            "grade": 3,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 403
+        },
+        {
+            "id": 404,
+            "hiddenDungeonId": 4,
+            "grade": 4,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 404
+        },
+        {
+            "id": 405,
+            "hiddenDungeonId": 4,
+            "grade": 5,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 405
+        },
+        {
+            "id": 406,
+            "hiddenDungeonId": 4,
+            "grade": 6,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 406
+        },
+        {
+            "id": 501,
+            "hiddenDungeonId": 5,
+            "grade": 1,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 501
+        },
+        {
+            "id": 502,
+            "hiddenDungeonId": 5,
+            "grade": 2,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 502
+        },
+        {
+            "id": 503,
+            "hiddenDungeonId": 5,
+            "grade": 3,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 503
+        },
+        {
+            "id": 504,
+            "hiddenDungeonId": 5,
+            "grade": 4,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 504
+        },
+        {
+            "id": 505,
+            "hiddenDungeonId": 5,
+            "grade": 5,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 505
+        },
+        {
+            "id": 506,
+            "hiddenDungeonId": 5,
+            "grade": 6,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 506
+        },
+        {
+            "id": 601,
+            "hiddenDungeonId": 6,
+            "grade": 1,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 601
+        },
+        {
+            "id": 602,
+            "hiddenDungeonId": 6,
+            "grade": 2,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 602
+        },
+        {
+            "id": 603,
+            "hiddenDungeonId": 6,
+            "grade": 3,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 603
+        },
+        {
+            "id": 604,
+            "hiddenDungeonId": 6,
+            "grade": 4,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 604
+        },
+        {
+            "id": 605,
+            "hiddenDungeonId": 6,
+            "grade": 5,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 605
+        },
+        {
+            "id": 606,
+            "hiddenDungeonId": 6,
+            "grade": 6,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 606
+        },
+        {
+            "id": 701,
+            "hiddenDungeonId": 7,
+            "grade": 1,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 701
+        },
+        {
+            "id": 702,
+            "hiddenDungeonId": 7,
+            "grade": 2,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 702
+        },
+        {
+            "id": 703,
+            "hiddenDungeonId": 7,
+            "grade": 3,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 703
+        },
+        {
+            "id": 704,
+            "hiddenDungeonId": 7,
+            "grade": 4,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 704
+        },
+        {
+            "id": 705,
+            "hiddenDungeonId": 7,
+            "grade": 5,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 705
+        },
+        {
+            "id": 706,
+            "hiddenDungeonId": 7,
+            "grade": 6,
+            "limitUser": 5,
+            "limitClearCnt": 10,
+            "achievePointMax": 100,
+            "openTime": 1800,
+            "rewardGroup": 706
+        }
+    ],
+    "counts": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+    ]
+}

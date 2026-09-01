@@ -1,0 +1,83 @@
+[
+    {
+        "level": "raid_apocalypse_x_mansion",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 945197104,
+                        "group": 90,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "aiprefab": "AI_gimmick_summon_apocalypse01"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 963197104,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse01",
+                        "delay": "50-60"
+                    },
+                    {
+                        "point": 92,
+                        "mob": 963197104,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse02",
+                        "delay": "50-60"
+                    },
+                    {
+                        "point": 93,
+                        "mob": 963197104,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse03",
+                        "delay": "50-60"
+                    },
+                    {
+                        "point": 94,
+                        "mob": 963197104,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": "2-8",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_summon_apocalypse04",
+                        "delay": "50-60"
+                    },
+                    {
+                        "point": 90,
+                        "mob": 716197104,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_raidapocalypse01_beginner",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "scale": "1.1",
+                        "appear": "appear",
+                        "boss_cam": "0.0,0.29,1.17"
+                    }
+                ]
+            }
+        ]
+    }
+]

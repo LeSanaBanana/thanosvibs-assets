@@ -1,0 +1,78 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4803114548333219078
+    },
+    "m_Name": "DOMINATION_TIMER",
+    "keys": [
+        1,
+        2,
+        3
+    ],
+    "values": [
+        {
+            "combatTimeId": 1,
+            "combatTimeStart": "2:00",
+            "combatTimeEnd": "3:00",
+            "combatTimeGroup": 1
+        },
+        {
+            "combatTimeId": 2,
+            "combatTimeStart": "10:00",
+            "combatTimeEnd": "11:00",
+            "combatTimeGroup": 1
+        },
+        {
+            "combatTimeId": 3,
+            "combatTimeStart": "18:00",
+            "combatTimeEnd": "19:00",
+            "combatTimeGroup": 1
+        },
+        {
+            "combatTimeId": 1,
+            "combatTimeStart": "10:00",
+            "combatTimeEnd": "11:00",
+            "combatTimeGroup": 2
+        },
+        {
+            "combatTimeId": 2,
+            "combatTimeStart": "18:00",
+            "combatTimeEnd": "19:00",
+            "combatTimeGroup": 2
+        },
+        {
+            "combatTimeId": 3,
+            "combatTimeStart": "2:00",
+            "combatTimeEnd": "3:00",
+            "combatTimeGroup": 2
+        },
+        {
+            "combatTimeId": 1,
+            "combatTimeStart": "18:00",
+            "combatTimeEnd": "19:00",
+            "combatTimeGroup": 3
+        },
+        {
+            "combatTimeId": 2,
+            "combatTimeStart": "2:00",
+            "combatTimeEnd": "3:00",
+            "combatTimeGroup": 3
+        },
+        {
+            "combatTimeId": 3,
+            "combatTimeStart": "10:00",
+            "combatTimeEnd": "11:00",
+            "combatTimeGroup": 3
+        }
+    ],
+    "counts": [
+        3,
+        3,
+        3
+    ]
+}

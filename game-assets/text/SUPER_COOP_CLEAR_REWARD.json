@@ -1,0 +1,3256 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7143036772856702634
+    },
+    "m_Name": "SUPER_COOP_CLEAR_REWARD",
+    "keys": [
+        101101,
+        101102,
+        101201,
+        101202,
+        101301,
+        101302,
+        101401,
+        101402,
+        101501,
+        101502,
+        101601,
+        101602,
+        102101,
+        102102,
+        102201,
+        102202,
+        102301,
+        102302,
+        102401,
+        102402,
+        102501,
+        102502,
+        102601,
+        102602,
+        103101,
+        103102,
+        103201,
+        103202,
+        103301,
+        103302,
+        103401,
+        103402,
+        103501,
+        103502,
+        103601,
+        103602,
+        201101,
+        201102,
+        201201,
+        201202,
+        201301,
+        201302,
+        201401,
+        201402,
+        201501,
+        201502,
+        201601,
+        201602,
+        202101,
+        202102,
+        202201,
+        202202,
+        202301,
+        202302,
+        202401,
+        202402,
+        202501,
+        202502,
+        202601,
+        202602,
+        203101,
+        203102,
+        203201,
+        203202,
+        203301,
+        203302,
+        203401,
+        203402,
+        203501,
+        203502,
+        203601,
+        203602,
+        301101,
+        301102,
+        301201,
+        301202,
+        301301,
+        301302,
+        301401,
+        301402,
+        301501,
+        301502,
+        301601,
+        301602,
+        302101,
+        302102,
+        302201,
+        302202,
+        302301,
+        302302,
+        302401,
+        302402,
+        302501,
+        302502,
+        302601,
+        302602,
+        303101,
+        303102,
+        303201,
+        303202,
+        303301,
+        303302,
+        303401,
+        303402,
+        303501,
+        303502,
+        303601,
+        303602,
+        401101,
+        401102,
+        401201,
+        401202,
+        401301,
+        401302,
+        401401,
+        401402,
+        401501,
+        401502,
+        401601,
+        401602,
+        402101,
+        402102,
+        402201,
+        402202,
+        402301,
+        402302,
+        402401,
+        402402,
+        402501,
+        402502,
+        402601,
+        402602,
+        403101,
+        403102,
+        403201,
+        403202,
+        403301,
+        403302,
+        403401,
+        403402,
+        403501,
+        403502,
+        403601,
+        403602,
+        501101,
+        501102,
+        501201,
+        501202,
+        501301,
+        501302,
+        501401,
+        501402,
+        501501,
+        501502,
+        501601,
+        501602,
+        502101,
+        502102,
+        502201,
+        502202,
+        502301,
+        502302,
+        502401,
+        502402,
+        502501,
+        502502,
+        502601,
+        502602,
+        503101,
+        503102,
+        503201,
+        503202,
+        503301,
+        503302,
+        503401,
+        503402,
+        503501,
+        503502,
+        503601,
+        503602,
+        601101,
+        601102,
+        601201,
+        601202,
+        601301,
+        601302,
+        601401,
+        601402,
+        601501,
+        601502,
+        601601,
+        601602,
+        602101,
+        602102,
+        602201,
+        602202,
+        602301,
+        602302,
+        602401,
+        602402,
+        602501,
+        602502,
+        602601,
+        602602,
+        603101,
+        603102,
+        603201,
+        603202,
+        603301,
+        603302,
+        603401,
+        603402,
+        603501,
+        603502,
+        603601,
+        603602
+    ],
+    "values": [
+        {
+            "id": 101101,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 101102,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 101201,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 101202,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 101301,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 101302,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 101401,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 101402,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 101501,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 101502,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 101601,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 101602,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 102101,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 102102,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 102201,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 102202,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 102301,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 102302,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 102401,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 102402,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 102501,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 102502,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 102601,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 102602,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 103101,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 103102,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 103201,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 103202,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 103301,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 103302,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 103401,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 103402,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 103501,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 103502,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 103601,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 103602,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 201101,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 201102,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 201201,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 201202,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 201301,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 201302,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 201401,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 201402,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 201501,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 201502,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 201601,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 201602,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 202101,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 202102,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 202201,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 202202,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 202301,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 202302,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 202401,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 202402,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 202501,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 202502,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 202601,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 202602,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 203101,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 203102,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 203201,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 203202,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 203301,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 203302,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 203401,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 203402,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 203501,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 203502,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 203601,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 203602,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 301101,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 301102,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 301201,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 301202,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 301301,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 301302,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 301401,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 301402,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 301501,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 301502,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 301601,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 301602,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 302101,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 302102,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 302201,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 302202,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 302301,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 302302,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 302401,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 302402,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 302501,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 302502,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 302601,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 302602,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 303101,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 303102,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 303201,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 303202,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 303301,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 303302,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 303401,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 303402,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 303501,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 303502,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 303601,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 303602,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 401101,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 401102,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 401201,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 401202,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 401301,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 401302,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 401401,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 401402,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 401501,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 401502,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 401601,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 401602,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 402101,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 402102,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 402201,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 402202,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 402301,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 402302,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 402401,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 402402,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 402501,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 402502,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 402601,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 402602,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 403101,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 403102,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 403201,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 403202,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 403301,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 403302,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 403401,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 403402,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 403501,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 403502,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 403601,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 403602,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 501101,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 501102,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 501201,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 501202,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 501301,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 501302,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 501401,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 501402,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 501501,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 501502,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 501601,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 501602,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 502101,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 502102,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 502201,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 502202,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 502301,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 502302,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 502401,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 502402,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 502501,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 502502,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 502601,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 502602,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 503101,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 503102,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 503201,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 503202,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 503301,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 503302,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 503401,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 503402,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 503501,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 503502,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 503601,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 503602,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 601101,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 601102,
+            "rank": 1,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                101001,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_02"
+        },
+        {
+            "id": 601201,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 601202,
+            "rank": 1,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                101002,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_04"
+        },
+        {
+            "id": 601301,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 601302,
+            "rank": 1,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                101003,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_06"
+        },
+        {
+            "id": 601401,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 601402,
+            "rank": 1,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                101004,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_08"
+        },
+        {
+            "id": 601501,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 601502,
+            "rank": 1,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                101005,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_10"
+        },
+        {
+            "id": 601601,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 601602,
+            "rank": 1,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                101006
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_12"
+        },
+        {
+            "id": 602101,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 602102,
+            "rank": 2,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 602201,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 602202,
+            "rank": 2,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 602301,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 602302,
+            "rank": 2,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 602401,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 602402,
+            "rank": 2,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 602501,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 602502,
+            "rank": 2,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 602601,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 602602,
+            "rank": 2,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 603101,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100101,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 603102,
+            "rank": 3,
+            "rewardGrade": 1,
+            "pickList": [
+                100201,
+                100301,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_01"
+        },
+        {
+            "id": 603201,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100102,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 603202,
+            "rank": 3,
+            "rewardGrade": 2,
+            "pickList": [
+                100202,
+                100302,
+                0,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_03"
+        },
+        {
+            "id": 603301,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100103,
+                100303,
+                100403,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 603302,
+            "rank": 3,
+            "rewardGrade": 3,
+            "pickList": [
+                100203,
+                100303,
+                100503,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_05"
+        },
+        {
+            "id": 603401,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100104,
+                100304,
+                100404,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 603402,
+            "rank": 3,
+            "rewardGrade": 4,
+            "pickList": [
+                100204,
+                100304,
+                100504,
+                0,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_07"
+        },
+        {
+            "id": 603501,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100105,
+                100305,
+                100405,
+                100605,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 603502,
+            "rank": 3,
+            "rewardGrade": 5,
+            "pickList": [
+                100205,
+                100305,
+                100505,
+                100705,
+                0,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_09"
+        },
+        {
+            "id": 603601,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100106,
+                100306,
+                100406,
+                100606,
+                100806,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        },
+        {
+            "id": 603602,
+            "rank": 3,
+            "rewardGrade": 6,
+            "pickList": [
+                100206,
+                100306,
+                100506,
+                100706,
+                100906,
+                0
+            ],
+            "boxPrefabName": "SuperCooperation_Chest_11"
+        }
+    ]
+}

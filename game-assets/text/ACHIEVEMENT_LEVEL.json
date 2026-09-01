@@ -1,0 +1,814 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1648827763900733432
+    },
+    "m_Name": "ACHIEVEMENT_LEVEL",
+    "list": [
+        {
+            "achievementLv": 1,
+            "levelStartPoint": 0,
+            "rewardType": 0,
+            "rewardValue": 0,
+            "rewardQty": 0,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 2,
+            "levelStartPoint": 100,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 3,
+            "levelStartPoint": 200,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 4,
+            "levelStartPoint": 300,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 5,
+            "levelStartPoint": 400,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 6,
+            "levelStartPoint": 500,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 7,
+            "levelStartPoint": 600,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 8,
+            "levelStartPoint": 700,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 9,
+            "levelStartPoint": 800,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 10,
+            "levelStartPoint": 900,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 11,
+            "levelStartPoint": 1050,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 12,
+            "levelStartPoint": 1200,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 13,
+            "levelStartPoint": 1350,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 14,
+            "levelStartPoint": 1500,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 15,
+            "levelStartPoint": 1650,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 16,
+            "levelStartPoint": 1800,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 17,
+            "levelStartPoint": 1950,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 18,
+            "levelStartPoint": 2100,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 19,
+            "levelStartPoint": 2250,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 20,
+            "levelStartPoint": 2400,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 21,
+            "levelStartPoint": 2600,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 22,
+            "levelStartPoint": 2800,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 23,
+            "levelStartPoint": 3000,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 24,
+            "levelStartPoint": 3200,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 25,
+            "levelStartPoint": 3400,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_1"
+        },
+        {
+            "achievementLv": 26,
+            "levelStartPoint": 3600,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 27,
+            "levelStartPoint": 3800,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 28,
+            "levelStartPoint": 4000,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 29,
+            "levelStartPoint": 4200,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 30,
+            "levelStartPoint": 4400,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 31,
+            "levelStartPoint": 4650,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 32,
+            "levelStartPoint": 4900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 33,
+            "levelStartPoint": 5150,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 34,
+            "levelStartPoint": 5400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 35,
+            "levelStartPoint": 5650,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 36,
+            "levelStartPoint": 5900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 37,
+            "levelStartPoint": 6150,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 38,
+            "levelStartPoint": 6400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 39,
+            "levelStartPoint": 6650,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 40,
+            "levelStartPoint": 6900,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 41,
+            "levelStartPoint": 7150,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 42,
+            "levelStartPoint": 7400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 43,
+            "levelStartPoint": 7650,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 44,
+            "levelStartPoint": 7900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 45,
+            "levelStartPoint": 8150,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 46,
+            "levelStartPoint": 8400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 47,
+            "levelStartPoint": 8650,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 48,
+            "levelStartPoint": 8900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 49,
+            "levelStartPoint": 9150,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 50,
+            "levelStartPoint": 9400,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_2"
+        },
+        {
+            "achievementLv": 51,
+            "levelStartPoint": 9700,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 52,
+            "levelStartPoint": 10000,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 53,
+            "levelStartPoint": 10300,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 54,
+            "levelStartPoint": 10600,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 55,
+            "levelStartPoint": 10900,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 56,
+            "levelStartPoint": 11200,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 57,
+            "levelStartPoint": 11500,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 58,
+            "levelStartPoint": 11800,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 59,
+            "levelStartPoint": 12100,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 60,
+            "levelStartPoint": 12400,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 61,
+            "levelStartPoint": 12750,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 62,
+            "levelStartPoint": 13100,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 63,
+            "levelStartPoint": 13450,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 64,
+            "levelStartPoint": 13800,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 65,
+            "levelStartPoint": 14150,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 66,
+            "levelStartPoint": 14500,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 67,
+            "levelStartPoint": 14850,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 68,
+            "levelStartPoint": 15200,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 69,
+            "levelStartPoint": 15550,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 70,
+            "levelStartPoint": 15900,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 71,
+            "levelStartPoint": 16300,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 72,
+            "levelStartPoint": 16700,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 73,
+            "levelStartPoint": 17100,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 74,
+            "levelStartPoint": 17500,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 75,
+            "levelStartPoint": 17900,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_3"
+        },
+        {
+            "achievementLv": 76,
+            "levelStartPoint": 18300,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 77,
+            "levelStartPoint": 18700,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 78,
+            "levelStartPoint": 19100,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 79,
+            "levelStartPoint": 19500,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 80,
+            "levelStartPoint": 19900,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 81,
+            "levelStartPoint": 20400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 82,
+            "levelStartPoint": 20900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 83,
+            "levelStartPoint": 21400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 84,
+            "levelStartPoint": 21900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 85,
+            "levelStartPoint": 22400,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 86,
+            "levelStartPoint": 22900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 87,
+            "levelStartPoint": 23400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 88,
+            "levelStartPoint": 23900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 89,
+            "levelStartPoint": 24400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 90,
+            "levelStartPoint": 24900,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 91,
+            "levelStartPoint": 25400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 92,
+            "levelStartPoint": 25900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 93,
+            "levelStartPoint": 26400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 94,
+            "levelStartPoint": 26900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 95,
+            "levelStartPoint": 27400,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 96,
+            "levelStartPoint": 27900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 97,
+            "levelStartPoint": 28400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 98,
+            "levelStartPoint": 28900,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 99,
+            "levelStartPoint": 29400,
+            "rewardType": 300,
+            "rewardValue": 1683,
+            "rewardQty": 1,
+            "icon": "AchievementIcon_4"
+        },
+        {
+            "achievementLv": 100,
+            "levelStartPoint": 29900,
+            "rewardType": 4,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "icon": "AchievementIcon_4"
+        }
+    ]
+}

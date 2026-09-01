@@ -1,0 +1,51 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7356731373946665291
+    },
+    "m_Name": "TIER4_DISCOUNT_MISSION",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "values": [
+        {
+            "Step": 1,
+            "Tier": 4,
+            "TierValue": 0,
+            "DiscountId": 1
+        },
+        {
+            "Step": 2,
+            "Tier": 4,
+            "TierValue": 1,
+            "DiscountId": 2
+        },
+        {
+            "Step": 3,
+            "Tier": 4,
+            "TierValue": 3,
+            "DiscountId": 2
+        },
+        {
+            "Step": 4,
+            "Tier": 4,
+            "TierValue": 5,
+            "DiscountId": 2
+        },
+        {
+            "Step": 5,
+            "Tier": 4,
+            "TierValue": 7,
+            "DiscountId": 2
+        }
+    ]
+}

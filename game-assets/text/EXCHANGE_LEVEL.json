@@ -1,0 +1,211 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5317263541074062132
+    },
+    "m_Name": "EXCHANGE_LEVEL",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+    ],
+    "values": [
+        {
+            "level": 1,
+            "reqShieldLevel": 1,
+            "reqGold": 0,
+            "reqItemId1": 0,
+            "reqItemQty1": 0,
+            "reqItemId2": 0,
+            "reqItemQty2": 0,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 0
+        },
+        {
+            "level": 2,
+            "reqShieldLevel": 3,
+            "reqGold": 7400,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 10,
+            "reqItemId2": 0,
+            "reqItemQty2": 0,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 100
+        },
+        {
+            "level": 3,
+            "reqShieldLevel": 5,
+            "reqGold": 16400,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 15,
+            "reqItemId2": 0,
+            "reqItemQty2": 0,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 200
+        },
+        {
+            "level": 4,
+            "reqShieldLevel": 7,
+            "reqGold": 28700,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 20,
+            "reqItemId2": 0,
+            "reqItemQty2": 0,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 300
+        },
+        {
+            "level": 5,
+            "reqShieldLevel": 10,
+            "reqGold": 54100,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 25,
+            "reqItemId2": 0,
+            "reqItemQty2": 0,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 300
+        },
+        {
+            "level": 6,
+            "reqShieldLevel": 14,
+            "reqGold": 109700,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 35,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 20,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 400
+        },
+        {
+            "level": 7,
+            "reqShieldLevel": 18,
+            "reqGold": 199800,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 45,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 30,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 500
+        },
+        {
+            "level": 8,
+            "reqShieldLevel": 22,
+            "reqGold": 337300,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 55,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 40,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 500
+        },
+        {
+            "level": 9,
+            "reqShieldLevel": 26,
+            "reqGold": 538600,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 65,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 50,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 500
+        },
+        {
+            "level": 10,
+            "reqShieldLevel": 30,
+            "reqGold": 833200,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 75,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 60,
+            "reqItemId3": 0,
+            "reqItemQty3": 0,
+            "jackpotBonus": 500
+        },
+        {
+            "level": 11,
+            "reqShieldLevel": 34,
+            "reqGold": 1263700,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 90,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 75,
+            "reqItemId3": 10199004,
+            "reqItemQty3": 50,
+            "jackpotBonus": 500
+        },
+        {
+            "level": 12,
+            "reqShieldLevel": 38,
+            "reqGold": 1876700,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 105,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 90,
+            "reqItemId3": 10199004,
+            "reqItemQty3": 60,
+            "jackpotBonus": 500
+        },
+        {
+            "level": 13,
+            "reqShieldLevel": 42,
+            "reqGold": 2647700,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 120,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 105,
+            "reqItemId3": 10199004,
+            "reqItemQty3": 70,
+            "jackpotBonus": 500
+        },
+        {
+            "level": 14,
+            "reqShieldLevel": 46,
+            "reqGold": 3515300,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 135,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 120,
+            "reqItemId3": 10199004,
+            "reqItemQty3": 80,
+            "jackpotBonus": 500
+        },
+        {
+            "level": 15,
+            "reqShieldLevel": 50,
+            "reqGold": 4560400,
+            "reqItemId1": 10199001,
+            "reqItemQty1": 150,
+            "reqItemId2": 10199003,
+            "reqItemQty2": 135,
+            "reqItemId3": 10199004,
+            "reqItemQty3": 90,
+            "jackpotBonus": 500
+        }
+    ]
+}

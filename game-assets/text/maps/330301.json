@@ -1,0 +1,100 @@
+[
+    {
+        "level": "raid_orollan_hard",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 91,
+                        "mob": 973330301,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate01"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 973330301,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate02"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 973330301,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate03"
+                    },
+                    {
+                        "point": 91,
+                        "mob": 973330301,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate04"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 974330301,
+                        "group": 99,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 2
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 244330301,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 2
+                    },
+                    {
+                        "point": 9002,
+                        "mob": 243330301,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "trigger": 2
+                    },
+                    {
+                        "appear": "appear01",
+                        "point": 90,
+                        "mob": 755330301,
+                        "group": 90,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "die": "die01",
+                        "aiprefab": "AI_RaidCorvus_hard1",
+                        "scale": 1.1
+                    },
+                    {
+                        "appear": "appear02",
+                        "point": 91,
+                        "mob": 756330301,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 4,
+                        "delay": "4.5",
+                        "autoregen": "90-1",
+                        "avoidancePriority": 0,
+                        "die": "die02",
+                        "aiprefab": "AI_RaidCorvus_hard2",
+                        "scale": 1.1,
+                        "keymob": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,830 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6484389177745085345
+    },
+    "m_Name": "EVENT_BINGO_REWARD",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+    ],
+    "values": [
+        {
+            "bingoGroupId": 1,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 409060000,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 2,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2279,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 3,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2279,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 4,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2279,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2279,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2310,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2315,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2311,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 5,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2316,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2279,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2335,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2337,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2336,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 6,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2338,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2279,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2354,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2356,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2355,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 7,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2357,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2279,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2371,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2373,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2372,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 8,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2374,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2279,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2388,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2390,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2389,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 9,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2391,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2410,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2431,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2433,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2432,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2434,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 10,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2423,
+            "rewardQty": 1,
+            "rewardOrder": 6
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2410,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2472,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2474,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2473,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2475,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 11,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2423,
+            "rewardQty": 1,
+            "rewardOrder": 6
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7691,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7692,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7693,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7694,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 12,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13596,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7818,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7819,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 13,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 415060000,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16019,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16017,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16020,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16018,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16021,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 14,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2423,
+            "rewardQty": 1,
+            "rewardOrder": 6
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7691,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7692,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7693,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7694,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 15,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13596,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16001,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16080,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16002,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16065,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16042,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 16,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2423,
+            "rewardQty": 1,
+            "rewardOrder": 6
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7691,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7692,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7693,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7694,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 17,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13596,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7818,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7819,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 18,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 416060000,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16019,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16032,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16020,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16101,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16021,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 19,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2423,
+            "rewardQty": 1,
+            "rewardOrder": 6
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7691,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7692,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7693,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7694,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 20,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13596,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16092,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16032,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16093,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16101,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16094,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 21,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2423,
+            "rewardQty": 1,
+            "rewardOrder": 6
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13856,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13857,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13858,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13859,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 22,
+            "bingoLineCount": 5,
+            "rewardType": 300,
+            "rewardValue": 13860,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        }
+    ],
+    "counts": [
+        1,
+        1,
+        1,
+        1,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        5,
+        3,
+        6,
+        5,
+        6,
+        5,
+        3,
+        6,
+        5,
+        6,
+        5
+    ]
+}

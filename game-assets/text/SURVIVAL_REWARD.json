@@ -1,0 +1,232 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 753010574084497386
+    },
+    "m_Name": "SURVIVAL_REWARD",
+    "keys": [
+        28010001,
+        28010002,
+        28010003,
+        28010004,
+        28010005,
+        28010006,
+        28010007,
+        28010008,
+        28020001,
+        28020002,
+        28020003,
+        28020004,
+        28020005,
+        28020006,
+        28020007,
+        28020008,
+        28030001,
+        28030002,
+        28030003,
+        28030004,
+        28030005,
+        28030006,
+        28030007,
+        28030008
+    ],
+    "values": [
+        {
+            "rewardId": 28010001,
+            "rewardGroupId": 280100,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 20,
+            "prob": 0
+        },
+        {
+            "rewardId": 28010002,
+            "rewardGroupId": 280100,
+            "rewardType": 300,
+            "rewardValue": 1055,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28010003,
+            "rewardGroupId": 280100,
+            "rewardType": 100,
+            "rewardValue": 202010501,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28010004,
+            "rewardGroupId": 280100,
+            "rewardType": 300,
+            "rewardValue": 1067,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28010005,
+            "rewardGroupId": 280100,
+            "rewardType": 143,
+            "rewardValue": 0,
+            "rewardQty": 5,
+            "prob": 0
+        },
+        {
+            "rewardId": 28010006,
+            "rewardGroupId": 280100,
+            "rewardType": 300,
+            "rewardValue": 1106,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28010007,
+            "rewardGroupId": 280100,
+            "rewardType": 100,
+            "rewardValue": 501000001,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28010008,
+            "rewardGroupId": 280100,
+            "rewardType": 100,
+            "rewardValue": 135,
+            "rewardQty": 10,
+            "prob": 0
+        },
+        {
+            "rewardId": 28020001,
+            "rewardGroupId": 280200,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 30,
+            "prob": 0
+        },
+        {
+            "rewardId": 28020002,
+            "rewardGroupId": 280200,
+            "rewardType": 300,
+            "rewardValue": 1056,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28020003,
+            "rewardGroupId": 280200,
+            "rewardType": 100,
+            "rewardValue": 203010601,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28020004,
+            "rewardGroupId": 280200,
+            "rewardType": 300,
+            "rewardValue": 1068,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28020005,
+            "rewardGroupId": 280200,
+            "rewardType": 143,
+            "rewardValue": 0,
+            "rewardQty": 5,
+            "prob": 0
+        },
+        {
+            "rewardId": 28020006,
+            "rewardGroupId": 280200,
+            "rewardType": 300,
+            "rewardValue": 1107,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28020007,
+            "rewardGroupId": 280200,
+            "rewardType": 100,
+            "rewardValue": 502000001,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28020008,
+            "rewardGroupId": 280200,
+            "rewardType": 100,
+            "rewardValue": 135,
+            "rewardQty": 15,
+            "prob": 0
+        },
+        {
+            "rewardId": 28030001,
+            "rewardGroupId": 280300,
+            "rewardType": 2,
+            "rewardValue": 0,
+            "rewardQty": 40,
+            "prob": 0
+        },
+        {
+            "rewardId": 28030002,
+            "rewardGroupId": 280300,
+            "rewardType": 300,
+            "rewardValue": 1057,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28030003,
+            "rewardGroupId": 280300,
+            "rewardType": 100,
+            "rewardValue": 204010701,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28030004,
+            "rewardGroupId": 280300,
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28030005,
+            "rewardGroupId": 280300,
+            "rewardType": 143,
+            "rewardValue": 0,
+            "rewardQty": 5,
+            "prob": 0
+        },
+        {
+            "rewardId": 28030006,
+            "rewardGroupId": 280300,
+            "rewardType": 300,
+            "rewardValue": 1108,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28030007,
+            "rewardGroupId": 280300,
+            "rewardType": 100,
+            "rewardValue": 503000001,
+            "rewardQty": 1,
+            "prob": 0
+        },
+        {
+            "rewardId": 28030008,
+            "rewardGroupId": 280300,
+            "rewardType": 100,
+            "rewardValue": 135,
+            "rewardQty": 20,
+            "prob": 0
+        }
+    ]
+}

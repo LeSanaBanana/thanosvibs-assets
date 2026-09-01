@@ -1,0 +1,28 @@
+[
+    {
+        "level": "arcade_antman2_ghost_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 765360702,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 50,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill01",
+                        "boss_cam": "0,0.2,1.2",
+                        "aiprefab": "ai_legendaryghost",
+                        "scale": "1.1"
+                    }
+                ]
+            }
+        ]
+    }
+]

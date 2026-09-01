@@ -1,0 +1,78 @@
+[
+    {
+        "level": "raid_necropolis_hard",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 9001,
+                        "mob": 973330101,
+                        "group": 91,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate01"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330101,
+                        "group": 92,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate02"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330101,
+                        "group": 93,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate03"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 973330101,
+                        "group": 94,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_gimmick_ultimate04"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 971330101,
+                        "group": 90,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy06_hard"
+                    },
+                    {
+                        "point": 9001,
+                        "mob": 972330101,
+                        "group": 2,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "autoregen": 99
+                    },
+                    {
+                        "appear": "appear",
+                        "point": 90,
+                        "mob": 754330101,
+                        "group": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "AI_RaidProxima_hard",
+                        "keymob": 1,
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "die": "die",
+                        "scale": "1.1",
+                        "boss_cam": "0,0.29,0.37"
+                    }
+                ]
+            }
+        ]
+    }
+]

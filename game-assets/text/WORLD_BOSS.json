@@ -1,0 +1,234 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7668816810395680887
+    },
+    "m_Name": "WORLD_BOSS",
+    "keys": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1019,
+        1020
+    ],
+    "values": [
+        {
+            "RaidGroupId": 1001,
+            "MobGroup": 563190101,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.3,\"z\":-11},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap1",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1002,
+            "MobGroup": 565190102,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.2,\"z\":-11},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap2",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1003,
+            "MobGroup": 713190201,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.1,\"z\":-9},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "dialog_idle",
+            "bossBg": "ui/bg_raid/raidmap10",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1004,
+            "MobGroup": 714190202,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.1,\"z\":-10},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap11",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1005,
+            "MobGroup": 564190103,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1,\"z\":-9},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap3",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1006,
+            "MobGroup": 568190104,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.1,\"z\":-9},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap4",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1007,
+            "MobGroup": 715190203,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.2,\"z\":-9},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap12",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1008,
+            "MobGroup": 716190204,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.4,\"z\":-11},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap13",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1009,
+            "MobGroup": 569190105,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1,\"z\":-9},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap5",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1010,
+            "MobGroup": 571190107,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.2,\"z\":-10},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap6",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1011,
+            "MobGroup": 873331101,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.45,\"z\":-12.5},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap14",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1012,
+            "MobGroup": 1095331201,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.15,\"z\":-9.6},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap15",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1013,
+            "MobGroup": 1141331301,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.3,\"z\":-9.6},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap16",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1014,
+            "MobGroup": 1150331401,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.1,\"z\":-9},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap17",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1015,
+            "MobGroup": 1157331501,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.2,\"z\":-9},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap18",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1016,
+            "MobGroup": 1172331601,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.1,\"z\":-9.},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap19",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1017,
+            "MobGroup": 1207331701,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.1,\"z\":-9.},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap20",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1018,
+            "MobGroup": 1219331801,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.1,\"z\":-9.},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "idle",
+            "bossBg": "ui/bg_raid/raidmap21",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1018,
+            "MobGroup": 1209331801,
+            "BossCamera": "0",
+            "BossAni": "wait02",
+            "bossBg": "ui/bg_raid/raidmap21",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1019,
+            "MobGroup": 1239331901,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.1,\"z\":-9.},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "idle",
+            "bossBg": "ui/bg_raid/raidmap5",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1019,
+            "MobGroup": 1238331901,
+            "BossCamera": "0",
+            "BossAni": "idle",
+            "bossBg": "ui/bg_raid/raidmap5",
+            "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1020,
+            "MobGroup": 1256332001,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.2,\"z\":-10},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":16}",
+            "BossAni": "wait",
+            "bossBg": "ui/bg_raid/raidmap22",
+            "goodsId": 0
+        }
+    ],
+    "counts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1
+    ]
+}

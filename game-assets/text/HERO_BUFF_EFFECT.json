@@ -1,0 +1,70 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3114367833924648166
+    },
+    "m_Name": "HERO_BUFF_EFFECT",
+    "keys": [
+        75099,
+        332790221,
+        332790231,
+        332820411,
+        332970261,
+        332580313,
+        333790233,
+        1040002011,
+        333640461
+    ],
+    "values": [
+        {
+            "abilityGroupId": 75099,
+            "abilityId": 292,
+            "buffIcon": "200"
+        },
+        {
+            "abilityGroupId": 332790221,
+            "abilityId": 368,
+            "buffIcon": "200"
+        },
+        {
+            "abilityGroupId": 332790231,
+            "abilityId": 368,
+            "buffIcon": "200"
+        },
+        {
+            "abilityGroupId": 332820411,
+            "abilityId": 505,
+            "buffIcon": "200"
+        },
+        {
+            "abilityGroupId": 332970261,
+            "abilityId": 367,
+            "buffIcon": "365"
+        },
+        {
+            "abilityGroupId": 332580313,
+            "abilityId": 406,
+            "buffIcon": "332"
+        },
+        {
+            "abilityGroupId": 333790233,
+            "abilityId": 347,
+            "buffIcon": "357"
+        },
+        {
+            "abilityGroupId": 1040002011,
+            "abilityId": 575,
+            "buffIcon": "cooper_skill_01"
+        },
+        {
+            "abilityGroupId": 333640461,
+            "abilityId": 319,
+            "buffIcon": "100"
+        }
+    ]
+}

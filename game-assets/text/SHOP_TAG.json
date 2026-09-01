@@ -1,0 +1,509 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2860323098395085571
+    },
+    "m_Name": "SHOP_TAG",
+    "list": [
+        {
+            "tagId": 10901,
+            "tagGroup": 9,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 100,
+            "tagValue2": 0,
+            "tagImage": "ability_item_11032"
+        },
+        {
+            "tagId": 10902,
+            "tagGroup": 9,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 50024,
+            "tagValue2": 0,
+            "tagImage": "ability_item_11032"
+        },
+        {
+            "tagId": 10903,
+            "tagGroup": 9,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 52339,
+            "tagValue2": 0,
+            "tagImage": "ability_item_11032"
+        },
+        {
+            "tagId": 11401,
+            "tagGroup": 14,
+            "tagColor": 1,
+            "tagType": 2,
+            "tagValue1": 111,
+            "tagValue2": 0,
+            "tagImage": "tier2itemboost_mutant"
+        },
+        {
+            "tagId": 11402,
+            "tagGroup": 14,
+            "tagColor": 1,
+            "tagType": 3,
+            "tagValue1": 30034,
+            "tagValue2": 0,
+            "tagImage": "tier2itemboost_mutant"
+        },
+        {
+            "tagId": 11501,
+            "tagGroup": 15,
+            "tagColor": 1,
+            "tagType": 2,
+            "tagValue1": 112,
+            "tagValue2": 0,
+            "tagImage": "awaken_mutant_tier2"
+        },
+        {
+            "tagId": 11502,
+            "tagGroup": 15,
+            "tagColor": 1,
+            "tagType": 3,
+            "tagValue1": 30035,
+            "tagValue2": 0,
+            "tagImage": "awaken_mutant_tier2"
+        },
+        {
+            "tagId": 11601,
+            "tagGroup": 16,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 110,
+            "tagValue2": 0,
+            "tagImage": "awaken_mutant_01"
+        },
+        {
+            "tagId": 11602,
+            "tagGroup": 16,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 30032,
+            "tagValue2": 0,
+            "tagImage": "awaken_mutant_01"
+        },
+        {
+            "tagId": 11701,
+            "tagGroup": 17,
+            "tagColor": 1,
+            "tagType": 2,
+            "tagValue1": 107,
+            "tagValue2": 0,
+            "tagImage": "tier2itemboost_1"
+        },
+        {
+            "tagId": 11702,
+            "tagGroup": 17,
+            "tagColor": 1,
+            "tagType": 3,
+            "tagValue1": 30024,
+            "tagValue2": 0,
+            "tagImage": "tier2itemboost_1"
+        },
+        {
+            "tagId": 11801,
+            "tagGroup": 18,
+            "tagColor": 1,
+            "tagType": 2,
+            "tagValue1": 102,
+            "tagValue2": 1020005,
+            "tagImage": "awaken_tier2"
+        },
+        {
+            "tagId": 11802,
+            "tagGroup": 18,
+            "tagColor": 1,
+            "tagType": 3,
+            "tagValue1": 30025,
+            "tagValue2": 0,
+            "tagImage": "awaken_tier2"
+        },
+        {
+            "tagId": 11901,
+            "tagGroup": 19,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 308,
+            "tagValue2": 0,
+            "tagImage": "upgrade_hero_06_Advanced"
+        },
+        {
+            "tagId": 11902,
+            "tagGroup": 19,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 310,
+            "tagValue2": 0,
+            "tagImage": "upgrade_hero_06_Advanced"
+        },
+        {
+            "tagId": 12001,
+            "tagGroup": 20,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 309,
+            "tagValue2": 0,
+            "tagImage": "mastery_hero_06_Advanced"
+        },
+        {
+            "tagId": 12002,
+            "tagGroup": 20,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 311,
+            "tagValue2": 0,
+            "tagImage": "mastery_hero_06_Advanced"
+        },
+        {
+            "tagId": 12101,
+            "tagGroup": 21,
+            "tagColor": 1,
+            "tagType": 2,
+            "tagValue1": 314,
+            "tagValue2": 0,
+            "tagImage": "upgrade_tier2_Advanced"
+        },
+        {
+            "tagId": 12102,
+            "tagGroup": 21,
+            "tagColor": 1,
+            "tagType": 2,
+            "tagValue1": 315,
+            "tagValue2": 0,
+            "tagImage": "upgrade_tier2_Advanced"
+        },
+        {
+            "tagId": 12201,
+            "tagGroup": 22,
+            "tagColor": 3,
+            "tagType": 2,
+            "tagValue1": 123,
+            "tagValue2": 0,
+            "tagImage": "awakening_kit_01"
+        },
+        {
+            "tagId": 12301,
+            "tagGroup": 23,
+            "tagColor": 2,
+            "tagType": 2,
+            "tagValue1": 114,
+            "tagValue2": 1140001,
+            "tagImage": "tier3_cosmic_shard"
+        },
+        {
+            "tagId": 12401,
+            "tagGroup": 24,
+            "tagColor": 2,
+            "tagType": 2,
+            "tagValue1": 114,
+            "tagValue2": 1140002,
+            "tagImage": "tier3_gearkit_01"
+        },
+        {
+            "tagId": 12501,
+            "tagGroup": 25,
+            "tagColor": 2,
+            "tagType": 2,
+            "tagValue1": 114,
+            "tagValue2": 1140003,
+            "tagImage": "tier3_gearkit_02"
+        },
+        {
+            "tagId": 12601,
+            "tagGroup": 26,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 116,
+            "tagValue2": 0,
+            "tagImage": "shop_tag_image_26"
+        },
+        {
+            "tagId": 12602,
+            "tagGroup": 26,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 117,
+            "tagValue2": 0,
+            "tagImage": "shop_tag_image_26"
+        },
+        {
+            "tagId": 12603,
+            "tagGroup": 26,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 118,
+            "tagValue2": 0,
+            "tagImage": "shop_tag_image_26"
+        },
+        {
+            "tagId": 12604,
+            "tagGroup": 26,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 119,
+            "tagValue2": 0,
+            "tagImage": "shop_tag_image_26"
+        },
+        {
+            "tagId": 12701,
+            "tagGroup": 27,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 200,
+            "tagValue2": 0,
+            "tagImage": "ISO8_BLACK"
+        },
+        {
+            "tagId": 12702,
+            "tagGroup": 27,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 201,
+            "tagValue2": 0,
+            "tagImage": "ISO8_BLACK"
+        },
+        {
+            "tagId": 12703,
+            "tagGroup": 27,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 202,
+            "tagValue2": 0,
+            "tagImage": "ISO8_BLACK"
+        },
+        {
+            "tagId": 12704,
+            "tagGroup": 27,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 203,
+            "tagValue2": 0,
+            "tagImage": "ISO8_BLACK"
+        },
+        {
+            "tagId": 12705,
+            "tagGroup": 27,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 204,
+            "tagValue2": 0,
+            "tagImage": "ISO8_BLACK"
+        },
+        {
+            "tagId": 12706,
+            "tagGroup": 27,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 205,
+            "tagValue2": 0,
+            "tagImage": "ISO8_BLACK"
+        },
+        {
+            "tagId": 12707,
+            "tagGroup": 27,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 206,
+            "tagValue2": 0,
+            "tagImage": "ISO8_BLACK"
+        },
+        {
+            "tagId": 12708,
+            "tagGroup": 27,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 207,
+            "tagValue2": 0,
+            "tagImage": "ISO8_BLACK"
+        },
+        {
+            "tagId": 12801,
+            "tagGroup": 28,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 108,
+            "tagValue2": 0,
+            "tagImage": "select_item_odin2"
+        },
+        {
+            "tagId": 12802,
+            "tagGroup": 28,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 122,
+            "tagValue2": 0,
+            "tagImage": "select_item_odin2"
+        },
+        {
+            "tagId": 12901,
+            "tagGroup": 29,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 7,
+            "tagValue2": 0,
+            "tagImage": "gear_special_item_401_07"
+        },
+        {
+            "tagId": 13001,
+            "tagGroup": 30,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 317,
+            "tagValue2": 0,
+            "tagImage": "upgrade_uniform_06_advanced"
+        },
+        {
+            "tagId": 13002,
+            "tagGroup": 30,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 318,
+            "tagValue2": 0,
+            "tagImage": "upgrade_uniform_06_advanced"
+        },
+        {
+            "tagId": 13101,
+            "tagGroup": 31,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 106,
+            "tagValue2": 0,
+            "tagImage": "package_doctorStrangeCard"
+        },
+        {
+            "tagId": 13201,
+            "tagGroup": 32,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 30018,
+            "tagValue2": 0,
+            "tagImage": "ability_item_11004"
+        },
+        {
+            "tagId": 13202,
+            "tagGroup": 32,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 52285,
+            "tagValue2": 0,
+            "tagImage": "ability_item_11004"
+        },
+        {
+            "tagId": 13301,
+            "tagGroup": 33,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 30010,
+            "tagValue2": 0,
+            "tagImage": "clear_ticket_01"
+        },
+        {
+            "tagId": 13401,
+            "tagGroup": 34,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 30014,
+            "tagValue2": 0,
+            "tagImage": "hidden_ticket"
+        },
+        {
+            "tagId": 13501,
+            "tagGroup": 35,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 30004,
+            "tagValue2": 0,
+            "tagImage": "ability_item_10011"
+        },
+        {
+            "tagId": 13502,
+            "tagGroup": 35,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 30006,
+            "tagValue2": 0,
+            "tagImage": "ability_item_10011"
+        },
+        {
+            "tagId": 13503,
+            "tagGroup": 35,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 30005,
+            "tagValue2": 0,
+            "tagImage": "ability_item_10011"
+        },
+        {
+            "tagId": 13504,
+            "tagGroup": 35,
+            "tagColor": 0,
+            "tagType": 3,
+            "tagValue1": 30023,
+            "tagValue2": 0,
+            "tagImage": "ability_item_10011"
+        },
+        {
+            "tagId": 13601,
+            "tagGroup": 36,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 8,
+            "tagValue2": 0,
+            "tagImage": "shop_tag_image_36"
+        },
+        {
+            "tagId": 13602,
+            "tagGroup": 36,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 129,
+            "tagValue2": 0,
+            "tagImage": "shop_tag_image_36"
+        },
+        {
+            "tagId": 13701,
+            "tagGroup": 37,
+            "tagColor": 4,
+            "tagType": 2,
+            "tagValue1": 124,
+            "tagValue2": 1330001,
+            "tagImage": "tier4_gearkit_01"
+        },
+        {
+            "tagId": 13801,
+            "tagGroup": 38,
+            "tagColor": 4,
+            "tagType": 2,
+            "tagValue1": 124,
+            "tagValue2": 1330002,
+            "tagImage": "tier4_gearkit_02"
+        },
+        {
+            "tagId": 13901,
+            "tagGroup": 39,
+            "tagColor": 4,
+            "tagType": 2,
+            "tagValue1": 124,
+            "tagValue2": 1330003,
+            "tagImage": "tier4_gearkit_03"
+        },
+        {
+            "tagId": 14001,
+            "tagGroup": 40,
+            "tagColor": 0,
+            "tagType": 2,
+            "tagValue1": 14,
+            "tagValue2": 0,
+            "tagImage": "emblem_2"
+        }
+    ]
+}

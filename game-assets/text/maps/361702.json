@@ -1,0 +1,30 @@
+[
+    {
+        "level": "arcade_shangchi_fight_club_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1129361702,
+                        "group": 1,
+                        "sight": 15,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "trigger": -1,
+                        "keymob": 1,
+                        "aiprefab": "ai_boss_deathdealer01_arcade",
+                        "boss_cam_ani": "appear_cam",
+                        "boss_cam": "0,0,0",
+                        "appear": "appear_cam",
+                        "boss_appear": "skill02-01",
+                        "avoidancePriority": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

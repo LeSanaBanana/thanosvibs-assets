@@ -1,0 +1,808 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1022022703448944485
+    },
+    "m_Name": "STORY_FIRST_CLEAR_REWARD",
+    "keys": [
+        490101,
+        490102,
+        490103,
+        490201,
+        490202,
+        490203,
+        490301,
+        490302,
+        490303,
+        490401,
+        490402,
+        490501,
+        490601,
+        490602,
+        490701,
+        490702,
+        490703,
+        490801,
+        490802,
+        490803,
+        500101,
+        500102,
+        500103,
+        500201,
+        500202,
+        500203,
+        500301,
+        500302,
+        500303,
+        500401,
+        500402,
+        500501,
+        500601,
+        500602,
+        500701,
+        500702,
+        500703,
+        500801,
+        500802,
+        500803,
+        490901,
+        490902,
+        491001,
+        491002,
+        500901,
+        500902,
+        501001,
+        501002,
+        491101,
+        491102,
+        491201,
+        491202,
+        501101,
+        501102,
+        501201,
+        501202,
+        491301,
+        491302,
+        491303,
+        501301,
+        501302,
+        501303
+    ],
+    "values": [
+        {
+            "stageId": 490101,
+            "rewardType": 100,
+            "rewardValue": 10199001,
+            "rewardQty": 300
+        },
+        {
+            "stageId": 490101,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 300
+        },
+        {
+            "stageId": 490101,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 25000
+        },
+        {
+            "stageId": 490102,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQty": 70
+        },
+        {
+            "stageId": 490102,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQty": 70
+        },
+        {
+            "stageId": 490102,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQty": 70
+        },
+        {
+            "stageId": 490102,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 65000
+        },
+        {
+            "stageId": 490103,
+            "rewardType": 100,
+            "rewardValue": 10199001,
+            "rewardQty": 400
+        },
+        {
+            "stageId": 490103,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 400
+        },
+        {
+            "stageId": 490103,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 85000
+        },
+        {
+            "stageId": 490201,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 490201,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 490201,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 490201,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 125000
+        },
+        {
+            "stageId": 490202,
+            "rewardType": 100,
+            "rewardValue": 10199001,
+            "rewardQty": 500
+        },
+        {
+            "stageId": 490202,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 500
+        },
+        {
+            "stageId": 490202,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 155000
+        },
+        {
+            "stageId": 490203,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQty": 120
+        },
+        {
+            "stageId": 490203,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQty": 120
+        },
+        {
+            "stageId": 490203,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQty": 120
+        },
+        {
+            "stageId": 490203,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "stageId": 490301,
+            "rewardType": 100,
+            "rewardValue": 10199001,
+            "rewardQty": 600
+        },
+        {
+            "stageId": 490301,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 600
+        },
+        {
+            "stageId": 490301,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "stageId": 490302,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 490302,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 490302,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 490302,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "stageId": 490303,
+            "rewardType": 100,
+            "rewardValue": 10199001,
+            "rewardQty": 800
+        },
+        {
+            "stageId": 490303,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 800
+        },
+        {
+            "stageId": 490303,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "stageId": 490401,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQty": 200
+        },
+        {
+            "stageId": 490401,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQty": 200
+        },
+        {
+            "stageId": 490401,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQty": 200
+        },
+        {
+            "stageId": 490401,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "stageId": 490402,
+            "rewardType": 100,
+            "rewardValue": 10199001,
+            "rewardQty": 1000
+        },
+        {
+            "stageId": 490402,
+            "rewardType": 100,
+            "rewardValue": 10199002,
+            "rewardQty": 1000
+        },
+        {
+            "stageId": 490402,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 250000
+        },
+        {
+            "stageId": 490501,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 490501,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 490501,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 275000
+        },
+        {
+            "stageId": 490601,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 200
+        },
+        {
+            "stageId": 490601,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 200
+        },
+        {
+            "stageId": 490601,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 275000
+        },
+        {
+            "stageId": 490602,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 300
+        },
+        {
+            "stageId": 490602,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 300
+        },
+        {
+            "stageId": 490602,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 275000
+        },
+        {
+            "stageId": 490701,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 400
+        },
+        {
+            "stageId": 490701,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 400
+        },
+        {
+            "stageId": 490701,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 275000
+        },
+        {
+            "stageId": 490702,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 500
+        },
+        {
+            "stageId": 490702,
+            "rewardType": 100,
+            "rewardValue": 1020005,
+            "rewardQty": 500
+        },
+        {
+            "stageId": 490702,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 275000
+        },
+        {
+            "stageId": 490703,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 50
+        },
+        {
+            "stageId": 490703,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 50
+        },
+        {
+            "stageId": 490703,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 50
+        },
+        {
+            "stageId": 490703,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 300000
+        },
+        {
+            "stageId": 490801,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 70
+        },
+        {
+            "stageId": 490801,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 70
+        },
+        {
+            "stageId": 490801,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 70
+        },
+        {
+            "stageId": 490801,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 300000
+        },
+        {
+            "stageId": 490802,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 490802,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 490802,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 490802,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 300000
+        },
+        {
+            "stageId": 490803,
+            "rewardType": 700,
+            "rewardValue": 10900001,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 490803,
+            "rewardType": 700,
+            "rewardValue": 10700003,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 490803,
+            "rewardType": 700,
+            "rewardValue": 10700007,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 500101,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 500102,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000
+        },
+        {
+            "stageId": 500103,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 500201,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 500202,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 80
+        },
+        {
+            "stageId": 500203,
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 500301,
+            "rewardType": 307,
+            "rewardValue": 2160,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 500302,
+            "rewardType": 100,
+            "rewardValue": 1070001,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 500303,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000
+        },
+        {
+            "stageId": 500401,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 500402,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 500501,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 80
+        },
+        {
+            "stageId": 500601,
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 500602,
+            "rewardType": 307,
+            "rewardValue": 2160,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 500701,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 1000000
+        },
+        {
+            "stageId": 500702,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 500703,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 100
+        },
+        {
+            "stageId": 500801,
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 80
+        },
+        {
+            "stageId": 500802,
+            "rewardType": 300,
+            "rewardValue": 1069,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 500803,
+            "rewardType": 300,
+            "rewardValue": 1777,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 490901,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 490902,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 491001,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 300000
+        },
+        {
+            "stageId": 491002,
+            "rewardType": 307,
+            "rewardValue": 2153,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 491002,
+            "rewardType": 100,
+            "rewardValue": 3705,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 500901,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 20
+        },
+        {
+            "stageId": 500902,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 30
+        },
+        {
+            "stageId": 501001,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 30
+        },
+        {
+            "stageId": 501002,
+            "rewardType": 100,
+            "rewardValue": 3705,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 491101,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 491102,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 491201,
+            "rewardType": 3,
+            "rewardValue": 0,
+            "rewardQty": 300000
+        },
+        {
+            "stageId": 491202,
+            "rewardType": 307,
+            "rewardValue": 2153,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 501101,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 20
+        },
+        {
+            "stageId": 501102,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 30
+        },
+        {
+            "stageId": 501201,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 30
+        },
+        {
+            "stageId": 501202,
+            "rewardType": 300,
+            "rewardValue": 13515,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 491301,
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 491302,
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 150
+        },
+        {
+            "stageId": 491303,
+            "rewardType": 307,
+            "rewardValue": 2153,
+            "rewardQty": 1
+        },
+        {
+            "stageId": 501301,
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 30
+        },
+        {
+            "stageId": 501302,
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 30
+        },
+        {
+            "stageId": 501303,
+            "rewardType": 100,
+            "rewardValue": 3105,
+            "rewardQty": 1
+        }
+    ],
+    "counts": [
+        3,
+        4,
+        3,
+        4,
+        3,
+        4,
+        3,
+        4,
+        3,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ]
+}

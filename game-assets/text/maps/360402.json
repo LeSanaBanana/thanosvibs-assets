@@ -1,0 +1,27 @@
+[
+    {
+        "level": "base_city_wakanda_0000_j01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 739360402,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 50,
+                        "boss": 3,
+                        "avoidancePriority": 0,
+                        "boss_appear": "skill01",
+                        "boss_cam": "0,0.5,1.92",
+                        "aiprefab": "ai_cinematic_mbaku_hard"
+                    }
+                ]
+            }
+        ]
+    }
+]

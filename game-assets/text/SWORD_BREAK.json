@@ -1,0 +1,58 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8682312320003326726
+    },
+    "m_Name": "SWORD_BREAK",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "level": 1,
+            "rewardId": 9701,
+            "rewardQty": 2,
+            "breakCost": 2500
+        },
+        {
+            "level": 2,
+            "rewardId": 9701,
+            "rewardQty": 4,
+            "breakCost": 3125
+        },
+        {
+            "level": 3,
+            "rewardId": 9701,
+            "rewardQty": 6,
+            "breakCost": 7500
+        },
+        {
+            "level": 4,
+            "rewardId": 9701,
+            "rewardQty": 9,
+            "breakCost": 8750
+        },
+        {
+            "level": 5,
+            "rewardId": 9701,
+            "rewardQty": 12,
+            "breakCost": 10000
+        },
+        {
+            "level": 6,
+            "rewardId": 9701,
+            "rewardQty": 16,
+            "breakCost": 11250
+        }
+    ]
+}

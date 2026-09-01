@@ -1,0 +1,64 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1601970950625465314
+    },
+    "m_Name": "PRIVATE_GEAR_BREAK",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "privateGearGrade": 1,
+            "rewardValue": 9501,
+            "rewardQty": 5,
+            "breakGold": 2500,
+            "changeGold": 0
+        },
+        {
+            "privateGearGrade": 2,
+            "rewardValue": 9501,
+            "rewardQty": 15,
+            "breakGold": 3125,
+            "changeGold": 0
+        },
+        {
+            "privateGearGrade": 3,
+            "rewardValue": 9501,
+            "rewardQty": 75,
+            "breakGold": 7500,
+            "changeGold": 0
+        },
+        {
+            "privateGearGrade": 4,
+            "rewardValue": 9501,
+            "rewardQty": 250,
+            "breakGold": 8750,
+            "changeGold": 40000
+        },
+        {
+            "privateGearGrade": 5,
+            "rewardValue": 9501,
+            "rewardQty": 375,
+            "breakGold": 10000,
+            "changeGold": 80000
+        },
+        {
+            "privateGearGrade": 6,
+            "rewardValue": 9501,
+            "rewardQty": 500,
+            "breakGold": 11250,
+            "changeGold": 100000
+        }
+    ]
+}

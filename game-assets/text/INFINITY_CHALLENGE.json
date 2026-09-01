@@ -1,0 +1,358 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3235968778821665295
+    },
+    "m_Name": "INFINITY_CHALLENGE",
+    "list": [
+        {
+            "StepId": 1,
+            "BossSkillDamageUpRate": 500,
+            "BossDefenceUpRate": 0,
+            "BossAddDefence": 0,
+            "BossAddHp": 0,
+            "BossBonusTime": 1
+        },
+        {
+            "StepId": 4,
+            "BossSkillDamageUpRate": 2250,
+            "BossDefenceUpRate": 250,
+            "BossAddDefence": 0,
+            "BossAddHp": 0,
+            "BossBonusTime": 1
+        },
+        {
+            "StepId": 7,
+            "BossSkillDamageUpRate": 4500,
+            "BossDefenceUpRate": 500,
+            "BossAddDefence": 1421650,
+            "BossAddHp": 23150000,
+            "BossBonusTime": 2
+        },
+        {
+            "StepId": 10,
+            "BossSkillDamageUpRate": 5250,
+            "BossDefenceUpRate": 1000,
+            "BossAddDefence": 1421650,
+            "BossAddHp": 23150000,
+            "BossBonusTime": 2
+        },
+        {
+            "StepId": 13,
+            "BossSkillDamageUpRate": 7500,
+            "BossDefenceUpRate": 4500,
+            "BossAddDefence": 2844150,
+            "BossAddHp": 50930000,
+            "BossBonusTime": 3
+        },
+        {
+            "StepId": 16,
+            "BossSkillDamageUpRate": 8250,
+            "BossDefenceUpRate": 5000,
+            "BossAddDefence": 2844150,
+            "BossAddHp": 50930000,
+            "BossBonusTime": 3
+        },
+        {
+            "StepId": 19,
+            "BossSkillDamageUpRate": 10500,
+            "BossDefenceUpRate": 7000,
+            "BossAddDefence": 5690573,
+            "BossAddHp": 89840520,
+            "BossBonusTime": 4
+        },
+        {
+            "StepId": 22,
+            "BossSkillDamageUpRate": 11250,
+            "BossDefenceUpRate": 7750,
+            "BossAddDefence": 5690573,
+            "BossAddHp": 112300650,
+            "BossBonusTime": 4
+        },
+        {
+            "StepId": 25,
+            "BossSkillDamageUpRate": 13500,
+            "BossDefenceUpRate": 8000,
+            "BossAddDefence": 11382910,
+            "BossAddHp": 136108388,
+            "BossBonusTime": 5
+        },
+        {
+            "StepId": 28,
+            "BossSkillDamageUpRate": 14250,
+            "BossDefenceUpRate": 8750,
+            "BossAddDefence": 11382910,
+            "BossAddHp": 181704698,
+            "BossBonusTime": 5
+        },
+        {
+            "StepId": 31,
+            "BossSkillDamageUpRate": 16500,
+            "BossDefenceUpRate": 9000,
+            "BossAddDefence": 22770477,
+            "BossAddHp": 198058121,
+            "BossBonusTime": 6
+        },
+        {
+            "StepId": 34,
+            "BossSkillDamageUpRate": 18750,
+            "BossDefenceUpRate": 9100,
+            "BossAddDefence": 22770477,
+            "BossAddHp": 198058121,
+            "BossBonusTime": 6
+        },
+        {
+            "StepId": 37,
+            "BossSkillDamageUpRate": 19500,
+            "BossDefenceUpRate": 9110,
+            "BossAddDefence": 42624547,
+            "BossAddHp": 215487235,
+            "BossBonusTime": 7
+        },
+        {
+            "StepId": 40,
+            "BossSkillDamageUpRate": 20250,
+            "BossDefenceUpRate": 9120,
+            "BossAddDefence": 42624547,
+            "BossAddHp": 215487235,
+            "BossBonusTime": 8
+        },
+        {
+            "StepId": 43,
+            "BossSkillDamageUpRate": 22500,
+            "BossDefenceUpRate": 9130,
+            "BossAddDefence": 76155865,
+            "BossAddHp": 234019137,
+            "BossBonusTime": 8
+        },
+        {
+            "StepId": 46,
+            "BossSkillDamageUpRate": 23250,
+            "BossDefenceUpRate": 9140,
+            "BossAddDefence": 76155865,
+            "BossAddHp": 234019137,
+            "BossBonusTime": 9
+        },
+        {
+            "StepId": 49,
+            "BossSkillDamageUpRate": 24000,
+            "BossDefenceUpRate": 9150,
+            "BossAddDefence": 128967690,
+            "BossAddHp": 253910764,
+            "BossBonusTime": 9
+        },
+        {
+            "StepId": 52,
+            "BossSkillDamageUpRate": 24750,
+            "BossDefenceUpRate": 9160,
+            "BossAddDefence": 128967690,
+            "BossAddHp": 253910764,
+            "BossBonusTime": 10
+        },
+        {
+            "StepId": 55,
+            "BossSkillDamageUpRate": 25500,
+            "BossDefenceUpRate": 9170,
+            "BossAddDefence": 205922065,
+            "BossAddHp": 275239268,
+            "BossBonusTime": 10
+        },
+        {
+            "StepId": 58,
+            "BossSkillDamageUpRate": 26250,
+            "BossDefenceUpRate": 9180,
+            "BossAddDefence": 205922065,
+            "BossAddHp": 275239268,
+            "BossBonusTime": 11
+        },
+        {
+            "StepId": 61,
+            "BossSkillDamageUpRate": 27000,
+            "BossDefenceUpRate": 9190,
+            "BossAddDefence": 308527897,
+            "BossAddHp": 298084127,
+            "BossBonusTime": 11
+        },
+        {
+            "StepId": 64,
+            "BossSkillDamageUpRate": 27750,
+            "BossDefenceUpRate": 9200,
+            "BossAddDefence": 308527897,
+            "BossAddHp": 298084127,
+            "BossBonusTime": 12
+        },
+        {
+            "StepId": 67,
+            "BossSkillDamageUpRate": 28500,
+            "BossDefenceUpRate": 9210,
+            "BossAddDefence": 431654896,
+            "BossAddHp": 322527026,
+            "BossBonusTime": 12
+        },
+        {
+            "StepId": 70,
+            "BossSkillDamageUpRate": 29250,
+            "BossDefenceUpRate": 9220,
+            "BossAddDefence": 431654896,
+            "BossAddHp": 322527026,
+            "BossBonusTime": 13
+        },
+        {
+            "StepId": 73,
+            "BossSkillDamageUpRate": 30000,
+            "BossDefenceUpRate": 9230,
+            "BossAddDefence": 560938245,
+            "BossAddHp": 348651715,
+            "BossBonusTime": 13
+        },
+        {
+            "StepId": 76,
+            "BossSkillDamageUpRate": 30750,
+            "BossDefenceUpRate": 9240,
+            "BossAddDefence": 560938245,
+            "BossAddHp": 348651715,
+            "BossBonusTime": 14
+        },
+        {
+            "StepId": 79,
+            "BossSkillDamageUpRate": 31500,
+            "BossDefenceUpRate": 9250,
+            "BossAddDefence": 672423586,
+            "BossAddHp": 376543852,
+            "BossBonusTime": 14
+        },
+        {
+            "StepId": 82,
+            "BossSkillDamageUpRate": 32250,
+            "BossDefenceUpRate": 9260,
+            "BossAddDefence": 672423586,
+            "BossAddHp": 376543852,
+            "BossBonusTime": 15
+        },
+        {
+            "StepId": 85,
+            "BossSkillDamageUpRate": 33000,
+            "BossDefenceUpRate": 9270,
+            "BossAddDefence": 738923191,
+            "BossAddHp": 406290817,
+            "BossBonusTime": 15
+        },
+        {
+            "StepId": 88,
+            "BossSkillDamageUpRate": 33750,
+            "BossDefenceUpRate": 9280,
+            "BossAddDefence": 738923191,
+            "BossAddHp": 406290817,
+            "BossBonusTime": 16
+        },
+        {
+            "StepId": 91,
+            "BossSkillDamageUpRate": 34500,
+            "BossDefenceUpRate": 9290,
+            "BossAddDefence": 797242002,
+            "BossAddHp": 438387791,
+            "BossBonusTime": 16
+        },
+        {
+            "StepId": 94,
+            "BossSkillDamageUpRate": 35250,
+            "BossDefenceUpRate": 9300,
+            "BossAddDefence": 797242002,
+            "BossAddHp": 438387791,
+            "BossBonusTime": 17
+        },
+        {
+            "StepId": 97,
+            "BossSkillDamageUpRate": 36000,
+            "BossDefenceUpRate": 9310,
+            "BossAddDefence": 845033898,
+            "BossAddHp": 472582039,
+            "BossBonusTime": 17
+        },
+        {
+            "StepId": 100,
+            "BossSkillDamageUpRate": 36000,
+            "BossDefenceUpRate": 9320,
+            "BossAddDefence": 845033898,
+            "BossAddHp": 472582039,
+            "BossBonusTime": 18
+        },
+        {
+            "StepId": 103,
+            "BossSkillDamageUpRate": 37500,
+            "BossDefenceUpRate": 9330,
+            "BossAddDefence": 887250073,
+            "BossAddHp": 508970856,
+            "BossBonusTime": 18
+        },
+        {
+            "StepId": 106,
+            "BossSkillDamageUpRate": 37500,
+            "BossDefenceUpRate": 9340,
+            "BossAddDefence": 887250073,
+            "BossAddHp": 508970856,
+            "BossBonusTime": 19
+        },
+        {
+            "StepId": 109,
+            "BossSkillDamageUpRate": 39000,
+            "BossDefenceUpRate": 9350,
+            "BossAddDefence": 922711660,
+            "BossAddHp": 548161612,
+            "BossBonusTime": 19
+        },
+        {
+            "StepId": 112,
+            "BossSkillDamageUpRate": 39000,
+            "BossDefenceUpRate": 9360,
+            "BossAddDefence": 922711660,
+            "BossAddHp": 548161612,
+            "BossBonusTime": 20
+        },
+        {
+            "StepId": 115,
+            "BossSkillDamageUpRate": 40500,
+            "BossDefenceUpRate": 9370,
+            "BossAddDefence": 950371698,
+            "BossAddHp": 589821894,
+            "BossBonusTime": 20
+        },
+        {
+            "StepId": 118,
+            "BossSkillDamageUpRate": 40500,
+            "BossDefenceUpRate": 9380,
+            "BossAddDefence": 950371698,
+            "BossAddHp": 589821894,
+            "BossBonusTime": 21
+        },
+        {
+            "StepId": 121,
+            "BossSkillDamageUpRate": 42000,
+            "BossDefenceUpRate": 9390,
+            "BossAddDefence": 969364924,
+            "BossAddHp": 634648358,
+            "BossBonusTime": 21
+        },
+        {
+            "StepId": 124,
+            "BossSkillDamageUpRate": 42000,
+            "BossDefenceUpRate": 9400,
+            "BossAddDefence": 969364924,
+            "BossAddHp": 634648358,
+            "BossBonusTime": 22
+        },
+        {
+            "StepId": 127,
+            "BossSkillDamageUpRate": 43500,
+            "BossDefenceUpRate": 9410,
+            "BossAddDefence": 979051469,
+            "BossAddHp": 682881633,
+            "BossBonusTime": 22
+        }
+    ]
+}

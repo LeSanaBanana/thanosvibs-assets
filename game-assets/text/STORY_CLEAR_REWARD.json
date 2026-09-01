@@ -1,0 +1,2374 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1553603465714342039
+    },
+    "m_Name": "STORY_CLEAR_REWARD",
+    "keys": [
+        490101,
+        490102,
+        490103,
+        490201,
+        490202,
+        490203,
+        490301,
+        490302,
+        490303,
+        490401,
+        490402,
+        490501,
+        490601,
+        490602,
+        490701,
+        490702,
+        490703,
+        490801,
+        490802,
+        490803,
+        500101,
+        500102,
+        500103,
+        500201,
+        500202,
+        500203,
+        500301,
+        500302,
+        500303,
+        500401,
+        500402,
+        500501,
+        500601,
+        500602,
+        500701,
+        500702,
+        500703,
+        500801,
+        500802,
+        500803,
+        490901,
+        490902,
+        491001,
+        491002,
+        500901,
+        500902,
+        501001,
+        501002,
+        491101,
+        491102,
+        491201,
+        491202,
+        501101,
+        501102,
+        501201,
+        501202,
+        491301,
+        491302,
+        491303,
+        501301,
+        501302,
+        501303
+    ],
+    "values": [
+        {
+            "stageId": 490101,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490101,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490101,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490102,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490102,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000007,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490102,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490103,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490103,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490103,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490201,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490201,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000013,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490201,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490202,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490202,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000029,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490202,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490203,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490203,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000027,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490203,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490301,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490301,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000019,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490301,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490302,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490302,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000034,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490302,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490303,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490303,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000042,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490303,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490401,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490401,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000010,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490401,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490402,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490402,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000006,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490402,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490501,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490501,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000017,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490501,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490601,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490601,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000033,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490601,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490602,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490602,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000018,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490602,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490701,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490701,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000044,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490701,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490702,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490702,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000023,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490702,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490703,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490703,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000043,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490703,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490801,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490801,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000040,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490801,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490802,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490802,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000015,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490802,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490803,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490803,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000008,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490803,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 500101,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500101,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500101,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500101,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1160001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500101,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1160002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500101,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1160003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500102,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500102,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000007,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500102,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500102,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1170001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500102,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1170002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500102,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1170003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500103,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500103,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500103,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500103,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1180001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500103,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1180002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500103,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1180003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500201,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500201,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000013,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500201,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500201,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1190001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500201,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1190002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500201,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1190003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500202,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500202,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000029,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500202,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500202,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1160001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500202,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1160002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500202,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1160003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500203,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500203,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000027,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500203,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500203,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1170001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500203,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1170002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500203,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1170003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500301,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500301,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000019,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500301,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500301,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1180001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500301,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1180002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500301,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1180003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500302,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500302,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000034,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500302,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500302,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1190001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500302,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1190002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500302,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1190003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500303,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500303,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000042,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500303,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500303,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1160001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500303,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1160002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500303,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1160003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500401,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500401,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000010,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500401,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500401,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1170001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500401,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1170002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500401,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1170003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500402,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500402,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000006,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500402,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500402,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1180001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500402,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1180002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500402,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1180003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500501,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500501,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000017,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500501,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500501,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1190001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500501,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1190002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500501,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1190003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500601,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500601,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000033,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500601,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500601,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1160001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500601,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1160002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500601,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1160003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500602,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500602,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000018,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500602,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500602,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1170001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500602,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1170002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500602,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1170003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500701,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500701,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000044,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500701,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500701,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1180001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500701,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1180002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500701,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1180003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500702,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500702,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000023,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500702,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500702,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1190001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500702,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1190002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500702,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1190003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500703,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500703,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000043,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500703,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500703,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1160001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500703,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1160002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500703,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1160003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500801,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500801,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000040,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500801,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500801,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1170001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500801,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1170002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500801,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1170003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500802,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500802,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000015,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500802,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500802,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1180001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500802,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1180002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500802,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1180003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500803,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500803,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000008,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500803,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500803,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1190001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500803,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1190002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500803,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1190003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 490901,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490901,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000026,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490901,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490902,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 490902,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000057,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 490902,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491001,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491001,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000098,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491001,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491002,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491002,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000106,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491002,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 500901,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500901,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000026,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500901,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500901,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1160001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500901,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1160002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500901,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1160003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 500902,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 500902,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000057,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500902,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 500902,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1170001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 500902,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1170002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 500902,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1170003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 501001,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501001,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000098,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501001,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501001,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1180001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501001,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1180002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501001,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1180003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 501002,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501002,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000106,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501002,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501002,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1190001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501002,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1190002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501002,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1190003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 491101,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491101,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000110,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491101,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491102,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491102,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000070,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491102,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491201,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491201,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000109,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491201,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491202,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491202,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000115,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491202,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 501101,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501101,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000110,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501101,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501101,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1160001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501101,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1160002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501101,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1160003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 501102,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501102,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000070,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501102,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501102,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1170001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501102,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1170002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501102,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1170003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 501201,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501201,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000109,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501201,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501201,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1180001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501201,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1180002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501201,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1180003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 501202,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501202,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000115,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501202,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020004,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501202,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1190001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501202,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1190002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501202,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1190003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 491301,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491301,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000037,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491301,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491302,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491302,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000147,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491302,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491303,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13100,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 491303,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000026,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 491303,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 9
+        },
+        {
+            "stageId": 501301,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501301,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000037,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501301,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020001,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501301,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1160001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501301,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1160002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501301,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1160003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 501302,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501302,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000147,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501302,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020002,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501302,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1170001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501302,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1170002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501302,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1170003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        },
+        {
+            "stageId": 501303,
+            "prob": 50000,
+            "rewardType": 300,
+            "rewardValue": 13101,
+            "rewardQtyMin": 1,
+            "rewardQtyMax": 1
+        },
+        {
+            "stageId": 501303,
+            "prob": 500000,
+            "rewardType": 100,
+            "rewardValue": 1000026,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501303,
+            "prob": 1000000,
+            "rewardType": 100,
+            "rewardValue": 1020003,
+            "rewardQtyMin": 13,
+            "rewardQtyMax": 17
+        },
+        {
+            "stageId": 501303,
+            "prob": 800000,
+            "rewardType": 100,
+            "rewardValue": 1180001,
+            "rewardQtyMin": 10,
+            "rewardQtyMax": 15
+        },
+        {
+            "stageId": 501303,
+            "prob": 120000,
+            "rewardType": 100,
+            "rewardValue": 1180002,
+            "rewardQtyMin": 6,
+            "rewardQtyMax": 10
+        },
+        {
+            "stageId": 501303,
+            "prob": 95000,
+            "rewardType": 100,
+            "rewardValue": 1180003,
+            "rewardQtyMin": 3,
+            "rewardQtyMax": 5
+        }
+    ],
+    "counts": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        3,
+        3,
+        3,
+        3,
+        6,
+        6,
+        6,
+        6,
+        3,
+        3,
+        3,
+        3,
+        6,
+        6,
+        6,
+        6,
+        3,
+        3,
+        3,
+        6,
+        6,
+        6
+    ]
+}

@@ -1,0 +1,782 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7890989611432873096
+    },
+    "m_Name": "TIER4_DISCOUNT",
+    "keys": [
+        1,
+        2,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+    ],
+    "values": [
+        {
+            "Id": 1,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 1,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 1,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 2,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 2,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 2,
+            "DiscountMaterialId": 1330001,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 2,
+            "DiscountMaterialId": 1320001,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 2,
+            "DiscountMaterialId": 1320002,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 2,
+            "DiscountMaterialId": 1320003,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 1,
+            "Type": 2,
+            "DiscountMaterialId": 1320004,
+            "DiscountRate": 4000
+        },
+        {
+            "Id": 2,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 2,
+            "Type": 1,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 2,
+            "Type": 1,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 2,
+            "Type": 2,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 2,
+            "Type": 2,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 2,
+            "Type": 2,
+            "DiscountMaterialId": 1330001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 1,
+            "DiscountMaterialId": 1070001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 1,
+            "DiscountMaterialId": 1140002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 1,
+            "DiscountMaterialId": 1140003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 1,
+            "DiscountMaterialId": 1110001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 2,
+            "DiscountMaterialId": 1140002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 2,
+            "DiscountMaterialId": 1140003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 2,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 2,
+            "DiscountMaterialId": 1130001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 2,
+            "DiscountMaterialId": 1130002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 2,
+            "DiscountMaterialId": 1130003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 2,
+            "DiscountMaterialId": 1130004,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 3,
+            "DiscountMaterialId": 1240002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 3,
+            "DiscountMaterialId": 1230001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 4,
+            "DiscountMaterialId": 1240002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 4,
+            "DiscountMaterialId": 1230001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 101,
+            "Type": 4,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 102,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 1,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 1,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 2,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 2,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 2,
+            "DiscountMaterialId": 1330001,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 2,
+            "DiscountMaterialId": 1320001,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 2,
+            "DiscountMaterialId": 1320002,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 2,
+            "DiscountMaterialId": 1320003,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 102,
+            "Type": 2,
+            "DiscountMaterialId": 1320004,
+            "DiscountRate": 1500
+        },
+        {
+            "Id": 103,
+            "Type": 1,
+            "DiscountMaterialId": 1070001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 1,
+            "DiscountMaterialId": 1140002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 1,
+            "DiscountMaterialId": 1140003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 1,
+            "DiscountMaterialId": 1110001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 2,
+            "DiscountMaterialId": 1140002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 2,
+            "DiscountMaterialId": 1140003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 2,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 2,
+            "DiscountMaterialId": 1130001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 2,
+            "DiscountMaterialId": 1130002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 2,
+            "DiscountMaterialId": 1130003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 2,
+            "DiscountMaterialId": 1130004,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 3,
+            "DiscountMaterialId": 1240002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 3,
+            "DiscountMaterialId": 1230001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 4,
+            "DiscountMaterialId": 1240002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 4,
+            "DiscountMaterialId": 1230001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 103,
+            "Type": 4,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 104,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 1,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 1,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 2,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 2,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 2,
+            "DiscountMaterialId": 1330001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 2,
+            "DiscountMaterialId": 1320001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 2,
+            "DiscountMaterialId": 1320002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 2,
+            "DiscountMaterialId": 1320003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 104,
+            "Type": 2,
+            "DiscountMaterialId": 1320004,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 105,
+            "Type": 1,
+            "DiscountMaterialId": 1070001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 1,
+            "DiscountMaterialId": 1140002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 1,
+            "DiscountMaterialId": 1140003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 1,
+            "DiscountMaterialId": 1110001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 2,
+            "DiscountMaterialId": 1140002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 2,
+            "DiscountMaterialId": 1140003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 2,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 2,
+            "DiscountMaterialId": 1130001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 2,
+            "DiscountMaterialId": 1130002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 2,
+            "DiscountMaterialId": 1130003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 2,
+            "DiscountMaterialId": 1130004,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 3,
+            "DiscountMaterialId": 1240002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 3,
+            "DiscountMaterialId": 1230001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 4,
+            "DiscountMaterialId": 1240002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 4,
+            "DiscountMaterialId": 1230001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 105,
+            "Type": 4,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 106,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 1,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 1,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 2,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 2,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 2,
+            "DiscountMaterialId": 1330001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 2,
+            "DiscountMaterialId": 1320001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 2,
+            "DiscountMaterialId": 1320002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 2,
+            "DiscountMaterialId": 1320003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 106,
+            "Type": 2,
+            "DiscountMaterialId": 1320004,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 107,
+            "Type": 1,
+            "DiscountMaterialId": 1070001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 1,
+            "DiscountMaterialId": 1140002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 1,
+            "DiscountMaterialId": 1140003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 1,
+            "DiscountMaterialId": 1110001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 2,
+            "DiscountMaterialId": 1140002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 2,
+            "DiscountMaterialId": 1140003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 2,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 2,
+            "DiscountMaterialId": 1130001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 2,
+            "DiscountMaterialId": 1130002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 2,
+            "DiscountMaterialId": 1130003,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 2,
+            "DiscountMaterialId": 1130004,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 3,
+            "DiscountMaterialId": 1240002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 3,
+            "DiscountMaterialId": 1230001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 4,
+            "DiscountMaterialId": 1240002,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 4,
+            "DiscountMaterialId": 1230001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 107,
+            "Type": 4,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2500
+        },
+        {
+            "Id": 108,
+            "Type": 1,
+            "DiscountMaterialId": 1140001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 1,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 1,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 2,
+            "DiscountMaterialId": 1330002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 2,
+            "DiscountMaterialId": 1330003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 2,
+            "DiscountMaterialId": 1330001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 2,
+            "DiscountMaterialId": 1320001,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 2,
+            "DiscountMaterialId": 1320002,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 2,
+            "DiscountMaterialId": 1320003,
+            "DiscountRate": 2000
+        },
+        {
+            "Id": 108,
+            "Type": 2,
+            "DiscountMaterialId": 1320004,
+            "DiscountRate": 2000
+        }
+    ],
+    "counts": [
+        10,
+        6,
+        17,
+        10,
+        17,
+        10,
+        17,
+        10,
+        17,
+        10
+    ]
+}

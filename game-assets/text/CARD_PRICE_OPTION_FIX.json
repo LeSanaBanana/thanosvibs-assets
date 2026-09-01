@@ -1,0 +1,41 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3287123922980467148
+    },
+    "m_Name": "CARD_PRICE_OPTION_FIX",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "values": [
+        {
+            "optionfixqty": 1,
+            "optionfixprice": 50
+        },
+        {
+            "optionfixqty": 2,
+            "optionfixprice": 100
+        },
+        {
+            "optionfixqty": 3,
+            "optionfixprice": 150
+        },
+        {
+            "optionfixqty": 4,
+            "optionfixprice": 300
+        },
+        {
+            "optionfixqty": 5,
+            "optionfixprice": 500
+        }
+    ]
+}

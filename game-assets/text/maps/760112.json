@@ -1,0 +1,46 @@
+[
+    {
+        "level": "event_shadowland_0000_a04",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": 2,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 210,
+                        "mob": 1285760112,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss_appear": "idle",
+                        "boss": 3,
+                        "boss_cam_rot": "-10,0,0",
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam": "0,0.8,1.7",
+                        "scale": "1.4",
+                        "aiprefab": "ai_boss_apocalypse02_S02_331801"
+                    },
+                    {
+                        "point": 247,
+                        "mob": 539760112,
+                        "group": 24,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse02_S02_331801_01"
+                    },
+                    {
+                        "point": 249,
+                        "mob": 539760112,
+                        "group": 25,
+                        "firstattack": 1,
+                        "sight": 50,
+                        "aiprefab": "ai_gimmick_summon_apocalypse02_S02_331801_02"
+                    }
+                ]
+            }
+        ]
+    }
+]

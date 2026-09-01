@@ -1,0 +1,92 @@
+[
+    {
+        "level": "raid_titan_legend",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 31,
+                        "mob": 530332001,
+                        "group": 3,
+                        "sight": 30,
+                        "trigger": 1,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 32,
+                        "mob": 527332001,
+                        "group": 4,
+                        "sight": 30,
+                        "trigger": 1,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 33,
+                        "mob": 525332001,
+                        "group": 5,
+                        "sight": 30,
+                        "trigger": 1,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 34,
+                        "mob": 528332001,
+                        "group": 6,
+                        "sight": 30,
+                        "trigger": 1,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 35,
+                        "mob": 529332001,
+                        "group": 7,
+                        "sight": 30,
+                        "trigger": 1,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 36,
+                        "mob": 526332001,
+                        "group": 8,
+                        "sight": 30,
+                        "trigger": 1,
+                        "firstattack": 1
+                    },
+                    {
+                        "point": 11,
+                        "mob": 1256332001,
+                        "group": 1,
+                        "hpgroup": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "boss_cam_rot": "-10,0,0",
+                        "boss_cam": "0,0.2,0.9",
+                        "appear": "appear_cam",
+                        "boss_cam_ani": "appear_cam",
+                        "die": "hide_loop"
+                    },
+                    {
+                        "point": 11,
+                        "mob": 1257332001,
+                        "group": 2,
+                        "hpgroup": 1,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "boss": 6,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "die": "hide_loop"
+                    }
+                ]
+            }
+        ]
+    }
+]

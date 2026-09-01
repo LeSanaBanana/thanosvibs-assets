@@ -1,0 +1,64 @@
+[
+    {
+        "level": "raid_jean_grey_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "succ_cam_pos": "0,0,-6",
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 100,
+                        "mob": 473198402,
+                        "group": 96,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy47_manager_event"
+                    },
+                    {
+                        "point": 35,
+                        "mob": 477198402,
+                        "group": 111,
+                        "sight": 30,
+                        "firstattack": 1,
+                        "aiprefab": "ai_gimmick_dummy47_skill07"
+                    },
+                    {
+                        "point": 90,
+                        "mob": 1168198402,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "boss_appear": "skill01c",
+                        "appear": "appear_cam",
+                        "boss_cam_ani": "appear_cam",
+                        "boss": 3,
+                        "trigger": 1,
+                        "avoidancePriority": 0,
+                        "die": "die01",
+                        "boss_cam": "0,0.3,0.0",
+                        "autoinvincible": "49:5",
+                        "havepoint": 111
+                    },
+                    {
+                        "point": 111,
+                        "mob": 1169198402,
+                        "group": 1,
+                        "firstattack": 1,
+                        "keymob": 1,
+                        "sight": 30,
+                        "appear": "appear",
+                        "boss": 4,
+                        "avoidancePriority": 0,
+                        "autoregen": "1-1",
+                        "die": "die02",
+                        "delay": 1.7,
+                        "autoinvincible": "40:4"
+                    }
+                ]
+            }
+        ]
+    }
+]

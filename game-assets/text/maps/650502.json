@@ -1,0 +1,29 @@
+[
+    {
+        "level": "raid_apocalypse_in_a01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 90,
+                        "mob": 526650502,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "firstattack": 1,
+                        "sight": 12,
+                        "scale": 1.3,
+                        "trigger": 1,
+                        "boss_cam": "0,0.3,1",
+                        "boss_appear": "skill04",
+                        "avoidancePriority": 0,
+                        "aiprefab": "ai_hero_hulk01_DynamicStory"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,3733 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6297281677680278835
+    },
+    "m_Name": "COMMON_BALANCE",
+    "keys": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        90,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        39,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        52,
+        54,
+        55,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+    ],
+    "values": [
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 0.0,
+            "tagInterval": 20.0,
+            "playerFactor": [
+                1.2000000476837158,
+                1.2000000476837158,
+                1.0,
+                0.15000000596046448
+            ],
+            "enemyFactor": [
+                1.2999999523162842,
+                1.2999999523162842,
+                1.0499999523162842,
+                0.15000000596046448
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+            ],
+            "ultimateFactor": [
+                7000,
+                0,
+                15000,
+                5,
+                15000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 30.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 0.5,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 8.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.15000000596046448
+            ],
+            "enemyFactor": [
+                1.0499999523162842,
+                1.0499999523162842,
+                1.0499999523162842,
+                0.15000000596046448
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+            ],
+            "ultimateFactor": [
+                7000,
+                0,
+                15000,
+                5,
+                15000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 30.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 15.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                2.0,
+                1.0,
+                1.0,
+                0.15000000596046448
+            ],
+            "enemyFactor": [
+                2.0,
+                1.0,
+                1.0,
+                0.15000000596046448
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+            ],
+            "ultimateFactor": [
+                7000,
+                0,
+                15000,
+                5,
+                15000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.2000000476837158,
+                1.2000000476837158,
+                1.0499999523162842,
+                0.15000000596046448
+            ],
+            "enemyFactor": [
+                1.2000000476837158,
+                1.2000000476837158,
+                1.0499999523162842,
+                0.15000000596046448
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+            ],
+            "ultimateFactor": [
+                7000,
+                0,
+                15000,
+                5,
+                15000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 30.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                8.0,
+                1.5,
+                1.100000023841858,
+                0.15000000596046448
+            ],
+            "enemyFactor": [
+                8.0,
+                1.5,
+                1.100000023841858,
+                0.15000000596046448
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                3000,
+                3000,
+                2000,
+                1000,
+                1000
+            ],
+            "ultimateFactor": [
+                7000,
+                0,
+                15000,
+                5,
+                15000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 30.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.4000000059604645,
+                0.699999988079071
+            ],
+            "autoSkillRate": [
+                3000,
+                3000,
+                2000,
+                1000,
+                1000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.10000000149011612
+            ],
+            "autoAttackInterval": [
+                0.20000000298023224,
+                0.30000001192092896
+            ],
+            "autoSkillRate": [
+                3000,
+                3000,
+                2000,
+                4000,
+                2000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.20000000298023224
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.20000000298023224
+            ],
+            "autoAttackInterval": [
+                0.4000000059604645,
+                0.699999988079071
+            ],
+            "autoSkillRate": [
+                3000,
+                3000,
+                2000,
+                2000,
+                3000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.30000001192092896
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "autoAttackInterval": [
+                0.5,
+                0.800000011920929
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                2000,
+                1000,
+                2000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                4.0,
+                1.0,
+                1.0,
+                0.30000001192092896
+            ],
+            "enemyFactor": [
+                4.5,
+                1.2999999523162842,
+                1.2000000476837158,
+                0.30000001192092896
+            ],
+            "autoAttackInterval": [
+                0.5,
+                0.699999988079071
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                2000,
+                3000,
+                2000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                3.0,
+                1.2000000476837158,
+                1.0,
+                0.15000000596046448
+            ],
+            "enemyFactor": [
+                3.0,
+                1.100000023841858,
+                1.0,
+                0.15000000596046448
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                3000,
+                3000,
+                2000,
+                1000,
+                1000
+            ],
+            "ultimateFactor": [
+                7000,
+                0,
+                15000,
+                5,
+                15000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 30.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 0.5,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.30000001192092896
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "autoAttackInterval": [
+                0.5,
+                0.800000011920929
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                2000,
+                1000,
+                2000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 0,
+            "accountAllianceSkillEnable": 0,
+            "accountAgentLevelAbilityEnable": 0,
+            "heroISO8SkillEnable": 0,
+            "heroSpecialGearEnable": 0,
+            "heroArtifactEnable": 0,
+            "heroLeaderSkillEnable": 0,
+            "heroUniformSkillEnable": 0,
+            "heroUniformSynergyEnable": 0,
+            "heroUruEnable": 0,
+            "heroSubtypeEnable": 0,
+            "heroTeamSetBuffEnable": 0,
+            "heroCollectionEnable": 0,
+            "heroSwordEnable": 0,
+            "heroSquadCollectionEnable": 0,
+            "heroEmblemEnable": 0,
+            "heroAddOnEnable": 0,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 0.0,
+            "tagInterval": 0.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 0.0,
+            "tagInterval": 0.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 0.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.30000001192092896
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "autoAttackInterval": [
+                0.5,
+                0.800000011920929
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                2000,
+                1000,
+                2000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 0.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.30000001192092896
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "autoAttackInterval": [
+                0.5,
+                0.800000011920929
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                2000,
+                1000,
+                2000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 0.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.30000001192092896
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.5
+            ],
+            "autoAttackInterval": [
+                0.5,
+                0.800000011920929
+            ],
+            "autoSkillRate": [
+                1000,
+                1000,
+                2000,
+                1000,
+                2000
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 0.0,
+            "tagInterval": 0.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 0,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 0,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 0.0,
+            "tagInterval": 0.0,
+            "playerFactor": [
+                2.5,
+                1.5,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                2.5,
+                1.5,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 30.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 0.699999988079071,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 0,
+            "accountAllianceSkillEnable": 0,
+            "accountAgentLevelAbilityEnable": 0,
+            "heroISO8SkillEnable": 0,
+            "heroSpecialGearEnable": 0,
+            "heroArtifactEnable": 0,
+            "heroLeaderSkillEnable": 0,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 0,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 0,
+            "heroCollectionEnable": 0,
+            "heroSwordEnable": 0,
+            "heroSquadCollectionEnable": 0,
+            "heroEmblemEnable": 0,
+            "heroAddOnEnable": 0,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.0,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 0,
+            "accountAllianceSkillEnable": 0,
+            "accountAgentLevelAbilityEnable": 0,
+            "heroISO8SkillEnable": 0,
+            "heroSpecialGearEnable": 0,
+            "heroArtifactEnable": 0,
+            "heroLeaderSkillEnable": 0,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 0,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 0,
+            "heroCollectionEnable": 0,
+            "heroSwordEnable": 0,
+            "heroSquadCollectionEnable": 0,
+            "heroEmblemEnable": 0,
+            "heroAddOnEnable": 0,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.0,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 0,
+            "accountAllianceSkillEnable": 0,
+            "accountAgentLevelAbilityEnable": 0,
+            "heroISO8SkillEnable": 0,
+            "heroSpecialGearEnable": 0,
+            "heroArtifactEnable": 0,
+            "heroLeaderSkillEnable": 0,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 0,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 0,
+            "heroCollectionEnable": 0,
+            "heroSwordEnable": 0,
+            "heroSquadCollectionEnable": 0,
+            "heroEmblemEnable": 0,
+            "heroAddOnEnable": 0,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.0,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 0,
+            "accountAllianceSkillEnable": 0,
+            "accountAgentLevelAbilityEnable": 0,
+            "heroISO8SkillEnable": 0,
+            "heroSpecialGearEnable": 0,
+            "heroArtifactEnable": 0,
+            "heroLeaderSkillEnable": 0,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 0,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 0,
+            "heroCollectionEnable": 0,
+            "heroSwordEnable": 0,
+            "heroSquadCollectionEnable": 0,
+            "heroEmblemEnable": 0,
+            "heroAddOnEnable": 0,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.0,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 0,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 3.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 0.75,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 0,
+            "accountAllianceSkillEnable": 0,
+            "accountAgentLevelAbilityEnable": 0,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 0,
+            "heroCollectionEnable": 0,
+            "heroSwordEnable": 0,
+            "heroSquadCollectionEnable": 0,
+            "heroEmblemEnable": 0,
+            "heroAddOnEnable": 0,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 0.0,
+            "tagInterval": 0.0,
+            "playerFactor": [
+                2.5,
+                1.5,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                2.5,
+                1.5,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 30.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 0.5,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                3.0,
+                1.2000000476837158,
+                1.0,
+                0.15000000596046448
+            ],
+            "enemyFactor": [
+                3.0,
+                1.100000023841858,
+                1.0,
+                0.15000000596046448
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                3000,
+                3000,
+                2000,
+                1000,
+                1000
+            ],
+            "ultimateFactor": [
+                7000,
+                0,
+                15000,
+                5,
+                15000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 30.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 0.5,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 0,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 15.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        }
+    ]
+}
