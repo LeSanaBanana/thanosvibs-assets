@@ -1,0 +1,2041 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2925392488392017701
+    },
+    "m_Name": "TEAM_BUFF_ITEM_MATERIAL_CHANGE",
+    "keys": [
+        33000103,
+        33000104,
+        33000105,
+        33000106,
+        33000203,
+        33000204,
+        33000205,
+        33000206,
+        33000303,
+        33000304,
+        33000305,
+        33000306,
+        33000403,
+        33000404,
+        33000405,
+        33000406,
+        33000503,
+        33000504,
+        33000505,
+        33000506,
+        33000603,
+        33000604,
+        33000605,
+        33000606,
+        33000703,
+        33000704,
+        33000705,
+        33000706,
+        33000803,
+        33000804,
+        33000805,
+        33000806,
+        33000903,
+        33000904,
+        33000905,
+        33000906,
+        33001003,
+        33001004,
+        33001005,
+        33001006,
+        33001103,
+        33001104,
+        33001105,
+        33001106,
+        33001203,
+        33001204,
+        33001205,
+        33001206,
+        33001303,
+        33001304,
+        33001305,
+        33001306,
+        33001403,
+        33001404,
+        33001405,
+        33001406,
+        33001503,
+        33001504,
+        33001505,
+        33001506,
+        33001603,
+        33001604,
+        33001605,
+        33001606,
+        33001703,
+        33001704,
+        33001705,
+        33001706,
+        33001803,
+        33001804,
+        33001805,
+        33001806,
+        33001903,
+        33001904,
+        33001905,
+        33001906,
+        33002003,
+        33002004,
+        33002005,
+        33002006,
+        33002103,
+        33002104,
+        33002105,
+        33002106,
+        33002203,
+        33002204,
+        33002205,
+        33002206,
+        33002303,
+        33002304,
+        33002305,
+        33002306,
+        33002403,
+        33002404,
+        33002405,
+        33002406,
+        33002503,
+        33002504,
+        33002505,
+        33002506,
+        33002603,
+        33002604,
+        33002605,
+        33002606,
+        33002703,
+        33002704,
+        33002705,
+        33002706,
+        33010106,
+        33010206,
+        33010306,
+        33010406,
+        33010506,
+        33010606,
+        33010706,
+        33010806,
+        33010906,
+        33011006,
+        33011106,
+        33011206,
+        33011306,
+        33011406,
+        33011506,
+        33011606,
+        33011706,
+        33011806,
+        33011906,
+        33012006,
+        33012106,
+        33012206,
+        33012306,
+        33012406,
+        33012506,
+        33012606,
+        33012706
+    ],
+    "values": [
+        {
+            "teamBuffItemId": 33000103,
+            "materialIds": [
+                34000103,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000104,
+            "materialIds": [
+                34000104,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000105,
+            "materialIds": [
+                34000105,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000106,
+            "materialIds": [
+                34000106,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33000203,
+            "materialIds": [
+                34000203,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000204,
+            "materialIds": [
+                34000204,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000205,
+            "materialIds": [
+                34000205,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000206,
+            "materialIds": [
+                34000206,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33000303,
+            "materialIds": [
+                34000303,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000304,
+            "materialIds": [
+                34000304,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000305,
+            "materialIds": [
+                34000305,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000306,
+            "materialIds": [
+                34000306,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33000403,
+            "materialIds": [
+                34000403,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000404,
+            "materialIds": [
+                34000404,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000405,
+            "materialIds": [
+                34000405,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000406,
+            "materialIds": [
+                34000406,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33000503,
+            "materialIds": [
+                34000503,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000504,
+            "materialIds": [
+                34000504,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000505,
+            "materialIds": [
+                34000505,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000506,
+            "materialIds": [
+                34000506,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33000603,
+            "materialIds": [
+                34000603,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000604,
+            "materialIds": [
+                34000604,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000605,
+            "materialIds": [
+                34000605,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000606,
+            "materialIds": [
+                34000606,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33000703,
+            "materialIds": [
+                34000703,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000704,
+            "materialIds": [
+                34000704,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000705,
+            "materialIds": [
+                34000705,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000706,
+            "materialIds": [
+                34000706,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33000803,
+            "materialIds": [
+                34000803,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000804,
+            "materialIds": [
+                34000804,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000805,
+            "materialIds": [
+                34000805,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000806,
+            "materialIds": [
+                34000806,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33000903,
+            "materialIds": [
+                34000903,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33000904,
+            "materialIds": [
+                34000904,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33000905,
+            "materialIds": [
+                34000905,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33000906,
+            "materialIds": [
+                34000906,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001003,
+            "materialIds": [
+                34001003,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001004,
+            "materialIds": [
+                34001004,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001005,
+            "materialIds": [
+                34001005,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001006,
+            "materialIds": [
+                34001006,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001103,
+            "materialIds": [
+                34001103,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001104,
+            "materialIds": [
+                34001104,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001105,
+            "materialIds": [
+                34001105,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001106,
+            "materialIds": [
+                34001106,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001203,
+            "materialIds": [
+                34001203,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001204,
+            "materialIds": [
+                34001204,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001205,
+            "materialIds": [
+                34001205,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001206,
+            "materialIds": [
+                34001206,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001303,
+            "materialIds": [
+                34001303,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001304,
+            "materialIds": [
+                34001304,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001305,
+            "materialIds": [
+                34001305,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001306,
+            "materialIds": [
+                34001306,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001403,
+            "materialIds": [
+                34001403,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001404,
+            "materialIds": [
+                34001404,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001405,
+            "materialIds": [
+                34001405,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001406,
+            "materialIds": [
+                34001406,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001503,
+            "materialIds": [
+                34001503,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001504,
+            "materialIds": [
+                34001504,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001505,
+            "materialIds": [
+                34001505,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001506,
+            "materialIds": [
+                34001506,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001603,
+            "materialIds": [
+                34001603,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001604,
+            "materialIds": [
+                34001604,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001605,
+            "materialIds": [
+                34001605,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001606,
+            "materialIds": [
+                34001606,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001703,
+            "materialIds": [
+                34001703,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001704,
+            "materialIds": [
+                34001704,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001705,
+            "materialIds": [
+                34001705,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001706,
+            "materialIds": [
+                34001706,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001803,
+            "materialIds": [
+                34001803,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001804,
+            "materialIds": [
+                34001804,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001805,
+            "materialIds": [
+                34001805,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001806,
+            "materialIds": [
+                34001806,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33001903,
+            "materialIds": [
+                34001903,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33001904,
+            "materialIds": [
+                34001904,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33001905,
+            "materialIds": [
+                34001905,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33001906,
+            "materialIds": [
+                34001906,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33002003,
+            "materialIds": [
+                34002003,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33002004,
+            "materialIds": [
+                34002004,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33002005,
+            "materialIds": [
+                34002005,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33002006,
+            "materialIds": [
+                34002006,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33002103,
+            "materialIds": [
+                34002103,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33002104,
+            "materialIds": [
+                34002104,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33002105,
+            "materialIds": [
+                34002105,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33002106,
+            "materialIds": [
+                34002106,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33002203,
+            "materialIds": [
+                34002203,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33002204,
+            "materialIds": [
+                34002204,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33002205,
+            "materialIds": [
+                34002205,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33002206,
+            "materialIds": [
+                34002206,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33002303,
+            "materialIds": [
+                34002303,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33002304,
+            "materialIds": [
+                34002304,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33002305,
+            "materialIds": [
+                34002305,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33002306,
+            "materialIds": [
+                34002306,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33002403,
+            "materialIds": [
+                34002403,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33002404,
+            "materialIds": [
+                34002404,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33002405,
+            "materialIds": [
+                34002405,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33002406,
+            "materialIds": [
+                34002406,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33002503,
+            "materialIds": [
+                34002503,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33002504,
+            "materialIds": [
+                34002504,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33002505,
+            "materialIds": [
+                34002505,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33002506,
+            "materialIds": [
+                34002506,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33002603,
+            "materialIds": [
+                34002603,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33002604,
+            "materialIds": [
+                34002604,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33002605,
+            "materialIds": [
+                34002605,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33002606,
+            "materialIds": [
+                34002606,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33002703,
+            "materialIds": [
+                34002703,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 10000
+        },
+        {
+            "teamBuffItemId": 33002704,
+            "materialIds": [
+                34002704,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 20000
+        },
+        {
+            "teamBuffItemId": 33002705,
+            "materialIds": [
+                34002705,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 30000
+        },
+        {
+            "teamBuffItemId": 33002706,
+            "materialIds": [
+                34002706,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 50000
+        },
+        {
+            "teamBuffItemId": 33010106,
+            "materialIds": [
+                34010106,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33010206,
+            "materialIds": [
+                34010206,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33010306,
+            "materialIds": [
+                34010306,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33010406,
+            "materialIds": [
+                34010406,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33010506,
+            "materialIds": [
+                34010506,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33010606,
+            "materialIds": [
+                34010606,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33010706,
+            "materialIds": [
+                34010706,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33010806,
+            "materialIds": [
+                34010806,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33010906,
+            "materialIds": [
+                34010906,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011006,
+            "materialIds": [
+                34011006,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011106,
+            "materialIds": [
+                34011106,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011206,
+            "materialIds": [
+                34011206,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011306,
+            "materialIds": [
+                34011306,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011406,
+            "materialIds": [
+                34011406,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011506,
+            "materialIds": [
+                34011506,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011606,
+            "materialIds": [
+                34011606,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011706,
+            "materialIds": [
+                34011706,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011806,
+            "materialIds": [
+                34011806,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33011906,
+            "materialIds": [
+                34011906,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33012006,
+            "materialIds": [
+                34012006,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33012106,
+            "materialIds": [
+                34012106,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33012206,
+            "materialIds": [
+                34012206,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33012306,
+            "materialIds": [
+                34012306,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33012406,
+            "materialIds": [
+                34012406,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33012506,
+            "materialIds": [
+                34012506,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33012606,
+            "materialIds": [
+                34012606,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        },
+        {
+            "teamBuffItemId": 33012706,
+            "materialIds": [
+                34012706,
+                0,
+                0
+            ],
+            "materialQtys": [
+                1,
+                0,
+                0
+            ],
+            "gold": 100000
+        }
+    ]
+}

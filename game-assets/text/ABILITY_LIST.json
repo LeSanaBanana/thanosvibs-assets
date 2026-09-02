@@ -558,6 +558,8 @@
         596,
         597,
         598,
+        599,
+        600,
         3251,
         3252,
         3253,
@@ -618,6 +620,10 @@
         4042,
         4043,
         4044,
+        4045,
+        4046,
+        4047,
+        4048,
         5000,
         5001,
         5002,
@@ -716,6 +722,7 @@
         8064,
         8065,
         8066,
+        8067,
         9001,
         9002,
         9003,
@@ -936,6 +943,7 @@
         13011,
         13012,
         13013,
+        13014,
         14001,
         15001,
         15002,
@@ -952,7 +960,38 @@
         16005,
         16006,
         16007,
-        16008
+        16008,
+        17001,
+        17002,
+        17003,
+        17004,
+        17005,
+        17006,
+        17007,
+        17008,
+        17009,
+        17010,
+        17011,
+        17012,
+        17013,
+        17014,
+        17015,
+        17016,
+        17017,
+        17018,
+        17019,
+        17020,
+        17021,
+        17022,
+        17023,
+        17024,
+        17025,
+        17026,
+        17027,
+        17028,
+        17029,
+        17030,
+        17031
     ],
     "values": [
         {
@@ -20138,6 +20177,76 @@
         {
             "paramType": [
                 1,
+                1,
+                1
+            ],
+            "paramFormat": [
+                3,
+                0,
+                3
+            ],
+            "mask": 10,
+            "stackWay": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 3,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 8,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 3,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
                 2,
                 1
             ],
@@ -22228,6 +22337,146 @@
             "useKeepWhenTag": 0,
             "bubbleSpeach": 0,
             "exception": 5,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                2,
+                0
+            ],
+            "paramFormat": [
+                3,
+                3,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 5,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                2,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 5,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 9,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 2,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 9,
             "p_condition": 0,
             "p1_addYN": 0,
             "p2_addYN": 0,
@@ -25652,6 +25901,41 @@
             "priority": 1,
             "immuneOption": 0,
             "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 9,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                0,
+                2,
+                1
+            ],
+            "paramFormat": [
+                0,
+                3,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 0,
             "category": 0,
             "battleUIType": 0,
             "battleUIOrder": 0,
@@ -33367,6 +33651,41 @@
         },
         {
             "paramType": [
+                0,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 298,
+            "stackWay": 0,
+            "color": {
+                "r": 0.9921569228172302,
+                "g": 0.6509804129600525,
+                "b": 0.18431372940540314,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 3,
+            "category": 7,
+            "battleUIType": 2,
+            "battleUIOrder": 1,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -255708633,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
                 2,
                 0,
                 0
@@ -33958,6 +34277,1091 @@
             "p2_addYN": 0,
             "p3_addYN": 0,
             "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                2,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 1,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -421333729,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                2,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 2,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 1,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 217955605,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                1,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 0,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 1,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                2,
+                0
+            ],
+            "paramFormat": [
+                0,
+                3,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 1,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 1062098815,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                2,
+                0
+            ],
+            "paramFormat": [
+                0,
+                3,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 2,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 1,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -197858032,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                2,
+                2
+            ],
+            "paramFormat": [
+                3,
+                3,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                2,
+                2
+            ],
+            "paramFormat": [
+                3,
+                3,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 2,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -99436541,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 739366897,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -135084268,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 3,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -85981248,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 349410805,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -533389768,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 0,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 2,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 954407530,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 2,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 1721889850,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 2,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 217955605,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 2,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 375178284,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 3,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -1946098113,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 3,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -1869769237,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                3,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -135084268,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 349410805,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                2,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 0.08235294371843338,
+                "g": 0.501960813999176,
+                "b": 0.917647123336792,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 1,
+            "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 1,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -533389768,
             "commonEndEffectKey": 372029326
         }
     ]

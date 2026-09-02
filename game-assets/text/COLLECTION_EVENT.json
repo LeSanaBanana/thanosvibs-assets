@@ -22,7 +22,8 @@
         15090000,
         15100000,
         15110000,
-        15120000
+        15120000,
+        15130000
     ],
     "values": [
         {
@@ -128,6 +129,14 @@
             "eventEndTimeGLKey": 394403283,
             "eventStartTimeCNKey": 60819563,
             "eventEndTimeCNKey": 1596066122
+        },
+        {
+            "collectionGroupId": 15130000,
+            "eventType": 2,
+            "eventStartTimeGLKey": 382400325,
+            "eventEndTimeGLKey": -1103115462,
+            "eventStartTimeCNKey": 1584063164,
+            "eventEndTimeCNKey": -713024406
         }
     ]
 }

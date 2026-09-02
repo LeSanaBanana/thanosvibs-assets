@@ -57,7 +57,8 @@
         15090000,
         15100000,
         15110000,
-        15120000
+        15120000,
+        15130000
     ],
     "values": [
         {
@@ -2537,6 +2538,48 @@
             "obtainEndTimeGLKey": 394403283,
             "obtainStartTimeCNKey": 60819563,
             "obtainEndTimeCNKey": 1596066122
+        },
+        {
+            "collectionGroupId": 15130000,
+            "collectionId": 15130001,
+            "collectionQty": 30,
+            "collectionGrade": 2,
+            "collectionIcon": "collection_513_1",
+            "point": 1,
+            "sceneId": 119,
+            "sceneOpt": "0",
+            "obtainStartTimeGLKey": 382400325,
+            "obtainEndTimeGLKey": -1103115462,
+            "obtainStartTimeCNKey": 1584063164,
+            "obtainEndTimeCNKey": -713024406
+        },
+        {
+            "collectionGroupId": 15130000,
+            "collectionId": 15130002,
+            "collectionQty": 15,
+            "collectionGrade": 2,
+            "collectionIcon": "collection_513_2",
+            "point": 1,
+            "sceneId": 130,
+            "sceneOpt": "0",
+            "obtainStartTimeGLKey": 382400325,
+            "obtainEndTimeGLKey": -1103115462,
+            "obtainStartTimeCNKey": 1584063164,
+            "obtainEndTimeCNKey": -713024406
+        },
+        {
+            "collectionGroupId": 15130000,
+            "collectionId": 15130003,
+            "collectionQty": 15,
+            "collectionGrade": 2,
+            "collectionIcon": "collection_513_3",
+            "point": 1,
+            "sceneId": 126,
+            "sceneOpt": "0",
+            "obtainStartTimeGLKey": 382400325,
+            "obtainEndTimeGLKey": -1103115462,
+            "obtainStartTimeCNKey": 1584063164,
+            "obtainEndTimeCNKey": -713024406
         }
     ],
     "counts": [
@@ -2575,6 +2618,7 @@
         4,
         4,
         4,
+        3,
         3,
         3,
         3,

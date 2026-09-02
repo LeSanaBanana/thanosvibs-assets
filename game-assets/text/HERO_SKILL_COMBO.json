@@ -69,7 +69,8 @@
         1051001846,
         1031001936,
         1021002036,
-        1021002236,
+        1021002246,
+        1031002246,
         1051002346,
         1061002346,
         1021002536,
@@ -156,6 +157,7 @@
         1041007546,
         1051007546,
         1061007546,
+        1071007546,
         1011007636,
         1021007746,
         1031007746,
@@ -488,7 +490,9 @@
         1011006036,
         1028946,
         1029046,
-        1029136
+        1029136,
+        1029246,
+        1029346
     ],
     "values": [
         {
@@ -7829,7 +7833,7 @@
             "useSkill": 4
         },
         {
-            "heroId": 1021002236,
+            "heroId": 1021002246,
             "characterPosition": 1,
             "comboSet": 1,
             "comboStep": 1,
@@ -7840,7 +7844,7 @@
             "useSkill": 3
         },
         {
-            "heroId": 1021002236,
+            "heroId": 1021002246,
             "characterPosition": 1,
             "comboSet": 1,
             "comboStep": 2,
@@ -7851,7 +7855,7 @@
             "useSkill": 5
         },
         {
-            "heroId": 1021002236,
+            "heroId": 1021002246,
             "characterPosition": 1,
             "comboSet": 1,
             "comboStep": 3,
@@ -7862,7 +7866,7 @@
             "useSkill": 4
         },
         {
-            "heroId": 1021002236,
+            "heroId": 1021002246,
             "characterPosition": 1,
             "comboSet": 2,
             "comboStep": 1,
@@ -7873,7 +7877,7 @@
             "useSkill": 3
         },
         {
-            "heroId": 1021002236,
+            "heroId": 1021002246,
             "characterPosition": 1,
             "comboSet": 2,
             "comboStep": 2,
@@ -7884,7 +7888,7 @@
             "useSkill": 7
         },
         {
-            "heroId": 1021002236,
+            "heroId": 1021002246,
             "characterPosition": 1,
             "comboSet": 2,
             "comboStep": 3,
@@ -7895,11 +7899,198 @@
             "useSkill": 5
         },
         {
-            "heroId": 1021002236,
+            "heroId": 1021002246,
             "characterPosition": 1,
             "comboSet": 2,
             "comboStep": 4,
             "delay": 600,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1021002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 8
+        },
+        {
+            "heroId": 1021002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 2,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1021002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 3,
+            "delay": 800,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 7
+        },
+        {
+            "heroId": 1021002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 4,
+            "delay": 300,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1021002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 5,
+            "delay": 600,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 2,
+            "delay": 550,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 3,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 7
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 2,
+            "delay": 300,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 3,
+            "delay": 550,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 4,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 8
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 2,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 7
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 3,
+            "delay": 300,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 4,
+            "delay": 550,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1031002246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 5,
+            "delay": 150,
             "addControl": 0,
             "chargingDelay": 0,
             "loopDelay": 0,
@@ -17980,6 +18171,138 @@
             "chargingDelay": 0,
             "loopDelay": 0,
             "useSkill": 5
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 2,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 3,
+            "delay": 250,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 6
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 2,
+            "delay": 300,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 3,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 4,
+            "delay": 250,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 8
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 2,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 6
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 3,
+            "delay": 300,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 4,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1071007546,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 5,
+            "delay": 250,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
         },
         {
             "heroId": 1011007636,
@@ -54269,6 +54592,270 @@
             "chargingDelay": 0,
             "loopDelay": 0,
             "useSkill": 6
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 2,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 3,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 6
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 2,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 3,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 4,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 8
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 2,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 6
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 3,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 4,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1029246,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 5,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 2,
+            "delay": 450,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 1,
+            "comboStep": 3,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 2,
+            "delay": 450,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 3,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 2,
+            "comboStep": 4,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 6
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 1,
+            "delay": 0,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 8
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 2,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 3
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 3,
+            "delay": 450,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 4
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 4,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 5
+        },
+        {
+            "heroId": 1029346,
+            "characterPosition": 1,
+            "comboSet": 3,
+            "comboStep": 5,
+            "delay": 150,
+            "addControl": 0,
+            "chargingDelay": 0,
+            "loopDelay": 0,
+            "useSkill": 6
         }
     ],
     "counts": [
@@ -54331,7 +54918,8 @@
         15,
         7,
         7,
-        7,
+        12,
+        12,
         12,
         12,
         9,
@@ -54415,6 +55003,7 @@
         12,
         7,
         7,
+        12,
         12,
         12,
         12,
@@ -54750,6 +55339,8 @@
         7,
         12,
         9,
-        7
+        7,
+        12,
+        12
     ]
 }

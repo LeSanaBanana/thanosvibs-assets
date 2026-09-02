@@ -57,7 +57,8 @@
         15090000,
         15100000,
         15110000,
-        15120000
+        15120000,
+        15130000
     ],
     "values": [
         {
@@ -1789,6 +1790,56 @@
             "rewardQty": 1,
             "abilityId": 0,
             "abilityValue": 0
+        },
+        {
+            "rewardId": 15130100,
+            "collectionGroupId": 15130000,
+            "point": 12,
+            "rewardType": 0,
+            "rewardValue": 0,
+            "rewardQty": 0,
+            "abilityId": 167,
+            "abilityValue": 7000
+        },
+        {
+            "rewardId": 15130200,
+            "collectionGroupId": 15130000,
+            "point": 24,
+            "rewardType": 0,
+            "rewardValue": 0,
+            "rewardQty": 0,
+            "abilityId": 168,
+            "abilityValue": 7000
+        },
+        {
+            "rewardId": 15130300,
+            "collectionGroupId": 15130000,
+            "point": 36,
+            "rewardType": 100,
+            "rewardValue": 17479,
+            "rewardQty": 1,
+            "abilityId": 0,
+            "abilityValue": 0
+        },
+        {
+            "rewardId": 15130400,
+            "collectionGroupId": 15130000,
+            "point": 48,
+            "rewardType": 300,
+            "rewardValue": 1777,
+            "rewardQty": 1,
+            "abilityId": 0,
+            "abilityValue": 0
+        },
+        {
+            "rewardId": 15130500,
+            "collectionGroupId": 15130000,
+            "point": 60,
+            "rewardType": 300,
+            "rewardValue": 13591,
+            "rewardQty": 1,
+            "abilityId": 0,
+            "abilityValue": 0
         }
     ],
     "counts": [
@@ -1830,6 +1881,7 @@
         3,
         3,
         3,
+        5,
         5,
         5,
         5,

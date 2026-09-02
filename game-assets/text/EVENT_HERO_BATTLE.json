@@ -66,7 +66,12 @@
         54,
         55,
         56,
-        57
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
     ],
     "values": [
         {
@@ -1036,6 +1041,91 @@
             "RankdRewardGroupIds": [
                 1,
                 0
+            ]
+        },
+        {
+            "EventId": 58,
+            "StageId": 710101,
+            "MobId": 1244710101,
+            "HeroGroupIds": [
+                75,
+                0
+            ],
+            "ScoreRewardIds": [
+                2,
+                0
+            ],
+            "RankdRewardGroupIds": [
+                1,
+                0
+            ]
+        },
+        {
+            "EventId": 59,
+            "StageId": 710101,
+            "MobId": 1244710101,
+            "HeroGroupIds": [
+                22,
+                0
+            ],
+            "ScoreRewardIds": [
+                2,
+                0
+            ],
+            "RankdRewardGroupIds": [
+                1,
+                0
+            ]
+        },
+        {
+            "EventId": 60,
+            "StageId": 710101,
+            "MobId": 1244710101,
+            "HeroGroupIds": [
+                292,
+                0
+            ],
+            "ScoreRewardIds": [
+                2,
+                0
+            ],
+            "RankdRewardGroupIds": [
+                1,
+                0
+            ]
+        },
+        {
+            "EventId": 61,
+            "StageId": 710101,
+            "MobId": 1244710101,
+            "HeroGroupIds": [
+                293,
+                0
+            ],
+            "ScoreRewardIds": [
+                2,
+                0
+            ],
+            "RankdRewardGroupIds": [
+                1,
+                0
+            ]
+        },
+        {
+            "EventId": 62,
+            "StageId": 710101,
+            "MobId": 1244710101,
+            "HeroGroupIds": [
+                15,
+                53
+            ],
+            "ScoreRewardIds": [
+                2,
+                2
+            ],
+            "RankdRewardGroupIds": [
+                1,
+                2
             ]
         }
     ]

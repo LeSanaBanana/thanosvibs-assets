@@ -1,0 +1,72 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3184721579686819461
+    },
+    "m_Name": "TEAM_BUFF_ITEM_BREAK",
+    "keys": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "values": [
+        {
+            "grade": 1,
+            "isPremium": 0,
+            "itemId": 9931,
+            "itemQty": 1
+        },
+        {
+            "grade": 2,
+            "isPremium": 0,
+            "itemId": 9931,
+            "itemQty": 1
+        },
+        {
+            "grade": 3,
+            "isPremium": 0,
+            "itemId": 9931,
+            "itemQty": 10
+        },
+        {
+            "grade": 4,
+            "isPremium": 0,
+            "itemId": 9931,
+            "itemQty": 20
+        },
+        {
+            "grade": 5,
+            "isPremium": 0,
+            "itemId": 9932,
+            "itemQty": 10
+        },
+        {
+            "grade": 6,
+            "isPremium": 0,
+            "itemId": 9932,
+            "itemQty": 25
+        },
+        {
+            "grade": 6,
+            "isPremium": 1,
+            "itemId": 9932,
+            "itemQty": 50
+        }
+    ],
+    "counts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+    ]
+}

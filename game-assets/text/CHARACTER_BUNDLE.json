@@ -371,6 +371,7 @@
         "hero_drax01",
         "hero_drax01_s01",
         "hero_drax01_s02",
+        "hero_drax01_s03",
         "npc_drstellacho01",
         "npc_drstellacho01_story",
         "npc_drstellacho01_story_afterimage",
@@ -593,6 +594,7 @@
         "gimmick_dummy83",
         "gimmick_dummy84",
         "gimmick_dummy85",
+        "gimmick_dummy86",
         "gimmick_dummy_cable01_s02",
         "gimmick_dummy_dangerroom",
         "gimmick_dummy_dangerroom02",
@@ -1476,6 +1478,7 @@
         "sv_thanos01_s04",
         "sv_thanos01_s05",
         "sv_thanos01_s06",
+        "sv_thanos01_s07",
         "hero_thena01",
         "hero_thena01_s01",
         "hero_thing01",
@@ -1699,6 +1702,8 @@
         "sv_silversamurai01",
         "hero_jeffthelandshark01",
         "hero_morph01",
+        "sv_annihilus01",
+        "sv_galactus01",
         "boss_silversamurai01",
         "summon_valeriarichards01",
         "hero_franklinrichards01_650602",
@@ -1783,7 +1788,8 @@
         "vil_skeletonarcher01",
         "vil_fallenwarriersoul01",
         "vil_fallenwarriersoul02",
-        "vil_fallenwarriersoul03"
+        "vil_fallenwarriersoul03",
+        "boss_annihilus01"
     ],
     "values": [
         "unit_abn_cocoon",
@@ -2147,6 +2153,7 @@
         "unit_drax",
         "unit_drax",
         "unit_drax",
+        "unit_drax",
         "unit_drstellacho",
         "unit_drstellacho",
         "unit_drstellacho",
@@ -2268,6 +2275,7 @@
         "unit_gimmick_doomcastle_box",
         "unit_gimmick_drum_ani",
         "unit_gimmick_drum_ani",
+        "unit_gimmick_dummy",
         "unit_gimmick_dummy",
         "unit_gimmick_dummy",
         "unit_gimmick_dummy",
@@ -3252,6 +3260,7 @@
         "unit_thanos",
         "unit_thanos",
         "unit_thanos",
+        "unit_thanos",
         "unit_thena",
         "unit_thena",
         "unit_thing",
@@ -3475,6 +3484,8 @@
         "unit_silversamurai",
         "unit_jeffthelandshark",
         "unit_morph",
+        "unit_annihilus",
+        "unit_galactus",
         "unit_silversamurai",
         "unit_valeriarichards",
         "unit_franklinrichards",
@@ -3559,6 +3570,7 @@
         "unit_skeletonarcher",
         "unit_vikingwarrior",
         "unit_trollberserk",
-        "unit_trollminion"
+        "unit_trollminion",
+        "unit_annihilus"
     ]
 }

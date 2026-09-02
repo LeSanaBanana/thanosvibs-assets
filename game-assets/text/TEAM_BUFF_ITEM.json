@@ -1,0 +1,961 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1419639580096487908
+    },
+    "m_Name": "TEAM_BUFF_ITEM",
+    "keys": [
+        33000103,
+        33000104,
+        33000105,
+        33000106,
+        33000203,
+        33000204,
+        33000205,
+        33000206,
+        33000303,
+        33000304,
+        33000305,
+        33000306,
+        33000403,
+        33000404,
+        33000405,
+        33000406,
+        33000503,
+        33000504,
+        33000505,
+        33000506,
+        33000603,
+        33000604,
+        33000605,
+        33000606,
+        33000703,
+        33000704,
+        33000705,
+        33000706,
+        33000803,
+        33000804,
+        33000805,
+        33000806,
+        33000903,
+        33000904,
+        33000905,
+        33000906,
+        33001003,
+        33001004,
+        33001005,
+        33001006,
+        33001103,
+        33001104,
+        33001105,
+        33001106,
+        33001203,
+        33001204,
+        33001205,
+        33001206,
+        33001303,
+        33001304,
+        33001305,
+        33001306,
+        33001403,
+        33001404,
+        33001405,
+        33001406,
+        33001503,
+        33001504,
+        33001505,
+        33001506,
+        33001603,
+        33001604,
+        33001605,
+        33001606,
+        33001703,
+        33001704,
+        33001705,
+        33001706,
+        33001803,
+        33001804,
+        33001805,
+        33001806,
+        33001903,
+        33001904,
+        33001905,
+        33001906,
+        33002003,
+        33002004,
+        33002005,
+        33002006,
+        33002103,
+        33002104,
+        33002105,
+        33002106,
+        33002203,
+        33002204,
+        33002205,
+        33002206,
+        33002303,
+        33002304,
+        33002305,
+        33002306,
+        33002403,
+        33002404,
+        33002405,
+        33002406,
+        33002503,
+        33002504,
+        33002505,
+        33002506,
+        33002603,
+        33002604,
+        33002605,
+        33002606,
+        33002703,
+        33002704,
+        33002705,
+        33002706,
+        33010106,
+        33010206,
+        33010306,
+        33010406,
+        33010506,
+        33010606,
+        33010706,
+        33010806,
+        33010906,
+        33011006,
+        33011106,
+        33011206,
+        33011306,
+        33011406,
+        33011506,
+        33011606,
+        33011706,
+        33011806,
+        33011906,
+        33012006,
+        33012106,
+        33012206,
+        33012306,
+        33012406,
+        33012506,
+        33012606,
+        33012706
+    ],
+    "values": [
+        {
+            "teamBuffItemId": 33000103,
+            "slot": 1,
+            "materialId": 34000103,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000104,
+            "slot": 1,
+            "materialId": 34000104,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000105,
+            "slot": 1,
+            "materialId": 34000105,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000106,
+            "slot": 1,
+            "materialId": 34000106,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000203,
+            "slot": 1,
+            "materialId": 34000203,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000204,
+            "slot": 1,
+            "materialId": 34000204,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000205,
+            "slot": 1,
+            "materialId": 34000205,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000206,
+            "slot": 1,
+            "materialId": 34000206,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000303,
+            "slot": 1,
+            "materialId": 34000303,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000304,
+            "slot": 1,
+            "materialId": 34000304,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000305,
+            "slot": 1,
+            "materialId": 34000305,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000306,
+            "slot": 1,
+            "materialId": 34000306,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000403,
+            "slot": 1,
+            "materialId": 34000403,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000404,
+            "slot": 1,
+            "materialId": 34000404,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000405,
+            "slot": 1,
+            "materialId": 34000405,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000406,
+            "slot": 1,
+            "materialId": 34000406,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000503,
+            "slot": 1,
+            "materialId": 34000503,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000504,
+            "slot": 1,
+            "materialId": 34000504,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000505,
+            "slot": 1,
+            "materialId": 34000505,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000506,
+            "slot": 1,
+            "materialId": 34000506,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000603,
+            "slot": 1,
+            "materialId": 34000603,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000604,
+            "slot": 1,
+            "materialId": 34000604,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000605,
+            "slot": 1,
+            "materialId": 34000605,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000606,
+            "slot": 1,
+            "materialId": 34000606,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000703,
+            "slot": 1,
+            "materialId": 34000703,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000704,
+            "slot": 1,
+            "materialId": 34000704,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000705,
+            "slot": 1,
+            "materialId": 34000705,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000706,
+            "slot": 1,
+            "materialId": 34000706,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000803,
+            "slot": 1,
+            "materialId": 34000803,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000804,
+            "slot": 1,
+            "materialId": 34000804,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000805,
+            "slot": 1,
+            "materialId": 34000805,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000806,
+            "slot": 1,
+            "materialId": 34000806,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000903,
+            "slot": 1,
+            "materialId": 34000903,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000904,
+            "slot": 1,
+            "materialId": 34000904,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000905,
+            "slot": 1,
+            "materialId": 34000905,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33000906,
+            "slot": 1,
+            "materialId": 34000906,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33001003,
+            "slot": 2,
+            "materialId": 34001003,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001004,
+            "slot": 2,
+            "materialId": 34001004,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001005,
+            "slot": 2,
+            "materialId": 34001005,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001006,
+            "slot": 2,
+            "materialId": 34001006,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001103,
+            "slot": 2,
+            "materialId": 34001103,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001104,
+            "slot": 2,
+            "materialId": 34001104,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001105,
+            "slot": 2,
+            "materialId": 34001105,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001106,
+            "slot": 2,
+            "materialId": 34001106,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001203,
+            "slot": 2,
+            "materialId": 34001203,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001204,
+            "slot": 2,
+            "materialId": 34001204,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001205,
+            "slot": 2,
+            "materialId": 34001205,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001206,
+            "slot": 2,
+            "materialId": 34001206,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001303,
+            "slot": 2,
+            "materialId": 34001303,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001304,
+            "slot": 2,
+            "materialId": 34001304,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001305,
+            "slot": 2,
+            "materialId": 34001305,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001306,
+            "slot": 2,
+            "materialId": 34001306,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001403,
+            "slot": 2,
+            "materialId": 34001403,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001404,
+            "slot": 2,
+            "materialId": 34001404,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001405,
+            "slot": 2,
+            "materialId": 34001405,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001406,
+            "slot": 2,
+            "materialId": 34001406,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001503,
+            "slot": 2,
+            "materialId": 34001503,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001504,
+            "slot": 2,
+            "materialId": 34001504,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001505,
+            "slot": 2,
+            "materialId": 34001505,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001506,
+            "slot": 2,
+            "materialId": 34001506,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001603,
+            "slot": 2,
+            "materialId": 34001603,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001604,
+            "slot": 2,
+            "materialId": 34001604,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001605,
+            "slot": 2,
+            "materialId": 34001605,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001606,
+            "slot": 2,
+            "materialId": 34001606,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001703,
+            "slot": 2,
+            "materialId": 34001703,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001704,
+            "slot": 2,
+            "materialId": 34001704,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001705,
+            "slot": 2,
+            "materialId": 34001705,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001706,
+            "slot": 2,
+            "materialId": 34001706,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001803,
+            "slot": 2,
+            "materialId": 34001803,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001804,
+            "slot": 2,
+            "materialId": 34001804,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001805,
+            "slot": 2,
+            "materialId": 34001805,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001806,
+            "slot": 2,
+            "materialId": 34001806,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33001903,
+            "slot": 3,
+            "materialId": 34001903,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33001904,
+            "slot": 3,
+            "materialId": 34001904,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33001905,
+            "slot": 3,
+            "materialId": 34001905,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33001906,
+            "slot": 3,
+            "materialId": 34001906,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002003,
+            "slot": 3,
+            "materialId": 34002003,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002004,
+            "slot": 3,
+            "materialId": 34002004,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002005,
+            "slot": 3,
+            "materialId": 34002005,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002006,
+            "slot": 3,
+            "materialId": 34002006,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002103,
+            "slot": 3,
+            "materialId": 34002103,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002104,
+            "slot": 3,
+            "materialId": 34002104,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002105,
+            "slot": 3,
+            "materialId": 34002105,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002106,
+            "slot": 3,
+            "materialId": 34002106,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002203,
+            "slot": 3,
+            "materialId": 34002203,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002204,
+            "slot": 3,
+            "materialId": 34002204,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002205,
+            "slot": 3,
+            "materialId": 34002205,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002206,
+            "slot": 3,
+            "materialId": 34002206,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002303,
+            "slot": 3,
+            "materialId": 34002303,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002304,
+            "slot": 3,
+            "materialId": 34002304,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002305,
+            "slot": 3,
+            "materialId": 34002305,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002306,
+            "slot": 3,
+            "materialId": 34002306,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002403,
+            "slot": 3,
+            "materialId": 34002403,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002404,
+            "slot": 3,
+            "materialId": 34002404,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002405,
+            "slot": 3,
+            "materialId": 34002405,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002406,
+            "slot": 3,
+            "materialId": 34002406,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002503,
+            "slot": 3,
+            "materialId": 34002503,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002504,
+            "slot": 3,
+            "materialId": 34002504,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002505,
+            "slot": 3,
+            "materialId": 34002505,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002506,
+            "slot": 3,
+            "materialId": 34002506,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002603,
+            "slot": 3,
+            "materialId": 34002603,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002604,
+            "slot": 3,
+            "materialId": 34002604,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002605,
+            "slot": 3,
+            "materialId": 34002605,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002606,
+            "slot": 3,
+            "materialId": 34002606,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002703,
+            "slot": 3,
+            "materialId": 34002703,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002704,
+            "slot": 3,
+            "materialId": 34002704,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002705,
+            "slot": 3,
+            "materialId": 34002705,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33002706,
+            "slot": 3,
+            "materialId": 34002706,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33010106,
+            "slot": 1,
+            "materialId": 34010106,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33010206,
+            "slot": 1,
+            "materialId": 34010206,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33010306,
+            "slot": 1,
+            "materialId": 34010306,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33010406,
+            "slot": 1,
+            "materialId": 34010406,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33010506,
+            "slot": 1,
+            "materialId": 34010506,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33010606,
+            "slot": 1,
+            "materialId": 34010606,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33010706,
+            "slot": 1,
+            "materialId": 34010706,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33010806,
+            "slot": 1,
+            "materialId": 34010806,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33010906,
+            "slot": 1,
+            "materialId": 34010906,
+            "colorCode": "93296B"
+        },
+        {
+            "teamBuffItemId": 33011006,
+            "slot": 2,
+            "materialId": 34011006,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011106,
+            "slot": 2,
+            "materialId": 34011106,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011206,
+            "slot": 2,
+            "materialId": 34011206,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011306,
+            "slot": 2,
+            "materialId": 34011306,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011406,
+            "slot": 2,
+            "materialId": 34011406,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011506,
+            "slot": 2,
+            "materialId": 34011506,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011606,
+            "slot": 2,
+            "materialId": 34011606,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011706,
+            "slot": 2,
+            "materialId": 34011706,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011806,
+            "slot": 2,
+            "materialId": 34011806,
+            "colorCode": "299346"
+        },
+        {
+            "teamBuffItemId": 33011906,
+            "slot": 3,
+            "materialId": 34011906,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33012006,
+            "slot": 3,
+            "materialId": 34012006,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33012106,
+            "slot": 3,
+            "materialId": 34012106,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33012206,
+            "slot": 3,
+            "materialId": 34012206,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33012306,
+            "slot": 3,
+            "materialId": 34012306,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33012406,
+            "slot": 3,
+            "materialId": 34012406,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33012506,
+            "slot": 3,
+            "materialId": 34012506,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33012606,
+            "slot": 3,
+            "materialId": 34012606,
+            "colorCode": "297B93"
+        },
+        {
+            "teamBuffItemId": 33012706,
+            "slot": 3,
+            "materialId": 34012706,
+            "colorCode": "297B93"
+        }
+    ]
+}

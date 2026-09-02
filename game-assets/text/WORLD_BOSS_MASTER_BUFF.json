@@ -20,7 +20,8 @@
         1017,
         1018,
         1019,
-        1020
+        1020,
+        1021
     ],
     "values": [
         {
@@ -26632,10 +26633,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 1,
+            "linkGroupId": 1021,
+            "raidDmgup": 0,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 2,
             "linkGroupId": 1020,
             "raidDmgup": 30,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 2,
+            "linkGroupId": 1021,
+            "raidDmgup": 20,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26646,10 +26661,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 3,
+            "linkGroupId": 1021,
+            "raidDmgup": 30,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 4,
             "linkGroupId": 1020,
             "raidDmgup": 60,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 4,
+            "linkGroupId": 1021,
+            "raidDmgup": 40,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26660,10 +26689,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 5,
+            "linkGroupId": 1021,
+            "raidDmgup": 50,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 6,
             "linkGroupId": 1020,
             "raidDmgup": 90,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 6,
+            "linkGroupId": 1021,
+            "raidDmgup": 60,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26674,10 +26717,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 7,
+            "linkGroupId": 1021,
+            "raidDmgup": 70,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 8,
             "linkGroupId": 1020,
             "raidDmgup": 120,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 8,
+            "linkGroupId": 1021,
+            "raidDmgup": 80,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26688,10 +26745,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 9,
+            "linkGroupId": 1021,
+            "raidDmgup": 90,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 10,
             "linkGroupId": 1020,
             "raidDmgup": 150,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 10,
+            "linkGroupId": 1021,
+            "raidDmgup": 100,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26702,10 +26773,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 11,
+            "linkGroupId": 1021,
+            "raidDmgup": 110,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 12,
             "linkGroupId": 1020,
             "raidDmgup": 180,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 12,
+            "linkGroupId": 1021,
+            "raidDmgup": 120,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26716,10 +26801,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 13,
+            "linkGroupId": 1021,
+            "raidDmgup": 130,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 14,
             "linkGroupId": 1020,
             "raidDmgup": 210,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 14,
+            "linkGroupId": 1021,
+            "raidDmgup": 140,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26730,10 +26829,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 15,
+            "linkGroupId": 1021,
+            "raidDmgup": 150,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 16,
             "linkGroupId": 1020,
             "raidDmgup": 240,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 16,
+            "linkGroupId": 1021,
+            "raidDmgup": 160,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26744,10 +26857,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 17,
+            "linkGroupId": 1021,
+            "raidDmgup": 170,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 18,
             "linkGroupId": 1020,
             "raidDmgup": 270,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 18,
+            "linkGroupId": 1021,
+            "raidDmgup": 180,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26758,10 +26885,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 19,
+            "linkGroupId": 1021,
+            "raidDmgup": 190,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 20,
             "linkGroupId": 1020,
             "raidDmgup": 300,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 20,
+            "linkGroupId": 1021,
+            "raidDmgup": 200,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26772,10 +26913,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 21,
+            "linkGroupId": 1021,
+            "raidDmgup": 210,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 22,
             "linkGroupId": 1020,
             "raidDmgup": 330,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 22,
+            "linkGroupId": 1021,
+            "raidDmgup": 220,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26786,10 +26941,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 23,
+            "linkGroupId": 1021,
+            "raidDmgup": 230,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 24,
             "linkGroupId": 1020,
             "raidDmgup": 360,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 24,
+            "linkGroupId": 1021,
+            "raidDmgup": 240,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26800,10 +26969,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 25,
+            "linkGroupId": 1021,
+            "raidDmgup": 250,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 26,
             "linkGroupId": 1020,
             "raidDmgup": 390,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 26,
+            "linkGroupId": 1021,
+            "raidDmgup": 260,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26814,10 +26997,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 27,
+            "linkGroupId": 1021,
+            "raidDmgup": 270,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 28,
             "linkGroupId": 1020,
             "raidDmgup": 420,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 28,
+            "linkGroupId": 1021,
+            "raidDmgup": 280,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26828,10 +27025,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 29,
+            "linkGroupId": 1021,
+            "raidDmgup": 290,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 30,
             "linkGroupId": 1020,
             "raidDmgup": 450,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 30,
+            "linkGroupId": 1021,
+            "raidDmgup": 300,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26842,10 +27053,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 31,
+            "linkGroupId": 1021,
+            "raidDmgup": 310,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 32,
             "linkGroupId": 1020,
             "raidDmgup": 480,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 32,
+            "linkGroupId": 1021,
+            "raidDmgup": 320,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26856,10 +27081,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 33,
+            "linkGroupId": 1021,
+            "raidDmgup": 330,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 34,
             "linkGroupId": 1020,
             "raidDmgup": 510,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 34,
+            "linkGroupId": 1021,
+            "raidDmgup": 340,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26870,10 +27109,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 35,
+            "linkGroupId": 1021,
+            "raidDmgup": 350,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 36,
             "linkGroupId": 1020,
             "raidDmgup": 540,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 36,
+            "linkGroupId": 1021,
+            "raidDmgup": 360,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26884,10 +27137,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 37,
+            "linkGroupId": 1021,
+            "raidDmgup": 370,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 38,
             "linkGroupId": 1020,
             "raidDmgup": 570,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 38,
+            "linkGroupId": 1021,
+            "raidDmgup": 380,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26898,10 +27165,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 39,
+            "linkGroupId": 1021,
+            "raidDmgup": 390,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 40,
             "linkGroupId": 1020,
             "raidDmgup": 600,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 40,
+            "linkGroupId": 1021,
+            "raidDmgup": 400,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26912,10 +27193,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 41,
+            "linkGroupId": 1021,
+            "raidDmgup": 410,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 42,
             "linkGroupId": 1020,
             "raidDmgup": 630,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 42,
+            "linkGroupId": 1021,
+            "raidDmgup": 420,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26926,10 +27221,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 43,
+            "linkGroupId": 1021,
+            "raidDmgup": 430,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 44,
             "linkGroupId": 1020,
             "raidDmgup": 660,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 44,
+            "linkGroupId": 1021,
+            "raidDmgup": 440,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26940,10 +27249,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 45,
+            "linkGroupId": 1021,
+            "raidDmgup": 450,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 46,
             "linkGroupId": 1020,
             "raidDmgup": 690,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 46,
+            "linkGroupId": 1021,
+            "raidDmgup": 460,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26954,10 +27277,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 47,
+            "linkGroupId": 1021,
+            "raidDmgup": 470,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 48,
             "linkGroupId": 1020,
             "raidDmgup": 720,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 48,
+            "linkGroupId": 1021,
+            "raidDmgup": 480,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26968,10 +27305,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 49,
+            "linkGroupId": 1021,
+            "raidDmgup": 490,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 50,
             "linkGroupId": 1020,
             "raidDmgup": 750,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 50,
+            "linkGroupId": 1021,
+            "raidDmgup": 500,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26982,10 +27333,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 51,
+            "linkGroupId": 1021,
+            "raidDmgup": 510,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 52,
             "linkGroupId": 1020,
             "raidDmgup": 780,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 52,
+            "linkGroupId": 1021,
+            "raidDmgup": 520,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -26996,10 +27361,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 53,
+            "linkGroupId": 1021,
+            "raidDmgup": 530,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 54,
             "linkGroupId": 1020,
             "raidDmgup": 810,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 54,
+            "linkGroupId": 1021,
+            "raidDmgup": 540,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27010,10 +27389,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 55,
+            "linkGroupId": 1021,
+            "raidDmgup": 550,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 56,
             "linkGroupId": 1020,
             "raidDmgup": 840,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 56,
+            "linkGroupId": 1021,
+            "raidDmgup": 560,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27024,10 +27417,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 57,
+            "linkGroupId": 1021,
+            "raidDmgup": 570,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 58,
             "linkGroupId": 1020,
             "raidDmgup": 870,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 58,
+            "linkGroupId": 1021,
+            "raidDmgup": 580,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27038,10 +27445,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 59,
+            "linkGroupId": 1021,
+            "raidDmgup": 590,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 60,
             "linkGroupId": 1020,
             "raidDmgup": 900,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 60,
+            "linkGroupId": 1021,
+            "raidDmgup": 600,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27052,10 +27473,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 61,
+            "linkGroupId": 1021,
+            "raidDmgup": 610,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 62,
             "linkGroupId": 1020,
             "raidDmgup": 930,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 62,
+            "linkGroupId": 1021,
+            "raidDmgup": 620,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27066,10 +27501,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 63,
+            "linkGroupId": 1021,
+            "raidDmgup": 630,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 64,
             "linkGroupId": 1020,
             "raidDmgup": 960,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 64,
+            "linkGroupId": 1021,
+            "raidDmgup": 640,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27080,10 +27529,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 65,
+            "linkGroupId": 1021,
+            "raidDmgup": 650,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 66,
             "linkGroupId": 1020,
             "raidDmgup": 990,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 66,
+            "linkGroupId": 1021,
+            "raidDmgup": 660,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27094,10 +27557,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 67,
+            "linkGroupId": 1021,
+            "raidDmgup": 670,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 68,
             "linkGroupId": 1020,
             "raidDmgup": 1020,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 68,
+            "linkGroupId": 1021,
+            "raidDmgup": 680,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27108,10 +27585,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 69,
+            "linkGroupId": 1021,
+            "raidDmgup": 690,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 70,
             "linkGroupId": 1020,
             "raidDmgup": 1050,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 70,
+            "linkGroupId": 1021,
+            "raidDmgup": 700,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27122,10 +27613,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 71,
+            "linkGroupId": 1021,
+            "raidDmgup": 710,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 72,
             "linkGroupId": 1020,
             "raidDmgup": 1080,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 72,
+            "linkGroupId": 1021,
+            "raidDmgup": 720,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27136,10 +27641,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 73,
+            "linkGroupId": 1021,
+            "raidDmgup": 730,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 74,
             "linkGroupId": 1020,
             "raidDmgup": 1110,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 74,
+            "linkGroupId": 1021,
+            "raidDmgup": 740,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27150,10 +27669,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 75,
+            "linkGroupId": 1021,
+            "raidDmgup": 750,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 76,
             "linkGroupId": 1020,
             "raidDmgup": 1140,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 76,
+            "linkGroupId": 1021,
+            "raidDmgup": 760,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27164,10 +27697,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 77,
+            "linkGroupId": 1021,
+            "raidDmgup": 770,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 78,
             "linkGroupId": 1020,
             "raidDmgup": 1170,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 78,
+            "linkGroupId": 1021,
+            "raidDmgup": 780,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27178,10 +27725,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 79,
+            "linkGroupId": 1021,
+            "raidDmgup": 790,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 80,
             "linkGroupId": 1020,
             "raidDmgup": 1200,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 80,
+            "linkGroupId": 1021,
+            "raidDmgup": 800,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27192,10 +27753,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 81,
+            "linkGroupId": 1021,
+            "raidDmgup": 810,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 82,
             "linkGroupId": 1020,
             "raidDmgup": 1230,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 82,
+            "linkGroupId": 1021,
+            "raidDmgup": 820,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27206,10 +27781,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 83,
+            "linkGroupId": 1021,
+            "raidDmgup": 830,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 84,
             "linkGroupId": 1020,
             "raidDmgup": 1260,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 84,
+            "linkGroupId": 1021,
+            "raidDmgup": 840,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27220,10 +27809,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 85,
+            "linkGroupId": 1021,
+            "raidDmgup": 850,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 86,
             "linkGroupId": 1020,
             "raidDmgup": 1290,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 86,
+            "linkGroupId": 1021,
+            "raidDmgup": 860,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27234,10 +27837,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 87,
+            "linkGroupId": 1021,
+            "raidDmgup": 870,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 88,
             "linkGroupId": 1020,
             "raidDmgup": 1320,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 88,
+            "linkGroupId": 1021,
+            "raidDmgup": 880,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27248,10 +27865,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 89,
+            "linkGroupId": 1021,
+            "raidDmgup": 890,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 90,
             "linkGroupId": 1020,
             "raidDmgup": 1350,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 90,
+            "linkGroupId": 1021,
+            "raidDmgup": 900,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27262,10 +27893,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 91,
+            "linkGroupId": 1021,
+            "raidDmgup": 910,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 92,
             "linkGroupId": 1020,
             "raidDmgup": 1380,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 92,
+            "linkGroupId": 1021,
+            "raidDmgup": 920,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27276,10 +27921,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 93,
+            "linkGroupId": 1021,
+            "raidDmgup": 930,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 94,
             "linkGroupId": 1020,
             "raidDmgup": 1410,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 94,
+            "linkGroupId": 1021,
+            "raidDmgup": 940,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27290,10 +27949,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 95,
+            "linkGroupId": 1021,
+            "raidDmgup": 950,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 96,
             "linkGroupId": 1020,
             "raidDmgup": 1440,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 96,
+            "linkGroupId": 1021,
+            "raidDmgup": 960,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27304,10 +27977,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 97,
+            "linkGroupId": 1021,
+            "raidDmgup": 970,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 98,
             "linkGroupId": 1020,
             "raidDmgup": 1470,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 98,
+            "linkGroupId": 1021,
+            "raidDmgup": 980,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27318,10 +28005,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 99,
+            "linkGroupId": 1021,
+            "raidDmgup": 990,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 100,
             "linkGroupId": 1020,
             "raidDmgup": 1500,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 100,
+            "linkGroupId": 1021,
+            "raidDmgup": 1000,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27332,10 +28033,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 101,
+            "linkGroupId": 1021,
+            "raidDmgup": 1010,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 102,
             "linkGroupId": 1020,
             "raidDmgup": 1530,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 102,
+            "linkGroupId": 1021,
+            "raidDmgup": 1020,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27346,10 +28061,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 103,
+            "linkGroupId": 1021,
+            "raidDmgup": 1030,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 104,
             "linkGroupId": 1020,
             "raidDmgup": 1560,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 104,
+            "linkGroupId": 1021,
+            "raidDmgup": 1040,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27360,10 +28089,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 105,
+            "linkGroupId": 1021,
+            "raidDmgup": 1050,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 106,
             "linkGroupId": 1020,
             "raidDmgup": 1590,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 106,
+            "linkGroupId": 1021,
+            "raidDmgup": 1060,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27374,10 +28117,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 107,
+            "linkGroupId": 1021,
+            "raidDmgup": 1070,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 108,
             "linkGroupId": 1020,
             "raidDmgup": 1620,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 108,
+            "linkGroupId": 1021,
+            "raidDmgup": 1080,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27388,10 +28145,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 109,
+            "linkGroupId": 1021,
+            "raidDmgup": 1090,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 110,
             "linkGroupId": 1020,
             "raidDmgup": 1650,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 110,
+            "linkGroupId": 1021,
+            "raidDmgup": 1100,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27402,10 +28173,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 111,
+            "linkGroupId": 1021,
+            "raidDmgup": 1110,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 112,
             "linkGroupId": 1020,
             "raidDmgup": 1680,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 112,
+            "linkGroupId": 1021,
+            "raidDmgup": 1120,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27416,10 +28201,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 113,
+            "linkGroupId": 1021,
+            "raidDmgup": 1130,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 114,
             "linkGroupId": 1020,
             "raidDmgup": 1710,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 114,
+            "linkGroupId": 1021,
+            "raidDmgup": 1140,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27430,10 +28229,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 115,
+            "linkGroupId": 1021,
+            "raidDmgup": 1150,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 116,
             "linkGroupId": 1020,
             "raidDmgup": 1740,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 116,
+            "linkGroupId": 1021,
+            "raidDmgup": 1160,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27444,10 +28257,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 117,
+            "linkGroupId": 1021,
+            "raidDmgup": 1170,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 118,
             "linkGroupId": 1020,
             "raidDmgup": 1770,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 118,
+            "linkGroupId": 1021,
+            "raidDmgup": 1180,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27458,10 +28285,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 119,
+            "linkGroupId": 1021,
+            "raidDmgup": 1190,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 120,
             "linkGroupId": 1020,
             "raidDmgup": 1800,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 120,
+            "linkGroupId": 1021,
+            "raidDmgup": 1200,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27472,10 +28313,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 121,
+            "linkGroupId": 1021,
+            "raidDmgup": 1210,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 122,
             "linkGroupId": 1020,
             "raidDmgup": 1830,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 122,
+            "linkGroupId": 1021,
+            "raidDmgup": 1220,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27486,10 +28341,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 123,
+            "linkGroupId": 1021,
+            "raidDmgup": 1230,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 124,
             "linkGroupId": 1020,
             "raidDmgup": 1860,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 124,
+            "linkGroupId": 1021,
+            "raidDmgup": 1240,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27500,10 +28369,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 125,
+            "linkGroupId": 1021,
+            "raidDmgup": 1250,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 126,
             "linkGroupId": 1020,
             "raidDmgup": 1890,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 126,
+            "linkGroupId": 1021,
+            "raidDmgup": 1260,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27514,10 +28397,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 127,
+            "linkGroupId": 1021,
+            "raidDmgup": 1270,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 128,
             "linkGroupId": 1020,
             "raidDmgup": 1920,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 128,
+            "linkGroupId": 1021,
+            "raidDmgup": 1280,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27528,10 +28425,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 129,
+            "linkGroupId": 1021,
+            "raidDmgup": 1290,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 130,
             "linkGroupId": 1020,
             "raidDmgup": 1950,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 130,
+            "linkGroupId": 1021,
+            "raidDmgup": 1300,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27542,10 +28453,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 131,
+            "linkGroupId": 1021,
+            "raidDmgup": 1310,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 132,
             "linkGroupId": 1020,
             "raidDmgup": 1980,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 132,
+            "linkGroupId": 1021,
+            "raidDmgup": 1320,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27556,10 +28481,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 133,
+            "linkGroupId": 1021,
+            "raidDmgup": 1330,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 134,
             "linkGroupId": 1020,
             "raidDmgup": 2010,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 134,
+            "linkGroupId": 1021,
+            "raidDmgup": 1340,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27570,10 +28509,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 135,
+            "linkGroupId": 1021,
+            "raidDmgup": 1350,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 136,
             "linkGroupId": 1020,
             "raidDmgup": 2040,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 136,
+            "linkGroupId": 1021,
+            "raidDmgup": 1360,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27584,10 +28537,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 137,
+            "linkGroupId": 1021,
+            "raidDmgup": 1370,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 138,
             "linkGroupId": 1020,
             "raidDmgup": 2070,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 138,
+            "linkGroupId": 1021,
+            "raidDmgup": 1380,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27598,10 +28565,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 139,
+            "linkGroupId": 1021,
+            "raidDmgup": 1390,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 140,
             "linkGroupId": 1020,
             "raidDmgup": 2100,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 140,
+            "linkGroupId": 1021,
+            "raidDmgup": 1400,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27612,10 +28593,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 141,
+            "linkGroupId": 1021,
+            "raidDmgup": 1410,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 142,
             "linkGroupId": 1020,
             "raidDmgup": 2130,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 142,
+            "linkGroupId": 1021,
+            "raidDmgup": 1420,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27626,10 +28621,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 143,
+            "linkGroupId": 1021,
+            "raidDmgup": 1430,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 144,
             "linkGroupId": 1020,
             "raidDmgup": 2160,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 144,
+            "linkGroupId": 1021,
+            "raidDmgup": 1440,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27640,10 +28649,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 145,
+            "linkGroupId": 1021,
+            "raidDmgup": 1450,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 146,
             "linkGroupId": 1020,
             "raidDmgup": 2190,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 146,
+            "linkGroupId": 1021,
+            "raidDmgup": 1460,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27654,10 +28677,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 147,
+            "linkGroupId": 1021,
+            "raidDmgup": 1470,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 148,
             "linkGroupId": 1020,
             "raidDmgup": 2220,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 148,
+            "linkGroupId": 1021,
+            "raidDmgup": 1480,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27668,10 +28705,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 149,
+            "linkGroupId": 1021,
+            "raidDmgup": 1490,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 150,
             "linkGroupId": 1020,
             "raidDmgup": 2250,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 150,
+            "linkGroupId": 1021,
+            "raidDmgup": 1500,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27682,10 +28733,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 151,
+            "linkGroupId": 1021,
+            "raidDmgup": 1510,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 152,
             "linkGroupId": 1020,
             "raidDmgup": 2280,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 152,
+            "linkGroupId": 1021,
+            "raidDmgup": 1520,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27696,10 +28761,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 153,
+            "linkGroupId": 1021,
+            "raidDmgup": 1530,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 154,
             "linkGroupId": 1020,
             "raidDmgup": 2310,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 154,
+            "linkGroupId": 1021,
+            "raidDmgup": 1540,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27710,10 +28789,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 155,
+            "linkGroupId": 1021,
+            "raidDmgup": 1550,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 156,
             "linkGroupId": 1020,
             "raidDmgup": 2340,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 156,
+            "linkGroupId": 1021,
+            "raidDmgup": 1560,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27724,10 +28817,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 157,
+            "linkGroupId": 1021,
+            "raidDmgup": 1570,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 158,
             "linkGroupId": 1020,
             "raidDmgup": 2370,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 158,
+            "linkGroupId": 1021,
+            "raidDmgup": 1580,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27738,10 +28845,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 159,
+            "linkGroupId": 1021,
+            "raidDmgup": 1590,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 160,
             "linkGroupId": 1020,
             "raidDmgup": 2400,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 160,
+            "linkGroupId": 1021,
+            "raidDmgup": 1600,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27752,10 +28873,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 161,
+            "linkGroupId": 1021,
+            "raidDmgup": 1610,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 162,
             "linkGroupId": 1020,
             "raidDmgup": 2430,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 162,
+            "linkGroupId": 1021,
+            "raidDmgup": 1620,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27766,10 +28901,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 163,
+            "linkGroupId": 1021,
+            "raidDmgup": 1630,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 164,
             "linkGroupId": 1020,
             "raidDmgup": 2460,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 164,
+            "linkGroupId": 1021,
+            "raidDmgup": 1640,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27780,10 +28929,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 165,
+            "linkGroupId": 1021,
+            "raidDmgup": 1650,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 166,
             "linkGroupId": 1020,
             "raidDmgup": 2490,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 166,
+            "linkGroupId": 1021,
+            "raidDmgup": 1660,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27794,10 +28957,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 167,
+            "linkGroupId": 1021,
+            "raidDmgup": 1670,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 168,
             "linkGroupId": 1020,
             "raidDmgup": 2520,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 168,
+            "linkGroupId": 1021,
+            "raidDmgup": 1680,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27808,10 +28985,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 169,
+            "linkGroupId": 1021,
+            "raidDmgup": 1690,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 170,
             "linkGroupId": 1020,
             "raidDmgup": 2550,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 170,
+            "linkGroupId": 1021,
+            "raidDmgup": 1700,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27822,10 +29013,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 171,
+            "linkGroupId": 1021,
+            "raidDmgup": 1710,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 172,
             "linkGroupId": 1020,
             "raidDmgup": 2580,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 172,
+            "linkGroupId": 1021,
+            "raidDmgup": 1720,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27836,10 +29041,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 173,
+            "linkGroupId": 1021,
+            "raidDmgup": 1730,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 174,
             "linkGroupId": 1020,
             "raidDmgup": 2610,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 174,
+            "linkGroupId": 1021,
+            "raidDmgup": 1740,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27850,10 +29069,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 175,
+            "linkGroupId": 1021,
+            "raidDmgup": 1750,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 176,
             "linkGroupId": 1020,
             "raidDmgup": 2640,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 176,
+            "linkGroupId": 1021,
+            "raidDmgup": 1760,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27864,10 +29097,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 177,
+            "linkGroupId": 1021,
+            "raidDmgup": 1770,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 178,
             "linkGroupId": 1020,
             "raidDmgup": 2670,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 178,
+            "linkGroupId": 1021,
+            "raidDmgup": 1780,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27878,10 +29125,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 179,
+            "linkGroupId": 1021,
+            "raidDmgup": 1790,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 180,
             "linkGroupId": 1020,
             "raidDmgup": 2700,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 180,
+            "linkGroupId": 1021,
+            "raidDmgup": 1800,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27892,10 +29153,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 181,
+            "linkGroupId": 1021,
+            "raidDmgup": 1810,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 182,
             "linkGroupId": 1020,
             "raidDmgup": 2730,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 182,
+            "linkGroupId": 1021,
+            "raidDmgup": 1820,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27906,10 +29181,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 183,
+            "linkGroupId": 1021,
+            "raidDmgup": 1830,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 184,
             "linkGroupId": 1020,
             "raidDmgup": 2760,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 184,
+            "linkGroupId": 1021,
+            "raidDmgup": 1840,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27920,10 +29209,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 185,
+            "linkGroupId": 1021,
+            "raidDmgup": 1850,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 186,
             "linkGroupId": 1020,
             "raidDmgup": 2790,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 186,
+            "linkGroupId": 1021,
+            "raidDmgup": 1860,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27934,10 +29237,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 187,
+            "linkGroupId": 1021,
+            "raidDmgup": 1870,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 188,
             "linkGroupId": 1020,
             "raidDmgup": 2820,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 188,
+            "linkGroupId": 1021,
+            "raidDmgup": 1880,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27948,10 +29265,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 189,
+            "linkGroupId": 1021,
+            "raidDmgup": 1890,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 190,
             "linkGroupId": 1020,
             "raidDmgup": 2850,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 190,
+            "linkGroupId": 1021,
+            "raidDmgup": 1900,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27962,10 +29293,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 191,
+            "linkGroupId": 1021,
+            "raidDmgup": 1910,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 192,
             "linkGroupId": 1020,
             "raidDmgup": 2880,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 192,
+            "linkGroupId": 1021,
+            "raidDmgup": 1920,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27976,10 +29321,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 193,
+            "linkGroupId": 1021,
+            "raidDmgup": 1930,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 194,
             "linkGroupId": 1020,
             "raidDmgup": 2910,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 194,
+            "linkGroupId": 1021,
+            "raidDmgup": 1940,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -27990,10 +29349,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 195,
+            "linkGroupId": 1021,
+            "raidDmgup": 1950,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 196,
             "linkGroupId": 1020,
             "raidDmgup": 2940,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 196,
+            "linkGroupId": 1021,
+            "raidDmgup": 1960,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -28004,10 +29377,24 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 197,
+            "linkGroupId": 1021,
+            "raidDmgup": 1970,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 198,
             "linkGroupId": 1020,
             "raidDmgup": 2970,
             "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 198,
+            "linkGroupId": 1021,
+            "raidDmgup": 1980,
+            "masterType": 2
         },
         {
             "raidGroupId": 1020,
@@ -28018,14 +29405,1429 @@
         },
         {
             "raidGroupId": 1020,
+            "masterLevel": 199,
+            "linkGroupId": 1021,
+            "raidDmgup": 1990,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1020,
             "masterLevel": 200,
             "linkGroupId": 1020,
+            "raidDmgup": 3000,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1020,
+            "masterLevel": 200,
+            "linkGroupId": 1021,
+            "raidDmgup": 2000,
+            "masterType": 2
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 1,
+            "linkGroupId": 1021,
+            "raidDmgup": 0,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 2,
+            "linkGroupId": 1021,
+            "raidDmgup": 30,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 3,
+            "linkGroupId": 1021,
+            "raidDmgup": 45,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 4,
+            "linkGroupId": 1021,
+            "raidDmgup": 60,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 5,
+            "linkGroupId": 1021,
+            "raidDmgup": 75,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 6,
+            "linkGroupId": 1021,
+            "raidDmgup": 90,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 7,
+            "linkGroupId": 1021,
+            "raidDmgup": 105,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 8,
+            "linkGroupId": 1021,
+            "raidDmgup": 120,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 9,
+            "linkGroupId": 1021,
+            "raidDmgup": 135,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 10,
+            "linkGroupId": 1021,
+            "raidDmgup": 150,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 11,
+            "linkGroupId": 1021,
+            "raidDmgup": 165,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 12,
+            "linkGroupId": 1021,
+            "raidDmgup": 180,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 13,
+            "linkGroupId": 1021,
+            "raidDmgup": 195,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 14,
+            "linkGroupId": 1021,
+            "raidDmgup": 210,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 15,
+            "linkGroupId": 1021,
+            "raidDmgup": 225,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 16,
+            "linkGroupId": 1021,
+            "raidDmgup": 240,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 17,
+            "linkGroupId": 1021,
+            "raidDmgup": 255,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 18,
+            "linkGroupId": 1021,
+            "raidDmgup": 270,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 19,
+            "linkGroupId": 1021,
+            "raidDmgup": 285,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 20,
+            "linkGroupId": 1021,
+            "raidDmgup": 300,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 21,
+            "linkGroupId": 1021,
+            "raidDmgup": 315,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 22,
+            "linkGroupId": 1021,
+            "raidDmgup": 330,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 23,
+            "linkGroupId": 1021,
+            "raidDmgup": 345,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 24,
+            "linkGroupId": 1021,
+            "raidDmgup": 360,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 25,
+            "linkGroupId": 1021,
+            "raidDmgup": 375,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 26,
+            "linkGroupId": 1021,
+            "raidDmgup": 390,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 27,
+            "linkGroupId": 1021,
+            "raidDmgup": 405,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 28,
+            "linkGroupId": 1021,
+            "raidDmgup": 420,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 29,
+            "linkGroupId": 1021,
+            "raidDmgup": 435,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 30,
+            "linkGroupId": 1021,
+            "raidDmgup": 450,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 31,
+            "linkGroupId": 1021,
+            "raidDmgup": 465,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 32,
+            "linkGroupId": 1021,
+            "raidDmgup": 480,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 33,
+            "linkGroupId": 1021,
+            "raidDmgup": 495,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 34,
+            "linkGroupId": 1021,
+            "raidDmgup": 510,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 35,
+            "linkGroupId": 1021,
+            "raidDmgup": 525,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 36,
+            "linkGroupId": 1021,
+            "raidDmgup": 540,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 37,
+            "linkGroupId": 1021,
+            "raidDmgup": 555,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 38,
+            "linkGroupId": 1021,
+            "raidDmgup": 570,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 39,
+            "linkGroupId": 1021,
+            "raidDmgup": 585,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 40,
+            "linkGroupId": 1021,
+            "raidDmgup": 600,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 41,
+            "linkGroupId": 1021,
+            "raidDmgup": 615,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 42,
+            "linkGroupId": 1021,
+            "raidDmgup": 630,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 43,
+            "linkGroupId": 1021,
+            "raidDmgup": 645,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 44,
+            "linkGroupId": 1021,
+            "raidDmgup": 660,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 45,
+            "linkGroupId": 1021,
+            "raidDmgup": 675,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 46,
+            "linkGroupId": 1021,
+            "raidDmgup": 690,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 47,
+            "linkGroupId": 1021,
+            "raidDmgup": 705,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 48,
+            "linkGroupId": 1021,
+            "raidDmgup": 720,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 49,
+            "linkGroupId": 1021,
+            "raidDmgup": 735,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 50,
+            "linkGroupId": 1021,
+            "raidDmgup": 750,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 51,
+            "linkGroupId": 1021,
+            "raidDmgup": 765,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 52,
+            "linkGroupId": 1021,
+            "raidDmgup": 780,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 53,
+            "linkGroupId": 1021,
+            "raidDmgup": 795,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 54,
+            "linkGroupId": 1021,
+            "raidDmgup": 810,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 55,
+            "linkGroupId": 1021,
+            "raidDmgup": 825,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 56,
+            "linkGroupId": 1021,
+            "raidDmgup": 840,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 57,
+            "linkGroupId": 1021,
+            "raidDmgup": 855,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 58,
+            "linkGroupId": 1021,
+            "raidDmgup": 870,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 59,
+            "linkGroupId": 1021,
+            "raidDmgup": 885,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 60,
+            "linkGroupId": 1021,
+            "raidDmgup": 900,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 61,
+            "linkGroupId": 1021,
+            "raidDmgup": 915,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 62,
+            "linkGroupId": 1021,
+            "raidDmgup": 930,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 63,
+            "linkGroupId": 1021,
+            "raidDmgup": 945,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 64,
+            "linkGroupId": 1021,
+            "raidDmgup": 960,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 65,
+            "linkGroupId": 1021,
+            "raidDmgup": 975,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 66,
+            "linkGroupId": 1021,
+            "raidDmgup": 990,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 67,
+            "linkGroupId": 1021,
+            "raidDmgup": 1005,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 68,
+            "linkGroupId": 1021,
+            "raidDmgup": 1020,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 69,
+            "linkGroupId": 1021,
+            "raidDmgup": 1035,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 70,
+            "linkGroupId": 1021,
+            "raidDmgup": 1050,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 71,
+            "linkGroupId": 1021,
+            "raidDmgup": 1065,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 72,
+            "linkGroupId": 1021,
+            "raidDmgup": 1080,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 73,
+            "linkGroupId": 1021,
+            "raidDmgup": 1095,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 74,
+            "linkGroupId": 1021,
+            "raidDmgup": 1110,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 75,
+            "linkGroupId": 1021,
+            "raidDmgup": 1125,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 76,
+            "linkGroupId": 1021,
+            "raidDmgup": 1140,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 77,
+            "linkGroupId": 1021,
+            "raidDmgup": 1155,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 78,
+            "linkGroupId": 1021,
+            "raidDmgup": 1170,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 79,
+            "linkGroupId": 1021,
+            "raidDmgup": 1185,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 80,
+            "linkGroupId": 1021,
+            "raidDmgup": 1200,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 81,
+            "linkGroupId": 1021,
+            "raidDmgup": 1215,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 82,
+            "linkGroupId": 1021,
+            "raidDmgup": 1230,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 83,
+            "linkGroupId": 1021,
+            "raidDmgup": 1245,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 84,
+            "linkGroupId": 1021,
+            "raidDmgup": 1260,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 85,
+            "linkGroupId": 1021,
+            "raidDmgup": 1275,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 86,
+            "linkGroupId": 1021,
+            "raidDmgup": 1290,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 87,
+            "linkGroupId": 1021,
+            "raidDmgup": 1305,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 88,
+            "linkGroupId": 1021,
+            "raidDmgup": 1320,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 89,
+            "linkGroupId": 1021,
+            "raidDmgup": 1335,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 90,
+            "linkGroupId": 1021,
+            "raidDmgup": 1350,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 91,
+            "linkGroupId": 1021,
+            "raidDmgup": 1365,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 92,
+            "linkGroupId": 1021,
+            "raidDmgup": 1380,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 93,
+            "linkGroupId": 1021,
+            "raidDmgup": 1395,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 94,
+            "linkGroupId": 1021,
+            "raidDmgup": 1410,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 95,
+            "linkGroupId": 1021,
+            "raidDmgup": 1425,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 96,
+            "linkGroupId": 1021,
+            "raidDmgup": 1440,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 97,
+            "linkGroupId": 1021,
+            "raidDmgup": 1455,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 98,
+            "linkGroupId": 1021,
+            "raidDmgup": 1470,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 99,
+            "linkGroupId": 1021,
+            "raidDmgup": 1485,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 100,
+            "linkGroupId": 1021,
+            "raidDmgup": 1500,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 101,
+            "linkGroupId": 1021,
+            "raidDmgup": 1515,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 102,
+            "linkGroupId": 1021,
+            "raidDmgup": 1530,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 103,
+            "linkGroupId": 1021,
+            "raidDmgup": 1545,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 104,
+            "linkGroupId": 1021,
+            "raidDmgup": 1560,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 105,
+            "linkGroupId": 1021,
+            "raidDmgup": 1575,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 106,
+            "linkGroupId": 1021,
+            "raidDmgup": 1590,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 107,
+            "linkGroupId": 1021,
+            "raidDmgup": 1605,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 108,
+            "linkGroupId": 1021,
+            "raidDmgup": 1620,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 109,
+            "linkGroupId": 1021,
+            "raidDmgup": 1635,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 110,
+            "linkGroupId": 1021,
+            "raidDmgup": 1650,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 111,
+            "linkGroupId": 1021,
+            "raidDmgup": 1665,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 112,
+            "linkGroupId": 1021,
+            "raidDmgup": 1680,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 113,
+            "linkGroupId": 1021,
+            "raidDmgup": 1695,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 114,
+            "linkGroupId": 1021,
+            "raidDmgup": 1710,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 115,
+            "linkGroupId": 1021,
+            "raidDmgup": 1725,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 116,
+            "linkGroupId": 1021,
+            "raidDmgup": 1740,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 117,
+            "linkGroupId": 1021,
+            "raidDmgup": 1755,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 118,
+            "linkGroupId": 1021,
+            "raidDmgup": 1770,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 119,
+            "linkGroupId": 1021,
+            "raidDmgup": 1785,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 120,
+            "linkGroupId": 1021,
+            "raidDmgup": 1800,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 121,
+            "linkGroupId": 1021,
+            "raidDmgup": 1815,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 122,
+            "linkGroupId": 1021,
+            "raidDmgup": 1830,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 123,
+            "linkGroupId": 1021,
+            "raidDmgup": 1845,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 124,
+            "linkGroupId": 1021,
+            "raidDmgup": 1860,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 125,
+            "linkGroupId": 1021,
+            "raidDmgup": 1875,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 126,
+            "linkGroupId": 1021,
+            "raidDmgup": 1890,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 127,
+            "linkGroupId": 1021,
+            "raidDmgup": 1905,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 128,
+            "linkGroupId": 1021,
+            "raidDmgup": 1920,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 129,
+            "linkGroupId": 1021,
+            "raidDmgup": 1935,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 130,
+            "linkGroupId": 1021,
+            "raidDmgup": 1950,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 131,
+            "linkGroupId": 1021,
+            "raidDmgup": 1965,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 132,
+            "linkGroupId": 1021,
+            "raidDmgup": 1980,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 133,
+            "linkGroupId": 1021,
+            "raidDmgup": 1995,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 134,
+            "linkGroupId": 1021,
+            "raidDmgup": 2010,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 135,
+            "linkGroupId": 1021,
+            "raidDmgup": 2025,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 136,
+            "linkGroupId": 1021,
+            "raidDmgup": 2040,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 137,
+            "linkGroupId": 1021,
+            "raidDmgup": 2055,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 138,
+            "linkGroupId": 1021,
+            "raidDmgup": 2070,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 139,
+            "linkGroupId": 1021,
+            "raidDmgup": 2085,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 140,
+            "linkGroupId": 1021,
+            "raidDmgup": 2100,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 141,
+            "linkGroupId": 1021,
+            "raidDmgup": 2115,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 142,
+            "linkGroupId": 1021,
+            "raidDmgup": 2130,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 143,
+            "linkGroupId": 1021,
+            "raidDmgup": 2145,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 144,
+            "linkGroupId": 1021,
+            "raidDmgup": 2160,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 145,
+            "linkGroupId": 1021,
+            "raidDmgup": 2175,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 146,
+            "linkGroupId": 1021,
+            "raidDmgup": 2190,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 147,
+            "linkGroupId": 1021,
+            "raidDmgup": 2205,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 148,
+            "linkGroupId": 1021,
+            "raidDmgup": 2220,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 149,
+            "linkGroupId": 1021,
+            "raidDmgup": 2235,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 150,
+            "linkGroupId": 1021,
+            "raidDmgup": 2250,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 151,
+            "linkGroupId": 1021,
+            "raidDmgup": 2265,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 152,
+            "linkGroupId": 1021,
+            "raidDmgup": 2280,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 153,
+            "linkGroupId": 1021,
+            "raidDmgup": 2295,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 154,
+            "linkGroupId": 1021,
+            "raidDmgup": 2310,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 155,
+            "linkGroupId": 1021,
+            "raidDmgup": 2325,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 156,
+            "linkGroupId": 1021,
+            "raidDmgup": 2340,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 157,
+            "linkGroupId": 1021,
+            "raidDmgup": 2355,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 158,
+            "linkGroupId": 1021,
+            "raidDmgup": 2370,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 159,
+            "linkGroupId": 1021,
+            "raidDmgup": 2385,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 160,
+            "linkGroupId": 1021,
+            "raidDmgup": 2400,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 161,
+            "linkGroupId": 1021,
+            "raidDmgup": 2415,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 162,
+            "linkGroupId": 1021,
+            "raidDmgup": 2430,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 163,
+            "linkGroupId": 1021,
+            "raidDmgup": 2445,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 164,
+            "linkGroupId": 1021,
+            "raidDmgup": 2460,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 165,
+            "linkGroupId": 1021,
+            "raidDmgup": 2475,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 166,
+            "linkGroupId": 1021,
+            "raidDmgup": 2490,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 167,
+            "linkGroupId": 1021,
+            "raidDmgup": 2505,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 168,
+            "linkGroupId": 1021,
+            "raidDmgup": 2520,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 169,
+            "linkGroupId": 1021,
+            "raidDmgup": 2535,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 170,
+            "linkGroupId": 1021,
+            "raidDmgup": 2550,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 171,
+            "linkGroupId": 1021,
+            "raidDmgup": 2565,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 172,
+            "linkGroupId": 1021,
+            "raidDmgup": 2580,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 173,
+            "linkGroupId": 1021,
+            "raidDmgup": 2595,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 174,
+            "linkGroupId": 1021,
+            "raidDmgup": 2610,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 175,
+            "linkGroupId": 1021,
+            "raidDmgup": 2625,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 176,
+            "linkGroupId": 1021,
+            "raidDmgup": 2640,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 177,
+            "linkGroupId": 1021,
+            "raidDmgup": 2655,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 178,
+            "linkGroupId": 1021,
+            "raidDmgup": 2670,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 179,
+            "linkGroupId": 1021,
+            "raidDmgup": 2685,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 180,
+            "linkGroupId": 1021,
+            "raidDmgup": 2700,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 181,
+            "linkGroupId": 1021,
+            "raidDmgup": 2715,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 182,
+            "linkGroupId": 1021,
+            "raidDmgup": 2730,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 183,
+            "linkGroupId": 1021,
+            "raidDmgup": 2745,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 184,
+            "linkGroupId": 1021,
+            "raidDmgup": 2760,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 185,
+            "linkGroupId": 1021,
+            "raidDmgup": 2775,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 186,
+            "linkGroupId": 1021,
+            "raidDmgup": 2790,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 187,
+            "linkGroupId": 1021,
+            "raidDmgup": 2805,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 188,
+            "linkGroupId": 1021,
+            "raidDmgup": 2820,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 189,
+            "linkGroupId": 1021,
+            "raidDmgup": 2835,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 190,
+            "linkGroupId": 1021,
+            "raidDmgup": 2850,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 191,
+            "linkGroupId": 1021,
+            "raidDmgup": 2865,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 192,
+            "linkGroupId": 1021,
+            "raidDmgup": 2880,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 193,
+            "linkGroupId": 1021,
+            "raidDmgup": 2895,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 194,
+            "linkGroupId": 1021,
+            "raidDmgup": 2910,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 195,
+            "linkGroupId": 1021,
+            "raidDmgup": 2925,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 196,
+            "linkGroupId": 1021,
+            "raidDmgup": 2940,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 197,
+            "linkGroupId": 1021,
+            "raidDmgup": 2955,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 198,
+            "linkGroupId": 1021,
+            "raidDmgup": 2970,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 199,
+            "linkGroupId": 1021,
+            "raidDmgup": 2985,
+            "masterType": 1
+        },
+        {
+            "raidGroupId": 1021,
+            "masterLevel": 200,
+            "linkGroupId": 1021,
             "raidDmgup": 3000,
             "masterType": 1
         }
     ],
     "counts": [
         200,
+        400,
         400,
         400,
         400,

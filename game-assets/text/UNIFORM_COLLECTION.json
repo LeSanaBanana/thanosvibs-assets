@@ -96,7 +96,8 @@
         77010,
         78010,
         79010,
-        80010
+        80010,
+        81010
     ],
     "values": [
         {
@@ -441,7 +442,7 @@
                 10260011,
                 10260012,
                 10260046,
-                1002236,
+                1002246,
                 1012036
             ],
             "conditionList": [
@@ -467,7 +468,7 @@
                 },
                 {
                     "conditionType": 1,
-                    "conditionValue": 1002236
+                    "conditionValue": 1002246
                 },
                 {
                     "conditionType": 1,
@@ -3394,6 +3395,40 @@
                 {
                     "conditionType": 0,
                     "conditionValue": 10160236
+                }
+            ]
+        },
+        {
+            "id": 81011,
+            "themeId": 81,
+            "groupId": 81010,
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 180,
+            "logoPath": "uniformtitle_annihilation",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10760075,
+                10360022,
+                1029246,
+                1029346
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10760075
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10360022
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1029246
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1029346
                 }
             ]
         }

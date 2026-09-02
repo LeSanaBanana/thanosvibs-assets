@@ -29,7 +29,8 @@
         1017,
         1018,
         1019,
-        1020
+        1020,
+        1021
     ],
     "values": [
         {
@@ -207,6 +208,14 @@
             "BossAni": "wait",
             "bossBg": "ui/bg_raid/raidmap22",
             "goodsId": 0
+        },
+        {
+            "RaidGroupId": 1021,
+            "MobGroup": 1329332101,
+            "BossCamera": "{\"position\":{\"x\":0,\"y\":1.04,\"z\":-8.9},\"rotation\":{\"x\":0,\"y\":0,\"z\":0},\"fov\":15}",
+            "BossAni": "idle",
+            "bossBg": "ui/bg_raid/raidmap23",
+            "goodsId": 0
         }
     ],
     "counts": [
@@ -229,6 +238,7 @@
         1,
         2,
         2,
+        1,
         1
     ]
 }

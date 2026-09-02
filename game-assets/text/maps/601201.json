@@ -1,6 +1,6 @@
 [
     {
-        "level": "base_starktower_0001_o01",
+        "level": "base_triskelion_0001_d02",
         "lightIndex": 0,
         "startpoint": 1,
         "endpoint": -1,
@@ -9,15 +9,14 @@
                 "round": [
                     {
                         "point": 1,
-                        "mob": 1211601201,
+                        "mob": 1182601201,
                         "group": 1,
                         "sight": 1000,
                         "firstattack": 1,
                         "keymob": 1,
                         "boss": 4,
                         "weakhit": 1,
-                        "avoidancePriority": 0,
-                        "aiprefab": "ai_sv_greengoblin01_S02"
+                        "avoidancePriority": 0
                     }
                 ]
             }

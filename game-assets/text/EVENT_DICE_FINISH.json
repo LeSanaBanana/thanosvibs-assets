@@ -30,7 +30,8 @@
         18,
         19,
         20,
-        21
+        21,
+        22
     ],
     "values": [
         {
@@ -2507,6 +2508,127 @@
             "AddRewardType": 0,
             "AddRewardValue": 0,
             "AddRewardQty": 0
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 1,
+            "RewardType": 2,
+            "RewardValue": 0,
+            "RewardQty": 100,
+            "AddRewardType": 100,
+            "AddRewardValue": 1140002,
+            "AddRewardQty": 160
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 2,
+            "RewardType": 28,
+            "RewardValue": 0,
+            "RewardQty": 60,
+            "AddRewardType": 100,
+            "AddRewardValue": 1140003,
+            "AddRewardQty": 160
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 3,
+            "RewardType": 307,
+            "RewardValue": 2160,
+            "RewardQty": 1,
+            "AddRewardType": 100,
+            "AddRewardValue": 1140001,
+            "AddRewardQty": 160
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 4,
+            "RewardType": 100,
+            "RewardValue": 1140002,
+            "RewardQty": 60,
+            "AddRewardType": 307,
+            "AddRewardValue": 2494,
+            "AddRewardQty": 1
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 5,
+            "RewardType": 100,
+            "RewardValue": 1140003,
+            "RewardQty": 60,
+            "AddRewardType": 307,
+            "AddRewardValue": 2494,
+            "AddRewardQty": 1
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 6,
+            "RewardType": 100,
+            "RewardValue": 1140001,
+            "RewardQty": 60,
+            "AddRewardType": 307,
+            "AddRewardValue": 2494,
+            "AddRewardQty": 1
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 7,
+            "RewardType": 100,
+            "RewardValue": 1330003,
+            "RewardQty": 40,
+            "AddRewardType": 100,
+            "AddRewardValue": 1330003,
+            "AddRewardQty": 100
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 8,
+            "RewardType": 100,
+            "RewardValue": 1330001,
+            "RewardQty": 40,
+            "AddRewardType": 100,
+            "AddRewardValue": 1330001,
+            "AddRewardQty": 100
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 9,
+            "RewardType": 100,
+            "RewardValue": 1330002,
+            "RewardQty": 40,
+            "AddRewardType": 100,
+            "AddRewardValue": 1330002,
+            "AddRewardQty": 100
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 1,
+            "FinishCount": 10,
+            "RewardType": 300,
+            "RewardValue": 1777,
+            "RewardQty": 1,
+            "AddRewardType": 307,
+            "AddRewardValue": 2451,
+            "AddRewardQty": 1
+        },
+        {
+            "EventGroupId": 22,
+            "Type": 2,
+            "FinishCount": 1,
+            "RewardType": 3,
+            "RewardValue": 0,
+            "RewardQty": 100000,
+            "AddRewardType": 0,
+            "AddRewardValue": 0,
+            "AddRewardQty": 0
         }
     ],
     "counts": [
@@ -2528,6 +2650,7 @@
         11,
         11,
         9,
+        11,
         11,
         11,
         11

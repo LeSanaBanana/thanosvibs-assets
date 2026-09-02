@@ -5939,6 +5939,162 @@
             ]
         },
         {
+            "potentialId": 20221,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 22,
+            "potentialGrade": 7,
+            "probPoint": 100000,
+            "heroReqLevel": 70,
+            "heroMaxLevel": 70,
+            "heroMapExp": 98560,
+            "heroMapBonusExp": 123200,
+            "price": 7500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 2439
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 714
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 909
+                }
+            ]
+        },
+        {
+            "potentialId": 20222,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 22,
+            "potentialGrade": 8,
+            "probPoint": 100000,
+            "heroReqLevel": 70,
+            "heroMaxLevel": 72,
+            "heroMapExp": 98560,
+            "heroMapBonusExp": 123200,
+            "price": 15000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 1234
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 358
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 476
+                }
+            ]
+        },
+        {
+            "potentialId": 20223,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 22,
+            "potentialGrade": 9,
+            "probPoint": 100000,
+            "heroReqLevel": 72,
+            "heroMaxLevel": 74,
+            "heroMapExp": 98560,
+            "heroMapBonusExp": 123200,
+            "price": 22500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 819
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 238
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 322
+                }
+            ]
+        },
+        {
+            "potentialId": 20224,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 22,
+            "potentialGrade": 10,
+            "probPoint": 100000,
+            "heroReqLevel": 74,
+            "heroMaxLevel": 76,
+            "heroMapExp": 98560,
+            "heroMapBonusExp": 123200,
+            "price": 45000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 411
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 119
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 163
+                }
+            ]
+        },
+        {
+            "potentialId": 20225,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 22,
+            "potentialGrade": 11,
+            "probPoint": 100000,
+            "heroReqLevel": 76,
+            "heroMaxLevel": 78,
+            "heroMapExp": 98560,
+            "heroMapBonusExp": 123200,
+            "price": 60000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 308
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 89
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 123
+                }
+            ]
+        },
+        {
+            "potentialId": 20226,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 22,
+            "potentialGrade": 12,
+            "probPoint": 100000,
+            "heroReqLevel": 78,
+            "heroMaxLevel": 80,
+            "heroMapExp": 98560,
+            "heroMapBonusExp": 123200,
+            "price": 0,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 0
+                }
+            ]
+        },
+        {
             "potentialId": 10231,
             "potentialSearchProb": 100000,
             "heroGroupID": 23,
@@ -64278,6 +64434,630 @@
                 },
                 {
                     "potentialItem": 1120001,
+                    "potentialProb": 0
+                }
+            ]
+        },
+        {
+            "potentialId": 12921,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 1,
+            "probPoint": 100000,
+            "heroReqLevel": 60,
+            "heroMaxLevel": 60,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 7500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 1428
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 1052
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 1250
+                }
+            ]
+        },
+        {
+            "potentialId": 12922,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 2,
+            "probPoint": 100000,
+            "heroReqLevel": 60,
+            "heroMaxLevel": 62,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 15000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 714
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 526
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 625
+                }
+            ]
+        },
+        {
+            "potentialId": 12923,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 3,
+            "probPoint": 100000,
+            "heroReqLevel": 62,
+            "heroMaxLevel": 64,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 22500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 476
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 350
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 416
+                }
+            ]
+        },
+        {
+            "potentialId": 12924,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 4,
+            "probPoint": 100000,
+            "heroReqLevel": 64,
+            "heroMaxLevel": 66,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 45000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 238
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 175
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 208
+                }
+            ]
+        },
+        {
+            "potentialId": 12925,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 5,
+            "probPoint": 100000,
+            "heroReqLevel": 66,
+            "heroMaxLevel": 68,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 60000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 178
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 131
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 156
+                }
+            ]
+        },
+        {
+            "potentialId": 12926,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 6,
+            "probPoint": 100000,
+            "heroReqLevel": 68,
+            "heroMaxLevel": 70,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 0,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 0
+                }
+            ]
+        },
+        {
+            "potentialId": 22921,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 7,
+            "probPoint": 100000,
+            "heroReqLevel": 70,
+            "heroMaxLevel": 70,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 11250,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 1063
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 793
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 909
+                }
+            ]
+        },
+        {
+            "potentialId": 22922,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 8,
+            "probPoint": 100000,
+            "heroReqLevel": 70,
+            "heroMaxLevel": 72,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 22500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 531
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 396
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 454
+                }
+            ]
+        },
+        {
+            "potentialId": 22923,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 9,
+            "probPoint": 100000,
+            "heroReqLevel": 72,
+            "heroMaxLevel": 74,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 33750,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 355
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 264
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 294
+                }
+            ]
+        },
+        {
+            "potentialId": 22924,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 10,
+            "probPoint": 100000,
+            "heroReqLevel": 74,
+            "heroMaxLevel": 76,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 67500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 177
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 132
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 147
+                }
+            ]
+        },
+        {
+            "potentialId": 22925,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 11,
+            "probPoint": 100000,
+            "heroReqLevel": 76,
+            "heroMaxLevel": 78,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 90000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 133
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 99
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 109
+                }
+            ]
+        },
+        {
+            "potentialId": 22926,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 292,
+            "potentialGrade": 12,
+            "probPoint": 100000,
+            "heroReqLevel": 78,
+            "heroMaxLevel": 80,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 0,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 0
+                }
+            ]
+        },
+        {
+            "potentialId": 12931,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 1,
+            "probPoint": 100000,
+            "heroReqLevel": 60,
+            "heroMaxLevel": 60,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 7500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 1428
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 1052
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 1250
+                }
+            ]
+        },
+        {
+            "potentialId": 12932,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 2,
+            "probPoint": 100000,
+            "heroReqLevel": 60,
+            "heroMaxLevel": 62,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 15000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 714
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 526
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 625
+                }
+            ]
+        },
+        {
+            "potentialId": 12933,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 3,
+            "probPoint": 100000,
+            "heroReqLevel": 62,
+            "heroMaxLevel": 64,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 22500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 476
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 350
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 416
+                }
+            ]
+        },
+        {
+            "potentialId": 12934,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 4,
+            "probPoint": 100000,
+            "heroReqLevel": 64,
+            "heroMaxLevel": 66,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 45000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 238
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 175
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 208
+                }
+            ]
+        },
+        {
+            "potentialId": 12935,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 5,
+            "probPoint": 100000,
+            "heroReqLevel": 66,
+            "heroMaxLevel": 68,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 60000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 178
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 131
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 156
+                }
+            ]
+        },
+        {
+            "potentialId": 12936,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 6,
+            "probPoint": 100000,
+            "heroReqLevel": 68,
+            "heroMaxLevel": 70,
+            "heroMapExp": 27180,
+            "heroMapBonusExp": 0,
+            "price": 0,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1140001,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1140002,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1140003,
+                    "potentialProb": 0
+                }
+            ]
+        },
+        {
+            "potentialId": 22931,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 7,
+            "probPoint": 100000,
+            "heroReqLevel": 70,
+            "heroMaxLevel": 70,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 11250,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 1063
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 793
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 909
+                }
+            ]
+        },
+        {
+            "potentialId": 22932,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 8,
+            "probPoint": 100000,
+            "heroReqLevel": 70,
+            "heroMaxLevel": 72,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 22500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 531
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 396
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 454
+                }
+            ]
+        },
+        {
+            "potentialId": 22933,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 9,
+            "probPoint": 100000,
+            "heroReqLevel": 72,
+            "heroMaxLevel": 74,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 33750,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 355
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 264
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 294
+                }
+            ]
+        },
+        {
+            "potentialId": 22934,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 10,
+            "probPoint": 100000,
+            "heroReqLevel": 74,
+            "heroMaxLevel": 76,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 67500,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 177
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 132
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 147
+                }
+            ]
+        },
+        {
+            "potentialId": 22935,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 11,
+            "probPoint": 100000,
+            "heroReqLevel": 76,
+            "heroMaxLevel": 78,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 90000,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 133
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 99
+                },
+                {
+                    "potentialItem": 1330003,
+                    "potentialProb": 109
+                }
+            ]
+        },
+        {
+            "potentialId": 22936,
+            "potentialSearchProb": 100000,
+            "heroGroupID": 293,
+            "potentialGrade": 12,
+            "probPoint": 100000,
+            "heroReqLevel": 78,
+            "heroMaxLevel": 80,
+            "heroMapExp": 39420,
+            "heroMapBonusExp": 49280,
+            "price": 0,
+            "heroPotentialItemList": [
+                {
+                    "potentialItem": 1330001,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1330002,
+                    "potentialProb": 0
+                },
+                {
+                    "potentialItem": 1330003,
                     "potentialProb": 0
                 }
             ]

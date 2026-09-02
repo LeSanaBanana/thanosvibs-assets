@@ -133,7 +133,10 @@
         130,
         236,
         18,
-        133
+        133,
+        292,
+        293,
+        22
     ],
     "values": [
         {
@@ -1983,6 +1986,51 @@
         },
         {
             "HeroGroupId": 133,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 292,
+            "MaterialIds": [
+                1140001,
+                1130002,
+                9832
+            ],
+            "MaterialQtys": [
+                1800,
+                8,
+                300
+            ],
+            "CostGold": 3000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 293,
+            "MaterialIds": [
+                1140001,
+                1130004,
+                9832
+            ],
+            "MaterialQtys": [
+                1800,
+                8,
+                300
+            ],
+            "CostGold": 3000000,
+            "AddOnSkillGroupId": 2
+        },
+        {
+            "HeroGroupId": 22,
             "MaterialIds": [
                 1070001,
                 1020001,

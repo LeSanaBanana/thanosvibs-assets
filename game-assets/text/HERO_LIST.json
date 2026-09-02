@@ -1347,6 +1347,7 @@
         1002206,
         1002226,
         1002236,
+        1002246,
         1011002201,
         1011002202,
         1011002203,
@@ -1355,6 +1356,7 @@
         1011002206,
         1011002226,
         1011002236,
+        1011002246,
         1021002201,
         1021002202,
         1021002203,
@@ -1363,6 +1365,16 @@
         1021002206,
         1021002226,
         1021002236,
+        1021002246,
+        1031002201,
+        1031002202,
+        1031002203,
+        1031002204,
+        1031002205,
+        1031002206,
+        1031002226,
+        1031002236,
+        1031002246,
         1002301,
         1002302,
         1002303,
@@ -3286,6 +3298,14 @@
         1061007506,
         1061007536,
         1061007546,
+        1071007501,
+        1071007502,
+        1071007503,
+        1071007504,
+        1071007505,
+        1071007506,
+        1071007536,
+        1071007546,
         1007601,
         1007602,
         1007603,
@@ -7487,6 +7507,20 @@
         1029106,
         1029126,
         1029136,
+        1029201,
+        1029202,
+        1029203,
+        1029204,
+        1029205,
+        1029206,
+        1029246,
+        1029301,
+        1029302,
+        1029303,
+        1029304,
+        1029305,
+        1029306,
+        1029346,
         1030001,
         1030002,
         1030003,
@@ -17739,7 +17773,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -17812,7 +17846,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -17885,7 +17919,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -17958,7 +17992,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -18031,7 +18065,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -18104,7 +18138,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -18177,7 +18211,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -18250,7 +18284,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -18323,7 +18357,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -23652,7 +23686,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -23725,7 +23759,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -23798,7 +23832,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -23871,7 +23905,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -23944,7 +23978,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -24017,7 +24051,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -24090,7 +24124,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -24163,7 +24197,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -24236,7 +24270,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10900002,
             "uniformSkillId": 120026001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -59641,7 +59675,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -59714,7 +59748,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -59787,7 +59821,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -59860,7 +59894,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -59933,7 +59967,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -60006,7 +60040,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -60079,7 +60113,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -60152,7 +60186,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -60225,7 +60259,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -67525,7 +67559,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -67598,7 +67632,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -67671,7 +67705,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -67744,7 +67778,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -67817,7 +67851,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -67890,7 +67924,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -67963,7 +67997,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -68036,7 +68070,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -68109,7 +68143,7 @@
             "mainAtk": 0,
             "uniformGroupId": 11200010,
             "uniformSkillId": 120108201,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -94900,7 +94934,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -94973,7 +95007,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -95046,7 +95080,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -95119,7 +95153,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -95192,7 +95226,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -95265,7 +95299,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -95338,7 +95372,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -95411,7 +95445,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -95484,7 +95518,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -98185,7 +98219,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -98258,7 +98292,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -98331,7 +98365,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -98404,7 +98438,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -98477,7 +98511,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -98550,7 +98584,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -98623,7 +98657,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -98696,7 +98730,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -98769,7 +98803,7 @@
             "mainAtk": 1,
             "uniformGroupId": 10500018,
             "uniformSkillId": 120181001,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -104901,7 +104935,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 7,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -104974,7 +105008,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 7,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -105047,7 +105081,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 7,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -105120,7 +105154,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 7,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -105193,7 +105227,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 7,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -105266,7 +105300,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 7,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -105339,7 +105373,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 7,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -105412,7 +105446,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 7,
             "stGender": 100,
             "stCamps": 500,
             "abilitys": [
@@ -105424,8 +105458,8 @@
             "ability_raid": 409,
             "tier": 3,
             "heroTierExp": 0,
-            "nextTier": 0,
-            "nextTierHeroId": 0,
+            "nextTier": 4,
+            "nextTierHeroId": 1002246,
             "growType": 1,
             "synastryGroupId": 1000,
             "ability_hidden": 0,
@@ -105447,6 +105481,79 @@
             },
             "_hpFactor": {
                 "value": 2.819999933242798
+            },
+            "prefabNameKey": -1503474147
+        },
+        {
+            "heroId": 1002246,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 160,
+            "heroMapRefundCount": 640,
+            "evolvePrice": 241000,
+            "skillIds": [
+                100220101,
+                100220201,
+                100220301,
+                100220401,
+                100220501,
+                100222601,
+                100221201,
+                0,
+                100229001,
+                120225601
+            ],
+            "leaderSkillId": 100222006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 7,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 4,
+            "heroTierExp": 0,
+            "nextTier": 0,
+            "nextTierHeroId": 0,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 4.340000152587891
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_energyAttackFactor": {
+                "value": 2.8399999141693115
+            },
+            "_energyDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_hpFactor": {
+                "value": 4.71999979019165
             },
             "prefabNameKey": -1503474147
         },
@@ -106008,8 +106115,8 @@
             "ability_raid": 409,
             "tier": 3,
             "heroTierExp": 0,
-            "nextTier": 0,
-            "nextTierHeroId": 0,
+            "nextTier": 4,
+            "nextTierHeroId": 1011002246,
             "growType": 1,
             "synastryGroupId": 1000,
             "ability_hidden": 0,
@@ -106031,6 +106138,79 @@
             },
             "_hpFactor": {
                 "value": 2.819999933242798
+            },
+            "prefabNameKey": 1586671906
+        },
+        {
+            "heroId": 1011002246,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 160,
+            "heroMapRefundCount": 640,
+            "evolvePrice": 241000,
+            "skillIds": [
+                100220101,
+                100220201,
+                100221101,
+                100220401,
+                100220501,
+                100222601,
+                100221201,
+                0,
+                100229001,
+                120225601
+            ],
+            "leaderSkillId": 100222006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10100022,
+            "uniformSkillId": 100225001,
+            "heroState": 0,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 4,
+            "heroTierExp": 0,
+            "nextTier": 0,
+            "nextTierHeroId": 0,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 4.340000152587891
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_energyAttackFactor": {
+                "value": 2.8399999141693115
+            },
+            "_energyDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_hpFactor": {
+                "value": 4.71999979019165
             },
             "prefabNameKey": 1586671906
         },
@@ -106592,8 +106772,8 @@
             "ability_raid": 409,
             "tier": 3,
             "heroTierExp": 0,
-            "nextTier": 0,
-            "nextTierHeroId": 0,
+            "nextTier": 4,
+            "nextTierHeroId": 1021002246,
             "growType": 1,
             "synastryGroupId": 1000,
             "ability_hidden": 0,
@@ -106617,6 +106797,736 @@
                 "value": 3.119999885559082
             },
             "prefabNameKey": 1586671907
+        },
+        {
+            "heroId": 1021002246,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 160,
+            "heroMapRefundCount": 640,
+            "evolvePrice": 241000,
+            "skillIds": [
+                100221301,
+                100221501,
+                100221801,
+                100223401,
+                100222201,
+                100222801,
+                100223501,
+                0,
+                100229001,
+                120225601
+            ],
+            "leaderSkillId": 100223306,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10200022,
+            "uniformSkillId": 100223601,
+            "heroState": 0,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 4,
+            "heroTierExp": 0,
+            "nextTier": 0,
+            "nextTierHeroId": 0,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 4.340000152587891
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_energyAttackFactor": {
+                "value": 2.8399999141693115
+            },
+            "_energyDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_hpFactor": {
+                "value": 4.71999979019165
+            },
+            "prefabNameKey": 1586671907
+        },
+        {
+            "heroId": 1031002201,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 1,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 5,
+            "heroMapRefundCount": 8,
+            "evolvePrice": 0,
+            "skillIds": [
+                100224001,
+                100224301,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 100223301,
+            "startGrade": 1,
+            "limitLV": 40,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 1,
+            "heroTierExp": 0,
+            "nextTier": 2,
+            "nextTierHeroId": 1031002226,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 1.0499999523162842
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.0099999904632568
+            },
+            "_energyAttackFactor": {
+                "value": 1.0499999523162842
+            },
+            "_energyDefenseFactor": {
+                "value": 1.0099999904632568
+            },
+            "_hpFactor": {
+                "value": 1.0099999904632568
+            },
+            "prefabNameKey": 1586671908
+        },
+        {
+            "heroId": 1031002202,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 2,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 10,
+            "heroMapRefundCount": 16,
+            "evolvePrice": 21000,
+            "skillIds": [
+                100224001,
+                100224301,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 100223302,
+            "startGrade": 1,
+            "limitLV": 40,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 1,
+            "heroTierExp": 0,
+            "nextTier": 2,
+            "nextTierHeroId": 1031002226,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 1.1100000143051147
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.0399999618530273
+            },
+            "_energyAttackFactor": {
+                "value": 1.1100000143051147
+            },
+            "_energyDefenseFactor": {
+                "value": 1.0399999618530273
+            },
+            "_hpFactor": {
+                "value": 1.0499999523162842
+            },
+            "prefabNameKey": 1586671908
+        },
+        {
+            "heroId": 1031002203,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 3,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 20,
+            "heroMapRefundCount": 32,
+            "evolvePrice": 41000,
+            "skillIds": [
+                100224001,
+                100224301,
+                100224701,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 100223303,
+            "startGrade": 1,
+            "limitLV": 45,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 1,
+            "heroTierExp": 0,
+            "nextTier": 2,
+            "nextTierHeroId": 1031002226,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 1.1699999570846558
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.0700000524520874
+            },
+            "_energyAttackFactor": {
+                "value": 1.1699999570846558
+            },
+            "_energyDefenseFactor": {
+                "value": 1.0700000524520874
+            },
+            "_hpFactor": {
+                "value": 1.090000033378601
+            },
+            "prefabNameKey": 1586671908
+        },
+        {
+            "heroId": 1031002204,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 4,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 40,
+            "heroMapRefundCount": 64,
+            "evolvePrice": 81000,
+            "skillIds": [
+                100224001,
+                100224301,
+                100224701,
+                100223701,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 100223304,
+            "startGrade": 1,
+            "limitLV": 50,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 1,
+            "heroTierExp": 0,
+            "nextTier": 2,
+            "nextTierHeroId": 1031002226,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 1.2400000095367432
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.100000023841858
+            },
+            "_energyAttackFactor": {
+                "value": 1.2400000095367432
+            },
+            "_energyDefenseFactor": {
+                "value": 1.100000023841858
+            },
+            "_hpFactor": {
+                "value": 1.1299999952316284
+            },
+            "prefabNameKey": 1586671908
+        },
+        {
+            "heroId": 1031002205,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 5,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 80,
+            "heroMapRefundCount": 128,
+            "evolvePrice": 121000,
+            "skillIds": [
+                100224001,
+                100224301,
+                100224701,
+                100223701,
+                100225101,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 100223305,
+            "startGrade": 1,
+            "limitLV": 55,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 1,
+            "heroTierExp": 0,
+            "nextTier": 2,
+            "nextTierHeroId": 1031002226,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 1.309999942779541
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.1399999856948853
+            },
+            "_energyAttackFactor": {
+                "value": 1.309999942779541
+            },
+            "_energyDefenseFactor": {
+                "value": 1.1399999856948853
+            },
+            "_hpFactor": {
+                "value": 1.1799999475479126
+            },
+            "prefabNameKey": 1586671908
+        },
+        {
+            "heroId": 1031002206,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 160,
+            "heroMapRefundCount": 256,
+            "evolvePrice": 241000,
+            "skillIds": [
+                100224001,
+                100224301,
+                100224701,
+                100223701,
+                100225101,
+                100225701,
+                0,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 100223306,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 1,
+            "heroTierExp": 0,
+            "nextTier": 2,
+            "nextTierHeroId": 1031002226,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 1.3899999856948853
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.1699999570846558
+            },
+            "_energyAttackFactor": {
+                "value": 1.3899999856948853
+            },
+            "_energyDefenseFactor": {
+                "value": 1.1699999570846558
+            },
+            "_hpFactor": {
+                "value": 1.2300000190734863
+            },
+            "prefabNameKey": 1586671908
+        },
+        {
+            "heroId": 1031002226,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 160,
+            "heroMapRefundCount": 384,
+            "evolvePrice": 241000,
+            "skillIds": [
+                100224001,
+                100224301,
+                100224701,
+                100223701,
+                100225101,
+                100225701,
+                100223501,
+                0,
+                100229001,
+                0
+            ],
+            "leaderSkillId": 100223306,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 2,
+            "heroTierExp": 0,
+            "nextTier": 3,
+            "nextTierHeroId": 1031002236,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 1.590000033378601
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.409999966621399
+            },
+            "_energyAttackFactor": {
+                "value": 1.590000033378601
+            },
+            "_energyDefenseFactor": {
+                "value": 1.409999966621399
+            },
+            "_hpFactor": {
+                "value": 1.4700000286102295
+            },
+            "prefabNameKey": 1586671908
+        },
+        {
+            "heroId": 1031002236,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 160,
+            "heroMapRefundCount": 512,
+            "evolvePrice": 241000,
+            "skillIds": [
+                100224001,
+                100224301,
+                100224701,
+                100223701,
+                100225101,
+                100225701,
+                100223501,
+                0,
+                100229001,
+                0
+            ],
+            "leaderSkillId": 100223306,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 3,
+            "heroTierExp": 0,
+            "nextTier": 4,
+            "nextTierHeroId": 1031002246,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 1,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 2.8399999141693115
+            },
+            "_physicalDefenseFactor": {
+                "value": 2.9600000381469727
+            },
+            "_energyAttackFactor": {
+                "value": 1.840000033378601
+            },
+            "_energyDefenseFactor": {
+                "value": 2.759999990463257
+            },
+            "_hpFactor": {
+                "value": 3.119999885559082
+            },
+            "prefabNameKey": 1586671908
+        },
+        {
+            "heroId": 1031002246,
+            "groupId": 22,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 0,
+            "statusId": 1,
+            "heroMapId": 1000022,
+            "heroMapCount": 160,
+            "heroMapRefundCount": 640,
+            "evolvePrice": 241000,
+            "skillIds": [
+                100224001,
+                100224301,
+                100224701,
+                100223701,
+                100225101,
+                100225701,
+                100223501,
+                0,
+                100229001,
+                120225601
+            ],
+            "leaderSkillId": 100223306,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.100000023841858,
+            "mainAtk": 0,
+            "uniformGroupId": 10300022,
+            "uniformSkillId": 100223901,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 500,
+            "abilitys": [
+                409,
+                0,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 409,
+            "tier": 4,
+            "heroTierExp": 0,
+            "nextTier": 0,
+            "nextTierHeroId": 0,
+            "growType": 1,
+            "synastryGroupId": 1000,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 100,
+            "heroroll_pvp": 100,
+            "specialType": 3,
+            "_physicalAttackFactor": {
+                "value": 4.340000152587891
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_energyAttackFactor": {
+                "value": 2.8399999141693115
+            },
+            "_energyDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_hpFactor": {
+                "value": 4.71999979019165
+            },
+            "prefabNameKey": 1586671908
         },
         {
             "heroId": 1002301,
@@ -242944,7 +243854,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 2,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -243017,7 +243927,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 2,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -243090,7 +244000,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 2,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -243163,7 +244073,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 2,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -243236,7 +244146,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 2,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -243309,7 +244219,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 2,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -243382,7 +244292,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 2,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -243455,7 +244365,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 0,
+            "heroState": 2,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -246996,6 +247906,590 @@
                 "value": 4.380000114440918
             },
             "prefabNameKey": 1263034454
+        },
+        {
+            "heroId": 1071007501,
+            "groupId": 75,
+            "isVisible": 1,
+            "grade": 1,
+            "classType": 3,
+            "statusId": 7,
+            "heroMapId": 1000075,
+            "heroMapCount": 20,
+            "heroMapRefundCount": 8,
+            "evolvePrice": 0,
+            "skillIds": [
+                120755401,
+                120756001,
+                0,
+                0,
+                0,
+                0,
+                120755301,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 120750001,
+            "startGrade": 1,
+            "limitLV": 40,
+            "resistOfFire": 0.5,
+            "resistOfCold": 0.5,
+            "resistOfLightning": 0.5,
+            "resistOfPoison": 0.5,
+            "resistOfMind": 0.5,
+            "recoveryRate": 1.2000000476837158,
+            "mainAtk": 0,
+            "uniformGroupId": 10700075,
+            "uniformSkillId": 120755101,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                421,
+                423
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 2,
+            "heroTierExp": 11340,
+            "nextTier": 3,
+            "nextTierHeroId": 1071007536,
+            "growType": 2,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 110,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.0199999809265137
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.7200000286102295
+            },
+            "_energyAttackFactor": {
+                "value": 1.2699999809265137
+            },
+            "_energyDefenseFactor": {
+                "value": 1.7200000286102295
+            },
+            "_hpFactor": {
+                "value": 1.4199999570846558
+            },
+            "prefabNameKey": 1263034455
+        },
+        {
+            "heroId": 1071007502,
+            "groupId": 75,
+            "isVisible": 1,
+            "grade": 2,
+            "classType": 3,
+            "statusId": 7,
+            "heroMapId": 1070002,
+            "heroMapCount": 12,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 1000000,
+            "skillIds": [
+                120755401,
+                120756001,
+                0,
+                0,
+                0,
+                0,
+                120755301,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 120750002,
+            "startGrade": 1,
+            "limitLV": 40,
+            "resistOfFire": 0.5,
+            "resistOfCold": 0.5,
+            "resistOfLightning": 0.5,
+            "resistOfPoison": 0.5,
+            "resistOfMind": 0.5,
+            "recoveryRate": 1.2000000476837158,
+            "mainAtk": 0,
+            "uniformGroupId": 10700075,
+            "uniformSkillId": 120755101,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                421,
+                423
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 2,
+            "heroTierExp": 11340,
+            "nextTier": 3,
+            "nextTierHeroId": 1071007536,
+            "growType": 2,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 110,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.069999933242798
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.75
+            },
+            "_energyAttackFactor": {
+                "value": 1.3200000524520874
+            },
+            "_energyDefenseFactor": {
+                "value": 1.75
+            },
+            "_hpFactor": {
+                "value": 1.4500000476837158
+            },
+            "prefabNameKey": 1263034455
+        },
+        {
+            "heroId": 1071007503,
+            "groupId": 75,
+            "isVisible": 1,
+            "grade": 3,
+            "classType": 3,
+            "statusId": 7,
+            "heroMapId": 1070003,
+            "heroMapCount": 10,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 1500000,
+            "skillIds": [
+                120755401,
+                120756001,
+                120756201,
+                0,
+                0,
+                0,
+                120755301,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 120750003,
+            "startGrade": 1,
+            "limitLV": 45,
+            "resistOfFire": 0.5,
+            "resistOfCold": 0.5,
+            "resistOfLightning": 0.5,
+            "resistOfPoison": 0.5,
+            "resistOfMind": 0.5,
+            "recoveryRate": 1.2000000476837158,
+            "mainAtk": 0,
+            "uniformGroupId": 10700075,
+            "uniformSkillId": 120755101,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                421,
+                423
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 2,
+            "heroTierExp": 11340,
+            "nextTier": 3,
+            "nextTierHeroId": 1071007536,
+            "growType": 2,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 110,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.119999885559082
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.7799999713897705
+            },
+            "_energyAttackFactor": {
+                "value": 1.3700000047683716
+            },
+            "_energyDefenseFactor": {
+                "value": 1.7799999713897705
+            },
+            "_hpFactor": {
+                "value": 1.4800000190734863
+            },
+            "prefabNameKey": 1263034455
+        },
+        {
+            "heroId": 1071007504,
+            "groupId": 75,
+            "isVisible": 1,
+            "grade": 4,
+            "classType": 3,
+            "statusId": 7,
+            "heroMapId": 1070004,
+            "heroMapCount": 8,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 2000000,
+            "skillIds": [
+                120755401,
+                120756001,
+                120756201,
+                120752701,
+                0,
+                0,
+                120755301,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 120750004,
+            "startGrade": 1,
+            "limitLV": 50,
+            "resistOfFire": 0.5,
+            "resistOfCold": 0.5,
+            "resistOfLightning": 0.5,
+            "resistOfPoison": 0.5,
+            "resistOfMind": 0.5,
+            "recoveryRate": 1.2000000476837158,
+            "mainAtk": 0,
+            "uniformGroupId": 10700075,
+            "uniformSkillId": 120755101,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                421,
+                423
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 2,
+            "heroTierExp": 11340,
+            "nextTier": 3,
+            "nextTierHeroId": 1071007536,
+            "growType": 2,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 110,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.180000066757202
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.809999942779541
+            },
+            "_energyAttackFactor": {
+                "value": 1.4299999475479126
+            },
+            "_energyDefenseFactor": {
+                "value": 1.809999942779541
+            },
+            "_hpFactor": {
+                "value": 1.5099999904632568
+            },
+            "prefabNameKey": 1263034455
+        },
+        {
+            "heroId": 1071007505,
+            "groupId": 75,
+            "isVisible": 1,
+            "grade": 5,
+            "classType": 3,
+            "statusId": 7,
+            "heroMapId": 1070005,
+            "heroMapCount": 6,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 2500000,
+            "skillIds": [
+                120755401,
+                120756001,
+                120756201,
+                120752701,
+                120756501,
+                0,
+                120755301,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 120750005,
+            "startGrade": 1,
+            "limitLV": 55,
+            "resistOfFire": 0.5,
+            "resistOfCold": 0.5,
+            "resistOfLightning": 0.5,
+            "resistOfPoison": 0.5,
+            "resistOfMind": 0.5,
+            "recoveryRate": 1.2000000476837158,
+            "mainAtk": 0,
+            "uniformGroupId": 10700075,
+            "uniformSkillId": 120755101,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                421,
+                423
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 2,
+            "heroTierExp": 11340,
+            "nextTier": 3,
+            "nextTierHeroId": 1071007536,
+            "growType": 2,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 110,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.240000009536743
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.850000023841858
+            },
+            "_energyAttackFactor": {
+                "value": 1.4900000095367432
+            },
+            "_energyDefenseFactor": {
+                "value": 1.850000023841858
+            },
+            "_hpFactor": {
+                "value": 1.5499999523162842
+            },
+            "prefabNameKey": 1263034455
+        },
+        {
+            "heroId": 1071007506,
+            "groupId": 75,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 3,
+            "statusId": 7,
+            "heroMapId": 1070006,
+            "heroMapCount": 4,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 3000000,
+            "skillIds": [
+                120755401,
+                120756001,
+                120756201,
+                120752701,
+                120756501,
+                120757101,
+                120755301,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 120750006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.5,
+            "resistOfCold": 0.5,
+            "resistOfLightning": 0.5,
+            "resistOfPoison": 0.5,
+            "resistOfMind": 0.5,
+            "recoveryRate": 1.2000000476837158,
+            "mainAtk": 0,
+            "uniformGroupId": 10700075,
+            "uniformSkillId": 120755101,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                421,
+                423
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 2,
+            "heroTierExp": 11340,
+            "nextTier": 3,
+            "nextTierHeroId": 1071007536,
+            "growType": 2,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 110,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.299999952316284
+            },
+            "_physicalDefenseFactor": {
+                "value": 1.8799999952316284
+            },
+            "_energyAttackFactor": {
+                "value": 1.5499999523162842
+            },
+            "_energyDefenseFactor": {
+                "value": 1.8799999952316284
+            },
+            "_hpFactor": {
+                "value": 1.5800000429153442
+            },
+            "prefabNameKey": 1263034455
+        },
+        {
+            "heroId": 1071007536,
+            "groupId": 75,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 3,
+            "statusId": 7,
+            "heroMapId": 1070006,
+            "heroMapCount": 320,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 241000,
+            "skillIds": [
+                120755401,
+                120756001,
+                120756201,
+                120752701,
+                120756501,
+                120757101,
+                120755301,
+                100759301,
+                0,
+                0
+            ],
+            "leaderSkillId": 120750006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.5,
+            "resistOfCold": 0.5,
+            "resistOfLightning": 0.5,
+            "resistOfPoison": 0.5,
+            "resistOfMind": 0.5,
+            "recoveryRate": 1.2000000476837158,
+            "mainAtk": 0,
+            "uniformGroupId": 10700075,
+            "uniformSkillId": 120755101,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                421,
+                423
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 3,
+            "heroTierExp": 0,
+            "nextTier": 4,
+            "nextTierHeroId": 1071007546,
+            "growType": 2,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 110,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 4.0
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.179999828338623
+            },
+            "_energyAttackFactor": {
+                "value": 3.0999999046325684
+            },
+            "_energyDefenseFactor": {
+                "value": 4.179999828338623
+            },
+            "_hpFactor": {
+                "value": 3.7799999713897705
+            },
+            "prefabNameKey": 1263034455
+        },
+        {
+            "heroId": 1071007546,
+            "groupId": 75,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 3,
+            "statusId": 7,
+            "heroMapId": 1070006,
+            "heroMapCount": 320,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 241000,
+            "skillIds": [
+                120755401,
+                120756001,
+                120756201,
+                120752701,
+                120756501,
+                120757101,
+                120755301,
+                100759301,
+                0,
+                120755601
+            ],
+            "leaderSkillId": 120750006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.5,
+            "resistOfCold": 0.5,
+            "resistOfLightning": 0.5,
+            "resistOfPoison": 0.5,
+            "resistOfMind": 0.5,
+            "recoveryRate": 1.2000000476837158,
+            "mainAtk": 0,
+            "uniformGroupId": 10700075,
+            "uniformSkillId": 120755101,
+            "heroState": 2,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                421,
+                423
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 4,
+            "heroTierExp": 0,
+            "nextTier": 0,
+            "nextTierHeroId": 0,
+            "growType": 2,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 110,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 5.199999809265137
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.679999828338623
+            },
+            "_energyAttackFactor": {
+                "value": 3.700000047683716
+            },
+            "_energyDefenseFactor": {
+                "value": 4.679999828338623
+            },
+            "_hpFactor": {
+                "value": 4.380000114440918
+            },
+            "prefabNameKey": 1263034455
         },
         {
             "heroId": 1007601,
@@ -313535,7 +315029,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -313608,7 +315102,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -313681,7 +315175,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -313754,7 +315248,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -313827,7 +315321,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -313900,7 +315394,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -313973,7 +315467,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -314046,7 +315540,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -341859,7 +343353,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -341932,7 +343426,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342005,7 +343499,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342078,7 +343572,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342151,7 +343645,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342224,7 +343718,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342297,7 +343791,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342370,7 +343864,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342443,7 +343937,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342516,7 +344010,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342589,7 +344083,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342662,7 +344156,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342735,7 +344229,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342808,7 +344302,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342881,7 +344375,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -342954,7 +344448,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -343027,7 +344521,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -343100,7 +344594,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100133,
             "uniformSkillId": 101332301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -386535,7 +388029,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -386608,7 +388102,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -386681,7 +388175,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -386754,7 +388248,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -386827,7 +388321,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -386900,7 +388394,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -386973,7 +388467,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -387046,7 +388540,7 @@
             "mainAtk": 1,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 6,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -509905,7 +511399,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -509978,7 +511472,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510051,7 +511545,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510124,7 +511618,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510197,7 +511691,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510270,7 +511764,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510343,7 +511837,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510416,7 +511910,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510489,7 +511983,7 @@
             "mainAtk": 0,
             "uniformGroupId": 0,
             "uniformSkillId": 0,
-            "heroState": 7,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510562,7 +512056,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510635,7 +512129,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510708,7 +512202,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510781,7 +512275,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510854,7 +512348,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -510927,7 +512421,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -511000,7 +512494,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -511073,7 +512567,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -511146,7 +512640,7 @@
             "mainAtk": 0,
             "uniformGroupId": 10100236,
             "uniformSkillId": 102363301,
-            "heroState": 2,
+            "heroState": 0,
             "stGender": 100,
             "stCamps": 501,
             "abilitys": [
@@ -553669,6 +555163,1028 @@
                 "value": 3.140000104904175
             },
             "prefabNameKey": -1418618852
+        },
+        {
+            "heroId": 1029201,
+            "groupId": 292,
+            "isVisible": 1,
+            "grade": 1,
+            "classType": 1,
+            "statusId": 4,
+            "heroMapId": 1000292,
+            "heroMapCount": 10,
+            "heroMapRefundCount": 8,
+            "evolvePrice": 0,
+            "skillIds": [
+                102920101,
+                102920201,
+                0,
+                0,
+                0,
+                0,
+                102927001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102922001,
+            "startGrade": 1,
+            "limitLV": 40,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                413,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 423,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029246,
+            "growType": 8,
+            "synastryGroupId": 3010,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 10,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.7200000286102295
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.320000171661377
+            },
+            "_energyAttackFactor": {
+                "value": 4.119999885559082
+            },
+            "_energyDefenseFactor": {
+                "value": 4.420000076293945
+            },
+            "_hpFactor": {
+                "value": 4.21999979019165
+            },
+            "prefabNameKey": -1707434236
+        },
+        {
+            "heroId": 1029202,
+            "groupId": 292,
+            "isVisible": 1,
+            "grade": 2,
+            "classType": 1,
+            "statusId": 4,
+            "heroMapId": 1280001,
+            "heroMapCount": 6,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 1200000,
+            "skillIds": [
+                102920101,
+                102920201,
+                0,
+                0,
+                0,
+                0,
+                102927001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102922002,
+            "startGrade": 1,
+            "limitLV": 40,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                413,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 423,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029246,
+            "growType": 8,
+            "synastryGroupId": 3010,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 10,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.7799999713897705
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.340000152587891
+            },
+            "_energyAttackFactor": {
+                "value": 4.179999828338623
+            },
+            "_energyDefenseFactor": {
+                "value": 4.440000057220459
+            },
+            "_hpFactor": {
+                "value": 4.25
+            },
+            "prefabNameKey": -1707434236
+        },
+        {
+            "heroId": 1029203,
+            "groupId": 292,
+            "isVisible": 1,
+            "grade": 3,
+            "classType": 1,
+            "statusId": 4,
+            "heroMapId": 1280002,
+            "heroMapCount": 5,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 1800000,
+            "skillIds": [
+                102920101,
+                102920201,
+                102920301,
+                0,
+                0,
+                0,
+                102927001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102922003,
+            "startGrade": 1,
+            "limitLV": 45,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                413,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 423,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029246,
+            "growType": 8,
+            "synastryGroupId": 3010,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 10,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.8399999141693115
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.360000133514404
+            },
+            "_energyAttackFactor": {
+                "value": 4.239999771118164
+            },
+            "_energyDefenseFactor": {
+                "value": 4.460000038146973
+            },
+            "_hpFactor": {
+                "value": 4.28000020980835
+            },
+            "prefabNameKey": -1707434236
+        },
+        {
+            "heroId": 1029204,
+            "groupId": 292,
+            "isVisible": 1,
+            "grade": 4,
+            "classType": 1,
+            "statusId": 4,
+            "heroMapId": 1280003,
+            "heroMapCount": 4,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 2400000,
+            "skillIds": [
+                102920101,
+                102920201,
+                102920301,
+                102920401,
+                0,
+                0,
+                102927001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102922004,
+            "startGrade": 1,
+            "limitLV": 50,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                413,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 423,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029246,
+            "growType": 8,
+            "synastryGroupId": 3010,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 10,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.9100000858306885
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.380000114440918
+            },
+            "_energyAttackFactor": {
+                "value": 4.309999942779541
+            },
+            "_energyDefenseFactor": {
+                "value": 4.480000019073486
+            },
+            "_hpFactor": {
+                "value": 4.309999942779541
+            },
+            "prefabNameKey": -1707434236
+        },
+        {
+            "heroId": 1029205,
+            "groupId": 292,
+            "isVisible": 1,
+            "grade": 5,
+            "classType": 1,
+            "statusId": 4,
+            "heroMapId": 1280004,
+            "heroMapCount": 3,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 3000000,
+            "skillIds": [
+                102920101,
+                102920201,
+                102920301,
+                102920401,
+                102920501,
+                0,
+                102927001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102922005,
+            "startGrade": 1,
+            "limitLV": 55,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                413,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 423,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029246,
+            "growType": 8,
+            "synastryGroupId": 3010,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 10,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 2.9800000190734863
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.400000095367432
+            },
+            "_energyAttackFactor": {
+                "value": 4.380000114440918
+            },
+            "_energyDefenseFactor": {
+                "value": 4.5
+            },
+            "_hpFactor": {
+                "value": 4.349999904632568
+            },
+            "prefabNameKey": -1707434236
+        },
+        {
+            "heroId": 1029206,
+            "groupId": 292,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 1,
+            "statusId": 4,
+            "heroMapId": 1280005,
+            "heroMapCount": 2,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 3600000,
+            "skillIds": [
+                102920101,
+                102920201,
+                102920301,
+                102920401,
+                102920501,
+                102922601,
+                102927001,
+                102928001,
+                0,
+                0
+            ],
+            "leaderSkillId": 102922006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                413,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 423,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029246,
+            "growType": 8,
+            "synastryGroupId": 3010,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 10,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 3.059999942779541
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.420000076293945
+            },
+            "_energyAttackFactor": {
+                "value": 4.460000038146973
+            },
+            "_energyDefenseFactor": {
+                "value": 4.519999980926514
+            },
+            "_hpFactor": {
+                "value": 4.380000114440918
+            },
+            "prefabNameKey": -1707434236
+        },
+        {
+            "heroId": 1029246,
+            "groupId": 292,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 1,
+            "statusId": 4,
+            "heroMapId": 1280005,
+            "heroMapCount": 320,
+            "heroMapRefundCount": 256,
+            "evolvePrice": 241000,
+            "skillIds": [
+                102920101,
+                102920201,
+                102920301,
+                102920401,
+                102920501,
+                102922601,
+                102927001,
+                102928001,
+                0,
+                122925601
+            ],
+            "leaderSkillId": 102922006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                413,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 423,
+            "tier": 4,
+            "heroTierExp": 0,
+            "nextTier": 0,
+            "nextTierHeroId": 0,
+            "growType": 8,
+            "synastryGroupId": 3010,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 10,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 3.4600000381469727
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.820000171661377
+            },
+            "_energyAttackFactor": {
+                "value": 5.360000133514404
+            },
+            "_energyDefenseFactor": {
+                "value": 5.019999980926514
+            },
+            "_hpFactor": {
+                "value": 5.079999923706055
+            },
+            "prefabNameKey": -1707434236
+        },
+        {
+            "heroId": 1029301,
+            "groupId": 293,
+            "isVisible": 1,
+            "grade": 1,
+            "classType": 3,
+            "statusId": 8,
+            "heroMapId": 1000293,
+            "heroMapCount": 10,
+            "heroMapRefundCount": 8,
+            "evolvePrice": 0,
+            "skillIds": [
+                102930101,
+                102930201,
+                0,
+                0,
+                0,
+                0,
+                102937001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102932001,
+            "startGrade": 1,
+            "limitLV": 40,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029346,
+            "growType": 8,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 3.2200000286102295
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.320000171661377
+            },
+            "_energyAttackFactor": {
+                "value": 4.320000171661377
+            },
+            "_energyDefenseFactor": {
+                "value": 4.420000076293945
+            },
+            "_hpFactor": {
+                "value": 4.21999979019165
+            },
+            "prefabNameKey": 1393109909
+        },
+        {
+            "heroId": 1029302,
+            "groupId": 293,
+            "isVisible": 1,
+            "grade": 2,
+            "classType": 3,
+            "statusId": 8,
+            "heroMapId": 1280001,
+            "heroMapCount": 6,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 1200000,
+            "skillIds": [
+                102930101,
+                102930201,
+                0,
+                0,
+                0,
+                0,
+                102937001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102932002,
+            "startGrade": 1,
+            "limitLV": 40,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029346,
+            "growType": 8,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 3.2699999809265137
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.349999904632568
+            },
+            "_energyAttackFactor": {
+                "value": 4.369999885559082
+            },
+            "_energyDefenseFactor": {
+                "value": 4.449999809265137
+            },
+            "_hpFactor": {
+                "value": 4.25
+            },
+            "prefabNameKey": 1393109909
+        },
+        {
+            "heroId": 1029303,
+            "groupId": 293,
+            "isVisible": 1,
+            "grade": 3,
+            "classType": 3,
+            "statusId": 8,
+            "heroMapId": 1280002,
+            "heroMapCount": 5,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 1800000,
+            "skillIds": [
+                102930101,
+                102930201,
+                102930301,
+                0,
+                0,
+                0,
+                102937001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102932003,
+            "startGrade": 1,
+            "limitLV": 45,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029346,
+            "growType": 8,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 3.319999933242798
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.380000114440918
+            },
+            "_energyAttackFactor": {
+                "value": 4.420000076293945
+            },
+            "_energyDefenseFactor": {
+                "value": 4.480000019073486
+            },
+            "_hpFactor": {
+                "value": 4.28000020980835
+            },
+            "prefabNameKey": 1393109909
+        },
+        {
+            "heroId": 1029304,
+            "groupId": 293,
+            "isVisible": 1,
+            "grade": 4,
+            "classType": 3,
+            "statusId": 8,
+            "heroMapId": 1280003,
+            "heroMapCount": 4,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 2400000,
+            "skillIds": [
+                102930101,
+                102930201,
+                102930301,
+                102930401,
+                0,
+                0,
+                102937001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102932004,
+            "startGrade": 1,
+            "limitLV": 50,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029346,
+            "growType": 8,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 3.380000114440918
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.409999847412109
+            },
+            "_energyAttackFactor": {
+                "value": 4.480000019073486
+            },
+            "_energyDefenseFactor": {
+                "value": 4.510000228881836
+            },
+            "_hpFactor": {
+                "value": 4.309999942779541
+            },
+            "prefabNameKey": 1393109909
+        },
+        {
+            "heroId": 1029305,
+            "groupId": 293,
+            "isVisible": 1,
+            "grade": 5,
+            "classType": 3,
+            "statusId": 8,
+            "heroMapId": 1280004,
+            "heroMapCount": 3,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 3000000,
+            "skillIds": [
+                102930101,
+                102930201,
+                102930301,
+                102930401,
+                102930501,
+                0,
+                102937001,
+                0,
+                0,
+                0
+            ],
+            "leaderSkillId": 102932005,
+            "startGrade": 1,
+            "limitLV": 55,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029346,
+            "growType": 8,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 3.440000057220459
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.449999809265137
+            },
+            "_energyAttackFactor": {
+                "value": 4.539999961853027
+            },
+            "_energyDefenseFactor": {
+                "value": 4.550000190734863
+            },
+            "_hpFactor": {
+                "value": 4.349999904632568
+            },
+            "prefabNameKey": 1393109909
+        },
+        {
+            "heroId": 1029306,
+            "groupId": 293,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 3,
+            "statusId": 8,
+            "heroMapId": 1280005,
+            "heroMapCount": 2,
+            "heroMapRefundCount": 0,
+            "evolvePrice": 3600000,
+            "skillIds": [
+                102930101,
+                102930201,
+                102930301,
+                102930401,
+                102930501,
+                102932601,
+                102937001,
+                102938001,
+                0,
+                0
+            ],
+            "leaderSkillId": 102932006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 3,
+            "heroTierExp": 9070,
+            "nextTier": 4,
+            "nextTierHeroId": 1029346,
+            "growType": 8,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 3.5
+            },
+            "_physicalDefenseFactor": {
+                "value": 4.480000019073486
+            },
+            "_energyAttackFactor": {
+                "value": 4.599999904632568
+            },
+            "_energyDefenseFactor": {
+                "value": 4.579999923706055
+            },
+            "_hpFactor": {
+                "value": 4.380000114440918
+            },
+            "prefabNameKey": 1393109909
+        },
+        {
+            "heroId": 1029346,
+            "groupId": 293,
+            "isVisible": 1,
+            "grade": 6,
+            "classType": 3,
+            "statusId": 8,
+            "heroMapId": 1280005,
+            "heroMapCount": 320,
+            "heroMapRefundCount": 256,
+            "evolvePrice": 241000,
+            "skillIds": [
+                102930101,
+                102930201,
+                102930301,
+                102930401,
+                102930501,
+                102932601,
+                102937001,
+                102938001,
+                0,
+                122935601
+            ],
+            "leaderSkillId": 102932006,
+            "startGrade": 1,
+            "limitLV": 60,
+            "resistOfFire": 0.0,
+            "resistOfCold": 0.0,
+            "resistOfLightning": 0.0,
+            "resistOfPoison": 0.0,
+            "resistOfMind": 0.0,
+            "recoveryRate": 1.0,
+            "mainAtk": 1,
+            "uniformGroupId": 0,
+            "uniformSkillId": 0,
+            "heroState": 1,
+            "stGender": 100,
+            "stCamps": 501,
+            "abilitys": [
+                436,
+                423,
+                0
+            ],
+            "species": 301,
+            "ability_raid": 436,
+            "tier": 4,
+            "heroTierExp": 0,
+            "nextTier": 0,
+            "nextTierHeroId": 0,
+            "growType": 8,
+            "synastryGroupId": 3030,
+            "ability_hidden": 0,
+            "potential_awaken": 0,
+            "heroroll_pve": 10,
+            "heroroll_pvp": 110,
+            "specialType": 4,
+            "_physicalAttackFactor": {
+                "value": 4.0
+            },
+            "_physicalDefenseFactor": {
+                "value": 5.079999923706055
+            },
+            "_energyAttackFactor": {
+                "value": 5.300000190734863
+            },
+            "_energyDefenseFactor": {
+                "value": 5.179999828338623
+            },
+            "_hpFactor": {
+                "value": 5.28000020980835
+            },
+            "prefabNameKey": 1393109909
         },
         {
             "heroId": 1030001,

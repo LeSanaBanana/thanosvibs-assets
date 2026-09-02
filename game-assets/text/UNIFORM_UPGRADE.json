@@ -3573,7 +3573,19 @@
         101001333,
         101001334,
         101001335,
-        101001336
+        101001336,
+        107000751,
+        107000752,
+        107000753,
+        107000754,
+        107000755,
+        107000756,
+        103000221,
+        103000222,
+        103000223,
+        103000224,
+        103000225,
+        103000226
     ],
     "values": [
         {
@@ -85510,6 +85522,282 @@
             "requiredItemId": 10100223,
             "material": [
                 1000133,
+                1020001,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                480,
+                285,
+                330,
+                0,
+                0
+            ],
+            "upgradeCost": 360000,
+            "optionGroupId": 500500000
+        },
+        {
+            "grade": 6,
+            "optionNum": 5,
+            "optionChangeCost": 60000,
+            "upgradeExp": 0,
+            "requiredItemId": 0,
+            "material": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "materialQty": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "upgradeCost": 0,
+            "optionGroupId": 500600000
+        },
+        {
+            "grade": 1,
+            "optionNum": 0,
+            "optionChangeCost": 0,
+            "upgradeExp": 20000,
+            "requiredItemId": 10400079,
+            "material": [
+                1070002,
+                1020005,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                10,
+                120,
+                40,
+                0,
+                0
+            ],
+            "upgradeCost": 88000,
+            "optionGroupId": 0
+        },
+        {
+            "grade": 2,
+            "optionNum": 1,
+            "optionChangeCost": 100000,
+            "upgradeExp": 32000,
+            "requiredItemId": 10700014,
+            "material": [
+                1070003,
+                1020005,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                8,
+                180,
+                60,
+                0,
+                0
+            ],
+            "upgradeCost": 160000,
+            "optionGroupId": 500200000
+        },
+        {
+            "grade": 3,
+            "optionNum": 2,
+            "optionChangeCost": 104000,
+            "upgradeExp": 54400,
+            "requiredItemId": 10200108,
+            "material": [
+                1070004,
+                1020005,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                6,
+                260,
+                120,
+                0,
+                0
+            ],
+            "upgradeCost": 240000,
+            "optionGroupId": 500300000
+        },
+        {
+            "grade": 4,
+            "optionNum": 3,
+            "optionChangeCost": 108000,
+            "upgradeExp": 97920,
+            "requiredItemId": 10500123,
+            "material": [
+                1070005,
+                1020005,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                4,
+                320,
+                240,
+                0,
+                0
+            ],
+            "upgradeCost": 440000,
+            "optionGroupId": 500400000
+        },
+        {
+            "grade": 5,
+            "optionNum": 4,
+            "optionChangeCost": 114000,
+            "upgradeExp": 186048,
+            "requiredItemId": 10100226,
+            "material": [
+                1070006,
+                1020005,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                2,
+                380,
+                440,
+                0,
+                0
+            ],
+            "upgradeCost": 720000,
+            "optionGroupId": 500500000
+        },
+        {
+            "grade": 6,
+            "optionNum": 5,
+            "optionChangeCost": 120000,
+            "upgradeExp": 0,
+            "requiredItemId": 0,
+            "material": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "materialQty": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "upgradeCost": 0,
+            "optionGroupId": 500600000
+        },
+        {
+            "grade": 1,
+            "optionNum": 0,
+            "optionChangeCost": 0,
+            "upgradeExp": 10000,
+            "requiredItemId": 10300039,
+            "material": [
+                1000022,
+                1020001,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                30,
+                90,
+                30,
+                0,
+                0
+            ],
+            "upgradeCost": 44000,
+            "optionGroupId": 0
+        },
+        {
+            "grade": 2,
+            "optionNum": 1,
+            "optionChangeCost": 50000,
+            "upgradeExp": 16000,
+            "requiredItemId": 11000010,
+            "material": [
+                1000022,
+                1020001,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                60,
+                135,
+                45,
+                0,
+                0
+            ],
+            "upgradeCost": 80000,
+            "optionGroupId": 500200000
+        },
+        {
+            "grade": 3,
+            "optionNum": 2,
+            "optionChangeCost": 52000,
+            "upgradeExp": 27200,
+            "requiredItemId": 10300065,
+            "material": [
+                1000022,
+                1020001,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                120,
+                195,
+                90,
+                0,
+                0
+            ],
+            "upgradeCost": 120000,
+            "optionGroupId": 500300000
+        },
+        {
+            "grade": 4,
+            "optionNum": 3,
+            "optionChangeCost": 54000,
+            "upgradeExp": 48960,
+            "requiredItemId": 10100256,
+            "material": [
+                1000022,
+                1020001,
+                10199007,
+                0,
+                0
+            ],
+            "materialQty": [
+                240,
+                240,
+                180,
+                0,
+                0
+            ],
+            "upgradeCost": 220000,
+            "optionGroupId": 500400000
+        },
+        {
+            "grade": 5,
+            "optionNum": 4,
+            "optionChangeCost": 57000,
+            "upgradeExp": 93024,
+            "requiredItemId": 10300124,
+            "material": [
+                1000022,
                 1020001,
                 10199007,
                 0,

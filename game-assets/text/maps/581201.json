@@ -1,6 +1,6 @@
 [
     {
-        "level": "base_starktower_0001_o01",
+        "level": "base_triskelion_0001_d02",
         "lightIndex": 0,
         "startpoint": 1,
         "endpoint": -1,
@@ -17,15 +17,14 @@
                     },
                     {
                         "point": 1,
-                        "mob": 1327581201,
+                        "mob": 724581201,
                         "group": 1,
                         "sight": 1000,
                         "firstattack": 1,
                         "keymob": 1,
                         "boss": 3,
                         "avoidancePriority": 0,
-                        "aiprefab": "ai_boss_hulk01_S09_581101",
-                        "scale": 1.2
+                        "aiprefab": "ai_boss_antiman03"
                     }
                 ]
             }
