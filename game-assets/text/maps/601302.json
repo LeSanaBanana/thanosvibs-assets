@@ -1,6 +1,6 @@
 [
     {
-        "level": "base_triskelion_0001_d02",
+        "level": "base_sanctum_sanctorum_1001_e01",
         "lightIndex": 0,
         "startpoint": 1,
         "endpoint": -1,
@@ -9,15 +9,14 @@
                 "round": [
                     {
                         "point": 1,
-                        "mob": 900601302,
+                        "mob": 1217601302,
                         "group": 1,
                         "sight": 1000,
                         "firstattack": 1,
                         "keymob": 1,
                         "boss": 4,
                         "avoidancePriority": 0,
-                        "weakhit": 1,
-                        "aiprefab": "ai_sv_EbonyMaw01_S02_601102"
+                        "weakhit": 1
                     }
                 ]
             }

@@ -1,6 +1,6 @@
 [
     {
-        "level": "base_triskelion_0001_d02",
+        "level": "base_sanctum_sanctorum_1001_e01",
         "lightIndex": 0,
         "startpoint": 1,
         "endpoint": -1,
@@ -17,14 +17,13 @@
                     },
                     {
                         "point": 1,
-                        "mob": 724581201,
+                        "mob": 1333581201,
                         "group": 1,
                         "sight": 1000,
                         "firstattack": 1,
                         "keymob": 1,
                         "boss": 3,
-                        "avoidancePriority": 0,
-                        "aiprefab": "ai_boss_antiman03"
+                        "avoidancePriority": 0
                     }
                 ]
             }

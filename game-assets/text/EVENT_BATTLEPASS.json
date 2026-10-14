@@ -29,9 +29,12 @@
         18,
         19,
         21,
+        22,
+        23,
         1001,
         1002,
-        1003
+        1003,
+        1004
     ],
     "values": [
         {
@@ -168,6 +171,20 @@
             "AchieveGroupId": 22521
         },
         {
+            "PassId": 22,
+            "EventImage": "battlepassEvent_icon",
+            "GoodsId": 520021,
+            "RewardGroupId": 22,
+            "AchieveGroupId": 22522
+        },
+        {
+            "PassId": 23,
+            "EventImage": "battlepassEvent_icon",
+            "GoodsId": 520022,
+            "RewardGroupId": 23,
+            "AchieveGroupId": 22523
+        },
+        {
             "PassId": 1001,
             "EventImage": "TokenPass_icon",
             "GoodsId": 610001,
@@ -187,6 +204,13 @@
             "GoodsId": 610003,
             "RewardGroupId": 1001,
             "AchieveGroupId": 25003
+        },
+        {
+            "PassId": 1004,
+            "EventImage": "TokenPass_icon",
+            "GoodsId": 610004,
+            "RewardGroupId": 1001,
+            "AchieveGroupId": 25004
         }
     ]
 }

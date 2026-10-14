@@ -199,8 +199,7 @@
         1187,
         1188,
         1189,
-        1190,
-        1191
+        1190
     ],
     "values": [
         {
@@ -5772,41 +5771,6 @@
             "quizId": 1160,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 3,
-            "shieldExp": 100,
-            "baseReward": {
-                "Type": 999,
-                "value": 0,
-                "qty": 100,
-                "highlightCount": 0,
-                "jackpot": 0,
-                "isn": 0,
-                "vipLevel": 0
-            },
-            "successReward": {
-                "Type": 2,
-                "value": 0,
-                "qty": 10,
-                "highlightCount": 0,
-                "jackpot": 0,
-                "isn": 0,
-                "vipLevel": 0
-            },
-            "failReward": {
-                "Type": 2,
-                "value": 0,
-                "qty": 5,
-                "highlightCount": 0,
-                "jackpot": 0,
-                "isn": 0,
-                "vipLevel": 0
-            },
-            "guideId": 1006001
-        },
-        {
-            "quizId": 1161,
-            "heroGroup": 0,
-            "sampleCount": 4,
             "answer": 4,
             "shieldExp": 100,
             "baseReward": {
@@ -5839,7 +5803,7 @@
             "guideId": 1001006
         },
         {
-            "quizId": 1162,
+            "quizId": 1161,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 1,
@@ -5874,7 +5838,7 @@
             "guideId": 1005023
         },
         {
-            "quizId": 1163,
+            "quizId": 1162,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 3,
@@ -5909,7 +5873,7 @@
             "guideId": 1005003
         },
         {
-            "quizId": 1164,
+            "quizId": 1163,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 4,
@@ -5944,7 +5908,7 @@
             "guideId": 1005011
         },
         {
-            "quizId": 1165,
+            "quizId": 1164,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 3,
@@ -5979,7 +5943,7 @@
             "guideId": 1006044
         },
         {
-            "quizId": 1166,
+            "quizId": 1165,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 2,
@@ -6014,10 +5978,45 @@
             "guideId": 1002022
         },
         {
-            "quizId": 1167,
+            "quizId": 1166,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 3,
+            "shieldExp": 100,
+            "baseReward": {
+                "Type": 999,
+                "value": 0,
+                "qty": 100,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "successReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 10,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "failReward": {
+                "Type": 2,
+                "value": 0,
+                "qty": 5,
+                "highlightCount": 0,
+                "jackpot": 0,
+                "isn": 0,
+                "vipLevel": 0
+            },
+            "guideId": 0
+        },
+        {
+            "quizId": 1167,
+            "heroGroup": 0,
+            "sampleCount": 4,
+            "answer": 1,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6052,7 +6051,7 @@
             "quizId": 1168,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 1,
+            "answer": 2,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6087,7 +6086,7 @@
             "quizId": 1169,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 2,
+            "answer": 1,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6122,7 +6121,7 @@
             "quizId": 1170,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 1,
+            "answer": 2,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6157,7 +6156,7 @@
             "quizId": 1171,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 2,
+            "answer": 4,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6192,7 +6191,7 @@
             "quizId": 1172,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 4,
+            "answer": 3,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6227,7 +6226,7 @@
             "quizId": 1173,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 3,
+            "answer": 2,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6262,7 +6261,7 @@
             "quizId": 1174,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 2,
+            "answer": 1,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6297,7 +6296,7 @@
             "quizId": 1175,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 1,
+            "answer": 2,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6332,7 +6331,7 @@
             "quizId": 1176,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 2,
+            "answer": 4,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6367,7 +6366,7 @@
             "quizId": 1177,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 4,
+            "answer": 3,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6402,7 +6401,7 @@
             "quizId": 1178,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 3,
+            "answer": 1,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6437,7 +6436,7 @@
             "quizId": 1179,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 1,
+            "answer": 4,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6472,7 +6471,7 @@
             "quizId": 1180,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 4,
+            "answer": 2,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6507,7 +6506,7 @@
             "quizId": 1181,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 2,
+            "answer": 1,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6577,7 +6576,7 @@
             "quizId": 1183,
             "heroGroup": 0,
             "sampleCount": 4,
-            "answer": 1,
+            "answer": 3,
             "shieldExp": 100,
             "baseReward": {
                 "Type": 999,
@@ -6606,7 +6605,7 @@
                 "isn": 0,
                 "vipLevel": 0
             },
-            "guideId": 0
+            "guideId": 1005005
         },
         {
             "quizId": 1184,
@@ -6641,45 +6640,10 @@
                 "isn": 0,
                 "vipLevel": 0
             },
-            "guideId": 1005005
-        },
-        {
-            "quizId": 1185,
-            "heroGroup": 0,
-            "sampleCount": 4,
-            "answer": 3,
-            "shieldExp": 100,
-            "baseReward": {
-                "Type": 999,
-                "value": 0,
-                "qty": 100,
-                "highlightCount": 0,
-                "jackpot": 0,
-                "isn": 0,
-                "vipLevel": 0
-            },
-            "successReward": {
-                "Type": 2,
-                "value": 0,
-                "qty": 10,
-                "highlightCount": 0,
-                "jackpot": 0,
-                "isn": 0,
-                "vipLevel": 0
-            },
-            "failReward": {
-                "Type": 2,
-                "value": 0,
-                "qty": 5,
-                "highlightCount": 0,
-                "jackpot": 0,
-                "isn": 0,
-                "vipLevel": 0
-            },
             "guideId": 1003014
         },
         {
-            "quizId": 1186,
+            "quizId": 1185,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 4,
@@ -6714,7 +6678,7 @@
             "guideId": 1006043
         },
         {
-            "quizId": 1187,
+            "quizId": 1186,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 1,
@@ -6749,7 +6713,7 @@
             "guideId": 1004032
         },
         {
-            "quizId": 1188,
+            "quizId": 1187,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 3,
@@ -6784,7 +6748,7 @@
             "guideId": 0
         },
         {
-            "quizId": 1189,
+            "quizId": 1188,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 4,
@@ -6819,7 +6783,7 @@
             "guideId": 0
         },
         {
-            "quizId": 1190,
+            "quizId": 1189,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 3,
@@ -6854,7 +6818,7 @@
             "guideId": 1006029
         },
         {
-            "quizId": 1191,
+            "quizId": 1190,
             "heroGroup": 0,
             "sampleCount": 4,
             "answer": 2,

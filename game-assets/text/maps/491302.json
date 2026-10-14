@@ -13,8 +13,7 @@
                         "keymob": 1,
                         "group": 1,
                         "sight": 5,
-                        "firstattack": 1,
-                        "summon": "0:2"
+                        "firstattack": 1
                     },
                     {
                         "point": 2,
@@ -38,8 +37,7 @@
                         "keymob": 1,
                         "group": 1,
                         "sight": 5,
-                        "firstattack": 1,
-                        "summon": "0:2"
+                        "firstattack": 1
                     },
                     {
                         "point": 5,
@@ -63,7 +61,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": "0.0-0.4",
                         "appear": "appear"
@@ -74,7 +72,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": "0.0-0.4",
                         "appear": "appear"
@@ -85,7 +83,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": "0.0-0.4",
                         "appear": "appear"
@@ -96,7 +94,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -104,10 +102,10 @@
                     {
                         "point": 8,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "2-2",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -115,10 +113,10 @@
                     {
                         "point": 9,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "2-2",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -126,10 +124,10 @@
                     {
                         "point": 10,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "2-2",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -137,10 +135,10 @@
                     {
                         "point": 11,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "2-2",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -148,10 +146,10 @@
                     {
                         "point": 10,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "2-2",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -159,10 +157,10 @@
                     {
                         "point": 11,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "2-2",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -170,41 +168,40 @@
                     {
                         "point": 20,
                         "mob": 235491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "1-3",
+                        "autoregen": "3-2",
                         "keymob": 1,
-                        "appear": "appear",
-                        "summon": "0:4"
+                        "appear": "appear"
                     },
                     {
                         "point": 21,
                         "mob": 235491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "1-3",
+                        "autoregen": "3-2",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 22,
                         "mob": 235491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "1-3",
+                        "autoregen": "3-2",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 23,
                         "mob": 185491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear",
@@ -213,10 +210,10 @@
                     {
                         "point": 24,
                         "mob": 185491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear",
@@ -225,10 +222,10 @@
                     {
                         "point": 25,
                         "mob": 185491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear",
@@ -237,10 +234,10 @@
                     {
                         "point": 26,
                         "mob": 185491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear",
@@ -249,10 +246,10 @@
                     {
                         "point": 27,
                         "mob": 185491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 1,
                         "appear": "appear",
@@ -261,10 +258,10 @@
                     {
                         "point": 28,
                         "mob": 185491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 1,
                         "appear": "appear",
@@ -273,10 +270,10 @@
                     {
                         "point": 29,
                         "mob": 185491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 1,
                         "appear": "appear",
@@ -285,10 +282,10 @@
                     {
                         "point": 30,
                         "mob": 185491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 1,
                         "appear": "appear",
@@ -297,10 +294,10 @@
                     {
                         "point": 31,
                         "mob": 236491302,
-                        "group": 5,
+                        "group": 6,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-5,3-2",
+                        "autoregen": "5-4",
                         "keymob": 1,
                         "delay": "0.0-0.4",
                         "appear": "appear"
@@ -308,10 +305,10 @@
                     {
                         "point": 32,
                         "mob": 236491302,
-                        "group": 5,
+                        "group": 6,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-5,3-2",
+                        "autoregen": "5-4",
                         "keymob": 1,
                         "delay": "0.0-0.4",
                         "appear": "appear"
@@ -319,10 +316,10 @@
                     {
                         "point": 33,
                         "mob": 236491302,
-                        "group": 5,
+                        "group": 6,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-5,3-2",
+                        "autoregen": "5-4",
                         "keymob": 1,
                         "delay": "0.0-0.4",
                         "appear": "appear"
@@ -330,10 +327,10 @@
                     {
                         "point": 34,
                         "mob": 236491302,
-                        "group": 5,
+                        "group": 6,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-5,3-2",
+                        "autoregen": "5-4",
                         "keymob": 1,
                         "delay": "0.0-0.4",
                         "appear": "appear"
@@ -341,10 +338,10 @@
                     {
                         "point": 35,
                         "mob": 237491302,
-                        "group": 5,
+                        "group": 6,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-5,3-2",
+                        "autoregen": "5-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -352,10 +349,10 @@
                     {
                         "point": 36,
                         "mob": 237491302,
-                        "group": 5,
+                        "group": 6,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-5,3-2",
+                        "autoregen": "5-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -363,10 +360,10 @@
                     {
                         "point": 37,
                         "mob": 237491302,
-                        "group": 5,
+                        "group": 6,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-5,3-2",
+                        "autoregen": "5-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -374,10 +371,10 @@
                     {
                         "point": 38,
                         "mob": 237491302,
-                        "group": 5,
+                        "group": 6,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-5,3-2",
+                        "autoregen": "5-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -440,7 +437,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -451,7 +448,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -462,7 +459,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -473,7 +470,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -484,7 +481,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -495,7 +492,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -506,7 +503,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -517,7 +514,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -528,7 +525,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -536,102 +533,100 @@
                     {
                         "point": 30,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-3",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 31,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-3",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 30,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-3",
                         "keymob": 1,
-                        "delay": "0.4-0.8",
                         "appear": "appear"
                     },
                     {
                         "point": 31,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-3",
                         "keymob": 1,
-                        "delay": "0.4-0.8",
                         "appear": "appear"
                     },
                     {
                         "point": 32,
                         "mob": 235491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-3",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 33,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 34,
                         "mob": 235491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 35,
                         "mob": 235491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 36,
                         "mob": 237491302,
-                        "group": 2,
+                        "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "appear": "appear"
                     },
                     {
                         "point": 22,
                         "mob": 237491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -639,10 +634,10 @@
                     {
                         "point": 23,
                         "mob": 237491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -650,10 +645,10 @@
                     {
                         "point": 21,
                         "mob": 235491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -661,10 +656,10 @@
                     {
                         "point": 20,
                         "mob": 237491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -672,10 +667,10 @@
                     {
                         "point": 25,
                         "mob": 235491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -683,10 +678,10 @@
                     {
                         "point": 24,
                         "mob": 237491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -694,10 +689,10 @@
                     {
                         "point": 26,
                         "mob": 235491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -705,10 +700,10 @@
                     {
                         "point": 27,
                         "mob": 237491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -716,10 +711,10 @@
                     {
                         "point": 28,
                         "mob": 237491302,
-                        "group": 3,
+                        "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 2,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -727,10 +722,10 @@
                     {
                         "point": 30,
                         "mob": 237491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "4-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -738,10 +733,10 @@
                     {
                         "point": 31,
                         "mob": 237491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "4-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -749,10 +744,10 @@
                     {
                         "point": 32,
                         "mob": 235491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "4-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -760,10 +755,10 @@
                     {
                         "point": 33,
                         "mob": 237491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "4-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -771,10 +766,10 @@
                     {
                         "point": 34,
                         "mob": 235491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "4-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -782,10 +777,10 @@
                     {
                         "point": 35,
                         "mob": 235491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "4-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -793,10 +788,10 @@
                     {
                         "point": 36,
                         "mob": 237491302,
-                        "group": 4,
+                        "group": 5,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "4-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -820,7 +815,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "switch": 2,
                         "appear": "appear"
                     },
                     {
@@ -830,7 +824,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "switch": 2,
                         "appear": "appear"
                     },
                     {
@@ -840,7 +833,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "switch": 2,
                         "appear": "appear"
                     },
                     {
@@ -850,7 +842,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "switch": 2,
                         "appear": "appear"
                     },
                     {
@@ -860,7 +851,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "switch": 2,
                         "appear": "appear"
                     },
                     {
@@ -869,11 +859,9 @@
                         "group": 2,
                         "sight": 50,
                         "autoregen": "1-5",
-                        "switch": 3,
                         "delay": 1,
                         "firstattack": 1,
                         "keymob": 1,
-                        "summon": "1:2",
                         "boss": 2,
                         "appear": "appear"
                     },
@@ -950,8 +938,7 @@
                         "keymob": 1,
                         "group": 1,
                         "sight": 10,
-                        "firstattack": 1,
-                        "summon": "0:2"
+                        "firstattack": 1
                     },
                     {
                         "point": 2,
@@ -983,7 +970,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear",
@@ -995,7 +982,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear",
@@ -1007,7 +994,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1018,7 +1005,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear",
@@ -1030,7 +1017,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear",
@@ -1042,7 +1029,7 @@
                         "group": 2,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "1-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1053,7 +1040,7 @@
                         "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-6",
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "appear": "appear",
                         "summon": "0:4",
@@ -1065,7 +1052,7 @@
                         "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-6",
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "appear": "appear",
                         "aiprefab": "AI_novacorps_minionsdrone01_003"
@@ -1076,7 +1063,7 @@
                         "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-6",
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "delay": 0.2,
                         "appear": "appear",
@@ -1088,7 +1075,7 @@
                         "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-6",
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "delay": 0.2,
                         "appear": "appear",
@@ -1100,7 +1087,7 @@
                         "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-6",
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "delay": 0.4,
                         "appear": "appear"
@@ -1111,7 +1098,7 @@
                         "group": 3,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": "2-6",
+                        "autoregen": "2-4",
                         "keymob": 1,
                         "delay": 0.4,
                         "appear": "appear"
@@ -1122,7 +1109,7 @@
                         "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1133,7 +1120,7 @@
                         "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1144,7 +1131,7 @@
                         "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1155,7 +1142,7 @@
                         "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1166,7 +1153,7 @@
                         "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1177,7 +1164,7 @@
                         "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1188,7 +1175,7 @@
                         "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1199,7 +1186,7 @@
                         "group": 4,
                         "sight": 50,
                         "firstattack": 1,
-                        "autoregen": 0,
+                        "autoregen": "3-4",
                         "keymob": 1,
                         "delay": 0.5,
                         "appear": "appear"
@@ -1225,7 +1212,6 @@
                         "switch": 3,
                         "firstattack": 1,
                         "keymob": 1,
-                        "summon": "1:2",
                         "boss": 2,
                         "appear": "appear"
                     },
@@ -1236,7 +1222,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "autoregen": 0,
                         "delay": "0.2-1.0",
                         "appear": "appear"
                     },
@@ -1247,7 +1232,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "autoregen": 0,
                         "delay": "0.2-1.0",
                         "appear": "appear"
                     },
@@ -1258,7 +1242,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "autoregen": 0,
                         "delay": "1.2-2.0",
                         "appear": "appear"
                     },
@@ -1269,7 +1252,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "autoregen": 0,
                         "delay": "1.2-2.0",
                         "appear": "appear"
                     },
@@ -1280,7 +1262,6 @@
                         "firstattack": 1,
                         "keymob": 1,
                         "sight": 50,
-                        "autoregen": 0,
                         "delay": "1.2-2.0",
                         "appear": "appear"
                     }
@@ -1374,7 +1355,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -1385,7 +1366,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -1396,7 +1377,7 @@
                         "group": 2,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 1,
+                        "autoregen": "1-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -1495,7 +1476,7 @@
                         "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -1506,7 +1487,7 @@
                         "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -1517,7 +1498,7 @@
                         "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -1528,7 +1509,7 @@
                         "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -1539,7 +1520,7 @@
                         "group": 4,
                         "sight": 20,
                         "firstattack": 1,
-                        "autoregen": 3,
+                        "autoregen": "3-5",
                         "keymob": 1,
                         "delay": "0.4-0.8",
                         "appear": "appear"
@@ -1608,10 +1589,11 @@
                         "trigger": 1
                     },
                     {
-                        "point": 1,
+                        "point": 7,
                         "mob": 259491302,
                         "group": 10,
-                        "autoregen": 99
+                        "sight": 20,
+                        "firstattack": 1
                     },
                     {
                         "point": 10,
@@ -1629,7 +1611,6 @@
                         "trigger": 1,
                         "firstattack": 1,
                         "keymob": 1,
-                        "summon": "1:3",
                         "boss": 3,
                         "aiprefab": "ai_raidebonymaw_ultimates02",
                         "avoidancePriority": 0,

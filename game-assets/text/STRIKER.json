@@ -300,6 +300,7 @@
         291,
         292,
         293,
+        294,
         10000,
         20000
     ],
@@ -50432,6 +50433,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 84,
+            "targetHeroGroupId": 294,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 85,
             "targetHeroGroupId": 2,
             "autoAbilityCondition": 4,
@@ -123241,6 +123253,17 @@
             "cooltime": 16
         },
         {
+            "activeHeroGroupId": 271,
+            "targetHeroGroupId": 294,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 16
+        },
+        {
             "activeHeroGroupId": 272,
             "targetHeroGroupId": 10,
             "autoAbilityCondition": 4,
@@ -126264,6 +126287,83 @@
             },
             "autoAbilityRate": 19,
             "cooltime": 16
+        },
+        {
+            "activeHeroGroupId": 294,
+            "targetHeroGroupId": 84,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 22,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 294,
+            "targetHeroGroupId": 140,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 22,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 294,
+            "targetHeroGroupId": 179,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 294,
+            "targetHeroGroupId": 180,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 294,
+            "targetHeroGroupId": 181,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 294,
+            "targetHeroGroupId": 182,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 294,
+            "targetHeroGroupId": 271,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
         },
         {
             "activeHeroGroupId": 10000,
@@ -129447,6 +129547,17 @@
         {
             "activeHeroGroupId": 10000,
             "targetHeroGroupId": 293,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 50,
+            "cooltime": 3
+        },
+        {
+            "activeHeroGroupId": 10000,
+            "targetHeroGroupId": 294,
             "autoAbilityCondition": 4,
             "autoAbilityParam": {
                 "v1": 0,
@@ -129551,7 +129662,7 @@
         33,
         59,
         30,
-        36,
+        37,
         36,
         34,
         26,
@@ -129735,7 +129846,7 @@
         17,
         27,
         8,
-        13,
+        14,
         14,
         10,
         10,
@@ -129758,7 +129869,8 @@
         13,
         12,
         16,
-        290,
+        7,
+        291,
         1
     ]
 }

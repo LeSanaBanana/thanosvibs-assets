@@ -71,7 +71,9 @@
         59,
         60,
         61,
-        62
+        62,
+        63,
+        64
     ],
     "values": [
         {
@@ -1126,6 +1128,40 @@
             "RankdRewardGroupIds": [
                 1,
                 2
+            ]
+        },
+        {
+            "EventId": 63,
+            "StageId": 710101,
+            "MobId": 1244710101,
+            "HeroGroupIds": [
+                84,
+                177
+            ],
+            "ScoreRewardIds": [
+                2,
+                2
+            ],
+            "RankdRewardGroupIds": [
+                1,
+                2
+            ]
+        },
+        {
+            "EventId": 64,
+            "StageId": 710101,
+            "MobId": 1244710101,
+            "HeroGroupIds": [
+                294,
+                0
+            ],
+            "ScoreRewardIds": [
+                2,
+                0
+            ],
+            "RankdRewardGroupIds": [
+                1,
+                0
             ]
         }
     ]

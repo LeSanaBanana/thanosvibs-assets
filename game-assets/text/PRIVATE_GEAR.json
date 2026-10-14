@@ -282,6 +282,7 @@
         503029101,
         503029201,
         503029301,
+        503029401,
         504000101,
         504000201,
         504000301,
@@ -551,6 +552,7 @@
         504029101,
         504029201,
         504029301,
+        504029401,
         505000101,
         505000201,
         505000301,
@@ -820,6 +822,7 @@
         505029101,
         505029201,
         505029301,
+        505029401,
         506000101,
         506000201,
         506000301,
@@ -1088,7 +1091,8 @@
         506029001,
         506029101,
         506029201,
-        506029301
+        506029301,
+        506029401
     ],
     "values": [
         {
@@ -8708,6 +8712,34 @@
             "privateOptGroup": 702930300
         },
         {
+            "privateGearId": 503029401,
+            "abilityId": 127,
+            "prob": 0,
+            "publicOptGroup": 710000300,
+            "privateOptGroup": 702940300
+        },
+        {
+            "privateGearId": 503029401,
+            "abilityId": 129,
+            "prob": 0,
+            "publicOptGroup": 720000300,
+            "privateOptGroup": 702940300
+        },
+        {
+            "privateGearId": 503029401,
+            "abilityId": 131,
+            "prob": 0,
+            "publicOptGroup": 730000300,
+            "privateOptGroup": 702940300
+        },
+        {
+            "privateGearId": 503029401,
+            "abilityId": 133,
+            "prob": 0,
+            "publicOptGroup": 740000300,
+            "privateOptGroup": 702940300
+        },
+        {
             "privateGearId": 504000101,
             "abilityId": 127,
             "prob": 0,
@@ -16238,6 +16270,34 @@
             "prob": 0,
             "publicOptGroup": 740000400,
             "privateOptGroup": 702930400
+        },
+        {
+            "privateGearId": 504029401,
+            "abilityId": 127,
+            "prob": 0,
+            "publicOptGroup": 710000400,
+            "privateOptGroup": 702940400
+        },
+        {
+            "privateGearId": 504029401,
+            "abilityId": 129,
+            "prob": 0,
+            "publicOptGroup": 720000400,
+            "privateOptGroup": 702940400
+        },
+        {
+            "privateGearId": 504029401,
+            "abilityId": 131,
+            "prob": 0,
+            "publicOptGroup": 730000400,
+            "privateOptGroup": 702940400
+        },
+        {
+            "privateGearId": 504029401,
+            "abilityId": 133,
+            "prob": 0,
+            "publicOptGroup": 740000400,
+            "privateOptGroup": 702940400
         },
         {
             "privateGearId": 505000101,
@@ -23772,6 +23832,34 @@
             "privateOptGroup": 702930500
         },
         {
+            "privateGearId": 505029401,
+            "abilityId": 127,
+            "prob": 0,
+            "publicOptGroup": 710000500,
+            "privateOptGroup": 702940500
+        },
+        {
+            "privateGearId": 505029401,
+            "abilityId": 129,
+            "prob": 0,
+            "publicOptGroup": 720000500,
+            "privateOptGroup": 702940500
+        },
+        {
+            "privateGearId": 505029401,
+            "abilityId": 131,
+            "prob": 0,
+            "publicOptGroup": 730000500,
+            "privateOptGroup": 702940500
+        },
+        {
+            "privateGearId": 505029401,
+            "abilityId": 133,
+            "prob": 0,
+            "publicOptGroup": 740000500,
+            "privateOptGroup": 702940500
+        },
+        {
             "privateGearId": 506000101,
             "abilityId": 127,
             "prob": 0,
@@ -31302,9 +31390,41 @@
             "prob": 0,
             "publicOptGroup": 740000600,
             "privateOptGroup": 702930600
+        },
+        {
+            "privateGearId": 506029401,
+            "abilityId": 127,
+            "prob": 0,
+            "publicOptGroup": 710000600,
+            "privateOptGroup": 702940600
+        },
+        {
+            "privateGearId": 506029401,
+            "abilityId": 129,
+            "prob": 0,
+            "publicOptGroup": 720000600,
+            "privateOptGroup": 702940600
+        },
+        {
+            "privateGearId": 506029401,
+            "abilityId": 131,
+            "prob": 0,
+            "publicOptGroup": 730000600,
+            "privateOptGroup": 702940600
+        },
+        {
+            "privateGearId": 506029401,
+            "abilityId": 133,
+            "prob": 0,
+            "publicOptGroup": 740000600,
+            "privateOptGroup": 702940600
         }
     ],
     "counts": [
+        4,
+        4,
+        4,
+        4,
         4,
         4,
         4,

@@ -41,12 +41,19 @@
         507,
         707,
         301,
+        1001,
         302,
+        1002,
         303,
+        1003,
         304,
+        1004,
         305,
+        1005,
         306,
+        1006,
         307,
+        1007,
         401,
         402,
         403,
@@ -181,28 +188,56 @@
             "maxQty": 2
         },
         {
+            "limitGroup": 1001,
+            "maxQty": 300
+        },
+        {
             "limitGroup": 302,
             "maxQty": 2
+        },
+        {
+            "limitGroup": 1002,
+            "maxQty": 300
         },
         {
             "limitGroup": 303,
             "maxQty": 2
         },
         {
+            "limitGroup": 1003,
+            "maxQty": 300
+        },
+        {
             "limitGroup": 304,
             "maxQty": 2
+        },
+        {
+            "limitGroup": 1004,
+            "maxQty": 300
         },
         {
             "limitGroup": 305,
             "maxQty": 2
         },
         {
+            "limitGroup": 1005,
+            "maxQty": 300
+        },
+        {
             "limitGroup": 306,
             "maxQty": 2
         },
         {
+            "limitGroup": 1006,
+            "maxQty": 300
+        },
+        {
             "limitGroup": 307,
             "maxQty": 2
+        },
+        {
+            "limitGroup": 1007,
+            "maxQty": 300
         },
         {
             "limitGroup": 401,

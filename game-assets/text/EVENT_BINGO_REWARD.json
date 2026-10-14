@@ -31,7 +31,8 @@
         19,
         20,
         21,
-        22
+        22,
+        23
     ],
     "values": [
         {
@@ -801,6 +802,30 @@
             "rewardValue": 13860,
             "rewardQty": 1,
             "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7818,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 7819,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineCount": 5,
+            "rewardType": 100,
+            "rewardValue": 417060000,
+            "rewardQty": 1,
+            "rewardOrder": 3
         }
     ],
     "counts": [
@@ -825,6 +850,7 @@
         6,
         5,
         6,
-        5
+        5,
+        3
     ]
 }

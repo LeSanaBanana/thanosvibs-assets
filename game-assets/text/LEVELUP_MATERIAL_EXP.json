@@ -10,21 +10,44 @@
     },
     "m_Name": "LEVELUP_MATERIAL_EXP",
     "keys": [
+        1,
         2,
         3,
+        4,
         5,
+        6,
         7,
         8,
+        12,
         13
     ],
     "values": [
+        {
+            "growType": 1,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 125925
+        },
         {
             "growType": 2,
             "materialId": 1070001,
             "bonusYN": 1,
             "materialExp": 0,
             "awakeningMaterialExp": 0,
-            "awakening2ndMaterialExp": 73920
+            "awakening2ndMaterialExp": 73920,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 2,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 62921
         },
         {
             "growType": 3,
@@ -32,7 +55,8 @@
             "bonusYN": 1,
             "materialExp": 0,
             "awakeningMaterialExp": 0,
-            "awakening2ndMaterialExp": 73920
+            "awakening2ndMaterialExp": 73920,
+            "awakening3rdMaterialExp": 0
         },
         {
             "growType": 3,
@@ -40,7 +64,26 @@
             "bonusYN": 1,
             "materialExp": 0,
             "awakeningMaterialExp": 0,
-            "awakening2ndMaterialExp": 73920
+            "awakening2ndMaterialExp": 73920,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 3,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 62921
+        },
+        {
+            "growType": 4,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 125925
         },
         {
             "growType": 5,
@@ -48,7 +91,26 @@
             "bonusYN": 1,
             "materialExp": 0,
             "awakeningMaterialExp": 0,
-            "awakening2ndMaterialExp": 73920
+            "awakening2ndMaterialExp": 73920,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 5,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 62921
+        },
+        {
+            "growType": 6,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 125925
         },
         {
             "growType": 7,
@@ -56,7 +118,17 @@
             "bonusYN": 1,
             "materialExp": 0,
             "awakeningMaterialExp": 0,
-            "awakening2ndMaterialExp": 591360
+            "awakening2ndMaterialExp": 591360,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 7,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 31451
         },
         {
             "growType": 8,
@@ -64,7 +136,8 @@
             "bonusYN": 1,
             "materialExp": 0,
             "awakeningMaterialExp": 0,
-            "awakening2ndMaterialExp": 591360
+            "awakening2ndMaterialExp": 591360,
+            "awakening3rdMaterialExp": 0
         },
         {
             "growType": 8,
@@ -72,7 +145,8 @@
             "bonusYN": 0,
             "materialExp": 10880,
             "awakeningMaterialExp": 32620,
-            "awakening2ndMaterialExp": 32620
+            "awakening2ndMaterialExp": 32620,
+            "awakening3rdMaterialExp": 0
         },
         {
             "growType": 8,
@@ -80,7 +154,8 @@
             "bonusYN": 0,
             "materialExp": 571200,
             "awakeningMaterialExp": 1712550,
-            "awakening2ndMaterialExp": 1712550
+            "awakening2ndMaterialExp": 1712550,
+            "awakening3rdMaterialExp": 0
         },
         {
             "growType": 8,
@@ -88,7 +163,8 @@
             "bonusYN": 0,
             "materialExp": 1199520,
             "awakeningMaterialExp": 3596355,
-            "awakening2ndMaterialExp": 3596355
+            "awakening2ndMaterialExp": 3596355,
+            "awakening3rdMaterialExp": 0
         },
         {
             "growType": 8,
@@ -96,7 +172,8 @@
             "bonusYN": 0,
             "materialExp": 2518992,
             "awakeningMaterialExp": 7552346,
-            "awakening2ndMaterialExp": 7552346
+            "awakening2ndMaterialExp": 7552346,
+            "awakening3rdMaterialExp": 0
         },
         {
             "growType": 8,
@@ -104,7 +181,8 @@
             "bonusYN": 0,
             "materialExp": 5289883,
             "awakeningMaterialExp": 15859926,
-            "awakening2ndMaterialExp": 15859926
+            "awakening2ndMaterialExp": 15859926,
+            "awakening3rdMaterialExp": 0
         },
         {
             "growType": 8,
@@ -112,7 +190,26 @@
             "bonusYN": 0,
             "materialExp": 11108755,
             "awakeningMaterialExp": 33305844,
-            "awakening2ndMaterialExp": 33305844
+            "awakening2ndMaterialExp": 33305844,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 8,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 31451
+        },
+        {
+            "growType": 12,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 125925
         },
         {
             "growType": 13,
@@ -120,7 +217,8 @@
             "bonusYN": 1,
             "materialExp": 0,
             "awakeningMaterialExp": 0,
-            "awakening2ndMaterialExp": 73920
+            "awakening2ndMaterialExp": 73920,
+            "awakening3rdMaterialExp": 0
         },
         {
             "growType": 13,
@@ -128,15 +226,29 @@
             "bonusYN": 1,
             "materialExp": 0,
             "awakeningMaterialExp": 0,
-            "awakening2ndMaterialExp": 73920
+            "awakening2ndMaterialExp": 73920,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 13,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 62921
         }
     ],
     "counts": [
         1,
         2,
+        3,
         1,
+        2,
         1,
-        7,
-        2
+        2,
+        8,
+        1,
+        3
     ]
 }

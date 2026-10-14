@@ -289,6 +289,24 @@
         416060310,
         416060320,
         416060330,
+        417010110,
+        417020110,
+        417030110,
+        417030310,
+        417030320,
+        417030330,
+        417040110,
+        417040310,
+        417040320,
+        417040330,
+        417050110,
+        417050310,
+        417050320,
+        417050330,
+        417060110,
+        417060310,
+        417060320,
+        417060330,
         402070310,
         402070320,
         402070330,
@@ -599,6 +617,26 @@
         416080440,
         416080450,
         416080460,
+        417070110,
+        417070310,
+        417070320,
+        417070330,
+        417070410,
+        417070420,
+        417070430,
+        417070440,
+        417070450,
+        417070460,
+        417080110,
+        417080310,
+        417080320,
+        417080330,
+        417080410,
+        417080420,
+        417080430,
+        417080440,
+        417080450,
+        417080460,
         200160201,
         200160202,
         200160203,
@@ -2302,6 +2340,96 @@
             "level": 3
         },
         {
+            "skillId": 417010110,
+            "bestSkillId": 417010110,
+            "level": 1
+        },
+        {
+            "skillId": 417020110,
+            "bestSkillId": 417020110,
+            "level": 1
+        },
+        {
+            "skillId": 417030110,
+            "bestSkillId": 417030110,
+            "level": 1
+        },
+        {
+            "skillId": 417030310,
+            "bestSkillId": 417030330,
+            "level": 1
+        },
+        {
+            "skillId": 417030320,
+            "bestSkillId": 417030330,
+            "level": 2
+        },
+        {
+            "skillId": 417030330,
+            "bestSkillId": 417030330,
+            "level": 3
+        },
+        {
+            "skillId": 417040110,
+            "bestSkillId": 417040110,
+            "level": 1
+        },
+        {
+            "skillId": 417040310,
+            "bestSkillId": 417040330,
+            "level": 1
+        },
+        {
+            "skillId": 417040320,
+            "bestSkillId": 417040330,
+            "level": 2
+        },
+        {
+            "skillId": 417040330,
+            "bestSkillId": 417040330,
+            "level": 3
+        },
+        {
+            "skillId": 417050110,
+            "bestSkillId": 417050110,
+            "level": 1
+        },
+        {
+            "skillId": 417050310,
+            "bestSkillId": 417050330,
+            "level": 1
+        },
+        {
+            "skillId": 417050320,
+            "bestSkillId": 417050330,
+            "level": 2
+        },
+        {
+            "skillId": 417050330,
+            "bestSkillId": 417050330,
+            "level": 3
+        },
+        {
+            "skillId": 417060110,
+            "bestSkillId": 417060110,
+            "level": 1
+        },
+        {
+            "skillId": 417060310,
+            "bestSkillId": 417060330,
+            "level": 1
+        },
+        {
+            "skillId": 417060320,
+            "bestSkillId": 417060330,
+            "level": 2
+        },
+        {
+            "skillId": 417060330,
+            "bestSkillId": 417060330,
+            "level": 3
+        },
+        {
             "skillId": 402070310,
             "bestSkillId": 402070350,
             "level": 1
@@ -3849,6 +3977,106 @@
         {
             "skillId": 416080460,
             "bestSkillId": 416080460,
+            "level": 3
+        },
+        {
+            "skillId": 417070110,
+            "bestSkillId": 417070110,
+            "level": 1
+        },
+        {
+            "skillId": 417070310,
+            "bestSkillId": 417070330,
+            "level": 1
+        },
+        {
+            "skillId": 417070320,
+            "bestSkillId": 417070330,
+            "level": 2
+        },
+        {
+            "skillId": 417070330,
+            "bestSkillId": 417070330,
+            "level": 3
+        },
+        {
+            "skillId": 417070410,
+            "bestSkillId": 417070430,
+            "level": 1
+        },
+        {
+            "skillId": 417070420,
+            "bestSkillId": 417070430,
+            "level": 2
+        },
+        {
+            "skillId": 417070430,
+            "bestSkillId": 417070430,
+            "level": 3
+        },
+        {
+            "skillId": 417070440,
+            "bestSkillId": 417070460,
+            "level": 1
+        },
+        {
+            "skillId": 417070450,
+            "bestSkillId": 417070460,
+            "level": 2
+        },
+        {
+            "skillId": 417070460,
+            "bestSkillId": 417070460,
+            "level": 3
+        },
+        {
+            "skillId": 417080110,
+            "bestSkillId": 417080110,
+            "level": 1
+        },
+        {
+            "skillId": 417080310,
+            "bestSkillId": 417080330,
+            "level": 1
+        },
+        {
+            "skillId": 417080320,
+            "bestSkillId": 417080330,
+            "level": 2
+        },
+        {
+            "skillId": 417080330,
+            "bestSkillId": 417080330,
+            "level": 3
+        },
+        {
+            "skillId": 417080410,
+            "bestSkillId": 417080430,
+            "level": 1
+        },
+        {
+            "skillId": 417080420,
+            "bestSkillId": 417080430,
+            "level": 2
+        },
+        {
+            "skillId": 417080430,
+            "bestSkillId": 417080430,
+            "level": 3
+        },
+        {
+            "skillId": 417080440,
+            "bestSkillId": 417080460,
+            "level": 1
+        },
+        {
+            "skillId": 417080450,
+            "bestSkillId": 417080460,
+            "level": 2
+        },
+        {
+            "skillId": 417080460,
+            "bestSkillId": 417080460,
             "level": 3
         },
         {

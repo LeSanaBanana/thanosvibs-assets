@@ -292,7 +292,15 @@
         416050000,
         416060000,
         416070000,
-        416080000
+        416080000,
+        417010000,
+        417020000,
+        417030000,
+        417040000,
+        417050000,
+        417060000,
+        417070000,
+        417080000
     ],
     "values": [
         {
@@ -6516,6 +6524,182 @@
                 },
                 {
                     "groupId": 416080400,
+                    "type": 1
+                }
+            ],
+            "skillid": 0
+        },
+        {
+            "id": 417010000,
+            "options": [
+                {
+                    "groupId": 417010100,
+                    "type": 1
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                }
+            ],
+            "skillid": 0
+        },
+        {
+            "id": 417020000,
+            "options": [
+                {
+                    "groupId": 417020100,
+                    "type": 1
+                },
+                {
+                    "groupId": 417020200,
+                    "type": 1
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                }
+            ],
+            "skillid": 0
+        },
+        {
+            "id": 417030000,
+            "options": [
+                {
+                    "groupId": 417030100,
+                    "type": 1
+                },
+                {
+                    "groupId": 417030200,
+                    "type": 1
+                },
+                {
+                    "groupId": 417030300,
+                    "type": 1
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                }
+            ],
+            "skillid": 0
+        },
+        {
+            "id": 417040000,
+            "options": [
+                {
+                    "groupId": 417040100,
+                    "type": 1
+                },
+                {
+                    "groupId": 417040200,
+                    "type": 1
+                },
+                {
+                    "groupId": 417040300,
+                    "type": 1
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                }
+            ],
+            "skillid": 0
+        },
+        {
+            "id": 417050000,
+            "options": [
+                {
+                    "groupId": 417050100,
+                    "type": 1
+                },
+                {
+                    "groupId": 417050200,
+                    "type": 1
+                },
+                {
+                    "groupId": 417050300,
+                    "type": 1
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                }
+            ],
+            "skillid": 0
+        },
+        {
+            "id": 417060000,
+            "options": [
+                {
+                    "groupId": 417060100,
+                    "type": 1
+                },
+                {
+                    "groupId": 417060200,
+                    "type": 1
+                },
+                {
+                    "groupId": 417060300,
+                    "type": 1
+                },
+                {
+                    "groupId": 0,
+                    "type": 0
+                }
+            ],
+            "skillid": 0
+        },
+        {
+            "id": 417070000,
+            "options": [
+                {
+                    "groupId": 417070100,
+                    "type": 1
+                },
+                {
+                    "groupId": 417070200,
+                    "type": 1
+                },
+                {
+                    "groupId": 417070300,
+                    "type": 1
+                },
+                {
+                    "groupId": 417070400,
+                    "type": 1
+                }
+            ],
+            "skillid": 0
+        },
+        {
+            "id": 417080000,
+            "options": [
+                {
+                    "groupId": 417080100,
+                    "type": 1
+                },
+                {
+                    "groupId": 417080200,
+                    "type": 1
+                },
+                {
+                    "groupId": 417080300,
+                    "type": 1
+                },
+                {
+                    "groupId": 417080400,
                     "type": 1
                 }
             ],

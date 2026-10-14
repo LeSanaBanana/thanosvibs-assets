@@ -31,7 +31,8 @@
         19,
         20,
         21,
-        22
+        22,
+        23
     ],
     "values": [
         {
@@ -3729,9 +3730,178 @@
             "rewardType": 100,
             "rewardValue": 3914,
             "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 1,
+            "bingoBoxIds": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 2,
+            "bingoBoxIds": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 3,
+            "bingoBoxIds": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 15
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 4,
+            "bingoBoxIds": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 5,
+            "bingoBoxIds": [
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 9821,
+            "rewardQty": 50
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 6,
+            "bingoBoxIds": [
+                1,
+                6,
+                11,
+                16,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330002,
+            "rewardQty": 50
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 7,
+            "bingoBoxIds": [
+                2,
+                7,
+                12,
+                17,
+                22
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140002,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 8,
+            "bingoBoxIds": [
+                3,
+                8,
+                13,
+                18,
+                23
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140003,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 9,
+            "bingoBoxIds": [
+                4,
+                9,
+                14,
+                19,
+                24
+            ],
+            "rewardType": 100,
+            "rewardValue": 1140001,
+            "rewardQty": 15
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 10,
+            "bingoBoxIds": [
+                5,
+                10,
+                15,
+                20,
+                25
+            ],
+            "rewardType": 307,
+            "rewardValue": 2258,
+            "rewardQty": 1
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 11,
+            "bingoBoxIds": [
+                1,
+                7,
+                13,
+                19,
+                25
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330001,
+            "rewardQty": 30
+        },
+        {
+            "bingoGroupId": 23,
+            "bingoLineId": 12,
+            "bingoBoxIds": [
+                5,
+                9,
+                13,
+                17,
+                21
+            ],
+            "rewardType": 100,
+            "rewardValue": 1330003,
+            "rewardQty": 40
         }
     ],
     "counts": [
+        12,
         12,
         12,
         12,

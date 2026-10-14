@@ -560,6 +560,7 @@
         598,
         599,
         600,
+        601,
         3251,
         3252,
         3253,
@@ -20246,6 +20247,41 @@
         },
         {
             "paramType": [
+                2,
+                2,
+                2
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 3,
+            "category": 1,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 7,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": -1211466941,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
                 1,
                 2,
                 1
@@ -22351,8 +22387,8 @@
                 0
             ],
             "paramFormat": [
-                3,
-                3,
+                0,
+                0,
                 0
             ],
             "mask": 296,

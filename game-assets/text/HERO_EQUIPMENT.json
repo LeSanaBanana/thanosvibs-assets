@@ -1169,7 +1169,11 @@
         102930100,
         102930200,
         102930300,
-        102930400
+        102930400,
+        102940100,
+        102940200,
+        102940300,
+        102940400
     ],
     "values": [
         {
@@ -223615,6 +223619,146 @@
             "unlockURUSlot": 5
         },
         {
+            "id": 100840126,
+            "heroGroupId": 84,
+            "equipType": 1,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 30000,
+            "equipItemId": 100840126,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 18
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840127,
+            "heroGroupId": 84,
+            "equipType": 1,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 30000,
+            "equipItemId": 100840127,
+            "optionGroup": 2012700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840128,
+            "heroGroupId": 84,
+            "equipType": 1,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 30000,
+            "equipItemId": 100840128,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840129,
+            "heroGroupId": 84,
+            "equipType": 1,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 30000,
+            "equipItemId": 100840129,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840130,
+            "heroGroupId": 84,
+            "equipType": 1,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 30000,
+            "equipItemId": 100840130,
+            "optionGroup": 2013000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 23
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 50000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
             "id": 100840200,
             "heroGroupId": 84,
             "equipType": 2,
@@ -224204,6 +224348,146 @@
                 }
             ],
             "optionChangePrice": 30000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840226,
+            "heroGroupId": 84,
+            "equipType": 2,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840226,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840227,
+            "heroGroupId": 84,
+            "equipType": 2,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840227,
+            "optionGroup": 2022700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840228,
+            "heroGroupId": 84,
+            "equipType": 2,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840228,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840229,
+            "heroGroupId": 84,
+            "equipType": 2,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840229,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 25
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 16
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840230,
+            "heroGroupId": 84,
+            "equipType": 2,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840230,
+            "optionGroup": 2023000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 25
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 16
+                }
+            ],
+            "optionChangePrice": 50000,
             "rankUpCashPrice": 0,
             "autoLevelUp": 0,
             "unlockURUSlot": 5
@@ -224803,6 +225087,146 @@
             "unlockURUSlot": 5
         },
         {
+            "id": 100840326,
+            "heroGroupId": 84,
+            "equipType": 3,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840326,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840327,
+            "heroGroupId": 84,
+            "equipType": 3,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840327,
+            "optionGroup": 2032700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 18
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840328,
+            "heroGroupId": 84,
+            "equipType": 3,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840328,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 19
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840329,
+            "heroGroupId": 84,
+            "equipType": 3,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840329,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 21
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840330,
+            "heroGroupId": 84,
+            "equipType": 3,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 15000,
+            "equipItemId": 100840330,
+            "optionGroup": 2033000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 21
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 50000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
             "id": 100840400,
             "heroGroupId": 84,
             "equipType": 4,
@@ -225392,6 +225816,146 @@
                 }
             ],
             "optionChangePrice": 30000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840426,
+            "heroGroupId": 84,
+            "equipType": 4,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 22500,
+            "equipItemId": 100840426,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 14
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 9
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840427,
+            "heroGroupId": 84,
+            "equipType": 4,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 22500,
+            "equipItemId": 100840427,
+            "optionGroup": 2042700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 10
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840428,
+            "heroGroupId": 84,
+            "equipType": 4,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 22500,
+            "equipItemId": 100840428,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 10
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840429,
+            "heroGroupId": 84,
+            "equipType": 4,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 22500,
+            "equipItemId": 100840429,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 100840430,
+            "heroGroupId": 84,
+            "equipType": 4,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 22500,
+            "equipItemId": 100840430,
+            "optionGroup": 2043000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 50000,
             "rankUpCashPrice": 0,
             "autoLevelUp": 0,
             "unlockURUSlot": 5
@@ -459855,6 +460419,146 @@
             "unlockURUSlot": 5
         },
         {
+            "id": 101770126,
+            "heroGroupId": 177,
+            "equipType": 1,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 30000,
+            "equipItemId": 101770126,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 18
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770127,
+            "heroGroupId": 177,
+            "equipType": 1,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 30000,
+            "equipItemId": 101770127,
+            "optionGroup": 2012700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770128,
+            "heroGroupId": 177,
+            "equipType": 1,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 30000,
+            "equipItemId": 101770128,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770129,
+            "heroGroupId": 177,
+            "equipType": 1,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 30000,
+            "equipItemId": 101770129,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770130,
+            "heroGroupId": 177,
+            "equipType": 1,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 30000,
+            "equipItemId": 101770130,
+            "optionGroup": 2013000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 23
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 50000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
             "id": 101770200,
             "heroGroupId": 177,
             "equipType": 2,
@@ -460444,6 +461148,146 @@
                 }
             ],
             "optionChangePrice": 30000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770226,
+            "heroGroupId": 177,
+            "equipType": 2,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770226,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770227,
+            "heroGroupId": 177,
+            "equipType": 2,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770227,
+            "optionGroup": 2022700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770228,
+            "heroGroupId": 177,
+            "equipType": 2,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770228,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770229,
+            "heroGroupId": 177,
+            "equipType": 2,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770229,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 25
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 16
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770230,
+            "heroGroupId": 177,
+            "equipType": 2,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770230,
+            "optionGroup": 2023000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 25
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 16
+                }
+            ],
+            "optionChangePrice": 50000,
             "rankUpCashPrice": 0,
             "autoLevelUp": 0,
             "unlockURUSlot": 5
@@ -461043,6 +461887,146 @@
             "unlockURUSlot": 5
         },
         {
+            "id": 101770326,
+            "heroGroupId": 177,
+            "equipType": 3,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770326,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770327,
+            "heroGroupId": 177,
+            "equipType": 3,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770327,
+            "optionGroup": 2032700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 18
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770328,
+            "heroGroupId": 177,
+            "equipType": 3,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770328,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 19
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770329,
+            "heroGroupId": 177,
+            "equipType": 3,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770329,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 21
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770330,
+            "heroGroupId": 177,
+            "equipType": 3,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 15000,
+            "equipItemId": 101770330,
+            "optionGroup": 2033000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 21
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 50000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
             "id": 101770400,
             "heroGroupId": 177,
             "equipType": 4,
@@ -461632,6 +462616,146 @@
                 }
             ],
             "optionChangePrice": 30000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770426,
+            "heroGroupId": 177,
+            "equipType": 4,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 22500,
+            "equipItemId": 101770426,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 14
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 9
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770427,
+            "heroGroupId": 177,
+            "equipType": 4,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 22500,
+            "equipItemId": 101770427,
+            "optionGroup": 2042700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 10
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770428,
+            "heroGroupId": 177,
+            "equipType": 4,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 22500,
+            "equipItemId": 101770428,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 10
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770429,
+            "heroGroupId": 177,
+            "equipType": 4,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 22500,
+            "equipItemId": 101770429,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 101770430,
+            "heroGroupId": 177,
+            "equipType": 4,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 22500,
+            "equipItemId": 101770430,
+            "optionGroup": 2043000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 50000,
             "rankUpCashPrice": 0,
             "autoLevelUp": 0,
             "unlockURUSlot": 5
@@ -762451,6 +763575,2942 @@
             "rankUpCashPrice": 0,
             "autoLevelUp": 0,
             "unlockURUSlot": 5
+        },
+        {
+            "id": 102940100,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 0,
+            "equipLevel": 0,
+            "rankUpPrice": 0,
+            "equipItemId": 102940100,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940101,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 1,
+            "equipLevel": 2,
+            "rankUpPrice": 0,
+            "equipItemId": 102940101,
+            "optionGroup": 2010100,
+            "listMaterial": [],
+            "optionChangePrice": 1000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940102,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 2,
+            "equipLevel": 4,
+            "rankUpPrice": 0,
+            "equipItemId": 102940102,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940103,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 3,
+            "equipLevel": 6,
+            "rankUpPrice": 0,
+            "equipItemId": 102940103,
+            "optionGroup": 2010300,
+            "listMaterial": [],
+            "optionChangePrice": 2000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940104,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 4,
+            "equipLevel": 8,
+            "rankUpPrice": 0,
+            "equipItemId": 102940104,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940105,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 5,
+            "equipLevel": 10,
+            "rankUpPrice": 0,
+            "equipItemId": 102940105,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940106,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 6,
+            "equipLevel": 14,
+            "rankUpPrice": 4100,
+            "equipItemId": 102940106,
+            "optionGroup": 2010600,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                }
+            ],
+            "optionChangePrice": 3000,
+            "rankUpCashPrice": 60,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940107,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 7,
+            "equipLevel": 18,
+            "rankUpPrice": 6800,
+            "equipItemId": 102940107,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 5
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 70,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940108,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 8,
+            "equipLevel": 22,
+            "rankUpPrice": 9500,
+            "equipItemId": 102940108,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 10
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 80,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940109,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 9,
+            "equipLevel": 26,
+            "rankUpPrice": 12200,
+            "equipItemId": 102940109,
+            "optionGroup": 2010900,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 4000,
+            "rankUpCashPrice": 90,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940110,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 10,
+            "equipLevel": 30,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940110,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 100,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940111,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 11,
+            "equipLevel": 34,
+            "rankUpPrice": 17700,
+            "equipItemId": 102940111,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 25
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 110,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940112,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 12,
+            "equipLevel": 38,
+            "rankUpPrice": 20400,
+            "equipItemId": 102940112,
+            "optionGroup": 2011200,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 37
+                }
+            ],
+            "optionChangePrice": 5000,
+            "rankUpCashPrice": 110,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940113,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 13,
+            "equipLevel": 42,
+            "rankUpPrice": 27100,
+            "equipItemId": 102940113,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 30
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 50
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 120,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940114,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 14,
+            "equipLevel": 46,
+            "rankUpPrice": 33900,
+            "equipItemId": 102940114,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 40
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 62
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 130,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940115,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 15,
+            "equipLevel": 50,
+            "rankUpPrice": 40700,
+            "equipItemId": 102940115,
+            "optionGroup": 2011500,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 50
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 75
+                }
+            ],
+            "optionChangePrice": 6000,
+            "rankUpCashPrice": 140,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940116,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 16,
+            "equipLevel": 52,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940116,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 20,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940117,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 17,
+            "equipLevel": 54,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940117,
+            "optionGroup": 2011700,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 10000,
+            "rankUpCashPrice": 20,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940118,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 18,
+            "equipLevel": 56,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940118,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 30,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940119,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 19,
+            "equipLevel": 58,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940119,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 30,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940120,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 20,
+            "equipLevel": 60,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940120,
+            "optionGroup": 2012000,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 15000,
+            "rankUpCashPrice": 50,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940121,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 21,
+            "equipLevel": 62,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940121,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 10
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 2
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940122,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 22,
+            "equipLevel": 64,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940122,
+            "optionGroup": 2012200,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 10
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 3
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 3
+                }
+            ],
+            "optionChangePrice": 20000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940123,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 23,
+            "equipLevel": 66,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940123,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 10
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 4
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 4
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940124,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 24,
+            "equipLevel": 68,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940124,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 12
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 5
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940125,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 25,
+            "equipLevel": 70,
+            "rankUpPrice": 20000,
+            "equipItemId": 102940125,
+            "optionGroup": 2012500,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 14
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 6
+                }
+            ],
+            "optionChangePrice": 30000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940126,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 30000,
+            "equipItemId": 102940126,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 18
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940127,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 30000,
+            "equipItemId": 102940127,
+            "optionGroup": 2012700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940128,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 30000,
+            "equipItemId": 102940128,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940129,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 30000,
+            "equipItemId": 102940129,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940130,
+            "heroGroupId": 294,
+            "equipType": 1,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 30000,
+            "equipItemId": 102940130,
+            "optionGroup": 2013000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 23
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 50000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940200,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 0,
+            "equipLevel": 0,
+            "rankUpPrice": 0,
+            "equipItemId": 102940200,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940201,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 1,
+            "equipLevel": 2,
+            "rankUpPrice": 0,
+            "equipItemId": 102940201,
+            "optionGroup": 2020100,
+            "listMaterial": [],
+            "optionChangePrice": 1000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940202,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 2,
+            "equipLevel": 4,
+            "rankUpPrice": 0,
+            "equipItemId": 102940202,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940203,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 3,
+            "equipLevel": 6,
+            "rankUpPrice": 0,
+            "equipItemId": 102940203,
+            "optionGroup": 2020300,
+            "listMaterial": [],
+            "optionChangePrice": 2000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940204,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 4,
+            "equipLevel": 8,
+            "rankUpPrice": 0,
+            "equipItemId": 102940204,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940205,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 5,
+            "equipLevel": 10,
+            "rankUpPrice": 0,
+            "equipItemId": 102940205,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940206,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 6,
+            "equipLevel": 14,
+            "rankUpPrice": 3200,
+            "equipItemId": 102940206,
+            "optionGroup": 2020600,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                }
+            ],
+            "optionChangePrice": 3000,
+            "rankUpCashPrice": 60,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940207,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 7,
+            "equipLevel": 18,
+            "rankUpPrice": 5300,
+            "equipItemId": 102940207,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 3
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 70,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940208,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 8,
+            "equipLevel": 22,
+            "rankUpPrice": 7300,
+            "equipItemId": 102940208,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 7
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 80,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940209,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 9,
+            "equipLevel": 26,
+            "rankUpPrice": 9400,
+            "equipItemId": 102940209,
+            "optionGroup": 2020900,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 10
+                }
+            ],
+            "optionChangePrice": 4000,
+            "rankUpCashPrice": 90,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940210,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 10,
+            "equipLevel": 30,
+            "rankUpPrice": 11500,
+            "equipItemId": 102940210,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 12
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 100,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940211,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 11,
+            "equipLevel": 34,
+            "rankUpPrice": 13600,
+            "equipItemId": 102940211,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 25
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 110,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940212,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 12,
+            "equipLevel": 38,
+            "rankUpPrice": 15700,
+            "equipItemId": 102940212,
+            "optionGroup": 2021200,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 37
+                }
+            ],
+            "optionChangePrice": 5000,
+            "rankUpCashPrice": 110,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940213,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 13,
+            "equipLevel": 42,
+            "rankUpPrice": 20900,
+            "equipItemId": 102940213,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 50
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 120,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940214,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 14,
+            "equipLevel": 46,
+            "rankUpPrice": 26100,
+            "equipItemId": 102940214,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 30
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 62
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 130,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940215,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 15,
+            "equipLevel": 50,
+            "rankUpPrice": 31300,
+            "equipItemId": 102940215,
+            "optionGroup": 2021500,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 40
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 75
+                }
+            ],
+            "optionChangePrice": 6000,
+            "rankUpCashPrice": 140,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940216,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 16,
+            "equipLevel": 52,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940216,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 20,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940217,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 17,
+            "equipLevel": 54,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940217,
+            "optionGroup": 2021700,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 10000,
+            "rankUpCashPrice": 20,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940218,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 18,
+            "equipLevel": 56,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940218,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 30,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940219,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 19,
+            "equipLevel": 58,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940219,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 30,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940220,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 20,
+            "equipLevel": 60,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940220,
+            "optionGroup": 2022000,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 15000,
+            "rankUpCashPrice": 50,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940221,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 21,
+            "equipLevel": 62,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940221,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 2
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940222,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 22,
+            "equipLevel": 64,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940222,
+            "optionGroup": 2022200,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 3
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 3
+                }
+            ],
+            "optionChangePrice": 20000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940223,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 23,
+            "equipLevel": 66,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940223,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 4
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 4
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940224,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 24,
+            "equipLevel": 68,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940224,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 9
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 5
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940225,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 25,
+            "equipLevel": 70,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940225,
+            "optionGroup": 2022500,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 10
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 6
+                }
+            ],
+            "optionChangePrice": 30000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940226,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940226,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 13
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940227,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940227,
+            "optionGroup": 2022700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940228,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940228,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 22
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 15
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940229,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940229,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 25
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 16
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940230,
+            "heroGroupId": 294,
+            "equipType": 2,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940230,
+            "optionGroup": 2023000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 8
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 25
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 16
+                }
+            ],
+            "optionChangePrice": 50000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940300,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 0,
+            "equipLevel": 0,
+            "rankUpPrice": 0,
+            "equipItemId": 102940300,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940301,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 1,
+            "equipLevel": 2,
+            "rankUpPrice": 0,
+            "equipItemId": 102940301,
+            "optionGroup": 2030100,
+            "listMaterial": [],
+            "optionChangePrice": 1000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940302,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 2,
+            "equipLevel": 4,
+            "rankUpPrice": 0,
+            "equipItemId": 102940302,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940303,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 3,
+            "equipLevel": 6,
+            "rankUpPrice": 0,
+            "equipItemId": 102940303,
+            "optionGroup": 2030300,
+            "listMaterial": [],
+            "optionChangePrice": 2000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940304,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 4,
+            "equipLevel": 8,
+            "rankUpPrice": 0,
+            "equipItemId": 102940304,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940305,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 5,
+            "equipLevel": 10,
+            "rankUpPrice": 0,
+            "equipItemId": 102940305,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940306,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 6,
+            "equipLevel": 14,
+            "rankUpPrice": 2900,
+            "equipItemId": 102940306,
+            "optionGroup": 2030600,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                }
+            ],
+            "optionChangePrice": 3000,
+            "rankUpCashPrice": 40,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940307,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 7,
+            "equipLevel": 18,
+            "rankUpPrice": 4700,
+            "equipItemId": 102940307,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 3
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 50,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940308,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 8,
+            "equipLevel": 22,
+            "rankUpPrice": 6600,
+            "equipItemId": 102940308,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 5
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 50,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940309,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 9,
+            "equipLevel": 26,
+            "rankUpPrice": 8500,
+            "equipItemId": 102940309,
+            "optionGroup": 2030900,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 7
+                }
+            ],
+            "optionChangePrice": 4000,
+            "rankUpCashPrice": 60,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940310,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 10,
+            "equipLevel": 30,
+            "rankUpPrice": 10400,
+            "equipItemId": 102940310,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 10
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 70,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940311,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 11,
+            "equipLevel": 34,
+            "rankUpPrice": 12200,
+            "equipItemId": 102940311,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 12
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 25
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 70,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940312,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 12,
+            "equipLevel": 38,
+            "rankUpPrice": 14100,
+            "equipItemId": 102940312,
+            "optionGroup": 2031200,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 37
+                }
+            ],
+            "optionChangePrice": 5000,
+            "rankUpCashPrice": 80,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940313,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 13,
+            "equipLevel": 42,
+            "rankUpPrice": 18800,
+            "equipItemId": 102940313,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 50
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 80,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940314,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 14,
+            "equipLevel": 46,
+            "rankUpPrice": 23500,
+            "equipItemId": 102940314,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 25
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 62
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 90,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940315,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 15,
+            "equipLevel": 50,
+            "rankUpPrice": 28200,
+            "equipItemId": 102940315,
+            "optionGroup": 2031500,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 35
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 75
+                }
+            ],
+            "optionChangePrice": 6000,
+            "rankUpCashPrice": 100,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940316,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 16,
+            "equipLevel": 52,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940316,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 20,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940317,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 17,
+            "equipLevel": 54,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940317,
+            "optionGroup": 2031700,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 10000,
+            "rankUpCashPrice": 20,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940318,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 18,
+            "equipLevel": 56,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940318,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 30,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940319,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 19,
+            "equipLevel": 58,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940319,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 30,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940320,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 20,
+            "equipLevel": 60,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940320,
+            "optionGroup": 2032000,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 15000,
+            "rankUpCashPrice": 50,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940321,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 21,
+            "equipLevel": 62,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940321,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 2
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940322,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 22,
+            "equipLevel": 64,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940322,
+            "optionGroup": 2032200,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 3
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 3
+                }
+            ],
+            "optionChangePrice": 20000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940323,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 23,
+            "equipLevel": 66,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940323,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 4
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 4
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940324,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 24,
+            "equipLevel": 68,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940324,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 9
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 5
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940325,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 25,
+            "equipLevel": 70,
+            "rankUpPrice": 10000,
+            "equipItemId": 102940325,
+            "optionGroup": 2032500,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 10
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 6
+                }
+            ],
+            "optionChangePrice": 30000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940326,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940326,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940327,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940327,
+            "optionGroup": 2032700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 18
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940328,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940328,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 19
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940329,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940329,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 21
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940330,
+            "heroGroupId": 294,
+            "equipType": 3,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940330,
+            "optionGroup": 2033000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 7
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 21
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 14
+                }
+            ],
+            "optionChangePrice": 50000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940400,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 0,
+            "equipLevel": 0,
+            "rankUpPrice": 0,
+            "equipItemId": 102940400,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940401,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 1,
+            "equipLevel": 2,
+            "rankUpPrice": 0,
+            "equipItemId": 102940401,
+            "optionGroup": 2040100,
+            "listMaterial": [],
+            "optionChangePrice": 1000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940402,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 2,
+            "equipLevel": 4,
+            "rankUpPrice": 0,
+            "equipItemId": 102940402,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940403,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 3,
+            "equipLevel": 6,
+            "rankUpPrice": 0,
+            "equipItemId": 102940403,
+            "optionGroup": 2040300,
+            "listMaterial": [],
+            "optionChangePrice": 2000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940404,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 4,
+            "equipLevel": 8,
+            "rankUpPrice": 0,
+            "equipItemId": 102940404,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940405,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 5,
+            "equipLevel": 10,
+            "rankUpPrice": 0,
+            "equipItemId": 102940405,
+            "optionGroup": 0,
+            "listMaterial": [],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 1,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940406,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 6,
+            "equipLevel": 14,
+            "rankUpPrice": 2600,
+            "equipItemId": 102940406,
+            "optionGroup": 2040600,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                }
+            ],
+            "optionChangePrice": 3000,
+            "rankUpCashPrice": 40,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940407,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 7,
+            "equipLevel": 18,
+            "rankUpPrice": 4200,
+            "equipItemId": 102940407,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 4
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 50,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 0
+        },
+        {
+            "id": 102940408,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 8,
+            "equipLevel": 22,
+            "rankUpPrice": 5900,
+            "equipItemId": 102940408,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 9
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 50,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940409,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 9,
+            "equipLevel": 26,
+            "rankUpPrice": 7600,
+            "equipItemId": 102940409,
+            "optionGroup": 2040900,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 4000,
+            "rankUpCashPrice": 60,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940410,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 10,
+            "equipLevel": 30,
+            "rankUpPrice": 9200,
+            "equipItemId": 102940410,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 12
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 70,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940411,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 11,
+            "equipLevel": 34,
+            "rankUpPrice": 10900,
+            "equipItemId": 102940411,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 25
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 70,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 2
+        },
+        {
+            "id": 102940412,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 12,
+            "equipLevel": 38,
+            "rankUpPrice": 12600,
+            "equipItemId": 102940412,
+            "optionGroup": 2041200,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 20
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 37
+                }
+            ],
+            "optionChangePrice": 5000,
+            "rankUpCashPrice": 80,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940413,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 13,
+            "equipLevel": 42,
+            "rankUpPrice": 16700,
+            "equipItemId": 102940413,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 27
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 50
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 80,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940414,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 14,
+            "equipLevel": 46,
+            "rankUpPrice": 20900,
+            "equipItemId": 102940414,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 35
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 62
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 90,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940415,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 15,
+            "equipLevel": 50,
+            "rankUpPrice": 25100,
+            "equipItemId": 102940415,
+            "optionGroup": 2041500,
+            "listMaterial": [
+                {
+                    "itemId": 10199001,
+                    "quantity": 45
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 75
+                }
+            ],
+            "optionChangePrice": 6000,
+            "rankUpCashPrice": 100,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 3
+        },
+        {
+            "id": 102940416,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 16,
+            "equipLevel": 52,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940416,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 20,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940417,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 17,
+            "equipLevel": 54,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940417,
+            "optionGroup": 2041700,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 10000,
+            "rankUpCashPrice": 20,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940418,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 18,
+            "equipLevel": 56,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940418,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 30,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940419,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 19,
+            "equipLevel": 58,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940419,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 30,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 4
+        },
+        {
+            "id": 102940420,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 20,
+            "equipLevel": 60,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940420,
+            "optionGroup": 2042000,
+            "listMaterial": [
+                {
+                    "itemId": 1000294,
+                    "quantity": 1
+                },
+                {
+                    "itemId": 10199001,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 10199002,
+                    "quantity": 1
+                }
+            ],
+            "optionChangePrice": 15000,
+            "rankUpCashPrice": 50,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940421,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 21,
+            "equipLevel": 62,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940421,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 9
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 2
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 2
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940422,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 22,
+            "equipLevel": 64,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940422,
+            "optionGroup": 2042200,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 9
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 3
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 3
+                }
+            ],
+            "optionChangePrice": 20000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940423,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 23,
+            "equipLevel": 66,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940423,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 9
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 4
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 4
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940424,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 24,
+            "equipLevel": 68,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940424,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 10
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 5
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940425,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 25,
+            "equipLevel": 70,
+            "rankUpPrice": 15000,
+            "equipItemId": 102940425,
+            "optionGroup": 2042500,
+            "listMaterial": [
+                {
+                    "itemId": 1070001,
+                    "quantity": 12
+                },
+                {
+                    "itemId": 1140002,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1140003,
+                    "quantity": 6
+                }
+            ],
+            "optionChangePrice": 30000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940426,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 26,
+            "equipLevel": 72,
+            "rankUpPrice": 22500,
+            "equipItemId": 102940426,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 14
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 9
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940427,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 27,
+            "equipLevel": 74,
+            "rankUpPrice": 22500,
+            "equipItemId": 102940427,
+            "optionGroup": 2042700,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 10
+                }
+            ],
+            "optionChangePrice": 40000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940428,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 28,
+            "equipLevel": 76,
+            "rankUpPrice": 22500,
+            "equipItemId": 102940428,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 5
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 15
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 10
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940429,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 29,
+            "equipLevel": 78,
+            "rankUpPrice": 22500,
+            "equipItemId": 102940429,
+            "optionGroup": 0,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 0,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
+        },
+        {
+            "id": 102940430,
+            "heroGroupId": 294,
+            "equipType": 4,
+            "equipRank": 30,
+            "equipLevel": 80,
+            "rankUpPrice": 22500,
+            "equipItemId": 102940430,
+            "optionGroup": 2043000,
+            "listMaterial": [
+                {
+                    "itemId": 1140001,
+                    "quantity": 6
+                },
+                {
+                    "itemId": 1330002,
+                    "quantity": 17
+                },
+                {
+                    "itemId": 1330003,
+                    "quantity": 11
+                }
+            ],
+            "optionChangePrice": 50000,
+            "rankUpCashPrice": 0,
+            "autoLevelUp": 0,
+            "unlockURUSlot": 5
         }
     ],
     "counts": [
@@ -762786,10 +766846,10 @@
         26,
         26,
         26,
-        26,
-        26,
-        26,
-        26,
+        31,
+        31,
+        31,
+        31,
         26,
         26,
         26,
@@ -763146,10 +767206,9 @@
         31,
         31,
         31,
-        26,
-        26,
-        26,
-        26,
+        31,
+        31,
+        31,
         31,
         31,
         31,
@@ -763174,6 +767233,7 @@
         31,
         31,
         31,
+        31,
         26,
         26,
         26,
@@ -763606,6 +767666,10 @@
         26,
         26,
         26,
+        31,
+        31,
+        31,
+        31,
         31,
         31,
         31,
