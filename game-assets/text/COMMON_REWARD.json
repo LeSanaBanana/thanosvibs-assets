@@ -191,6 +191,8 @@
         70019,
         70020,
         70021,
+        70022,
+        70023,
         80001,
         80002,
         80003,
@@ -3549,6 +3551,22 @@
             "RewardQty": 1
         },
         {
+            "GroupId": 70022,
+            "Tag": 0,
+            "Highlight": 0,
+            "RewardType": 100,
+            "RewardValue": 506029401,
+            "RewardQty": 1
+        },
+        {
+            "GroupId": 70023,
+            "Tag": 0,
+            "Highlight": 0,
+            "RewardType": 100,
+            "RewardValue": 506011601,
+            "RewardQty": 1
+        },
+        {
             "GroupId": 80001,
             "Tag": 0,
             "Highlight": 0,
@@ -3609,7 +3627,7 @@
             "Tag": 0,
             "Highlight": 1,
             "RewardType": 300,
-            "RewardValue": 13833,
+            "RewardValue": 13981,
             "RewardQty": 1
         },
         {
@@ -3673,7 +3691,7 @@
             "Tag": 0,
             "Highlight": 0,
             "RewardType": 300,
-            "RewardValue": 13833,
+            "RewardValue": 13981,
             "RewardQty": 1
         },
         {
@@ -11150,6 +11168,8 @@
         3,
         3,
         3,
+        1,
+        1,
         1,
         1,
         1,

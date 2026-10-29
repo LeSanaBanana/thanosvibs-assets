@@ -97,7 +97,8 @@
         78010,
         79010,
         80010,
-        81010
+        81010,
+        82010
     ],
     "values": [
         {
@@ -3429,6 +3430,45 @@
                 {
                     "conditionType": 1,
                     "conditionValue": 1029346
+                }
+            ]
+        },
+        {
+            "id": 82011,
+            "themeId": 82,
+            "groupId": 82010,
+            "rewardType": 100,
+            "rewardValue": 9831,
+            "rewardQty": 300,
+            "logoPath": "0",
+            "hasSubMenu": 0,
+            "uniformIdList": [
+                10160084,
+                10260177,
+                10260116,
+                10160097,
+                1029446
+            ],
+            "conditionList": [
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160084
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260177
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10260116
+                },
+                {
+                    "conditionType": 0,
+                    "conditionValue": 10160097
+                },
+                {
+                    "conditionType": 1,
+                    "conditionValue": 1029446
                 }
             ]
         }

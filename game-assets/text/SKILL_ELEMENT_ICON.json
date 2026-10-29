@@ -2440,6 +2440,13 @@
         1009770,
         1009790,
         1009708,
+        1009712,
+        1009715,
+        1009718,
+        1009710,
+        1009722,
+        1009725,
+        1009711,
         1009801,
         1009802,
         1009803,
@@ -2686,6 +2693,13 @@
         1011617,
         1011622,
         1011627,
+        1011632,
+        1011636,
+        1011640,
+        1011649,
+        1011643,
+        1011646,
+        1011653,
         1011701,
         1011702,
         1011703,
@@ -22505,6 +22519,55 @@
             "targetoff": 0
         },
         {
+            "skillid": 1009712,
+            "attacktype": 2,
+            "skillelement": 0,
+            "guardbreak": 2,
+            "targetoff": 1
+        },
+        {
+            "skillid": 1009715,
+            "attacktype": 2,
+            "skillelement": 0,
+            "guardbreak": 0,
+            "targetoff": 0
+        },
+        {
+            "skillid": 1009718,
+            "attacktype": 2,
+            "skillelement": 0,
+            "guardbreak": 2,
+            "targetoff": 2
+        },
+        {
+            "skillid": 1009710,
+            "attacktype": 0,
+            "skillelement": 0,
+            "guardbreak": 0,
+            "targetoff": 0
+        },
+        {
+            "skillid": 1009722,
+            "attacktype": 2,
+            "skillelement": 0,
+            "guardbreak": 0,
+            "targetoff": 0
+        },
+        {
+            "skillid": 1009725,
+            "attacktype": 2,
+            "skillelement": 0,
+            "guardbreak": 2,
+            "targetoff": 1
+        },
+        {
+            "skillid": 1009711,
+            "attacktype": 0,
+            "skillelement": 0,
+            "guardbreak": 0,
+            "targetoff": 0
+        },
+        {
             "skillid": 1009801,
             "attacktype": 1,
             "skillelement": 0,
@@ -24225,6 +24288,55 @@
             "skillelement": 1,
             "guardbreak": 2,
             "targetoff": 2
+        },
+        {
+            "skillid": 1011632,
+            "attacktype": 2,
+            "skillelement": 1,
+            "guardbreak": 0,
+            "targetoff": 0
+        },
+        {
+            "skillid": 1011636,
+            "attacktype": 2,
+            "skillelement": 1,
+            "guardbreak": 1,
+            "targetoff": 1
+        },
+        {
+            "skillid": 1011640,
+            "attacktype": 2,
+            "skillelement": 1,
+            "guardbreak": 0,
+            "targetoff": 2
+        },
+        {
+            "skillid": 1011649,
+            "attacktype": 0,
+            "skillelement": 0,
+            "guardbreak": 0,
+            "targetoff": 0
+        },
+        {
+            "skillid": 1011643,
+            "attacktype": 2,
+            "skillelement": 1,
+            "guardbreak": 2,
+            "targetoff": 2
+        },
+        {
+            "skillid": 1011646,
+            "attacktype": 2,
+            "skillelement": 1,
+            "guardbreak": 1,
+            "targetoff": 1
+        },
+        {
+            "skillid": 1011653,
+            "attacktype": 0,
+            "skillelement": 0,
+            "guardbreak": 0,
+            "targetoff": 0
         },
         {
             "skillid": 1011701,
