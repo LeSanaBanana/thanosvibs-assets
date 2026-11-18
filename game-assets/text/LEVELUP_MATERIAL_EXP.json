@@ -18,6 +18,7 @@
         6,
         7,
         8,
+        10,
         12,
         13
     ],
@@ -203,6 +204,42 @@
             "awakening3rdMaterialExp": 31451
         },
         {
+            "growType": 10,
+            "materialId": 1140001,
+            "bonusYN": 1,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 591360,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 10,
+            "materialId": 1110001,
+            "bonusYN": 1,
+            "materialExp": 10880,
+            "awakeningMaterialExp": 32620,
+            "awakening2ndMaterialExp": 59136,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 10,
+            "materialId": 1120001,
+            "bonusYN": 1,
+            "materialExp": 10880,
+            "awakeningMaterialExp": 32620,
+            "awakening2ndMaterialExp": 59136,
+            "awakening3rdMaterialExp": 0
+        },
+        {
+            "growType": 10,
+            "materialId": 9982,
+            "bonusYN": 0,
+            "materialExp": 0,
+            "awakeningMaterialExp": 0,
+            "awakening2ndMaterialExp": 0,
+            "awakening3rdMaterialExp": 31451
+        },
+        {
             "growType": 12,
             "materialId": 9982,
             "bonusYN": 0,
@@ -248,6 +285,7 @@
         1,
         2,
         8,
+        4,
         1,
         3
     ]

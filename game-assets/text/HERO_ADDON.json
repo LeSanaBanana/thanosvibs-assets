@@ -143,7 +143,10 @@
         84,
         177,
         116,
-        97
+        97,
+        295,
+        296,
+        297
     ],
     "values": [
         {
@@ -2155,6 +2158,51 @@
             ],
             "CostGold": 1000000,
             "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 295,
+            "MaterialIds": [
+                1070001,
+                1020005,
+                9832
+            ],
+            "MaterialQtys": [
+                2000,
+                1000,
+                200
+            ],
+            "CostGold": 2000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 296,
+            "MaterialIds": [
+                1070001,
+                1020001,
+                9832
+            ],
+            "MaterialQtys": [
+                1000,
+                750,
+                100
+            ],
+            "CostGold": 1000000,
+            "AddOnSkillGroupId": 4
+        },
+        {
+            "HeroGroupId": 297,
+            "MaterialIds": [
+                1140001,
+                1130002,
+                9832
+            ],
+            "MaterialQtys": [
+                1800,
+                8,
+                300
+            ],
+            "CostGold": 3000000,
+            "AddOnSkillGroupId": 2
         }
     ]
 }

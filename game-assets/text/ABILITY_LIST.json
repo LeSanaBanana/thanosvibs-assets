@@ -899,6 +899,7 @@
         11135,
         11136,
         11137,
+        11138,
         12001,
         12002,
         12003,
@@ -32063,6 +32064,41 @@
             "immuneOption": 0,
             "abilityKind": 0,
             "category": 0,
+            "battleUIType": 0,
+            "battleUIOrder": 0,
+            "useKeepWhenTag": 0,
+            "bubbleSpeach": 0,
+            "exception": 0,
+            "p_condition": 0,
+            "p1_addYN": 0,
+            "p2_addYN": 0,
+            "p3_addYN": 0,
+            "commonEffectKey": 0,
+            "commonEndEffectKey": 372029326
+        },
+        {
+            "paramType": [
+                1,
+                0,
+                0
+            ],
+            "paramFormat": [
+                0,
+                0,
+                0
+            ],
+            "mask": 296,
+            "stackWay": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "priority": 1,
+            "immuneOption": 0,
+            "abilityKind": 0,
+            "category": 3,
             "battleUIType": 0,
             "battleUIOrder": 0,
             "useKeepWhenTag": 0,

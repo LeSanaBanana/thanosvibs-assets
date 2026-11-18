@@ -2199,6 +2199,15 @@
         1041003826,
         1041003836,
         1041003846,
+        1051003801,
+        1051003802,
+        1051003803,
+        1051003804,
+        1051003805,
+        1051003806,
+        1051003826,
+        1051003836,
+        1051003846,
         1003901,
         1003902,
         1003903,
@@ -4087,6 +4096,14 @@
         1011011106,
         1011011126,
         1011011136,
+        1021011101,
+        1021011102,
+        1021011103,
+        1021011104,
+        1021011105,
+        1021011106,
+        1021011126,
+        1021011136,
         1011201,
         1011202,
         1011203,
@@ -7594,7 +7611,31 @@
         1029406,
         1029426,
         1029436,
-        1029446
+        1029446,
+        1029501,
+        1029502,
+        1029503,
+        1029504,
+        1029505,
+        1029506,
+        1029536,
+        1029546,
+        1029601,
+        1029602,
+        1029603,
+        1029604,
+        1029605,
+        1029606,
+        1029626,
+        1029636,
+        1029646,
+        1029701,
+        1029702,
+        1029703,
+        1029704,
+        1029705,
+        1029706,
+        1029746
     ],
     "values": [
         {
@@ -16354,6 +16395,42 @@
             "heroSkillGroupId": 4
         },
         {
+            "heroId": 1051003801,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1051003802,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1051003803,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1051003804,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1051003805,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1051003806,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1051003826,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1051003836,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1051003846,
+            "heroSkillGroupId": 3
+        },
+        {
             "heroId": 1003901,
             "heroSkillGroupId": 4
         },
@@ -23903,6 +23980,38 @@
         },
         {
             "heroId": 1011011136,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1021011101,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1021011102,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1021011103,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1021011104,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1021011105,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1021011106,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1021011126,
+            "heroSkillGroupId": 3
+        },
+        {
+            "heroId": 1021011136,
             "heroSkillGroupId": 3
         },
         {
@@ -37936,6 +38045,102 @@
         {
             "heroId": 1029446,
             "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029501,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029502,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029503,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029504,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029505,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029506,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029536,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029546,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029601,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029602,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029603,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029604,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029605,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029606,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029626,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029636,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029646,
+            "heroSkillGroupId": 5
+        },
+        {
+            "heroId": 1029701,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029702,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029703,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029704,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029705,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029706,
+            "heroSkillGroupId": 4
+        },
+        {
+            "heroId": 1029746,
+            "heroSkillGroupId": 4
         }
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 263409438486933765
+    },
+    "m_Name": "EVENT_EXPLORE",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "exploreGroupId": 1,
+            "cycleGroupId": 1,
+            "stackRewardGroupId": 1,
+            "fuelItemId": 439,
+            "heroId": 1061000501,
+            "heroCamera": "{\"position\":{\"x\":-1.7,\"y\":0.86,\"z\":-6.6},\"rotation\":{\"x\":0,\"y\":16,\"z\":0},\"fov\":9}"
+        }
+    ]
+}

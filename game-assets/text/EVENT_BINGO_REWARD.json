@@ -32,7 +32,8 @@
         20,
         21,
         22,
-        23
+        23,
+        24
     ],
     "values": [
         {
@@ -826,6 +827,54 @@
             "rewardValue": 417060000,
             "rewardQty": 1,
             "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 24,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16170,
+            "rewardQty": 1,
+            "rewardOrder": 1
+        },
+        {
+            "bingoGroupId": 24,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2310,
+            "rewardQty": 1,
+            "rewardOrder": 2
+        },
+        {
+            "bingoGroupId": 24,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16171,
+            "rewardQty": 1,
+            "rewardOrder": 3
+        },
+        {
+            "bingoGroupId": 24,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2311,
+            "rewardQty": 1,
+            "rewardOrder": 4
+        },
+        {
+            "bingoGroupId": 24,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 16172,
+            "rewardQty": 1,
+            "rewardOrder": 5
+        },
+        {
+            "bingoGroupId": 24,
+            "bingoLineCount": 5,
+            "rewardType": 307,
+            "rewardValue": 2423,
+            "rewardQty": 1,
+            "rewardOrder": 6
         }
     ],
     "counts": [
@@ -851,6 +900,7 @@
         5,
         6,
         5,
-        3
+        3,
+        6
     ]
 }

@@ -72,7 +72,8 @@
         73,
         74,
         75,
-        76
+        76,
+        77
     ],
     "values": [
         {
@@ -3637,6 +3638,65 @@
             "teamBuffItemEnable": 1,
             "skillCooltimeWhenTagging": 1.0,
             "tagInterval": 15.0,
+            "playerFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "enemyFactor": [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+            ],
+            "autoAttackInterval": [
+                0.0,
+                0.0
+            ],
+            "autoSkillRate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ultimateFactor": [
+                10000,
+                0,
+                10000,
+                5,
+                10000,
+                4
+            ],
+            "counterBalanceFactorLimit": 0.05000000074505806,
+            "awakenSkillCool": 0.0,
+            "spTypeDamageBonus": 2000,
+            "ADDITIONAL_PIERCE_DAMAGE_FACTOR": 1.0,
+            "ENEMY_SKILL_COOLTIME_WHEN_TAG": 0
+        },
+        {
+            "vipHPRecoverEnable": 1,
+            "accountComicsCardEnable": 1,
+            "accountAllianceSkillEnable": 1,
+            "accountAgentLevelAbilityEnable": 1,
+            "heroISO8SkillEnable": 1,
+            "heroSpecialGearEnable": 1,
+            "heroArtifactEnable": 1,
+            "heroLeaderSkillEnable": 1,
+            "heroUniformSkillEnable": 1,
+            "heroUniformSynergyEnable": 1,
+            "heroUruEnable": 1,
+            "heroSubtypeEnable": 1,
+            "heroTeamSetBuffEnable": 1,
+            "heroCollectionEnable": 1,
+            "heroSwordEnable": 1,
+            "heroSquadCollectionEnable": 1,
+            "heroEmblemEnable": 1,
+            "heroAddOnEnable": 1,
+            "teamBuffItemEnable": 0,
+            "skillCooltimeWhenTagging": 1.0,
+            "tagInterval": 10.0,
             "playerFactor": [
                 1.0,
                 1.0,

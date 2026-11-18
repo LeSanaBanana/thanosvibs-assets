@@ -48,7 +48,11 @@
         10801,
         10802,
         10803,
-        10804
+        10804,
+        10901,
+        10902,
+        10903,
+        10904
     ],
     "values": [
         {
@@ -869,9 +873,97 @@
             "collectionImage": "epic_collection_10804",
             "partId": 1080403,
             "reqQty": 20
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10901,
+            "collectionImage": "epic_collection_10901",
+            "partId": 1090101,
+            "reqQty": 80
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10901,
+            "collectionImage": "epic_collection_10901",
+            "partId": 1090102,
+            "reqQty": 20
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10901,
+            "collectionImage": "epic_collection_10901",
+            "partId": 1090103,
+            "reqQty": 10
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10902,
+            "collectionImage": "epic_collection_10902",
+            "partId": 1090201,
+            "reqQty": 10
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10902,
+            "collectionImage": "epic_collection_10902",
+            "partId": 1090202,
+            "reqQty": 30
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10902,
+            "collectionImage": "epic_collection_10902",
+            "partId": 1090203,
+            "reqQty": 30
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10903,
+            "collectionImage": "epic_collection_10903",
+            "partId": 1090301,
+            "reqQty": 20
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10903,
+            "collectionImage": "epic_collection_10903",
+            "partId": 1090302,
+            "reqQty": 50
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10903,
+            "collectionImage": "epic_collection_10903",
+            "partId": 1090303,
+            "reqQty": 30
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10904,
+            "collectionImage": "epic_collection_10904",
+            "partId": 1090401,
+            "reqQty": 25
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10904,
+            "collectionImage": "epic_collection_10904",
+            "partId": 1090402,
+            "reqQty": 5
+        },
+        {
+            "categoryId": 9,
+            "collectionId": 10904,
+            "collectionImage": "epic_collection_10904",
+            "partId": 1090403,
+            "reqQty": 20
         }
     ],
     "counts": [
+        3,
+        3,
+        3,
+        3,
         3,
         3,
         3,

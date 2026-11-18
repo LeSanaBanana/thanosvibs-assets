@@ -1,0 +1,68 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5011414124233844326
+    },
+    "m_Name": "EVENT_EXPLORE_STACK_REWARD",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "stackRewardGroupId": 1,
+            "stackOrder": 1,
+            "requireExplore": 5,
+            "rewardGroupId": 133001
+        },
+        {
+            "stackRewardGroupId": 1,
+            "stackOrder": 2,
+            "requireExplore": 15,
+            "rewardGroupId": 133002
+        },
+        {
+            "stackRewardGroupId": 1,
+            "stackOrder": 3,
+            "requireExplore": 35,
+            "rewardGroupId": 133003
+        },
+        {
+            "stackRewardGroupId": 1,
+            "stackOrder": 4,
+            "requireExplore": 60,
+            "rewardGroupId": 133004
+        },
+        {
+            "stackRewardGroupId": 1,
+            "stackOrder": 5,
+            "requireExplore": 85,
+            "rewardGroupId": 133005
+        },
+        {
+            "stackRewardGroupId": 1,
+            "stackOrder": 6,
+            "requireExplore": 115,
+            "rewardGroupId": 133006
+        },
+        {
+            "stackRewardGroupId": 1,
+            "stackOrder": 7,
+            "requireExplore": 150,
+            "rewardGroupId": 133007
+        },
+        {
+            "stackRewardGroupId": 1,
+            "stackOrder": 8,
+            "requireExplore": 185,
+            "rewardGroupId": 133008
+        }
+    ],
+    "counts": [
+        8
+    ]
+}

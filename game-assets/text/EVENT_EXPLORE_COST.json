@@ -1,0 +1,80 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 815551211504215129
+    },
+    "m_Name": "EVENT_EXPLORE_COST",
+    "keys": [
+        1
+    ],
+    "values": [
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 1,
+            "exploreCost": 3,
+            "giveupCost": 19
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 2,
+            "exploreCost": 5,
+            "giveupCost": 17
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 3,
+            "exploreCost": 8,
+            "giveupCost": 14
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 4,
+            "exploreCost": 12,
+            "giveupCost": 9
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 5,
+            "exploreCost": 17,
+            "giveupCost": 6
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 6,
+            "exploreCost": 23,
+            "giveupCost": 4
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 7,
+            "exploreCost": 30,
+            "giveupCost": 3
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 8,
+            "exploreCost": 38,
+            "giveupCost": 2
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 9,
+            "exploreCost": 47,
+            "giveupCost": 1
+        },
+        {
+            "exploreGroupId": 1,
+            "exploreOrder": 10,
+            "exploreCost": 57,
+            "giveupCost": 0
+        }
+    ],
+    "counts": [
+        10
+    ]
+}

@@ -301,6 +301,9 @@
         292,
         293,
         294,
+        295,
+        296,
+        297,
         10000,
         20000
     ],
@@ -15805,6 +15808,17 @@
             "cooltime": 16
         },
         {
+            "activeHeroGroupId": 19,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 20,
             "targetHeroGroupId": 8,
             "autoAbilityCondition": 5,
@@ -28815,6 +28829,17 @@
                 "v2": 0.0
             },
             "autoAbilityRate": 16,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 38,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
             "cooltime": 17
         },
         {
@@ -50444,6 +50469,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 84,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 85,
             "targetHeroGroupId": 2,
             "autoAbilityCondition": 4,
@@ -50838,6 +50874,17 @@
             },
             "autoAbilityRate": 16,
             "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 85,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
         },
         {
             "activeHeroGroupId": 86,
@@ -56824,6 +56871,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 109,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 110,
             "targetHeroGroupId": 2,
             "autoAbilityCondition": 4,
@@ -57374,6 +57432,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 111,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 112,
             "targetHeroGroupId": 8,
             "autoAbilityCondition": 5,
@@ -57592,6 +57661,17 @@
             },
             "autoAbilityRate": 20,
             "cooltime": 16
+        },
+        {
+            "activeHeroGroupId": 112,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
         },
         {
             "activeHeroGroupId": 113,
@@ -58111,6 +58191,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 114,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 115,
             "targetHeroGroupId": 2,
             "autoAbilityCondition": 5,
@@ -58317,6 +58408,17 @@
                 "v2": 0.0
             },
             "autoAbilityRate": 20,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 115,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
             "cooltime": 17
         },
         {
@@ -60531,6 +60633,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 123,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 124,
             "targetHeroGroupId": 36,
             "autoAbilityCondition": 5,
@@ -61155,6 +61268,17 @@
                 "v2": 0.0
             },
             "autoAbilityRate": 16,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 124,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
             "cooltime": 17
         },
         {
@@ -62085,6 +62209,28 @@
             "activeHeroGroupId": 125,
             "targetHeroGroupId": 291,
             "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 125,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 125,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 5,
             "autoAbilityParam": {
                 "v1": 0,
                 "v2": 0.0
@@ -68220,6 +68366,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 140,
+            "targetHeroGroupId": 294,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 141,
             "targetHeroGroupId": 2,
             "autoAbilityCondition": 4,
@@ -68504,6 +68661,17 @@
             },
             "autoAbilityRate": 18,
             "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 141,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
         },
         {
             "activeHeroGroupId": 142,
@@ -69075,6 +69243,17 @@
                 "v2": 0.0
             },
             "autoAbilityRate": 16,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 142,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
             "cooltime": 17
         },
         {
@@ -73035,6 +73214,17 @@
                 "v2": 0.0
             },
             "autoAbilityRate": 16,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 154,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
             "cooltime": 17
         },
         {
@@ -82630,6 +82820,28 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 179,
+            "targetHeroGroupId": 294,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 179,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 180,
             "targetHeroGroupId": 1,
             "autoAbilityCondition": 4,
@@ -83466,6 +83678,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 180,
+            "targetHeroGroupId": 294,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 181,
             "targetHeroGroupId": 1,
             "autoAbilityCondition": 4,
@@ -84095,6 +84318,17 @@
         {
             "activeHeroGroupId": 181,
             "targetHeroGroupId": 293,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 181,
+            "targetHeroGroupId": 294,
             "autoAbilityCondition": 5,
             "autoAbilityParam": {
                 "v1": 0,
@@ -84942,6 +85176,17 @@
         {
             "activeHeroGroupId": 182,
             "targetHeroGroupId": 293,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 182,
+            "targetHeroGroupId": 294,
             "autoAbilityCondition": 5,
             "autoAbilityParam": {
                 "v1": 0,
@@ -89351,6 +89596,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 193,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 194,
             "targetHeroGroupId": 7,
             "autoAbilityCondition": 5,
@@ -92979,6 +93235,28 @@
             },
             "autoAbilityRate": 20,
             "cooltime": 16
+        },
+        {
+            "activeHeroGroupId": 202,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 16
+        },
+        {
+            "activeHeroGroupId": 202,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
         },
         {
             "activeHeroGroupId": 203,
@@ -99933,6 +100211,39 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 217,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 217,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 217,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 218,
             "targetHeroGroupId": 7,
             "autoAbilityCondition": 5,
@@ -104957,6 +105268,39 @@
                 "v2": 0.0
             },
             "autoAbilityRate": 20,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 226,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 226,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 226,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
             "cooltime": 17
         },
         {
@@ -119304,6 +119648,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 255,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 256,
             "targetHeroGroupId": 123,
             "autoAbilityCondition": 5,
@@ -119741,6 +120096,17 @@
                 "v2": 0.0
             },
             "autoAbilityRate": 22,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 256,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
             "cooltime": 17
         },
         {
@@ -121867,6 +122233,28 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 264,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 264,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
             "activeHeroGroupId": 265,
             "targetHeroGroupId": 123,
             "autoAbilityCondition": 4,
@@ -122217,6 +122605,17 @@
             },
             "autoAbilityRate": 16,
             "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 265,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 18
         },
         {
             "activeHeroGroupId": 266,
@@ -123528,6 +123927,17 @@
             "cooltime": 17
         },
         {
+            "activeHeroGroupId": 273,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 18
+        },
+        {
             "activeHeroGroupId": 274,
             "targetHeroGroupId": 7,
             "autoAbilityCondition": 5,
@@ -124383,6 +124793,17 @@
                 "v2": 0.0
             },
             "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 279,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
             "cooltime": 18
         },
         {
@@ -126364,6 +126785,413 @@
             },
             "autoAbilityRate": 20,
             "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 38,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 109,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 111,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 112,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 15,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 114,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 15,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 115,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 179,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 202,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 217,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 226,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 256,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 264,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 22,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 273,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 295,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 19,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 84,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 22,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 85,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 125,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 141,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 22,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 154,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 17,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 193,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 217,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 226,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 18,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 255,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 279,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 296,
+            "targetHeroGroupId": 297,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 123,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 17,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 124,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 125,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 142,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 21,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 202,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 217,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 20,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 226,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 264,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 22,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 265,
+            "autoAbilityCondition": 5,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 16,
+            "cooltime": 18
+        },
+        {
+            "activeHeroGroupId": 297,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 19,
+            "cooltime": 17
         },
         {
             "activeHeroGroupId": 10000,
@@ -129558,6 +130386,39 @@
         {
             "activeHeroGroupId": 10000,
             "targetHeroGroupId": 294,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 50,
+            "cooltime": 3
+        },
+        {
+            "activeHeroGroupId": 10000,
+            "targetHeroGroupId": 295,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 50,
+            "cooltime": 3
+        },
+        {
+            "activeHeroGroupId": 10000,
+            "targetHeroGroupId": 296,
+            "autoAbilityCondition": 4,
+            "autoAbilityParam": {
+                "v1": 0,
+                "v2": 0.0
+            },
+            "autoAbilityRate": 50,
+            "cooltime": 3
+        },
+        {
+            "activeHeroGroupId": 10000,
+            "targetHeroGroupId": 297,
             "autoAbilityCondition": 4,
             "autoAbilityParam": {
                 "v1": 0,
@@ -129597,7 +130458,7 @@
         64,
         63,
         62,
-        61,
+        62,
         35,
         32,
         51,
@@ -129616,7 +130477,7 @@
         63,
         62,
         84,
-        67,
+        68,
         52,
         44,
         24,
@@ -129662,8 +130523,8 @@
         33,
         59,
         30,
+        38,
         37,
-        36,
         34,
         26,
         35,
@@ -129684,13 +130545,13 @@
         28,
         24,
         21,
-        42,
+        43,
         24,
-        26,
-        20,
+        27,
+        21,
         15,
-        32,
-        19,
+        33,
+        20,
         33,
         21,
         17,
@@ -129698,9 +130559,9 @@
         20,
         23,
         11,
-        59,
-        57,
-        85,
+        60,
+        58,
+        87,
         62,
         66,
         51,
@@ -129715,9 +130576,9 @@
         19,
         17,
         59,
-        74,
-        26,
-        52,
+        75,
+        27,
+        53,
         15,
         33,
         24,
@@ -129729,7 +130590,7 @@
         54,
         53,
         41,
-        33,
+        34,
         17,
         15,
         45,
@@ -129754,10 +130615,10 @@
         35,
         26,
         38,
-        79,
-        76,
-        58,
+        81,
         77,
+        59,
+        78,
         66,
         26,
         71,
@@ -129768,7 +130629,7 @@
         36,
         36,
         42,
-        24,
+        25,
         32,
         23,
         23,
@@ -129777,7 +130638,7 @@
         48,
         15,
         47,
-        40,
+        42,
         36,
         42,
         32,
@@ -129792,7 +130653,7 @@
         46,
         44,
         46,
-        76,
+        79,
         51,
         55,
         36,
@@ -129801,7 +130662,7 @@
         40,
         48,
         65,
-        65,
+        68,
         27,
         32,
         52,
@@ -129830,8 +130691,8 @@
         37,
         15,
         23,
-        30,
-        40,
+        31,
+        41,
         43,
         24,
         26,
@@ -129839,8 +130700,8 @@
         19,
         12,
         16,
-        39,
-        32,
+        41,
+        33,
         15,
         14,
         17,
@@ -129848,13 +130709,13 @@
         8,
         14,
         14,
-        10,
+        11,
         10,
         9,
         10,
         6,
         23,
-        20,
+        21,
         7,
         6,
         14,
@@ -129870,7 +130731,10 @@
         12,
         16,
         7,
-        291,
+        14,
+        13,
+        10,
+        294,
         1
     ]
 }

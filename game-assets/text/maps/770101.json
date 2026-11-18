@@ -1,0 +1,29 @@
+[
+    {
+        "level": "Base_Kyln_0000_B01",
+        "lightIndex": 0,
+        "startpoint": 1,
+        "endpoint": -1,
+        "detail": [
+            {
+                "round": [
+                    {
+                        "point": 1,
+                        "mob": 1334770101,
+                        "group": 1,
+                        "boss": 3,
+                        "keymob": 1,
+                        "trigger": 1,
+                        "firstattack": 1,
+                        "sight": 30,
+                        "scale": 1.1,
+                        "boss_cam": "0,-0.1,0",
+                        "boss_cam_rot": "-10,0,0",
+                        "boss_appear": "skill05-02",
+                        "avoidancePriority": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

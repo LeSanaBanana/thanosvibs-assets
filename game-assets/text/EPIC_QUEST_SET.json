@@ -24,7 +24,8 @@
         11,
         12,
         13,
-        14
+        14,
+        15
     ],
     "values": [
         {
@@ -266,6 +267,22 @@
             "conditionHero": 1070,
             "heroAnimationKey": 1266176052,
             "chapterPopupBGKey": 731998899
+        },
+        {
+            "epicQuestGroup": 15,
+            "openType": 1,
+            "openValue1": 0,
+            "openValue2": 0,
+            "epicHeroId": 1029501,
+            "heroGetAfterDialog": 7652,
+            "heroGetAfterComic": 0,
+            "startDialog": 7651,
+            "startComic": 7650,
+            "goodsWaitTime": 86400,
+            "deluxeAbility": 11138,
+            "conditionHero": 1080,
+            "heroAnimationKey": 1266176052,
+            "chapterPopupBGKey": -339275822
         }
     ]
 }

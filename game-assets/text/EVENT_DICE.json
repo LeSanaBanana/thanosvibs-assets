@@ -32,7 +32,8 @@
         20,
         21,
         22,
-        23
+        23,
+        24
     ],
     "values": [
         {
@@ -310,6 +311,18 @@
             "VillainStartPosId": 9,
             "VillainEscapeMoveCount": 8,
             "GoodsId": 490020
+        },
+        {
+            "EventGroupId": 24,
+            "IconSpriteName": "diceEvent_icon",
+            "DiceId": 440,
+            "HeroGroupId": 10,
+            "VillainGroupId": 9,
+            "AchieveGroupId": 22034,
+            "BoardGroupId": 4,
+            "VillainStartPosId": 9,
+            "VillainEscapeMoveCount": 8,
+            "GoodsId": 490021
         }
     ]
 }

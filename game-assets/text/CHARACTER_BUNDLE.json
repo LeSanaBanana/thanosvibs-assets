@@ -136,6 +136,7 @@
         "hero_blackbolt01_s02",
         "hero_blackbolt01_s03",
         "hero_blackbolt01_s04",
+        "hero_blackbolt01_s05",
         "npc_blackbolt01",
         "npc_blackbolt02",
         "summon_blackbolt01",
@@ -879,6 +880,7 @@
         "hero_kamalakhan01_s05",
         "hero_karnak01",
         "hero_karnak01_s01",
+        "hero_karnak01_s02",
         "hero_katebishop01",
         "hero_katebishop01_s01",
         "hero_katebishop01_s02",
@@ -1673,6 +1675,7 @@
         "hero_sylvie01",
         "hero_kahhori01",
         "hero_havok01",
+        "boss_havok01",
         "hero_exodus01",
         "hero_hopesummers01",
         "hero_hopesummers01_epic",
@@ -1712,6 +1715,10 @@
         "sv_annihilus01",
         "sv_galactus01",
         "sv_agathaharkness01",
+        "hero_lilandra01",
+        "sv_deathbird01",
+        "boss_deathbird01",
+        "sv_vulcan01",
         "boss_silversamurai01",
         "summon_valeriarichards01",
         "hero_franklinrichards01_650602",
@@ -1801,7 +1808,8 @@
         "vil_fallenwarriersoul01",
         "vil_fallenwarriersoul02",
         "vil_fallenwarriersoul03",
-        "boss_annihilus01"
+        "boss_annihilus01",
+        "vil_deathbirdsimperialguard"
     ],
     "values": [
         "unit_abn_cocoon",
@@ -1922,6 +1930,7 @@
         "unit_betaraybill",
         "unit_bishop",
         "unit_bishop",
+        "unit_blackbolt",
         "unit_blackbolt",
         "unit_blackbolt",
         "unit_blackbolt",
@@ -2671,6 +2680,7 @@
         "unit_kamalakhan",
         "unit_kamalakhan",
         "unit_kamalakhan",
+        "unit_karnak",
         "unit_karnak",
         "unit_karnak",
         "unit_katebishop",
@@ -3467,6 +3477,7 @@
         "unit_sylvie",
         "unit_kahhori",
         "unit_havok",
+        "unit_havok",
         "unit_exodus",
         "unit_hopesummers",
         "unit_hopesummers",
@@ -3506,6 +3517,10 @@
         "unit_annihilus",
         "unit_galactus",
         "unit_agathaharkness",
+        "unit_lilandra",
+        "unit_deathbird",
+        "unit_deathbird",
+        "unit_vulcan",
         "unit_silversamurai",
         "unit_valeriarichards",
         "unit_franklinrichards",
@@ -3595,6 +3610,7 @@
         "unit_vikingwarrior",
         "unit_trollberserk",
         "unit_trollminion",
-        "unit_annihilus"
+        "unit_annihilus",
+        "unit_deathbirdsimperialguard"
     ]
 }

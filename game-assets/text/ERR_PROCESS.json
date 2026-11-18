@@ -460,7 +460,8 @@
         "LB_ERR_E1160003",
         "LB_ERR_E1160005",
         "LB_ERR_E1092701",
-        "LB_ERR_E1170017"
+        "LB_ERR_E1170017",
+        "LB_ERR_E1230017"
     ],
     "values": [
         {
@@ -3168,6 +3169,12 @@
             "processType": 1,
             "scene": 0,
             "updateType": 1
+        },
+        {
+            "errorKey": "LB_ERR_E1230017",
+            "processType": 0,
+            "scene": 0,
+            "updateType": 0
         }
     ]
 }
